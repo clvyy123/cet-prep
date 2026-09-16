@@ -1,0 +1,568 @@
+{
+  "id": "cet4-2022_12_1",
+  "level": 4,
+  "year": 2022,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2022年12月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:In this task,you are to write an essay on the role of physical exercise in achieving sucess at college.You will have 30 minutes for the task.You should write at least 120 words but no more than180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_1-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 5 to 7 are based on the news report you have just heard.",
+          "material": "Question 5. What do we learn from the news report about the Spanish island Palma Dora? Question 6. What do holiday makers come to Palma Dua to enjoy? Question 7. What do a state agents say about Palma Dore?",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What do we learn from the news report about the",
+              "stemCn": "",
+              "options": {
+                "A": "It is ownedby the local government.",
+                "B": "It has been turnedinto a public park."
+              },
+              "optionCn": {
+                "D": "【精析】细节推断题。新闻开头提到，一个欧洲家庭"
+              },
+              "answer": "D",
+              "analysis": "SpanishislandPalmador? 以1，800万欧元买下了一座名为帕尔马多的西班 牙岛屿。度假者常将该岛描述为人间天堂。由此 可推断，西班牙帕尔马多岛是完美的度假胜地，因 此答案为D)。"
+            },
+            {
+              "num": 6,
+              "stem": "What do holidaymakers come to Palm ad or to",
+              "stemCn": "",
+              "options": {
+                "A": "Its seafood.",
+                "B": "Its unusual coastline."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。新闻中提到，数十年来，游客"
+              },
+              "answer": "C",
+              "analysis": "enjoy? SectionB 一直涌向位于西班牙东南海岸的帕尔马多岛，他们 来这里享受未受污染的海滩和清澈的海水。因此， 答案为C)。"
+            },
+            {
+              "num": 7,
+              "stem": "What do estate agents say about Palm ad or?",
+              "stemCn": "",
+              "options": {
+                "A": "It has an unmatched location.",
+                "B": "It is worth over 18 million euros.",
+                "C": "It has beenbought by an American.",
+                "D": "It is a perfect tourist destination."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。新闻最后提到，据房地产经纪"
+              },
+              "answer": "A",
+              "analysis": "人介绍，帕尔马多岛的地理位置非常优越，几乎没 有类似面积的私人岛屿能与之媲美。因此，答案为 Questions 8 tollare basedon theconversationyou have just heard. M:Hi,Christie's GymCenter.How canIhelpyou? W：Hi,I'm calling to ask about the newly scheduled gym classes.I'm just wondering ifI can get a discount on them. M:(8-1)Are you already a member? W:(8-2)Yes,I signed up two months ago,but I haven't been to any of the group classes yet. M:Can I take your name please? W:Yes.Myname is CarolFriedman. M:CarolFriedman.That's right.Andyou signed up two months ago.（9)Currently we are offering existing members discounts off two of our brand new classes,hot yoga,and advanced spinning,but the discount doesn't apply to any of our regular classes I'm afraid. W:I'm only interested in the new classes.So how much of a discount is there on these two new classes? M:(10)The same discountof 20% is being offered to everyone at the dooron a\"first come,first served”basis for the first month.It's a shame you missed out on the general discount. W: I see. M:But you can get 25%off if you sign up in advance.Whichof the two classes are you thinking about? W:Well,I guess I am onlyreally interested in hot yoga. Can you sign me up for the10-week courseon Thursday evenings? M:Sure.(1l-1)Would you prefer to pay in advance? W：(11-2)No,I don't like giving my card details overthephone anyway. M:Okay,then.As you are already a member,the fee of the class will just be added to your monthly bill. W:That's perfect.Thanks foryourhelp. M:See you Thursday."
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2022_12_1-A.mp3",
+        "B": "/audio/papers/cet4-2022_12_1-B.mp3",
+        "C": "/audio/papers/cet4-2022_12_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Researchers, writing in the journal heart, pooled data from 23studies and found that social isolation or feelings of loneliness were tied to an increasedrisk of coronary heart disease（冠心病） and strokes. Thestudies included data from 181,006menand women ages 18 and over. There were 4,628 coronary events and 3,002 strokes in follow-up periods 26 from three to 21 years. Three of the papers 27 loneliness,18looked at social isolation and two included both. Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death _28 for ===== PAGE 4 ===== deter mining coronary events and strokes. The scientists found that loneliness and social isolation increased the 29riskofhaving a heart attackoradeathfromheartdiseaseby 29percent, and the risk of stroke by 32percent. There were no 30between men and women. \"People have tended to focus from a policy point of view on 31 lonely people to make them more 32,”said the lead author, NicoleK.Valtorta, are search fellow at theUniversityofYork in England. \"Our study 33that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" that this was a review of observational studies and did not 35 cause and The authors 34 effect.",
+          "wordBank": {
+            "A": "acknowledge",
+            "B": "certificates",
+            "C": "connected",
+            "D": "demonstrates",
+            "E": "differences",
+            "F": "establish",
+            "G": "formats",
+            "H": "measured",
+            "I": "narrow",
+            "J": "permanent",
+            "K": "produces",
+            "L": "ranging",
+            "M": "relative",
+            "N": "submitting",
+            "O": "targeting"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前有follow-upperiods，后面是"
+              },
+              "answer": "L",
+              "analysis": "fromthreeto21years，说明随访期是3-21年，因 此本空应填入动词-ing形式作periods的后置 定语。 【语义判断】空格所在句的意思是，在 3 年到21年的随访期间，有4，628例冠心病发作和 3,002例中风。因此本空应填入表达某个范围意 义的动词-ing形式，由此确定答案为L）ranging “在某范围内变化”。备选的其他动词均没有此含 义，因此排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】分析句子结构可知，空格前的Thre"
+              },
+              "answer": "H",
+              "analysis": "ofthepapers是本句主语，空格后的loneliness是 宾语，因此本空应填入动词作谓语。 【语义判断】空格所在句的意思是，其中3篇论文 孤独感，18篇论文研究了社交隔离和2 篇包含两者。可知，本句介绍的是有几篇论文研 究了孤独感，又因为本段动词用的是过去时态，因 此本空应填入含有“研究”意义的动词-ed形式，由 此答案为H）measured“衡量”。备选的其他动词 均没有此含义，因此排除。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】分析句子结构可知，空格及前面的"
+              },
+              "answer": "B",
+              "analysis": "medicalrecordsanddeath构成名词短语作句子的 宾语，因此空格应填入名词。 【语义判断】空格所在句的意思是，研究人员依靠 医疗记录和死亡 来确定冠心病发作和中 风。根据常识可知，人在死亡后会有相应的证明 和记录，因此本空应填入含有“证明、记录”意义的 名词，由此确定答案为B）certificates。备选的其 他名词均没有此含义，因此排除。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格前有定冠词the，后面是名词"
+              },
+              "answer": "M",
+              "analysis": "risk，因此本空应填入形容词。 【语义判断】空格所在句的意思是，科学家们发现， 孤独和社交隔离会使心脏病发作或死于心脏病的 风险增加29%，中风的风险增加32%。 此题无法直接根据句意判断所填词的意思，适合 用排除法。在备选形容词中，I）narrow“狭窄的” 和J）permanent“永久的”均不符合句意，由此确定 答案为M）relative“相对的”。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前是限定词no，而且Therewere"
+              },
+              "answer": "E",
+              "analysis": "是复数形式，因此本空应填入名词的复数。 【语义判断】空格所在句的意思是，男性和女性之 间没有 _。备选项中，只有E）differences “差异，不同”符合句意，因此答案为E)differences。 备选的其他名词复数形式均没有此含义，因此 排除。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "【语法判断】空格前有动词短语focus...on，后面是"
+              },
+              "answer": "O",
+              "analysis": "名词短语lonelypeople，因此本空应填入动词-ing 形式。 【语义判断】空格所在句的意思是，从政策的角度 来看，人们倾向于关注 孤独的人。由句意 可知，孤独的人是人们关注的对象，因此本空应填 入含有“关注、聚焦”意义的动词-ing形式，由此确 定答案为O)targeting。targeting与focus on意 义相近，因此翻译时做了简化处理，targeting没有 单独翻译出来。备选的其他动词-ing形式均没有 此含义，因此排除。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前有比较级more，因此本空应填"
+              },
+              "answer": "C",
+              "analysis": "人形容词。 【语义判断】空格所在句的意思是，从政策的角度 来看，人们倾向于关注孤独的人，让他们与他人更 加 。由句意可知，本空应填人与lonely “孤独的”意义相反的形容词，由此确定答案为 词均没有此含义，因此排除。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前的Our study是本句主语，后面"
+              },
+              "answer": "D",
+              "analysis": "that引导的从句作宾语，因此本空应填入动词作 谓语。 参考译文 【语义判断】空格所在句的意思是，我们的研究 ，如果这是一个风险因素，那么我们应该 首先努力预防风险因素。由句意可知，that从句是 研究的结果，因此本空应填入含有“说明，表明”意 义的动词以说明研究结果，由此确定答案为 主谓不一致，而其他备选动词均无此含义，因此 排除。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前的Theauthors是本句主语，后"
+              },
+              "answer": "A",
+              "analysis": "面that引导的从句作宾语，因此本空应填人动词 作谓语。 【语义判断】空格所在句的意思是，作者们 这是对观察性研究的回顾。由句意可知，that从句说 明的是作者们的观点，因此本空应填入能够表达观点 的动词，由此确定答案为A）acknowledge“承认”。 备选的其他动词中，D）demonstrates有类似含义， 但是属于第三人称单数形式，主谓不一致，而其他 备选动词均无此含义，因此排除。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格前有didnot，因此本空应填入动"
+              },
+              "answer": "F",
+              "analysis": "词原形。 【语义判断】空格所在句的意思是，作者们承认这 是对观察性研究的回顾，并没有 因果关 系。由句意可知，本研究只是梳理了其他研究，没 有阐述孤独与增加冠心病或中风的风险之间的因 果关系。备选项中，只有F）establish“建立；证实” 符合句意。备选的其他动词原形均没有此含义， 因此排除。 研究人员在《心脏》杂志上发表文章，汇总了23项研究的数据，发现社交隔离或孤独感与冠心病和中风 风险增加有关。 这项研究包括了181，006名18岁及以上的男性和女性的数据。在3年到21年的随访期间，有4，628 例冠心病发作和3，002例中风。其中3篇论文衡量了孤独感，18篇研究了社交隔离，还有2篇包含两者。社 交隔离和孤独是通过问卷调查确定的；研究人员依靠医疗记录和死亡证明来确定冠心病发作和中风。 科学家们发现，孤独和社交隔离会使心脏病发作或死于心脏病的相对风险增加29%，中风的风险增加 32%。男性和女性之间没有差异。 “从政策的角度来看，人们倾向于关注孤独的人，让他们与他人更加紧密地联系在一起。”该研究的主要 作者英国约克大学研究员妮可·K.瓦尔托塔说道。“我们的研究表明，如果这是一个风险因素，那么我们应 该首先努力预防风险因素。” 作者们承认这是对观察性研究的回顾，并没有建立因果关系。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) This fall, thousands ofcollegestudentsfrom across the country willbegintheirundergraduate studiesat\nB) At my well-respected, private, four-year university in Washington, D.C.,whichboasts a yearly tuition\nC) Universities today are in the business of making money, and mine is no exception. They hit me right\nD) Schools will charge you whatever they can. The costs of any damage to the dorm, including elevators,\nE) An internet search of“hiddencosts”of college turns up a host of article son parent-centered websites\nF) So whathiddencosts should low-incomestudents really be paying attention to?My college experience\nG) If you are a low-income student who will be attending school out-of-state, make sure you know if you\nH) If you plan on paying offbills in your student account with a credit card, be aware of any additional\nI) There is another depressing realityhidden withineventhelargestfinancialaidpackages: Colleges\nJ) Yes, I chose to attend an expensive university far from my hometown. Yes, there were cheapr\nK) The key is to make sure that students andtheirfamilies understandthathiddencosts exist, and that\nL) Students andfamilies must also understand their ability to self-advocate. They should not pay student\nM) In the grand scheme of things, however, colleges also must come to understand that the hidden fees\nA) They get the whole family to eat at a table.\nB) Theyeattheirmealsregularly andpunctually.\nC) They consume plenty of cereal for breakfast.\nD) They attach great importance to theirmeals.\nA) Emotionalintelligencehelpspeoplegetalongwithothers.\nB) Emotionalintelligenceis generallybeneficialtoitsbearer.\nC) People who are aware of others'feelings may experience more stress.\nD) People who are emotionally stressedmay have troublemaking friends.\nA) To define differenttypes ofhumanfeelings.\nB) To assess the impacts of being emotionally clever.\nC) To demonstrate how to distinguish differentfeelings.\nD) To identify gender differences in emotional intelligence.\nA) Greater emotional cleverness means less trouble in one's life.\nB) Emotional intelligence helps people succeed in job interviews.\nC) People's psychological well being is related to various factors.\nD) People may suffer from having a high emotional intelligence.\nA) People suffering from depression are emotionally immature.\nB) People who look at the dark side of life often feel depressed.\nC) Some people may take advantage of it and benefit themselves.\nD) Some people may lack it andareeasilymanipulatedby others.\nA) Avoid burdening themselves wit hot hers'feelings.\nB) Rid themselves of worries over worldly affairs.\nC) Learn to cope with people's negative feelings.\nD) Help people to deal withtheirtroubles in life.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Students'financial aid remains unchanged even whentuitionrises.",
+              "stemCn": "【定位】由题干中的financialaid、remains unchanged",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】同义转述题。定位句提到，我们并不知道"
+              },
+              "answer": "I",
+              "analysis": "和tuitionrises定位到I段第四句。 要去询问——学校也没有打算指出——即使学费 上涨，我的补助计划依旧保持原样。第五句接着 用事实证明，来年学费增长了3%，但经济补助还 是和原来的一样。题干中的financialaid和 tuitionrises在定位句中直接出现，题干中的 remains unchanged对应定位句中的stay thesame 和第五句中的remained the same，故答案为I。"
+            },
+            {
+              "num": 37,
+              "stem": "Students may not be able to enjoy their statebenefits when they go to college out oft he state.",
+              "stemCn": "【定位】由题干中的statebenefits和go tocollege",
+              "options": {},
+              "optionCn": {
+                "G": "段第二、三句。"
+              },
+              "answer": "G",
+              "analysis": "州外的学校录取以后，我才知道除了急救护理，我 不能在校园里使用我在俄亥俄州的医疗补助。我 的福利在我离开俄亥俄州的那一刻就失效了。题 干是对定位句的概括总结，故答案为G）。"
+            },
+            {
+              "num": 38,
+              "stem": "The financial aid the authorreceives is supposed to cover all her college expenses.",
+              "stemCn": "【定位】由题干中的Thefinancialaidtheauthor",
+              "options": {},
+              "optionCn": {
+                "B": "段第三、四句。"
+              },
+              "answer": "B",
+              "analysis": "receives和coverallhercollege expenses定位到 我的支出和财政补助基本持平。实际而言，并非 如此。题干中的cover是对定位句中evenout的 同义转述。题干中的is supposedto意为“应该 是”，用于表示某事本应发生而没有发生，这与定 位句中的Onpaper和Offpaper表达含义一致， 故答案为B）。"
+            },
+            {
+              "num": 39,
+              "stem": "When the person who damages dorm facilities is not identified, students are required to share the cost.",
+              "stemCn": "【定位】由题干中的damages dormfacilities、not",
+              "options": {},
+              "optionCn": {
+                "D": "段第二句。"
+              },
+              "answer": "D",
+              "analysis": "identified 和students are required to sharethe 坏，包括电梯、浴室和公共区域，都会向该楼层的 所有学生征收费用，如果他们不知道是谁导致的 损坏，甚至会向整栋楼收费。题干中的damages dorm facilities对应定位句中的anydamagetothe dorm，题干中的notidentified对应定位句中的do not know，题干中的students are required to share the cost对应定位句中的billed to every person，故 答案为D）。"
+            },
+            {
+              "num": 40,
+              "stem": "Though it is difficultandembarrassing, students should make inquiries about whatfees they have to",
+              "stemCn": "【定位】由题干中的difficultandembarrassing和",
+              "options": {},
+              "optionCn": {
+                "L": "段。"
+              },
+              "answer": "L",
+              "analysis": "有些事情看起来不对劲，那就要询问。如果还是 不妥，那就协商一下。接着表示，如果父母身兼数 职，不太了解大学里的官僚制度，英语水平有限， 或是没有为孩子的教育提供经济支持，那么自我 辩护的重担就落在了学生身上。但这是必要的。 定位段中提及的“自我辩护”即对所收费用是否合 理进行询问或协商，题干是对定位段的总结概括， 故答案为L）。"
+            },
+            {
+              "num": 41,
+              "stem": "Today, many Americans have to go to college on studentloans.",
+              "stemCn": "【定位】由题干中的onstudentloans定位到A）段",
+              "options": {},
+              "optionCn": {
+                "A": "【精析】细节推断题。定位句指出，除了由他们自"
+              },
+              "answer": "A",
+              "analysis": "第三句。 己的银行账户和他们家人的银行账户支付的无数 “隐性”自付费用外，他们还将背负巨额的学生贷 款债务。题干中的studentloans对应定位句中的 studentloandebt，故答案为A)。"
+            },
+            {
+              "num": 42,
+              "stem": "Receiving education in a private university in the nation's capital may change the author's future life",
+              "stemCn": "【定位】由题干中的change the author's futurelife",
+              "options": {},
+              "optionCn": {
+                "J": "段最后一句。"
+              },
+              "answer": "J",
+              "analysis": "穷困潦倒的铁锈地带社区的低收入学生，这些教 育经历有巨大的潜力照亮我的未来——以及我家 庭的未来。题干中的changetheauthor'sfuture lifeandthat ofherfamily's是对定位句中 brightenmy future-andmy family's future的同 义转述，故答案为J）。"
+            },
+            {
+              "num": 43,
+              "stem": "Studentsmay no longer be qualified for financial aid if they perform poorly in school or if their family",
+              "stemCn": "【定位】由题干中的nolonger bequalifiedfor",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】同义转述题。定位句指出，除非成绩很差"
+              },
+              "answer": "",
+              "analysis": "financialaid、perform poorly in school和family income has increased定位到I段第三句。 或家庭收入增加，否则不会取消补助。题干中的 performpoorly in school对应定位句中的low grades，题干中的family income has increased对 应定位句中的araiseinfamilyincome，故答 案为I。 参考译文"
+            },
+            {
+              "num": 44,
+              "stem": "In addition to tuition, college students have to pay extra feesfor the courses they take.",
+              "stemCn": "【定位】由题干中的Inaddition totuition和pay",
+              "options": {},
+              "optionCn": {
+                "C": "【精析】细节推断题。定位句指出，几乎每门课都"
+              },
+              "answer": "C",
+              "analysis": "extra fees for thecourses theytake定位到c）段 第三句。 有一笔不包含在学费里的相关费用，大多数在40 美元到100美元之间。题干中的Inadditionto tuition对应定位句中的notincludedinthecostof tuition，题干中的pay extrafeesfor thecourses they take对应定位句中的Almosteveryclasshas an associatedfee，故答案为C)。"
+            },
+            {
+              "num": 45,
+              "stem": "Some schools charge students a fee to their student accounts for using credit cards to paybills.",
+              "stemCn": "【定位】由题干中的chargestudents a fee和using",
+              "options": {},
+              "optionCn": {
+                "H": "段第二句。"
+              },
+              "answer": "H",
+              "analysis": "用信用卡结算未支付费用额外收费，这可能会在 你的账单上增加3%以上的费用。题干中的 charge students a fee对应定位句中的chargesan additional fee，题干中的using credit cards to pay bills对应定位句中的theuseofacreditcardto settleoutstanding charges，故答案为H)。 大学不想让你知道的隐性成本 今年秋天，来自全国各地的数千名大学生将在全国各地的大学开始他们的本科学习。他们将不可避免 地打包很多东西放进狭小的宿舍里。（41）除了由他们自己的银行账户和他们家人的银行账户支付的 无数“隐性”自付费用外，他们还将背负巨额的学生贷款债务。 我就读于华盛顿特区一所备受尊敬的四年制私立大学，每年学费高达44，046美元且不包括食宿，而我 每年获得超过57，000美元的财政补助。作为一名来自艰难维持生计家庭的学生，我的财政补助计划包 括联邦助学金和联邦勤工俭学、大学奖学金和财政补助金，以及每年大约8，000美元的联邦补贴和无补 贴贷款。（38）从理论上来看，我的支出和财政补助基本持平。实际而言，并非如此。 如今的大学都在忙于赚钱，我所在的大学也不例外。他们用160美元的费用将我阻挡在了新生训练营 的门外，而这笔费用并不包括往返的路费。（44）几乎每门课都有一笔不包含在学费里的相关费用，大多 数在40美元到100美元之间。实验室科学课程的费用最高，而我们学校要求所有学生在毕业之前至少 学习一门实验室课程。事实证明，买一台笔记本电脑是必要的，幸运的是，一个亲戚给我买了一台作为 礼物。在宿舍租一台迷你冰箱花了我和我室友每年大约140美元。 学生征收费用，如果他们不知道是谁导致的损坏，甚至会向整栋楼收费。在我大一期间从床上跌落两 次之后，学校为我安装了一个护栏——花费20美元，记在我的学生账户上。我的财政补助并没有此类 费用的预算，因此也不会为此付费。 在网上搜索大学里的“隐性成本”，会在以家长为中心的网站上找到大量关于大学申请过程的文章。这 些文章几乎都是面向中上层家庭的。对于那些已经很难支付学费的学生而言，这些费用也许是他们众 多忧愁中最轻的那个。 那么，低收入家庭的学生真正应该注意哪些隐性成本呢？我的大学经历能够提供一些例子。 如果你是一名将要跨州上大学的低收入家庭的学生，请确保你清楚自己是否能够使用你们州的福利， 如补充营养援助计划，简称SNAP。（37）直到我被一所州外的学校录取以后，我才知道除了急救护理，我 不能在校园里使用我在俄亥俄州的医疗补助。我的福利在我离开俄亥俄州的那一刻就失效了。大一之 后，我不得不选择学校的保险计划，每年的费用大约是2，000美元。即使你的学校为学生健康中心的医生 预约提供固定收费（我的费用是每次20美元），这笔费用通常不包括实验室测试或处方药的额外费用。 如果你打算用信用卡支付学生账户中的账单，要注意任何额外的费用。（45）我的学校对使用信用卡结 算未支付费用额外收费，这可能会在你的账单上增加3%以上的费用。 即使是最大的财政补助计划中也隐藏着另一个令人沮丧的现实：大学为了吸引新生，往往在大一那年 提供最慷慨的补助。我的家人曾经非常谨慎地询问这些财政补贴是否会在大一之后取消。（43）他们 向我们保证，除非成绩很差或家庭收入增加，否则不会取消补助。（36）我们并不知道要去询问—学 校也没有打算指出——即使学费上涨，我的补助计划依旧保持原样。因此当我的大学在大一期末投票 决定将学费提高3%时，我的经济补助计划保持不变，而我却突然要为下一年多付1，200美元。在我毕 业之前，学校管理层可能会投票决定至少再涨一次学费。 是的，我选择读一所远离家乡的昂贵的大学。是的，还有很多更便宜的选择。但是全国各地都有来自 困难家庭的有前途的学生，他们不应该完全排除他们梦想中的学校。总的来说，我所支付的费用远远 低于我的大学学费，并且在华盛顿特区获得了我在其他任何地方都无法获得的教育经历。（42）作为一 名来自穷困潦倒的铁锈地带社区的低收入学生，这些教育经历有巨大的潜力照亮我的未来——以及我 家庭的未来。 关键在于确保学生以及他们的家庭知道隐性成本的存在，而且它们可能会被证明是有问题的。填写一 份更全面的清单，并且要小心那些看似很低的收费。同时要知道经济补助的流程有多复杂。 学生以及他们的家庭也必须清楚他们进行自我辩护的能力。他们不应该盲目地支付学生账单或超额 费用。（40）如果有些事情看起来不对劲，那就要询问。如果还是不妥，那就协商一下。如果父母身兼 数职，不太了解大学里的官僚制度，英语水平有限，或是没有为孩子的教育提供经济支持，那么自我辩 护的重担就落在了学生身上。我理解其中的困难和尴尬。但这是必要的。 然而，从长远来看，大学也必须明白，对于它们拼命吸引的这种低收人或第一代学生来说，它们所收取 的隐性费用可能被证明是难以应付的。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Tow rite his 2010book, The 5-Factor world diet, nutritionistHarleyPasternak traveledtothe healthiest countries around the world to learn more about whatmade theirmeals extra nourishing. He noted that japanese people ate a wonderful variety of seaweeds, and that chinese peopletriedto include at least five different colors in every meal. Pasternak also came away with some valuable observations about how different the North American way of life was, compared with many other countries. For starters, Americans eatmuchbigger portions than people in othercountries.\"We don't prioritize eating season ally or locally, and we also addlots of salt, sugar and thickening agents to our foods, explainedPasternak. Contrast that to the healthy Mediterranean, Nordic and ok in a wan diets listedin Pasternak'sbook. They all seem to stick to theethos（特质） of regional, seasonal produce. For example, a traditionalMediterranean dietincludesfruits, vegetables, whole grains, nuts and olive oil as the main components of nutritional intake. Fish, chicken and red wine make moderate appearances, while red meat, salt and sugar are used much less often. The benefits of a traditional Mediterranean diet have been studiedsince the 197Os, andresearchers have found that living that olive oil life can help people lose weight, lowertheirheartdiseaseriskandreverse diabetes. Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing downhandfuls of cereal ===== PAGE 7 ===== above the kitchen sink and calling it dinner. Each oft he healthy eating cultures has its own unique feature. ButPasternak did take note of one unifying factor in all oft he healthy societies heobserved.\"Theonlyoverlapping feature in most of these healthycountries is that they all walk way more than the average American,\"saidPasternak.\"Sore ally, regardless of what you're eating, if someone's walking fourmiles more than you each day, they're going to be a lot thinnerand live a lot longer than you.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What characterizes Japanese and Chinese foods?",
+              "stemCn": "【定位】由题干中的JapaneseandChinese foods定",
+              "options": {
+                "A": "Variety.",
+                "B": "Flavor."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，他注意到日本"
+              },
+              "answer": "A",
+              "analysis": "位到第二段第一句。 人吃很多种类的海藻，而中国人则会在每餐中纳人 至少5种颜色的食物。由此可见，不管是日本人还 是中国人，在饮食上的特点都是种类丰富，故答案 为A)。 【避错】根据定位句可知，日本人酷爱食用海藻，可 以理解为“天然性”，而中国人则注重食物的颜色丰 富，C）和D）只体现了其中一个国家的特点，故排 除，而B）项中提及的“口味”在文中并无体现，故 排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What is typicalofAmericans in the way of eating?",
+              "stemCn": "【定位】由题干中的Americans in the wayof",
+              "options": {
+                "A": "They emphasize nutrition.",
+                "B": "They tend to eat quite a lot.",
+                "C": "Color.",
+                "D": "Naturalness."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句提到，美国人比其他"
+              },
+              "answer": "B",
+              "analysis": "eating定位到第三段第一句。 国家的人饭量更大，也就是说，他们吃的更多一些， 故答案为B）。 【避错】文章第三段第二句提到，美国人并不会优 先吃季节性食物或是本地食物，另外还会加人很多 盐、糖和增稠剂到食物中。可见其并非注重营养， 故排除A）。而C）中提及的“便利性”和D）中提及 的“口味”在定位段中均无体现，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What features in Mediterranean, Nordic and ok in a wan diets?",
+              "stemCn": "【定位】由题干中的Mediterranean，Nordicand",
+              "options": {
+                "A": "Fruits andvegetables.",
+                "B": "Olive oil and red wine.",
+                "C": "Seasonal local produce.",
+                "D": "Unprocessed ingredients."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，他将此和健康"
+              },
+              "answer": "C",
+              "analysis": "Okinawandiets定位到第三段最后两句。 的地中海饮食、北欧饮食和冲绳饮食进行了对比。 这些地方的饮食看似都坚持了地方性和季节性农 产品的特质，故答案为C）。 【避错】文章第四段前两句提到，传统的地中海饮 食把水果、蔬菜、全麦、坚果、橄榄油作为营养摄入 的主要部分。鱼肉、鸡肉和红酒会适度出现，而红 肉、盐和糖则更少被使用。A）、B）和D）三项仅涉 及地中海饮食，内容片面，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What do people inmosthealthyeatingcultures have in common?",
+              "stemCn": "【定位】由题干中的mosthealthyeatingcultures",
+              "options": {
+                "A": "They get the whole family to eat at a table.",
+                "B": "Theyeattheirmealsregularly andpunctually.",
+                "C": "They consume plenty of cereal for breakfast.",
+                "D": "They attach great importance to theirmeals."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。第五段提到，很多其他的健"
+              },
+              "answer": "D",
+              "analysis": "定位到第五段。 参考译文 康饮食文化也会把吃饭视为一件大事。比如，在家 庭餐桌上吃上几道菜，或者在一顿漫长的午餐中喝 一两杯红酒，而不是匆忙地在厨房水槽旁狼吞虎咽 地吃下几把麦片，然后称之为晚餐。也就是很重视 每一餐的质量，故答案为D）。 【避错】A）、B）、C）三项均与文章的个别词汇有相 关之处，但并不是概括性的共同特点，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "Compared with the average American, people in healthy societies",
+              "stemCn": "【定位】由题干中的people inhealthy societies定",
+              "options": {
+                "A": "walk at least 4miles a day",
+                "B": "do considerably more walking"
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句指出，帕斯捷尔纳克"
+              },
+              "answer": "B",
+              "analysis": "位到最后一段第二、三句。 确实注意到，在他观察的所有健康社会中，有一个 统一的因素。“在这些健康国家中，唯一的共同点 是他们走路的时间都比一般美国人走路时间多。 故答案为B）。 【避错】A）是根据最后一段的末句中“如果有人每 天比你多走4英里的路”设置的干扰项，因为是假 设数据，所以排除A）。C）和D）在文中并未提及， 故排除。 为了撰写2010年出版的名为《世界饮食五要素》一书，营养学家哈利·帕斯捷尔纳克走访了世界上最 健康的几个国家，深入了解是什么让他们的饮食更富含营养。 （46）他注意到日本人吃很多种类的海藻，而中国人则会在每餐中纳人至少5种颜色的食物。帕斯捷尔 纳克还对北美的生活方式与许多其他国家的生活方式有何不同进行了一些有价值的观察。 （47）首先，美国人比其他国家的人饭量更大。帕斯捷尔纳克解释道：“我们并不会优先吃季节性食物或 是本地食物，另外我们还会加入很多盐、糖和增稠剂到我们的食物中。”（48）在帕斯捷尔纳克的书中，他将此 和健康的地中海饮食、北欧饮食和冲绳饮食进行了对比。这些地方的饮食看似都坚持了地方性和季节性农 产品的特质。 比如，一个传统的地中海饮食把水果、蔬菜、全麦、坚果、橄榄油作为营养摄入的主要部分。鱼肉、鸡肉 和红酒会适度出现，而红肉、盐和糖则更少被使用。传统的地中海饮食的好处从20世纪70年代就开始被研 究，研究者们发现常年食用橄榄油可以帮助人们减重，降低他们患心脏病的风险，并治疗糖尿病。 （49）很多其他的健康饮食文化也会把吃饭视为一件大事。比如，在家庭餐桌上吃上几道菜，或者在一 顿漫长的午餐中喝一两杯红酒，而不是匆忙地在厨房水槽旁狼吞虎咽地吃下几把麦片，然后称之为晚餐。 每种健康饮食文化都会有其独特之处。（50）但是帕斯捷尔纳克确实注意到，在他观察到的所有健康社 会中，有一个统一的因素。“在这些健康国家中，唯一的共同点是他们走路的时间都比一般美国人走路时间 多。”帕斯捷尔纳克说，“因此，不管你吃什么，如果有人每天比你多走4英里的路，他们就会比你瘦得多，活 得长得多。 Passage Two 【结构框图】 第1段指出，新研究表明，对他人的感受过于敏感有时候也会让人平添一些额 外的压力。 本文通过实验说明情 商高也会给人带来一 第2一4段介绍了实验内容及其结论：情商更高的人更容易被压抑和无望的感觉影响。 定的压力，并提出了 相应的解决对策。 第5段指出了未来的研究方向并给出建议：情商高的人不必对他人的感受负责。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "C) pay more attention to body shape D) consume a lot more organic food Recognizing when a friendorcolleaguefeels sad, angry or surprised is key to getting along with others. But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. This and other research challenge the prevailing view that emotional intelligence is uniformly beneficial to itsbearer. In a study, psychologistMyriamBechtoldtoftheFrankfurtSchoolofFinanceandManagementin Germany asked 166 male university students a seriesofquestions to measure their emotional intelligence. For example, they showedthe students photographs of people's faces and askedthem to what extent feelings such as happiness or disgust were being expressed. The students then had to give jobtalks in front of judges who displayed serious facial expressions. The scientists measured concentrations of stress hormones inthestudents'saliva（唾液） before and after the talk. In students who were rated more emotionally intelligent, the stress measures increased more during the experiment and to ok longer to go back to base line. The findings suggest that some people may be too emotionally clever fort heir own good, says Bechtoldt.\"Sometimes you can be so good at something that it causes trouble,\" she notes. Indeed, thestudyadds topreviousresearchhinting at a dark side of emotional intelligence.A study publishedin 2002inPersonalityandIndividualDifferences suggestedthatemotionallyperceptivepeople might be particularly influencedbyfeelings of depression and hopelessness. Furthermore, severalstudies have impliedthatemotionalintelligencecanbe used to maninulateothersforpersonal gains. ===== PAGE 8 ===== More research is neededto see how exactly the relation between emotional intelligence and stress would play out in womenand in people of different ages andeducationlevels. Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions-bothothers' and your own, says Bechtoldt. For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says,\"you are not responsible for how other people feel.\"",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What is the finding oft he new study?",
+              "stemCn": "【定位】由题干中的thefindingofthenewstudy",
+              "options": {
+                "A": "Emotionalintelligencehelpspeoplegetalongwithothers.",
+                "B": "Emotionalintelligenceis generallybeneficialtoitsbearer.",
+                "C": "People who are aware of others'feelings may experience more stress.",
+                "D": "People who are emotionally stressedmay have troublemaking friends."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，一项新研究表"
+              },
+              "answer": "C",
+              "analysis": "定位到第一段第二句。 明，对他人的感受过于敏感有时候也会让人平添 一些额外的压力。故答案为C）。 【避错】虽然第一段首句提到，能够意识到朋友、同 事何时会感到忧伤、生气或惊讶是与人相处的关 键，但这并非是新研究的发现，故排除A）。第一段 最后一句提到，这项研究以及其他的研究挑战了 目前盛行的观点，即情商对其拥有者而言是完全 有益的，因此B）是之前研究的结论，故排除。D） 在文中并未提及，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What was the purpose of psychologist MyriamBechtoldt's experiment?",
+              "stemCn": "【定位】由题干中的purpose和psychologist",
+              "options": {
+                "A": "To define differenttypes ofhumanfeelings.",
+                "B": "To assess the impacts of being emotionally clever.",
+                "C": "To demonstrate how to distinguish differentfeelings.",
+                "D": "To identify gender differences in emotional intelligence."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句提到，心理学家米利"
+              },
+              "answer": "B",
+              "analysis": "MyriamBechtoldt'sexperiment定位到第二段第 一句。 亚姆·贝赫托尔特在一项研究中询问了166名男 学生一系列问题，来衡量他们的情商。第二段也提 到，科学家们在演讲前后分别测量了这些学生唾 液中压力激素的浓度。综合以上信息可以推断，实 验的目的是评估情商的影响，故答案为B）。 【避错】A）和C）在文中均未提及，故排除。虽然在 文中最后一段第一句提到，我们需要更多的研究 来了解情商和压力之间的确切关系在女性以及不 同年龄和教育水平的人身上是如何发挥作用的，但 这不是心理学家米利亚姆实验的内容，故排除D)。"
+            },
+            {
+              "num": 53,
+              "stem": "What does the finding ofMyriamBechtoldt's study indicate?",
+              "stemCn": "【定位】由题干中的thefindingofMyriam",
+              "options": {
+                "A": "Greater emotional cleverness means less trouble in one's life.",
+                "B": "Emotional intelligence helps people succeed in job interviews.",
+                "C": "People's psychological well being is related to various factors.",
+                "D": "People may suffer from having a high emotional intelligence."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，贝赫托尔特认"
+              },
+              "answer": "D",
+              "analysis": "参考译文 Bechtoldt'sstudy定位到第三段第二、三句。 为，这些发现表明有些人可能在情感上过于聪明， 而这对自己没有什么好处；有时候你可能在某些 方面太擅长以至于也会带来麻烦。故答案为D）。 【避错】A）和C）在文中均未提及，故排除。第二段 提到了让学生们在面部表情凝重的评委面前进行 求职演讲，但这只是实验的过程并不是结论，故排 除B）。"
+            },
+            {
+              "num": 54,
+              "stem": "What do we learn about emotional intelligence from a number of studies?",
+              "stemCn": "【定位】由题干中的anumberof studies定位到第",
+              "options": {
+                "A": "People suffering from depression are emotionally immature.",
+                "B": "People who look at the dark side of life often feel depressed.",
+                "C": "Some people may take advantage of it and benefit themselves.",
+                "D": "Some people may lack it andareeasilymanipulatedby others."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，一些研究也指"
+              },
+              "answer": "C",
+              "analysis": "四段最后一句。 出，情商可以用来操纵他人以获得个人利益，故答 案为C）。 【避错】由定位句可知，有情商的人可以操控别人， 但并不意味着缺少它的人就容易被别人操控，故 排除D）。A）和B）在文中并未提及，故排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author suggest sensitive individuals do?",
+              "stemCn": "【定位】由题干中的theauthor和sensitive",
+              "options": {
+                "A": "Avoid burdening themselves wit hot hers'feelings.",
+                "B": "Rid themselves of worries over worldly affairs.",
+                "C": "Learn to cope with people's negative feelings.",
+                "D": "Help people to deal withtheirtroubles in life."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。由定位句可知，一些敏感的"
+              },
+              "answer": "A",
+              "analysis": "individuals定位到最后一段最后两句。 人也许会为他人的悲伤或气愤承担责任，最终让 自己压力重重。作者用贝赫托尔特的话对敏感的 人提出了建议，即不必对他人的感受负责，故答案 为A）。 【避错】最后一段中虽然提及要学会恰当地处理他 人和自己的情绪，但文章并未指明是负面情绪，故 排除C）。B）和D）在文中均未提及，故排除。 能够意识到朋友、同事何时会感到忧伤、生气或惊讶是与人相处的关键。（51）但是一项新研究表明，对 他人的感受过于敏感有时候也会让人平添一些额外的压力。这项研究以及其他的研究挑战了目前盛行的 观点，即情商对其拥有者而言是完全有益的。 （52）德国的法兰克福金融管理学院的心理学家米利亚姆·贝赫托尔特在一项研究中询问了166名男 学生一系列问题，来衡量他们的情商。比如，他们向学生们展示了人们的脸部照片并询问学生他们在多大 程度上表达了快乐或厌恶等情绪。接着学生们必须在面部表情凝重的评委面前进行求职演讲。科学家们 在演讲前后分别测量了这些学生唾液中压力激素的浓度。 对于那些情商更高的学生，在实验中其压力指标上涨更多，且需要更长的时间才能恢复到基准水平。 （53）贝赫托尔特认为，这些发现表明有些人可能在情感上过于聪明，而这对自己没有什么好处。“有时候你 可能在某些方面太擅长以至于会带来麻烦。”她说。 事实上，这项研究补充了之前的研究结论，暗示了情商的黑暗面。2002年发表在《个性与个体差异》上 的一项研究表明，情绪敏感的人可能特别容易受到抑郁和绝望情绪的影响。（54）另外，一些研究也指出，情 商可以用来操纵他人以获得个人利益。 我们需要更多的研究来了解情商和压力之间的确切关系在女性以及不同年龄和教育水平的人身上是 如何发挥作用的。然而，贝赫托尔特说，情商是一项非常有用的技能，只要你能学会如何恰当地处理情 绪——不仅是他人的情绪，也有你自己的情绪。比如，（55）一些敏感的人也许会为他人的悲伤或气愤承担责 任，最终让自己压力重重。记住，正如贝赫托尔特所说：“你不必为别人的感受负责。” Part Translation Start of Autumn means the endof summer andthe beginning of autumn in the Chinese lunar calendar. The first thingthat comes withStartofAutumn is the change of weather-the gradual drop of temperature. People know that autumn has arrived when they see the leaves begin to turn yellow and fall, which is calledAfallingleafheralds autumn\".But at this time, the hot weather is not completely over,and the high temperature usuallylasts for a period of time, which is known as \"afterheat\".Startof Autumn is of great significance to farmers,during which a variety of autumn crops grow rapidly and begin to mature,and the harvest season is approaching. decrease减少 be known for.…因……而出名 various各种各样的 attach t..与……联系.一起 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "在中国农历中，立秋（StartofAutumn）意味着夏天的结束和秋天的开始。立秋带来的首先是天气的变 化，气温逐渐下降。人们看到树叶开始变黄飘落时，知道秋天已经来临，这就是所谓的“一叶知秋”。但此 时酷热的天气并未完全结束，高温通常还会持续一段时间，被称为“秋老虎”。立秋对农民意义重大，这时 各种秋季作物迅速生长、开始成熟，收获的季节即将到来。",
+          "terms": [],
+          "reference": "In the Chinese lunar calendar, Lìqiū (Start of Autumn) signifies the end of summer and the beginning of autumn. The arrival of Lìqiū first brings about changes in the weather, with temperatures gradually decreasing. When people see leaves beginning to turn yellow and fall, they know autumn has arrived; this is known as \"one leaf heralds autumn\" (一叶知秋). However, the intense heat has not completely subsided yet; high temperatures typically persist for a period, a phenomenon referred to as the \"Autumn Tiger\" (秋老虎). Lìqiū is of great importance to farmers. It is during this time that various autumn crops grow rapidly and start to mature, signifying the approaching harvest season.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

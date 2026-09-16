@@ -1,0 +1,54 @@
+{
+  "id": "cet4-2022_09_2-3",
+  "level": 4,
+  "year": 2022,
+  "month": 9,
+  "setNo": "第2-3套",
+  "title": "2022年9月四级真题（第2-3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_09_2-3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Suppose your class has just finished celebrating the Teachers'Day. You are now to write a report to the university newspaper on the celebration activities organized by your class. You will have 30 minutes to write the report. You should write at least 120 words but no more than 180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_09_2-3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "按照中国民间的传统习俗，春节期间长辈通常会给孩子发红包，俗称发压岁钱（lucky money)，以表达对孩子的祝福，祝他们好运。如今，红包不仅是给孩子的礼物，而且经常也 是给长辈或亲朋好友的礼物。近年来，随着微信用户数量的增加，微信红包变得愈加流行。 欢度春节时，人们经常互发微信红包表达问候。这无疑是一种与远方亲友联系的便捷方式。 注：2022年9月四级考试共考了1套听力、1套阅读、3篇写作与3篇翻译。 ===== PAGE 2 ===== 2022年9月大学英语四级考试真题（第3套） PartI Writing (30 minutes) experiences with the students. As the organizer of the activity,you are now to write an invitation letterto theinvitedspeakersonbehalf ofyourclass.You willhave30minutesto write theletter.You should write atleast120 wordsbutnomorethan180words. PartIV Translation (30 minutes) English.You shouldwrite youransweron AnswerSheet2. 戏曲是一种中国传统的艺术形式，可以追溯到唐朝。中国戏曲吸引观众的一大特色是其 独具风格的脸谱（facialpainting)。脸谱代表不同角色的性格和命运。观众通过观察脸谱能够 更好地理解这些角色的故事。欣赏戏曲是中国人特别是老年人的一大乐趣。为了吸引更多的 年轻观众，传统戏曲正在不断地发展和创新。如今，越来越多的外国观众也喜欢中国戏曲。 注：2022年9月四级考试共考了1套听力、1套阅读、3篇写作与3篇翻译。",
+          "terms": [],
+          "reference": "In the light of chinese folk traditional customs, theelders usually give red packets to children during the Spring Festival, which is commonlyknown as giving lucky money, to express their wishes for children and wish them good luck. Nowadays, red packet is not only a giftforchildren, but often a present for elders, relatives and friends as well. In recent years, with the increase of We chat users, We chat red packets have become more and more popular. Whencelebrating the spring Festival, people often express greetings through sending We chat red packets to each other, which is undoubtedly a convenient way to get in touch with distantrelatives and friends.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

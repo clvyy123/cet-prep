@@ -1,0 +1,362 @@
+{
+  "id": "cet6-2022_12_2",
+  "level": 6,
+  "year": 2022,
+  "month": 12,
+  "setNo": "第2套",
+  "title": "2022年12月六级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthis part,youareallowed 30minutesto writean essay that begins with the sentence\"In an eraofinformationexplosion,itisvitallyimportanttodeveloptheabilitytothinkcritically and makerationalchoices.”You can make statements,give reasons,orcite examplesto develop youressay.You should write at least150 words but no more than 200 words. PartII (30 minutes)",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Whatdowelosewhennaturalspacesandspeciesdisappear?Increasingly, researchhasshownthatas\nD) Thisisntthefictionoflivinginacold, empty dy stop i a(绝望的世界).Sadly, it’sbecomingawayof\nE) The results were published earlier this year in the journal Biological Conservation. Lead researcher\nF) Although the children's reactions were somewhat expected, the new study did contain an unexpected\nG) And that's possibly the greater threat posed by extinction of experience. Soga suggests the\nH) What's to be done about this? The paper makes several recommendations, the most obvious of which\nI) Helping parents to see species around them in a new light would make a difference, too. And, of\nJ) Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward\nK) The participants reported that their most valuable experiences in the park included encountering\nL) And yet even this long-protected space could someday become less hospitable to nature. Over the\nM) If anything like that happened, both the park and the people of Seattle could lose something vital.\nN) \"It is true that any interaction with nature is better than none, but I don't want people to be satisfied",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "A new study found parents' aversion to certain animals would pass on to their children.",
+              "stemCn": "【定位】由题干中的parents’aversionto certain",
+              "options": {},
+              "optionCn": {
+                "F": "段第一句和最后一句。"
+              },
+              "answer": "F",
+              "analysis": "animals和pass on to theirchildren定位到文章 究确实含有一个意想不到的发现：许多接受调查 的孩子透露，他们的父母也对同样的动物表现出 J 恐惧或厌恶。由该句中also和thesameanimals 可知，这些孩子和他们的父母一样恐惧或厌恶这 些动物。该段最后一句强调该研究结果表明上一 代对自然持负面态度的人数增加会导致下一代持 类似态度的人数进一步增加。由此可以推知，家 长对某些动物的厌恶会导致其孩子同样厌恶这些 动物，题干中的parents’aversionto certain animals对应原文中的 their parents also expressed fear or disgust of the same animals,题 干中的pass onto theirchildren是根据原文中 lead to a further increase in people with similar attitudes in thenext generation推断而出的结论， 故答案为F）。"
+            },
+            {
+              "num": 37,
+              "stem": "The disappearance of species and ecological systems erodes our ability to keep what is left.",
+              "stemCn": "【定位】由题干中的species andecologicalsystems",
+              "options": {},
+              "optionCn": {
+                "A": "段最"
+              },
+              "answer": "A",
+              "analysis": "后一句。 多的研究表明，随着物种和生态系统的消亡，这也 逐步削弱了我们保护剩余资源的能力。题干中的 G) the disappearance of species and ecological systems对应原文中的 species and ecosystems vanish，题干中的erodes our ability和keep what isleft分别是对原文中chipsawayatourability 和preservewhatremains的同义转述，故答案为"
+            },
+            {
+              "num": 38,
+              "stem": "A study showed that the wildest are as of Discovery Park appealed most to the public.",
+              "stemCn": "【定位】由题干中的thewildestareasof",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句提到，研究发现，"
+              },
+              "answer": "G",
+              "analysis": "Discovery Park和appealedmost to thepublic定 位到J段第二句。 公众对公园最荒野的地方最为欣赏，并从中获得 了最大价值。题干中的thewildestareasof DiscoveryPark对应原文中的thewildestpartsof thepark，题干中的appealedmost to the public是 对原文中thepublic hadthemost appreciation for的同义转述，故答案为J）。"
+            },
+            {
+              "num": 39,
+              "stem": "The fear of living organisms is becoming more worrisome.",
+              "stemCn": "【定位】由题干中的thefearofliving organisms",
+              "options": {},
+              "optionCn": {
+                "C": "段最后一句。"
+              },
+              "answer": "E",
+              "analysis": "的情况是变成更加令人担忧的问题：“生物恐惧 症”，即对生物的恐惧和对自然的完全厌恶。题干 中的thefearofliving organisms对应原文中的 biophobia和the fearofliving things，题干中的 worrisome是原文中concerning的近义词，故答 案为C）。"
+            },
+            {
+              "num": 40,
+              "stem": "Preventing the increase in children's fear of living creatures is also important for conserving",
+              "stemCn": "【定位】由题干中的preventingtheincrease和",
+              "options": {},
+              "optionCn": {
+                "G": "段最后一句。 【精析】同义转述题。"
+              },
+              "answer": "M",
+              "analysis": "also important for conserving biodiversity定位到 多保护生物学家仍然认为防止野生动物栖息地的 丧失是保护生物多样性最重要的方法，但曾我昌 史觉得防止生物恐惧症的增加对保护也很重要。 题干中的the increase in children's fearofliving creatures是对原文中increasedbiophobia的同义 转述，题干中的conservingbiodiversity对应原文 中的conserve biodiversity和conservation，故答 案为G）。"
+            },
+            {
+              "num": 41,
+              "stem": "Research shows that more and deeper experience people have with nature will help save it.",
+              "stemCn": "【定位】由题干中的more and deeper experience、",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "nature和saveit定位到文章P）段第一句。 P)【精析】细节推断题。P)段第一句提到，这一不断 发展的研究领域表明，拯救自然需要鼓励人们更 频繁、更深入地体验自然。由requires encouraging可以推知，人们更频繁、更深入地体 验自然对于拯救自然有所助益，所以才会需要鼓 励人们这么去做，题干中的“moreanddeeper experience...with nature”对应原文中的 experience it more often and more deeply,题干 中的willhelp save it是根据原文中“saving naturerequires encouraging...”推断而出的结 论，故答案为P）。"
+            },
+            {
+              "num": 42,
+              "stem": "Though humans naturally tend to avoid dangerous animals, today's children try to stay away from",
+              "stemCn": "【定位】由题干中的naturallytendtoavoid",
+              "options": {},
+              "optionCn": {
+                "E": "段第三句。"
+              },
+              "answer": "N",
+              "analysis": "dangerous animals和evenharmless ones定位到 就会避开像蜜蜂这样的危险生物，但如今的儿童 甚至还会躲避诸如蝴蝶和蜻蜓之类的无害昆虫。 题干中的naturally tendto avoid dangerous animals和stay away from even harmless ones分 别对应原文中的inherentlyavoiddangerous organisms和avoid even harmless insects,故答案 为E)。"
+            },
+            {
+              "num": 43,
+              "stem": "Development in and around Discovery Park could cause heavy losses to the park and the local",
+              "stemCn": "【定位】由题干中的heavylosses和theparkand",
+              "options": {},
+              "optionCn": {
+                "M": "段第一句。"
+              },
+              "answer": "A",
+              "analysis": "类似的事情，探索公园和西雅图人都可能失去一 些至关重要的东西。由上一段可知，anythinglike that是指开发探索公园的部分地区或周边地区。 而J）段第一句表明探索公园位于西雅图，由此可 以推知，题干中的当地人就是指西雅图人。也就 参考译文 是说，开发探索公园的部分地区或周边地区会令 公园自身以及西雅图当地人损失重大。题干中的 cause heavy losses对应原文中的lose something vital，故答案为M)。"
+            },
+            {
+              "num": 44,
+              "stem": "A large survey of school children found that their negative feelings grew as their experience with",
+              "stemCn": "【定位】由题干中的alargesurvey ofschool",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "段第四句和最后一句。 木县5300多名学龄儿童的调查，研究了他们对 14种当地昆虫和1种蜘蛛的看法。由5300多名 学龄儿童可知，这是一项大型调查。然后该段最 后一句指出调查结果发现学生对自然的体验越 少，他们的感受就越负面。题干中的alarge surveyof schoolchildren对应原文中的a survey ofmore than 5,300 school children，题干中的 their negativefeelings grew as their experience with nature diminished是对原文中theless experience the students had with nature,the more negativetheirfeelings的同义转述，故答案 为D）。"
+            },
+            {
+              "num": 45,
+              "stem": "Elizabeth Lev believes increased contact with more wildlife helps conserve biodiversity.",
+              "stemCn": "【定位】由题干中的ElizabethLev和increased",
+              "options": {},
+              "optionCn": {
+                "N": "段最后"
+              },
+              "answer": "C",
+              "analysis": "一句。 白·列夫表示如果我们能让人们了解到与大自然 更多类型的野生动植物进行更多接触所带来的意 义和价值，那么也许我们可以停止这一循环，并朝 着保护和恢复我们剩余资源的方向迈进。由此可 以推知，与更多类型的野生动植物进行更多接触 有助于保护和恢复我们的剩余资源，即保护生物 多样性。题干中的increasedcontactwithmore wildlife对应原文中的havingmoreexperiences with more wildforms ofnature,题干中的helps conserve biodiversity是根据原文中movetoward conserving and restoring what we haveleft推断 而出的结论，故答案为N）。 对自然的恐惧：自然保护的新威胁 消亡，这也逐步削弱了我们保护剩余资源的能力—一因为我们无法再了解到自己正在失去什么。 见过狼而投票反对野生动物保护的政客。企图推平稀有青蛙栖息地的公司。 也会从我们的现实中消失。（39）最糟糕的情况是变成更加令人担忧的问题:“生物恐惧症”，即对生物 的恐惧和对自然的完全厌恶。 式——尤其是儿童。日本最近的一项研究对该问题的描述引人注目。（44-1）一项对木县5300多 名学龄儿童的调查，研究了他们对14种当地昆虫和1种蜘蛛的看法。结果如何？全都说“恶心！”大多 数学生认为这些物种是令人厌恶或恐惧之物，甚至是危险源。（44-2）学生对自然的体验越少，他们的 感受就越负面。 研究源于对当今自然缺失症儿童的观察。（42)“人类生来就会避开像蜜蜂这样的危险生物，但如今的 儿童甚至还会躲避诸如蝴蝶和蜻蜓之类的无害昆虫，”他说道，“我一直想弄明白，为什么现在如此多的 孩子会有这种反应。” 查的孩子透露，他们的父母也对同样的动物表现出恐惧或厌恶。事实上，这些家长情绪足以击败孩子 们可能已从自然界直接体验中获得的任何积极经验。（36-2）正如曾我及其合著者在他们的论文中所 写的:“我们的结果表明，可能存在一个反馈环，其中上一代对自然持负面态度的人数增加会导致下一 代持类似态度的人数进一步增加。 病症——可能会逐步削弱我们保护所失之物的社会能力。“我认为，生物恐惧症的增加是对全球生物 多样性的一个主要却隐形的威胁，”曾我说道，“随着患有生物恐惧症的儿童人数增加，公众对生物多样 性保护的兴趣和支持将逐渐下降。（40）尽管许多保护生物学家仍然认为防止野生动物栖息地的丧失 是保护生物多样性最重要的方法，但我觉得防止生物恐惧症的增加对保护也很重要。” 建议制定政策来指导这些自然体验，并增加有关自然界的教育项目。 间是最为重要的事情。这就是最近另一项研究所证实的观点，该研究发现位于城市区域内的野外空 间——以及在其中繁衍生息的动植物——对于人类的健康福祉尤为重要。 州西雅图的公共公园，占地534英亩，森林茂密。（38）研究发现，公众对公园最荒野的地方最为欣赏， 并从中获得了最大价值。一位调查参与者写道：“我在自然栖息地中看到过鲸鱼、海豹、鱼、鹰、滨鸟和 许多其他海洋生物。”另一位则写道:“和人们一起来到这里，让我可以和他们交流谈论日常生活中根本 不会发生的关于保护的话题。 景。“我们发现，绝大部分参与者的互动，尤其是他们最有意义的互动，取决于探索公园的相对荒野程 度。”该研究的第一作者，华盛顿大学人类与自然互动实验室的研究生伊丽莎白·列夫说道。只有公园 相对荒野，这些互动才有可能。毕竟，如无鸟儿可追，你就无法享受观鸟之趣；如被高楼所挡，你就无法 观看落日；如花朵无生长空间，你就无法驻足闻花。 士和组织都建议开发探索公园的部分地区或周边地区。最近，一项计划提议毗邻公园修建34英亩急 需的经济适用房和停车位，这随之会带来噪音、交通和污染。 图及全世界自然空间的趋势，只留下对野生动物、植物或人类几乎没有真正价值的小型口袋公园和空 置绿地。 道，“长期以来，我们一直身处代际环境遗忘症的循环中，基线不断变化，直至消失我们才意识到自己失 去了什么。（45）如果我们能让人们了解到与大自然更多类型的野生动植物进行更多接触所带来的意 义和价值，那么也许我们可以停止这一循环，并朝着保护和恢复我们剩余资源的方向迈进。” 自然互动实验室主任的彼得·卡恩在2011年出版的《技术自然》一书中提出了几条弥合这一差距的建 议。他们附议让孩子们走进大自然，但也包括讲述过去的故事，想象未来的样子，以及开发一种关于自 然的共同语言，“一种关于野外与非野外的互动模式及由此产生的隽永深厚且时常有愉悦之感的表达 方式。” P)（41）无论我们使用何种技术，这一不断发展的研究领域表明，拯救自然需要鼓励人们更频繁、更深入地 体验自然。这就需要进行更多的研究——列夫及其合著者已发布了一个工具包，其他城市可效仿使用 来研究其野外空间的价值—并清晰地交流结果。“如果我们能继续向人们展示这些野生空间的好 处，”列夫说道，“也许人们就会开始看到让这些地区保持未开发状态有更多价值——为了我们的共同 利益。”"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_12_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need. One government proposition is to eliminate $10,000 of debt for 'economically distressed' students. Some in US Congress have gone so far as to suggest forgiving up to $50,000 in debt per student borrower, but does forgiving student debt necessarily correlate to helping the economically disadvantaged? The answer is no. This policy is just giving money away to universities and the most affluent students in attendance. Federal Reserve data reveals that the highest-income 40 percent of households owe approximately 60 percent of outstanding student debt, while the lowest 40 percent owe just under 20 percent. This could be due to a combination of factors: students from high-income households are more likely to go to expensive colleges, less likely to receive financial aid, and more likely to have high incomes post-graduation. Plus, the majority of student debt is held by graduate degree earners, who earn approximately 25 percent more than their undergraduate counterparts. Clearly, giving free reign to banks to forgive student debt is a step in the wrong direction. Other proposals for broader, long-term student loan plans have some fundamental problems. One idea is to cancel student debt only for undergraduate degrees and for students making less than $125,000. This attempts to address the fact that Congress' previously mentioned student loan forgiveness plan largely helps out the wealthy, but is an adverse incentive for universities to keep raising tuition and for students to choose to major in low-earning degree programs. Colleges have no reason to make their programs more affordable if they believe students will just take out more debt. And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be for given. This is especially concerning given the pandemic (大流行病) has rendered a college education practically worthless. Students are paying tens of thousands of dollars per year to live at home and be lectured on the Internet. Do we really want to tell colleges that they can get away with providing below-average service for an outrageous cost? In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class. Plumbers and retail workers will be paying for the degrees of doctors and lawyers. The US government's effort to help those in debt is commend able but is this really the solution that will help the poor financially recover?",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "Why do some people advocate forgiving student loan debt?",
+              "stemCn": "【定位】由题干中的some people advocate定位到",
+              "options": {
+                "A": "They assert it will narrow the gap between the wealthy and the poor.",
+                "B": "They believe it will benefit both the economy and the under privileged.",
+                "C": "They claim it will eliminate economic distress among college students.",
+                "D": "They think the cost of education is the responsibility of the government."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。定位句指出，一些美国人断"
+              },
+              "answer": "B",
+              "analysis": "第一段首句。 言，免除学生贷款债务是刺激经济、帮助有需要者 的一种方式，而作者在定位段末句质疑这样做是 否真的是在帮助弱势群体，可知主张免除学生贷 款的人认为这样做有利于经济和弱势群体，故答 案为B)。 【避错】文中没有提及贫富差距问题，也未提到政 府应承担教育费用，故排除A）和D）；C）项有一定 迷惑性，首段第二句提到，政府的一项建议是免除 “经济困难”学生1万美元债务，但细读原文可知， 这并不是所谓的“有些美国人”宣称的免除学生债 务的理由和益处，故排除C）。"
+            },
+            {
+              "num": 47,
+              "stem": "What do we learn from the Federal Reserve data?",
+              "stemCn": "【定位】由题干中的theFederalReservedata定",
+              "options": {
+                "A": "Approximately 60% of student debt remains unpaid. 2022-12-CET6(第2套)-7 ===== PAGE 8 =====",
+                "B": "Cancel ling student debt benefits wealthy families most.",
+                "C": "Forgiving student debt provides little benefit to universities.",
+                "D": "Low-income families owe the biggest amount of student debt."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，根据美联储的"
+              },
+              "answer": "B",
+              "analysis": "位到第二段第三句。 数据，在未偿还的学生债务中，约60%是收入排在 前40%的家庭欠下的，而收人排在后40%的家庭 的欠款只占不到20%，而之前一句则说，免除学生 债务只是给大学和最富裕的在校学生送钱，综合 这两句可知，作者引用美联储的这一数据就是为 了说明取消学生债务对富裕家庭最有利，故答案 为B）。 【避错】A）项是对定位句的误解，原句是说在未偿 还的学生债务中，富裕家庭占60%，而不是指现有 欠款有60%未偿还；C）项与第二段第二句相悖， 该句明确指出免除大学生债务是给大学和富人送 钱；根据定位句，低收入家庭欠款只占总数的 20%，而高收入家庭则占60%，可知D）项所述与 原文相反，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the author say students are likely to do if they know they needn't repay their loans?",
+              "stemCn": "【定位】由题干中的iftheyknow和needn'trepay",
+              "options": {
+                "A": "They will choose to study subjects without considering their job prospects.",
+                "B": "They will be free to pursue their goals without being burdened financially.",
+                "C": "They will over-borrow and live beyond their means.",
+                "D": "They will be able to enroll in expensive universities."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句指出，如果学生们知"
+              },
+              "answer": "A",
+              "analysis": "theirloans定位到第四段最后一句。 道自己的贷款会被免除，那么他们更容易做出不 负责任的决定，主修不切实际或理想主义的科目， 而不惜签下数万美元的债务。由此可知，作者认 为学生提前知道学费债务免除的后果，主要是导 致他们选择的专业不实际。再结合该段首句中所 说的，学生因此会选择主修低收入学位课程，概括 而言，如果学生知道债务可以免除，那么他们就会 不太考虑就业后的收入前景，主修不切实际的课 程，故A)为答案。 【避错】B）项具有干扰性，但原文所说的“做出不 负责任的决定”，学习“不切实际或理想主义的科 目”明显是负面含义，不可等同于自由追求目标， 故排除；原文说学生可能会不惜欠下数万债务，但 并未说这样做是否会导致其生活人不敷出，C）项 为过度推断，故排除；D）项所述内容在相关部分并 未提及，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the author imply about colleges offering online education?",
+              "stemCn": "【定位】由题干中的onlineeducation定位到第五",
+              "options": {
+                "A": "They cannot get away with the serious consequences.",
+                "B": "They have suffered greatly from the current pandemic.",
+                "C": "The tuition they charge is not justified by the quality of their service.",
+                "D": "The tuition they charge has surged outrageously during the pandemic."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句提到，大流行病期间，"
+              },
+              "answer": "C",
+              "analysis": "段第二句。 学生们每年支付数万美元却只是待在家里，接受 网上授课。在随后一句，作者批评这些大学收取 高昂的费用而只提供低于平均水平的服务，可知 其学费与服务质量不相匹配，故答案为C）。 【避错】A）表述含糊不清，文中并未提到在线教育 。 会对大学产生什么后果，故排除；根据定位段可 知，提供在线教育的大学并未降低学费，可知B） 所说的遭受巨大损失并无依据；作者只提到提供 在线教育的大学收取高昂的学费，但没有说它们 是否提高了学费，故排除D）。"
+            },
+            {
+              "num": 50,
+              "stem": "What will happen if any of the proposed student debt plans is implemented?",
+              "stemCn": "【定位】由题干中的studentdebtplans和",
+              "options": {
+                "A": "Plumbers and retail workers will have a chance of becoming professionals.",
+                "B": "Working-class students will have increasing access to subsidized education.",
+                "C": "Blue-collar workers will have to bear the cost of educating would-be high-earners.",
+                "D": "A growing number of students will be able to earn degrees in medicine and law."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。定位段首句指出，无论施行"
+              },
+              "answer": "C",
+              "analysis": "implemented定位到倒数第二段。 何种学生债务计划，都是让美国工薪阶层资助专 业阶层的教育，随后采用举例的方式，说管道工和 零售工人将为医生和律师的学位支付学费，也就 是蓝领阶层将为高收入的专业人士承担教育费 用，故答案为C)。 【避错】选项A）和B）均混淆了原句概念，定位段 的意思是管道工和零售工人为他人的教育买单， 工薪阶层资助专业人士的教育，而不是自己受教 参考译文 育成为专业人士或获得更多资助，故均排除；D）项 偏离了定位段主题，该段主要探讨的是免除学生 债务是否公平，是否不利于工人阶层，并未涉及获 得学位的学生是否会增多的问题，故排除。 （46-1）一些美国人断言，免除学生贷款债务是刺激经济、帮助有需要者的一种方式。政府的一项建议 是免除“经济困难”学生1万美元债务。美国国会中有些人甚至建议免除每个学生借款人最多5万美元的 债务，（46-2）但免除学生债务与帮助经济弱势群体有着必然联系吗？ 答案是否定的。（47）这项政策只是给大学和最富裕的在校学生送钱。美联储的数据显示，在未偿还 的学生债务中，约60%是收人排在前40%的家庭欠下的，而收人排在后40%的家庭的欠款只占不到 20%。这可能是多种因素综合作用的结果：高收入家庭的学生更有可能进入昂贵的大学，获得资助的可能 性更小，毕业后更有可能获得高收入。此外，大部分学生债务的债务人是研究生，而他们的收入比本科生 高出约25%。显然，让银行自由支配对学生债务的免除是朝着错误的方向迈出的一步。 其他有关更广泛的长期学生贷款计划的建议也存在一些根本性问题。其中一个想法是只为本科学位 和收入低于12.5万美元的学生免除学生债务。 这是在尝试解决国会之前提到的学生贷款减免计划很大程度上帮助了富人这一问题，（48-1）但会成 为一种反面刺激，导致大学继续提高学费，而学生选择主修低收入学位课程。如果大学认为学生会申请更 多贷款，那么他们就没有理由让自己的课程更实惠了。（48-2）而且，如果学生们知道自己的贷款会被免 除，那么他们更容易做出不负责任的决定，主修不切实际或理想主义的科目，而不惜签下数万美元的债务。 在大流行病使得大学教育变得实际上毫无价值的情况下，这种情况尤其让人担忧。（49）学生们每年 支付数万美元却只是待在家里，接受网上授课。我们真的是想告诉大学，他们可以收取高昂的费用而只提 供低于平均水平的服务吗？ （50）无论施行何种学生债务计划，都是让选择不上大学或负担不起大学费用的美国工薪阶层资助专 业阶层的教育。管道工和零售工人将为医生和律师的学位支付学费。 美国政府帮助欠债者的努力值得称赞，但这真的是帮助穷人恢复经济能力的解决办法吗? Passage Two 【文章来源】本文选自2016年10月21日刊登在www.npr.org上一篇标题为“AmericanAcademyOfPediatrics LiftsNoScreensUnder2’Rule”（《美国儿科学会取消“2岁以下无屏幕”规定》）的文章。 【结构框图】 第1一3段总述问题：在孩子未满2周岁之前，限制孩子看屏幕，这条 规则已经不适用了，因为美国儿科学会做了更新和修订，以反映最新的 研究发现以及人们的新习惯。 本文主要介绍了美国儿 科学会取消了“2岁以 下无屏幕”规定。 第4一9段分别说明新指南的主要改动是将重点从屏幕上的内容转向房 间里的其他人，并且分别从18个月以下婴儿、15个月到2岁的孩子以 及2至5岁的学龄前儿童三种情况分别阐述了孩子的屏幕时间要求。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_12_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "If there's one rule that most parents cling to in the confusing, fast-changing world of kids and media, it's \"No screens before age 2.\" As of today, that rule has been thrown out the window. The American Academy of Pediatrics (AAP), which first issued that recommendation back in 1999, has extensively updated and revised its guidelines for children and adolescents to reflect new research and new habits. The new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room. And in doing so, they raise some intriguing points about the future of learning from media. For babies younger than 18 months, AAP still says no screens at all are the best idea—with one notable exception: Live video chat. Surveys indicate that families already popularly believe that \"Face time doesn't count\",or at least that the benefit of virtual visits with grandparents or other relatives outweighs the potential cost of expo sing babies to the laptop or smart phone. The AAP doesn't cite positive evidence that infants actually get something out of this kind of \"conversation\", the way that they clearly do from live social interaction. But there's some observational research that infants as young as six months old are emotionally engaged by playing live peekaboo (躲猫 猫游戏) with Grandma online. For infants and toddlers (学步儿童), ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen. In other words, treating a video or an app like a picture book is the best bet. The flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo vie wing of \"educational\" videos. There's also research that shows language delays in children who watch more TV and start watching earlier. In both cases, the problem seems to be media replacing 2022-12-CET6(第2套)-8 ===== PAGE 9 ===== interaction with people. Forth is reason, thenewAAPguidelinehaschangedfrom“avoidallscreens under age 2”to\"avoid solo media use in this age group.” Forpreschoolersages 2to 5,there'smoreevidencethattheyhavetheability to transfer knowledge fromscreens to the real world, includingearlyliteracyandmath. For this age group, AAPrecommendsno more than an hour a day of screen use. And, just as with youngerchildren, they want care-givers to take part in screen time:\"Co-view with your children, helpchildrenunderstandwhattheyare seeing, and help them apply what they learn to the world around them.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn about the\"No screens under 2\"rule?",
+              "stemCn": "【定位】由题干中的“No screens under 2”rule定",
+              "options": {
+                "A": "It hasmetmoreandmore resistancefromparents.",
+                "B": "It has provedhelpful to children's healthy growth.",
+                "C": "It confuses parents with regard tokids'education.",
+                "D": "Ithasbeendiscardedinlinewithrecentresearch."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。文章首段第一句指出，大多"
+              },
+              "answer": "D",
+              "analysis": "位到第一、二段。 数父母认为在孩子未满2周岁之前，应该限制孩 子看屏幕。第二段第一句指出，但从今天起，这条 规则就不适用了。由此可知，“未满2周岁之前， 限制孩子看屏幕”这条规则现在已经不提倡了，故 答案为D）。 【避错】首段第一句指出大多数父母认为在孩子未 满2周岁之前，应该限制孩子看屏幕，即他们赞成 这条规则，而不是抵制这条规则，A）项表述与此矛 盾，故排除；本文并未提及相关证据说明这条规则 有助于儿童的健康成长，故排除B）项；根据首段 第一句可知，大多数父母赞成这条规则，而非使父 母对儿童的教育感到困惑，故排除C)项。"
+            },
+            {
+              "num": 52,
+              "stem": "What do the new AAPguidelinesadvocate?",
+              "stemCn": "【定位】由题干中的newAAPguidelines和",
+              "options": {
+                "A": "Youngchildren shouldbeaccompaniedby parents during screen time.",
+                "B": "Parents should be emotionally involved in theirchildren's upbringing.",
+                "C": "Young children should watchvideos care fully selected by parents.",
+                "D": "Parents should protect their childrenfrom too much media exposure."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。文章第四段第一句指出，这"
+              },
+              "answer": "A",
+              "analysis": "advocate定位到第四段和七段。 项新的指导方针，特别是针对非常年幼的儿童的 部分，将重点从屏幕上的内容转向房间里的其他 人。文章第七段第一句指出，只有当父母和孩子 一起观看视频，并且对孩子重复视频中的内容，或 者提示孩子注意屏幕上的内容时，孩子才能从教 育媒体中学到新单词。由此可知，新指南提倡在 看屏幕期间，年幼的孩子应该有父母陪伴，故答案 为A)。 【避错】第四段第一句指出，新指南提倡在看屏幕 期间，年幼的孩子应该有父母陪伴，但这并不能说 明，父母应该在情感上参与孩子的成长，B）选项为 过度推理，故排除；根据第四段第一句可知，新指 南提倡的是陪伴，而不是强调孩子具体观看的视 频内容，C）项表述与原文不符，故排除；本文第二 段明确指出2岁以下不适合看屏幕的规则已经不 适用了，同时根据第五至七段可知，新指南建议在 家长的陪同下，孩子可以观看视频，而非父母应该 保护孩子免受过多的媒体曝光，D）项表述与原文 不符，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "Whatdofamilies think of live video chat according to surveys?",
+              "stemCn": "【定位】由题干中的families和livevideochat定",
+              "options": {
+                "A": "It should not be regardedas screen time.",
+                "B": "It helps babies to develop their verbal skills.",
+                "C": "It is not as harmful as playing games on laptops.",
+                "D": "It is a good substitute for video vie wing."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。文章第五段第二句指出，调"
+              },
+              "answer": "A",
+              "analysis": "位到第五段。 查显示，美国家庭已经普遍认为“实时视频聊天没 事”，或者至少他们认为云端看望祖父母或其他亲 戚的好处要大于让婴儿接触笔记本电脑或智能手 机的潜在危害。由此可知，调查表明，家庭认为实 时视频聊天不应被视为屏幕时间，故答案为A）。 【避错】定位句并未提及美国家庭认为和家人实时 视频聊天有助于婴儿发展他们的语言技能，B）项 表述与原文不符，故排除；根据定位句可知，“实时 视频聊天没事”，或者至少他们认为云端看望祖父 母或其他亲戚的好处，要大于让婴儿接触笔记本 电脑或智能手机的潜在危害。这里是指与家人实 时聊天的好处大于孩子接触电脑或者手机，文章 没有把实时视频聊天和在电脑上打游戏的危害做 比较，故排除C）项；根据定位句可知，美国家庭认 为实时视频聊天不算屏幕时间，但该调查并没有 指出美国家庭认为实时视频聊天可以替代视频观 看，D）项为过度推理，故排除。 参考译文"
+            },
+            {
+              "num": 54,
+              "stem": "What do researches findaboutkids solo vie wing educational videos?",
+              "stemCn": "【定位】由题干中的kids solo viewing educational",
+              "options": {
+                "A": "It arouses their interest in language learning.",
+                "B": "It works no better than reading picture books.",
+                "C": "It hampers their development of language skills.",
+                "D": "It helps them acquire independent learning skills."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。文章第八段第一句指出，另"
+              },
+              "answer": "C",
+              "analysis": "videos定位到第八段第一句。 一方面，许多研究实际表明，孩子语言技能较差与 其早期单独观看“教育”视频相关。由此可知，孩 子自己看视频，会阻碍他们语言技能的发展，故答 案为C）。 【避错】定位句指出，孩子语言技能较差与其早期 单独观看“教育”视频相关，即孩子自己看视频会 影响语言发展，而非引起了他们对语言学习的兴 趣，故排除A）项；第七段最后一句指出，把视频或 应用程序当作一本图画书，这种方法最佳，但并没 有把自己单独看视频和读图画书相比较，故排除 言发展，而非会帮助他们获得独立的学习技能，故 排除D）项。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author say about preschoolers ages 2to 5?",
+              "stemCn": "【定位】由题干中的ages2to5定位到最后一段第",
+              "options": {
+                "A": "They can understand pretty well what they see on the screen.",
+                "B": "They can learnontheirownwithoutmuch parental guidance.",
+                "C": "They can make use of educational videos to develop digital literacy.",
+                "D": "They can relate what they learn on the screen to real life situations."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。文章最后一段第一句指出，"
+              },
+              "answer": "D",
+              "analysis": "一句。 对于2至5岁的学龄前儿童，有更多证据表明他 们有能力将知识从屏幕转移到现实世界，包括早 期识字和数学。由此可知，2至5岁的学龄前儿童 可以将屏幕上学到的内容与现实生活情境联系起 来，故答案为D)。 【避错】最后一段第一句指出，2至5岁的学龄前 儿童可以将屏幕上学到的内容与现实生活情境联 系起来，而非可以很好地理解他们在屏幕上看到 的内容，故排除A）项；最后一段最后一句指出，正 如与更年幼的孩子一起观看一样，该指南希望照 顾者也能参与到屏幕时间中，与孩子共同观看，而 非孩子可以在没有父母指导的情况下自学，故排 除B）项；文章最后一段第一句指出，对于2至5岁 的学龄前儿童，有更多证据表明他们有能力将知 识从屏幕转移到现实世界，包括早期识字和数学， 文中提到的是数学，而不是digitalliteracy“数字 素养”，故排除C）项。 （51-1）如果说在混乱、快速变化的儿童和媒体世界中，有一条规则是大多数父母所坚持的，那么这条 规则一定是，在孩子未满2周岁之前，应该限制孩子看屏幕。 （51-2）但从今天起，这条规则就不适用了。 美国儿科学会早在1999年就首次发布了这条建议。但为了反映最新的研究发现以及人们的新习惯， 该学会对有关儿童和青少年的指导方针进行了广泛的更新和修订。 （52-1）这项新的指导方针，特别是针对非常年幼的儿童的部分，将重点从屏幕上的内容转向房间里的 其他人。通过这种转变，他们提出了一些有关未来从媒体学习的有趣观点。 美国儿科学会仍然认为18个月以下的婴儿不适合看屏幕—但有一个明显的例外：实时视频聊天。 （53）调查显示，美国家庭已经普遍认为“实时视频聊天没事”，或者至少他们认为云端看望祖父母或其他 亲戚的好处要大于让婴儿接触笔记本电脑或智能手机的潜在危害。 美国儿科学会并没有直接的证据能说明婴儿确实可以从这种“对话”中获得和真实社交中一样的收 获。但有一些观察研究表明，6个月大的婴儿与奶奶在网上玩实时躲猫猫的游戏，在情感上也很投入。 对于15个月到2岁的婴儿和学步儿童，有几个非常小的研究提出了一些有限的证据。（52-2）研究结 果表明，只有当父母和孩子一起观看视频，并且对孩子重复视频中的内容，或者提示孩子注意屏幕上的内 容时，孩子才能从教育媒体中学到新单词。换句话说，把视频或应用程序当作一本图画书，这种方法最佳。 （54)另一方面，许多研究实际表明，孩子语言技能较差与其早期单独观看“教育”视频相关。也有研 究表明，电视看得更多、开始看电视较早的孩子会出现语言迟缓现象。这两种情况都表明，问题似乎是媒 体取代了与人的互动。因此，新的美国儿科学会指南把“避免2岁以下的所有屏幕时间”改为“避免在这个 年龄段单独使用媒体”。 （55）对于2至5岁的学龄前儿童，有更多证据表明他们有能力将知识从屏幕转移到现实世界，包括早 期识字和数学。美国儿科学会建议这个年龄段的孩子每天使用屏幕的时间不超过一小时。正如与更年幼 的孩子一起观看一样，该指南希望照顾者也能参与到屏幕时间中:“与孩子共同观看，帮助孩子理解他们看 到的内容，并帮助他们将所学应用到周围的世界中。 PartN Translation 参考译文与难点注释 TheLoessPlateauisthethird1.第一句介绍了黄土高原的基本地理信息。本句较长，翻译时可以将 largest plateau in China,with an area of about 600,000 square kilometers and an average altitude of 1,000-2,000 meters. Most ofthe plateau is covered with 50-80 meters thickloess,which has the most concentrated distribution and the greatest thickness in the world. This is a miracle created by nature, and it is unique in the world. TheLoess Plateau is one ofthe birthplaces of the Chinese nation. As early as 5,500 years ago,people have already started farming on the Loess Plateau. With the continuous development of farming, the population of the Loess Plateau continuedto increase,and itbecame the political and economic center of China during the Qin and Han Dynasties. Nowadays, with the implementation of strategy for large- scale development of western China, the economy of the Loess Plateau region has been developing rapidly. YellowRiverBasin黄河流域 YangtzeRiverBasin长江流域 plain平原 waterandsoilloss水土流失 soil erosion土壤侵蚀 前三个分句译为一句，将最后两个分句译为一句。“面积”和“海拔” 属于并列关系，翻译时可以选择像参考译文那样，采用介词with引 导伴随状语的方式；或者也可以用现在分词covering和介词with 分别引导伴随状语，即covering an area of about 600，000 square kilometers,with an average altitude of1,000-2,000 meters。在 翻译后两个分句时，可以像参考译文那样，将后一句译为定语从句， 也可以将两个分句单独翻译，用and连接，即“Mostoftheplateauis covered with 50-80 meters thickloess,and it is theregionwith the most concentrated distribution and the greatest thickness of loess in the world.\"。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "黄土高原(theLoessPlateau)是中国第三大高原，面积约60万平方公里，平均海拔1000-2000 米，绝大部分覆盖着50-80米厚的黄土，是世界上黄土分布最集中、覆盖厚度最大的区域。这是大 自然创造的一个奇迹，在世界上也是绝无仅有的。 黄土高原是中华民族的发祥地之一。早在5500年前，人们就已经在黄土高原上开始农耕。随 着农耕业的持续发展，黄土高原人口不断增加，在秦汉时期就成为中国的政治和经济中心。如今， 随着西部大开发战略的实施，黄土高原地区的经济得到了迅速发展。 2022-12-CET6(第2套)-9 ===== PAGE 10 ===== Suggested Version",
+          "terms": [],
+          "reference": "TheLoessPlateauisthethird 1.第一句介绍了黄土高原的基本地理信息。本句较长，翻译时可以将 largest plateau in China, with an area of about 600,000 square kilometers and an average altitude of 1,000-2,000 meters. Most oft he plateau is covered with 50-80 meters thick loess, which has the most concentrated distribution and the greatest thickness in the world. This is a miracle created by nature, and it is unique in the world. The loess Plateau is one oft he birthplaces of the Chinese nation. As early as 5,500 years ago, people have already star ted farming on the Loess Plateau. With the continuous development of farming, the population of the Loess Plateau continuedto increase, and itbecame the political and economic center of China during the Qin and Han Dynasties. Nowadays, with the implementation of strategy for large- scale development of western China, the economy of the Loess Plateau region has been developing rapidly.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "cet4-2021_12_3",
+  "level": 4,
+  "year": 2021,
+  "month": 12,
+  "setNo": "第3套",
+  "title": "2021年12月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose you have just participated in a school projectof collecting used books on campus. You are now to write a report aboutthe project, which mayinclude its aim, organizers, participants andactivities.You will have 3Ominutes to write thereport.You should writeat least120 wordsbut nomore than180words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Many years'surveys reveal that young people in America are going to the cinema much less often",
+              "stemCn": "【定位】由题干中的surveys 和going tothe",
+              "options": {},
+              "optionCn": {
+                "E": "段第二句。"
+              },
+              "answer": "E",
+              "analysis": "大型调查告诉我们，美国年轻人去电影院的频率 不像过去那么高了。题干中的goingtothe cinema much less often than they used to 对应原 文中的 not going to the cinema nearly as often as they did in the past,故答案为 E)。"
+            },
+            {
+              "num": 37,
+              "stem": "Survey analysis shows American teens now spend their leisure time on digital devices rather than",
+              "stemCn": "【定位】由题干中的Survey、teens、spendtheir",
+              "options": {},
+              "optionCn": {
+                "B": "段第"
+              },
+              "answer": "B",
+              "analysis": "一、二句。 来在美国收集的一百多万个青少年的调研进行分 析后发现，他们度过休闲时间的方式发生了巨大 变化。纸质书籍正在被忽视，而电子屏幕却备受 喜爱。题干中的Surveyanalysis和spendtheir leisure time on digital devices rather than reading printed books分别对应定位句中的Analysisof surveys 和 Paper books are being ignored,in favor of screens，故答案为B)。"
+            },
+            {
+              "num": 38,
+              "stem": "The number of senior high schoolers not reading books for pleasure in a year increased three times",
+              "stemCn": "【定位】由题干中的Thenumberofseniorhigh",
+              "options": {},
+              "optionCn": {
+                "G": "段第一、二句。"
+              },
+              "answer": "A",
+              "analysis": "2016年，表示过去的一年没有因为乐趣而读过任 何书籍的高中生人数达到了三分之一。这个数字 是20年前的三倍。题干中的increasedthre times 和 over 20 years 分别对应原文中的triple 和twodecadesago，故答案为G)。 2021.12/56(第3套)"
+            },
+            {
+              "num": 39,
+              "stem": "Many scholars claim that spending time on electronic devices doesn't necessarily mean a decrease of",
+              "stemCn": "【定位】由题干中的Many scholars、doesn't",
+              "options": {},
+              "optionCn": {
+                "D": "段第"
+              },
+              "answer": "J",
+              "analysis": "三句。 者坚持认为，上网时间不一定会占用花在传统媒 体或者其他活动上的时间。题干中的timeon electronic devices和 a decrease of time 分别对应 定位句中的 time online 和 take away time,故答 案为D)。"
+            },
+            {
+              "num": 40,
+              "stem": "Most people spend much more time inter acting with digital media than they did ten years ago.",
+              "stemCn": "【定位】由题干中的 spend much more time和",
+              "options": {},
+              "optionCn": {
+                "A": "段第一句。"
+              },
+              "answer": "C",
+              "analysis": "我们大多数人在数字媒体上花的时间更多了。题 干中的 interacting with digital media 对应原文中 的 spend much more time with digital media。题 干中的ten years ago 对应原文中的 a decade ago。 同时题干中的Most people 是指原文中的Mostof us，故答案为A)。"
+            },
+            {
+              "num": 41,
+              "stem": "The author claims that it will be a great loss if we no longerreadbooks andlongerarticles.",
+              "stemCn": "【定位】由题干中的 a great loss和 books and longer",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句和最后一句。"
+              },
+              "answer": "F",
+              "analysis": "大幅下降可能对当今青少年产生最大的负面影 响。该段最后一句指出，如果严肃的阅读消失了， 很多东西也会随之消失。题干中的a great loss和 books and longer articles分别对应定位句中的go with it和 serious reading，故答案为J)。"
+            },
+            {
+              "num": 42,
+              "stem": "Over a decade or so, American teens'social media use shiftedfrom an occasional activity to a routine",
+              "stemCn": "【定位】由题干中的 social media use和shifted定",
+              "options": {},
+              "optionCn": {
+                "C": "段第一、二句。"
+              },
+              "answer": "B",
+              "analysis": "直花那么多时间在数字媒体上的。自2006年以 来，上网时间翻了一番，而与此同时，数字媒体的 参考译文 使用也已经从定期活动变成了日常活动。题干中 的 shifted from 和 an occasional activity to a routine one对应原文中的movedfrom和a periodic activity to a daily one,故答案为C)。"
+            },
+            {
+              "num": 43,
+              "stem": "Am ore disturbing trendinAmericatodayisthatteensare spending far less time reading than around",
+              "stemCn": "【定位】由题干中的 disturbing trend和 far less",
+              "options": {},
+              "optionCn": {
+                "F": "段第一、二句。"
+              },
+              "answer": "E",
+              "analysis": "何分配时间的变化相比，与电影相关的趋势没有 那么令人不安。研究显示，青年人的阅读量大幅 下降。题干中的Amoredisturbingtrend和far less timereading分别对应定位句中的less disturbing 和 an enormous decline in reading,故 答案为F)。"
+            },
+            {
+              "num": 44,
+              "stem": "Some five year sago, high schoolseniors inAmericagenerallyspentmorethansixhoursadayon",
+              "stemCn": "【定位】由题干中的 high school seniors in America",
+              "options": {},
+              "optionCn": {
+                "B": "段第五句。"
+              },
+              "answer": "B",
+              "analysis": "2016年，美国高中高年级学生说他们在空闲时间 里平均每天要花6个小时的时间用于写短信、上 社交媒体以及上网。题干中的Somefiveyears ago 和 spent more than six hours a day on electronic devices 对应原文中的by 2016和 spent six hours a day writing text messages,on social media，andonline，故答案为B)。"
+            },
+            {
+              "num": 45,
+              "stem": "It was found that American youngsters today don't socialize nearly as much as the earlier",
+              "stemCn": "【定位】由题干中的 youngsters today和 earlier",
+              "options": {},
+              "optionCn": {
+                "E": "段最后一句。"
+              },
+              "answer": "A",
+              "analysis": "中，研究人员发现，如今的青少年与朋友外出的次 数比前几代人少得多。题干中的youngsters today、socialize 和 earlier generations 分别对应定 位句中的 today's teens、go out with their friends 和previous generations，故答案为E)。 为什么青少年读书量减少事关紧要 手机长大的。与几十年前的青少年相比，他们与书籍和电影等传统媒介互动的方式是完全不同的。 (37)对自1976年以来在美国收集的一百多万个青少年的调研进行分析后发现，他们度过休闲时间的 方式发生了巨大改变。纸质书籍正在被忽视，而电子屏幕却备受喜爱。数码设备也改变了青少年一 些其他的行为。越来越多的年轻人选择在电子设备上消磨时间，而不是参加其他活动，无论什么类型 的活动。(44)事实上，截至2016年，美国高中高年级学生说他们在空闲时间里平均每天要花6个小 时的时间用于写短信、上社交媒体以及上网。而且这仅仅包含了三种活动，如果要算上其他的数字媒 体活动的话，这个估计时长无疑会增加。 2021.12/57(第3套) 同时，社交媒体的使用也已经从定期活动变成了日常活动。到2016年，九成十二年级的女孩称她们 每天都会访问社交媒体网站。与此同时，人们花在玩电子游戏上的时间从平均每天不到一小时增长 到一个半小时。2016年，美国八年级学生中有十分之一的人每周会拿出40个小时或更多的时间玩电 子游戏。我强调一下，这相当于大多数成年人每周花在工作上的时间。 (39)多年来，很多学者坚持认为，上网时间不一定会占用花在传统媒体或者其他活动上的时间。他们 认为，有些人只是对某些类型的媒体和娱乐形式更感兴趣。因此，多使用某一种媒体并不一定意味着 另一种媒体使用得更少。 么。(36)多年来进行的大型调研告诉我们，美国年轻人去电影院的频率不像过去那么高了。过去， 70%的八年级和十年级学生每月看一次电影，甚至更多，但现在只有约一半的人这样做。越来越多的 青少年会选择在他们的电子设备上看电影。为什么这是一个问题呢？原因之一是，看电影通常是一 种社交活动。现在，看电影是大多数青少年单独做的事情。这符合一个更大样本。（45)在另一项分 析中，研究人员发现，如今的青少年与朋友外出的次数比前几代人少得多。 的阅读量大幅下降。1980年,大约60%的高中生表示，他们每天读一本书、一份报纸或杂志，这不是 学校布置的。到2016年，只有16%的高中生这样做。这是一个巨大的下降，值得注意的是，这不仅仅 是阅读纸质书籍、报纸或杂志的下降。这项调查也将数字设备上的阅读材料考虑在内。 之一。这个数字是20年前的三倍。对于今天的年轻人来说，书籍、报纸和杂志在他们的日常生活中 存在感越来越低。当然，青少年仍在阅读。但他们通常读的是短文本。他们中的大多数人都不阅读 那些探索深层主题、需要批判性思考和反思的长篇文章或书籍。2016年的阅读成绩是1972年以来的 最低水平，这或许并非偶然。 响他们的学业表现。想象一下，从阅读短至一两句话的文本,到努力去读整本用复杂的语言编写、观 点晦涩难懂的书籍。阅读和理解更长的书籍和篇章需要练习，而美国青少年不再进行这些练习了。 可能不会。研究表明，智能手机目前是美国青少年的主要社交形式。这就意味着，如果没有智能手 机，青少年可能会感觉与同龄人隔绝。然而，这不是说青少年需要像他们现在这样频繁地使用电子设 备。将过多的数字媒体时间与心理健康问题联系起来后，得出了一些数据，这些数据建议将每天花在 屏幕上的空闲时间限制在两小时之内。这一限制也会让青少年有时间从事其他活动，比如和朋友一 起去看电影或者阅读更长、更复杂的文本。 对当今青少年产生最大的负面影响，因为阅读书籍和长篇文章是学习批判性思维的最好方式之一。 它能够帮助人们理解复杂的问题，区分事实和虚幻。因此，深度阅读对于成为一个好公民、一个成功 的大学生和一个高效的员工是至关重要的。（41-2)如果严肃的阅读消失了，很多东西也会随之消失。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_12_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Have you ever wonderedhow acceptable it is to hug or touch someone?While it may sound safe to avoidallphysicalcontactso as not to offend anyone, thelackoftouchingmightimplycoldattitudesor indifference in interpersonal relationships. So, what should we do?The simple answer is to thoroughlylearnuniqueculturalnormsfor physical contact. In nonverbal communication terminology(术语),physical contact and the study oftouchingare generally refer red to as haptics. Haptics incommunicationoftensuggestthelevelofintimacy. Theyareusuallyclassifiedintotwo groups: high-contact and low-contact. AsiaandquitesurprisinglytheUnitedStates, CanadaandBritainbelongtolow-contactcultures. Peoplefromtherestoftheworld, such as latin america, areconsideredtobeinhigh-contactcultures, where they tend to expect touch in gin social interactions and feel more comfortable with physical closeness. Despite the classification, there are morecomplexfactorssuchasrelationalcloseness, gender, age, and context that can affect how someone views physical contact. One common french custom of greetings is cheek-kissing, but it ismostlyrestricted to friends, close acquaintancesandfamilymembers. While cheek-kissingforLatinAmericans isalsoauniversalgreeting form, it does not require such a high degreeofrelationalcloseness. However, gendermattersmorefor them because check-kissing often only happens betweenwomenor am an and a woman but not twomen. In contrast, in certain arabian, African, andAsiancountries, mencanpubliclyholdhands or show physical affection as signsofbrotherhoodorfriendshipwhilethesebehaviorsmay suggest a romantic relationship in other part soft he world. Althoughmen'stouchingis more normalinthesecultures, physical contact between persons of opposite sexes who are not family members is negatively perceived in Arabian countries. Thesefactorscoulddefinitelyaffectthedegreetowhichsomeoneiscomfortablewithtactile（触觉 的) communicationandphysicalintimacy. Therefore, if you are someone wholovesto show physical affection, you should not be afraid to show it or drastically change yourbehaviors—just ask for consent 2021-12-CET4（第3套）-4 ===== PAGE 5 ===== beforehand!",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say in the first paragraph about physical contact?",
+              "stemCn": "【定位】由题干中的 first paragraph和 physical",
+              "options": {
+                "A": "Its role in interpersonalrelationshipsis getting increasingly important",
+                "B": "It is becoming more acceptable to many who used to think it offensive",
+                "C": "Its absence might suggest a lack of warmth in interpersonal relationships",
+                "D": "It might prompt differentresponses from people of different social backgrounds"
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，虽然避免一切"
+              },
+              "answer": "C",
+              "analysis": "contact 定位到首段第二句。 身体接触以免冒犯任何人听起来很稳妥，但缺乏 接触可能意味着人际关系中的冷淡态度或漠不关 心。由此可见，缺少身体接触会让人觉得你在人 际交往中表现得不够热情，故答案为C)。 【避错】第一段未提到身体接触越来越重要的相关 内容，故排除A)；第一段第二句表明，有些人会为 了避免冒犯别人而避免所有的身体接触，但并未 提及这些人现在是否接受身体接触的行为，故排 除B)；第一段没有提到身体接触会引发不同背景 的人的不同反应，故排除D)。"
+            },
+            {
+              "num": 47,
+              "stem": "What does physical contact in communication suggest?",
+              "stemCn": "【定位】由题干中的physical contact、in",
+              "options": {
+                "A": "What social class people belong to.",
+                "B": "How civilized the communicators are.",
+                "C": "What family background people come from.",
+                "D": "How close thecommunicators'relationshipsare."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。由第二段最后一句可知，触"
+              },
+              "answer": "D",
+              "analysis": "communication和 suggest定位到第二段最后一句 和第三段第一句。 觉指的就是身体接触和对触碰的研究。第三段第 一句提到，交流中的触觉通常暗示着亲密程度。 由此可知，答案为D)。 【避错】文章中未提及社会阶层和身体接触之间的 关系，故排除A)；B)中提到的有礼貌并未在文中 出现，故排除；文章第五、六段提及家庭成员之间 的身体接触，但不涉及家庭背景，故排除C)。"
+            },
+            {
+              "num": 48,
+              "stem": "What do we learn about people in high-contact cultures?",
+              "stemCn": "【定位】由题干中的people inhigh-contact",
+              "options": {
+                "A": "They are sensitive to the way people express theiremotions",
+                "B": "They take touching as a cultural norm in social interactions.",
+                "C": "They attach great importance to close ties among people.",
+                "D": "They tend to be more open in interpersonalrelationships."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，来自世界其他"
+              },
+              "answer": "B",
+              "analysis": "cultures定位到第四段第二句。 地区的人，如拉丁美洲人，被认为处于高接触文化 中，他们往往会在社交互动中期待接触，并对身体 上的亲近感到更舒适。由此推断出，触摸是高接 触文化中的人在社交时的一种典型行为和习惯， 属于一种文化规范，故答案为B)。 【避错】A)在文中未提及，故排除；定位句中提到 高接触文化中的人对身体上的亲近感到更舒适， 而C）提到的是看重人与人之间的亲密关系，与定 位句中身体上的亲近不是一个概念，故排除C)；"
+            },
+            {
+              "num": 49,
+              "stem": "What do we learn about social customs in Arabian countries?",
+              "stemCn": "【定位】由题干中的Arabiancountries定位到第",
+              "options": {
+                "A": "Men can show friendship in public through physical affection.",
+                "B": "Non-traditional romantic relationships are simply unacceptable.",
+                "C": "Physical contact between unfamiliar people is negatively perceived.",
+                "D": "People of different ages and genders show affection in different ways."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句提到，在某些阿拉伯、"
+              },
+              "answer": "A",
+              "analysis": "六段第一句。 非洲和亚洲国家，男性可以公开握手或有身体上 的亲近行为，并将其视为兄弟情谊或友谊的象征， 而在世界其他地区这些行为可能暗示恋爱关系。 由此可见，在阿拉伯国家，男性可以在公共场合通 过身体接触来表达友谊，故答案为A)。 【避错】B在文中并未提及，故排除；C）中的 negativelyperceived在第六段最后一句中出现， 该句指出非家庭成员的异性之间的身体接触会被 消极地理解，并非不熟悉的人之间的身体接触，因 此该项内容与原文不相符，故排除；第四段最后一 句提到还有一些更复杂的因素，如关系亲密度、性 别、年龄和背景，可能会影响人们对身体接触的看 法，而不是影响人们表达喜爱的方式，因此排除D)。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author tell us to do concerning tactile communication?",
+              "stemCn": "【定位】由题干中的tactile communication定位到",
+              "options": {
+                "A": "Lay emphasis on nonverbal communication.",
+                "B": "Learn to use appropriate body language first.",
+                "C": "Pay attention to the differences between genders.",
+                "D": "Take other people's preference into consideration."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，有些因素会影"
+              },
+              "answer": "D",
+              "analysis": "最后一段第一句。 响人们对触觉交流和身体亲密的舒适程度。这就 意味着不同人对身体接触的接受度是不一样的。 因此，作者在下一句提出建议，如果你是一个喜欢 表现身体亲近的人，要在有身体接触之前征得对 方允许，故答案为D）。 【避错】A)“重视非语言交流”和B)“首先学会使 2021.12/59(第3套) 用合适的身体语言”在文中没有提及，故排除；C) 提及的性别差异只是影响人们对身体接触接受度 参考译文 的众多因素之一，除此之外，还有年龄、背景等。 因此，仅仅注意性别差异是不够的，故排除C)。 你有没有想过怎样拥抱或触碰别人才能被接受？（46)虽然避免一切身体接触以免冒犯任何人听起来 很稳妥，但缺乏接触可能意味着人际关系中的冷淡态度或漠不关心。 那么，我们该怎么办？简单的答案就是通晓身体接触的独特文化规范。（47-1)在非语言交流术语中， 身体接触和对触碰的研究通常被称为触觉。 (47-2)在交流中，触觉通常暗示着亲密程度。它们通常被分为两类：高接触和低接触。 亚洲与美国、加拿大和英国属于低接触文化，这一点令人很惊讶。（48)来自世界其他地区的人，如拉 丁美洲人，被认为处于高接触文化中，他们往往会在社交互动中期待接触,并对身体上的亲近感到更舒 适。尽管进行了分类，但还有一些更复杂的因素，如关系亲密度、性别、年龄和背景，可能会影响人们对身 体接触的看法。 一个常见的法国问候习俗是亲吻脸颊，但它主要限于朋友、熟人和家人。虽然亲吻脸颊对拉丁美洲 人来说也是一种普遍的问候方式，但它并不需要高度的亲密关系。然而，性别对他们来说更为重要，因为 亲吻脸颊通常只发生在女性之间，或者男性和女性之间，而不是两个男性之间。 (49)相比之下，在某些阿拉伯、非洲和亚洲国家，男性可以公开握手或有身体上的亲近行为，并将其视 为兄弟情谊或友谊的象征，而在世界其他地区这些行为可能暗示恋爱关系。虽然在这些文化中，男性的 身体接触更为正常，但在阿拉伯国家，非家庭成员的异性之间的身体接触会被消极地理解。 (50)这些因素肯定会影响人们对触觉交流和身体亲密的舒适程度。因此，如果你是一个喜欢表现身 体亲近的人，你不应该害怕表现出来，或者彻底改变你的行为—只要事先征得对方允许就好了！ Passage Two 【文章来源】本文选自2020年11月25日刊登在www.yale-nus.edu.sg(耶鲁-新加坡国立大学学院官网)上的一 篇标题为“A growth mindset of interest can spark innovative thinking\"(《兴趣增长型思维可以激发创新思维》) 的文章。 【结构框图】 第1段指出，研究发现，兴趣增长型思维有助于以创新思维解决问题。 本文主要介绍了一项 ：第2段介绍了两种兴趣思维倾向，即兴趣增长型思维和兴趣固定型思维。 新的研究结果：拥有 兴趣增长型思维可以 ：第3段介绍了一项最新研究的实施过程及研究结果。 激发创新思维。 ：第4、5段指出这一研究发现在各方面的积极意义。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_12_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "From climate change to the ongoing pandemic（大流行病) and beyond, the issuesfacing today's worldareincreasinglycomplexand dynamic. Yetsolvingproblems liketheserequiresnewapproaches that extendbeyondtraditionalwaysofthinking. AstudyledbyYaleProfessorofPsychology, Paul O'Keefe, found that having a growth mind set（思维倾向) of interest may spark this type of innovation ProfessorO'Keefeestablishedinearlierstud比sthatpeopleholddifferentbeliefsaboutthenature of interest. Thosewithagrowthmindsetofinteresttendtobelievethatinterestscanbedevelopedand cultivated, while those with a fixedmindsetofinteresttend tobelievethatinterestsareinherent(与生俱 有的) and simply need to be found.'Buildingonthesefindings, thelatestresearchexaminedhowa growthmindsetofinterest can boost integrativethinkingacrossthetraditionaldisciplinaryboundariesof arts and sciences. For example, in one task, researchparticipants wereinstructedtocreatenewcollegemajorsby combining twoormoreexistingacademicArtsorScienceprograms at their university. Aftercodingand analyzingthe ideastheygenerated, theteamfoundthatpeoplewitha growthmindsetofinterestwere more likely tobridgeprograms acrossthearts andsciencestocreatenewmajors like computational economics rather than creating majors that drewfrom only one oft hose are as, like computational chemistry. As professor O'Keefe pointed out,\"Thisresearchprovides a useful directionfororganizations 2021-12-CET4（第3套）-5 ===== PAGE 6 ===== whoseproducts andservicescallforintegratedandcreativesolutions. Take smartphonesfor example. You need not only computer science and engineering knowledge, but also an understanding of psychologyandvisualdesignto create a betterproductEmployees with a growth mind set maybe more likely to devise innovativeideasthatbridgemultipleareasofknowledgetoachievebetter solutions. Thebenefitsof a growth mind set of interest may also extend to those see king employment. This is a pressing issue because manypeoplearebecomingunemployed due to theCoviD-19pandemic. Having a growthmindsetofinterestcanhelp jobseekersexpandtheirinterestsandbecomemoreadaptableto different fields, and take the initiative to learn new skills.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author say about the world today?",
+              "stemCn": "【定位】由题干中的worldtoday定位到首段",
+              "options": {
+                "A": "It faces problems that are getting more varied and complicated.",
+                "B": "It has done away with many oft he traditional waysofthinking.",
+                "C": "It is undergoing radical and profound changes.",
+                "D": "It is witnessing various types of innovations."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，从气候变化到"
+              },
+              "answer": "A",
+              "analysis": "第一句。 目前的大流行病以及其他问题，当今世界的问题 越来越复杂和多变。A）中的variedand complicated 对应原文中 complex and dynamic, 故答案为A)。 【避错】文章第一段第二句提到解决这些问题需要 超越传统思维方式的新方法，并未说明传统思维 已经被废除，故排除B);C)“它正在经历彻底而深 刻的变革”和D)“它正在见证多种多样的创新”在 文中未提及，故排除。 2021.12/60 (第3套)"
+            },
+            {
+              "num": 52,
+              "stem": "What didProfessorO'Keefefind in his earlierstudies?",
+              "stemCn": "【定位】由题干中的ProfessorO'Keefe和earlier",
+              "options": {
+                "A": "People's interests tend to change with age.",
+                "B": "People's interests determine their mindsets.",
+                "C": "People are divided about the nature of interest.",
+                "D": "People of differentages have differentmindsets."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句提到，奥基夫教授在"
+              },
+              "answer": "C",
+              "analysis": "studies定位到第二段第一句。 早期的研究中证实，人们对兴趣的本质持有不同 的看法，即存在分歧。C)中的divided对应原文中 的different，故为答案。 【避错】文章第二段第二句提到那些具有兴趣增长 型思维的人倾向于认为兴趣是可以发展和培养 的，并不是说兴趣会随年龄而改变，故排除A);B) “人们的兴趣决定他们的思维方式”和D)“不同年 龄的人有不同的思维方式”均未在文中提及， 故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What is the focus of professor O'Keefe's recent research?",
+              "stemCn": "【定位】由题干中的ProfessorO'Keefe'srecent",
+              "options": {
+                "A": "How boundaries can be removed betweenarts and science disciplines.",
+                "B": "How feasible it is to create new disciplineslike computationaleconomics.",
+                "C": "How students in arts andsciences view the two typesofmindsetof interest.",
+                "D": "How a growth mind set of interest can contribute to cross-disciplinary thinking."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，在这些发现的"
+              },
+              "answer": "D",
+              "analysis": "research定位到第二段第三句。 基础上，最新的研究检验了兴趣增长型思维是如 何促进跨人文和科学的传统学科边界的综合性思 维的。因此，奥基夫最近的研究重点即兴趣增长 型思维模式如何促进跨学科思维，故答案为D)。 【避错】定位句中提及跨越学科界限的综合性思 维，而不是消除学科之间的界限，故排除A)；B)中 提到的创造像计算经济学这样的新学科只是研究 参与者的一项任务，并非奥基夫教授的研究主题， 故排除B);C)在文中未提及，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author want to illustrate withtheexampleofsmartphones?",
+              "stemCn": "【定位】由题干中的 smartphones定位到第四段第",
+              "options": {
+                "A": "Hi-tech products are needed in interdisciplinary research.",
+                "B": "Improved technology gives birth to highly popularproducts.",
+                "C": "Making innovative products needs multidisciplinary knowledge.",
+                "D": "Hi-tech products can boost people's integrative thinking."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句提到以智能手机为"
+              },
+              "answer": "C",
+              "analysis": "二句。 参考译文 例，而举例子的目的可在下文找到。该段后两句 提到，你不仅需要计算机科学和工程知识，还需要 对心理学和视觉设计有所理解，才能创造出更好 的产品。而具有成长型思维的员工更可能谋划出 跨越多个知识领域的创新想法，以实现更好的解 决方案。由此可见，制造创新性产品需要具备多 学科知识，故答案为C)。 【避错】A)“跨学科研究中需要高科技产品”和B) “技术改进会产生受欢迎的产品”在文章中并未提 及，故排除；结合第四段内容，可推断出是人的综 合性思维会促进一些高科技产品的诞生，因此可 排除D)。"
+            },
+            {
+              "num": 55,
+              "stem": "What is the authors suggestion to those who are see king employment?",
+              "stemCn": "【定位】由题干中的seeking employment定位到",
+              "options": {
+                "A": "Learning practical skills.",
+                "B": "Broadening their interests.",
+                "C": "Staying safe in the pandemic.",
+                "D": "Knowing their pressing issues."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，兴趣增长型思"
+              },
+              "answer": "B",
+              "analysis": "最后一段第一句。 维的好处也可能延伸到那些寻求就业的人身上。 该段最后解释说，拥有兴趣增长型思维可以帮助 求职者拓展兴趣，更好地适应不同领域。由此可 知，求职者应当拓展兴趣，以增加就业机会，故答 案为B)。 【避错】文中并未提及A）“学习一些实用技能”和 第二句提到就业是一个紧迫的问题，因为许多人 由于COVID-19疫情而失业，而不是说找工作的 人要了解他们的紧迫问题，故排除D)。 (51)从气候变化到目前的大流行病以及其他问题，当今世界的问题越来越复杂和多变。然而，解决这 些问题需要一些超越传统思维方式的新方法。耶鲁大学职业心理学教授保罗·奥基夫领导的一项研究 发现，拥有兴趣增长型思维的人可能会激发这种类型的创新。 (52)奥基夫教授在早期的研究中证实，人们对兴趣的本质持有不同的看法。那些具有兴趣增长型思 维的人倾向于认为兴趣是可以发展和培养的，而那些具有兴趣固定型思维的人倾向于认为兴趣是与生俱 来的，只需要被“发现”。(53)在这些发现的基础上，最新的研究检验了兴趣增长型思维是如何促进跨人文 和科学的传统学科边界的综合性思维的。 例如，在一项任务中，研究参与者被要求通过合并其大学现有的两个或多个人文或科学学术课程来 创建新的大学专业。在对他们产生的想法进行编码和分析后，研究小组发现，具有兴趣增长型思维的人 更有可能在文科和理科之间架起桥梁，创设新的专业，如计算经济学，而不是仅通过一个领域的专业来创 设，如计算化学。 正如奥基夫教授所指出的，“这项研究为那些需要融合产品和服务和需要创造性解决方案的组织提 供了一个有用的方向。（54)以智能手机为例，你不仅需要计算机科学和工程知识，还需要对心理学和视觉 设计有所理解，才能创造出更好的产品。具有增长型思维的员工也许会更有可能想出跨越多个知识领域 的创新方法，以获得更好的解决方案。” 2021.12/61(第3套) (55)兴趣增长型思维的好处也可能延伸到那些寻求就业的人身上。这是一个紧迫的问题，因为许多 人由于COVID-19疫情而失业。拥有兴趣增长型思维可以帮助求职者拓展兴趣，更好地适应不同领域， 并主动学习新技能。 Part Translation Dujiangyan is located on the Minjiang River in the western part of the Chengdu Plain,about 50 kilometers from Chengdu. Its construction began in the third century BC. What characterizes it most is that it can regulate the flow of water without a dam. For more than 2,000 years, Dujiangyan has effectively served the purposes of flood prevention and irrigation,making the Chengdu Plain a fertile land that ensures stable yields despite drought or excessive rain and one of the major grain-producing areas in China. This project embodies the wisdom of the Chinese people to coexist in harmony with nature and is the oldest water conservancy project in the world that is still in use and controls water without a dam. Three Gorges Dam三峡大坝 channel 水渠 hydraulic engineering 水利工程 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "都江堰(Dujiangyan）坐落在成都平原西部的岷江上，距成都市约50公里，始建于公元前三世纪。 它的独特之处在于无需用堤坝调控水流。两千多年来，都江堰一直有效地发挥看防洪与灌溉作用， 使成都平原成为旱涝保收的沃土和中国最重要的粮食产地之一。都江堰工程体现了我国人民与自 然和谐共存的智慧，是全世界年代最久、仍在使用、无坝控水的水利工程。 2021-12-CET4(第3套)-6 ===== PAGE 7 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

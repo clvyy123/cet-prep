@@ -1,0 +1,421 @@
+{
+  "id": "cet4-2021_12_2",
+  "level": 4,
+  "year": 2021,
+  "month": 12,
+  "setNo": "第2套",
+  "title": "2021年12月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Suppose youruniversity studentunion isplanning to hold a speechcontest.You arenowto write a proposal for organizingthe contest. The proposal may include the topic,aim, procedureand selection of contestants.You will have 3Ominutes to write theproposal.You shouldwrite atleast120 wordsbut no morethan180words. PartII",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_2-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 3 and 4 are based on the news report you have just heard.",
+          "material": "Question 3. What does the news report say about the white sheep prickles? Question 4. What does the family do after the bush fires? News Report 3. Tons of gold have fallen out the sky in Russia, after a cargo plane malfunctioned in midair this morning. The aircraft was carrying 265 million pounds worth of gold and diamonds when the door flew open, sending the precious metal back to Earth. According to the official news agency, Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each. The plane was travelling from Yakuza airport in a major diamond producing region to the city across Nau Yurask in Siberia. However, the aircraft made an emergency landing in Magan, after it began losing some of valuable cargo. Reports suggest some bars of gold was scattered up to 15 miles away from the airport. Nine tons of gold on plain A N 12 belonged to a gold mine company. Please have sealed off the runway and say it is unclear if it was an accident or an attempted robbery. Technical engineers who worked on the plane prior to take off are reportedly going to be The news report you have just heard. Question 5. What is the news report mainly about? Question 6. What do the aircraft do when the incident happened? Question 7. What does the news reports say about the technical engineers who worked on the plane before take off.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What does the news report say about the white",
+              "stemCn": "",
+              "options": {
+                "A": "It was born 13 years ago.",
+                "C": "It got injured in a big bush fire."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。新闻中提到，一只名叫普里"
+              },
+              "answer": "D",
+              "analysis": "sheep Prickles? 克尔斯的白色绵羊在2013年的丛林大火中逃走， 这只小羊逃到了附近的森林里。因此，答案为D)。"
+            },
+            {
+              "num": 4,
+              "stem": "What did the family do after the bushfires?",
+              "stemCn": "",
+              "options": {
+                "A": "Theyrebuilt the fencing around their farm.",
+                "B": "They spent seven years replanting their farm.",
+                "C": "Theyclaimeddamages for their heavy losses.",
+                "D": "It ran away into a nearby forest."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。新闻中提到，大火过后，他们"
+              },
+              "answer": "A",
+              "analysis": "不得不修复火灾对农场造成的损坏，其中包括重建 约50公里的围栏。因此，答案为A)。 Questions 5 to 7 are based on the news report you have just heard. (5)Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning. The aircraft was carrying 265 million pounds worth of gold and diamonds,when the door flew open sending the precious metal back to earth. 2021.12/39(第2套) According to the official news agency,Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each. The plane was traveling from Yakutsk Airport in a major diamond-producing region to the city Krasnoyarsk in Siberia. (6)However,the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo. Reports suggest some bars of gold were scattered up to 15 miles away from the airport. Nine tons of gold on plane AN-12 belonged to a goldmine company. Police have sealed off the runway,and say it is unclear if it was an accident or an attempted robbery. (7)Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police."
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2021_12_2-A.mp3",
+        "B": "/audio/papers/cet4-2021_12_2-B.mp3",
+        "C": "/audio/papers/cet4-2021_12_2-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Humansarecreaturesofhabit. Welovetoestablisharoutineandstickwithit. Then we often put\nB) To tell the truth, interesting people aremorepopularamongtheirfriends. If you don'taro use\nD) Oh, no, I thought. Have I become boring?Butsharing our experiences in an authentic way to connect\nE) \"If someone is making up some conversation that might be interesting, it's probably not going to land\nF) The most interesting people aren't those who've gone on some Eat, Pray, Love journey to find\nG) This is essentially how Jessica Ha gy starts her day. The author of How to Be Interesting: An\nH) Think about the everyday things around you and ask questions about them. What is that road side\nI) Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for\nJ) Of course, it's possible to be a fountain of knowledge and a boring person, says public relations\nK) \"If the listener is not paying attention, it's your sign to shorten the story or change direction. Make\nL) Being relatable is also essential, Morrissey says. \"The best entertainment and storytelling comes from\nM) I have now come to realize that being boring, in actuality, is not only about who you are as a person,",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Pirson claims that some ordinary things may often prove to be miraculously interesting.",
+              "stemCn": "【定位】由题干中的Pirson、ordinarythings和",
+              "options": {},
+              "optionCn": {
+                "F": "段第三、四句。 F"
+              },
+              "answer": "F",
+              "analysis": "聊的事情可能一点儿也不无聊，而是很小的奇迹。 题干中的ordinary things对应原文中的 boring things，题干中的miraculously对应原文中的 miracles，故答案为F)。"
+            },
+            {
+              "num": 37,
+              "stem": "To make a conversation interesting, it is important that you listen to the other party attentively.",
+              "stemCn": "【定位】由题干中的 listen to the other party 和",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句。"
+              },
+              "answer": "J",
+              "analysis": "方都感兴趣，关注听者是很重要的一部分。题干 中的 To make a conversation interesting 对应原 文中的 having a conversation that's interesting to both parties,题干中的 listen to the other party attentively 对应原文中的 Paying attention to the listener，故答案为J)。"
+            },
+            {
+              "num": 38,
+              "stem": "A person who is unable to stimulateothers’curiosity or make their life enjoyable may appear",
+              "stemCn": "【定位】由题干中的 stimulate others'curiosity以",
+              "options": {},
+              "optionCn": {
+                "B": "段第二句。"
+              },
+              "answer": "B",
+              "analysis": "起别人的好奇心或是点亮别人的生活，你也许会 给人留下有点沉闷的印象。题干中的stimulate others'curiosity 对应原文中的 arouse someone's curiosity,题干中的make their life enjoyable对应 原文中的brighten someone's day，故答案为B)。"
+            },
+            {
+              "num": 39,
+              "stem": "Interesting people usually possess certain unique qualities, according to a Tv program producer.",
+              "stemCn": "【定位】由题干中的 certain unique qualities和 a",
+              "options": {},
+              "optionCn": {
+                "I": "段第二句。"
+              },
+              "answer": "I",
+              "analysis": "制作人认为一个有趣的人会有一个强烈的观点、 标志性的风格，或对某一特定领域充满热情。题 干中的a TVprogram producer 对应原文中的 she，也就是前文中提到的Televisionveteran Audrey Morrissey,executive producer of NBC's The Voice，题干中的 certain unique qualities 对应 原文中的individuality以及下一句中的具体解释： Having a strong point of view,signature style,or being a super-enthusiast in a particular field,故答 2021.12/46(第2套） 案为I)。"
+            },
+            {
+              "num": 40,
+              "stem": "Be interested in other sand they are sure to be interested in you.",
+              "stemCn": "【定位】由题干中的Be interestedinothers以及",
+              "options": {},
+              "optionCn": {
+                "M": "段"
+              },
+              "answer": "M",
+              "analysis": "第四句。 一些兴趣，他们也一定会向你表现出一些兴趣。 题干中的Be interested in others 对应原文中的 Show some interest in them,题干中的 they are sure to be interested in you 对应原文中的 they will definitely show some in you,故答案为M)。"
+            },
+            {
+              "num": 41,
+              "stem": "Theauthorconsiders himself usually good atconducting conversations.",
+              "stemCn": "【定位】由题干中的Theauthor、himself、usually",
+              "options": {},
+              "optionCn": {
+                "C": "段"
+              },
+              "answer": "C",
+              "analysis": "第二句。 是一个很健谈的人。题干中的Theauthor和 himself对应原文中的I,题干中的usually对应原 文中的 Ordinarily,题干中的 good at conducting conversations对应原文中的a good conversationalist，故答案为C)。"
+            },
+            {
+              "num": 42,
+              "stem": "Interesting people are always full of curiosity.",
+              "stemCn": "【定位】由题干中的Interesting people、always和",
+              "options": {},
+              "optionCn": {
+                "G": "段最后一句。 E"
+              },
+              "answer": "G",
+              "analysis": "充满好奇心。题干中的Interesting people对应原 文中的Peoplewhoare interesting，题干中的 always 对应原文中的persistently，题干中的full of curiosity 对应原文中的 curious，故答案为G)。"
+            },
+            {
+              "num": 43,
+              "stem": "Falling into a routine can ttml a person into an utter bore.",
+              "stemCn": "【定位】由题干中的Fallingintoaroutine和an",
+              "options": {},
+              "optionCn": {
+                "A": "段第五句。"
+              },
+              "answer": "A",
+              "analysis": "参考译文 会让人变得异常无聊。题干中的Fallingintoa routine 对应原文中的 too much of a routine，题干 中的an utter bore对应原文中的makeyou incredibly boring,故答案为A)。"
+            },
+            {
+              "num": 44,
+              "stem": "One strategy to be a goodconversationalistis to motivate your partner to tell their own stories.",
+              "stemCn": "【定位】由题干中的Onestrategy、agood",
+              "options": {},
+              "optionCn": {
+                "K": "段最后一句。"
+              },
+              "answer": "K",
+              "analysis": "conversationalist 和 motivate your partner to tell 下一种印象，让别人觉得你是一个出色的谈话伙 伴，一个策略就是让别人谈论他们自己。题干中 的a good conversationalist 对应原文中的you're a sparkling conversation partner，题干中的 motivate your partner to tell their own stories 对 应原文中的 get others to talk about themselves, 故答案为K)。"
+            },
+            {
+              "num": 45,
+              "stem": "Interesting as it might appear, a made-up conversation will probably turnout to be dull.",
+              "stemCn": "【定位】由题干中的Interesting as itmight",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "段第一句。 【精析】同义转述题。定位句提到，如果有人正在 编造一些也许比较有趣的对话，不一定会有很好 的结果。题干中的Interesting as it might appear 对应原文中的mightbeinteresting，题干中的a made-up conversation 对应原文中的 making up some conversation，题干中的dull对应原文中的 not going to land well，故答案为E)。 如何变得不无聊 常规能在帮助你完成任务这一方面非常有用。（43)但是，过于墨守成规也会让你变得异常无聊。然 而，很多人过着无聊的可被预测的生活，或是某种一切都被勾画好或规划好的生活。 活，你也许会给人留下有点沉闷的印象。但是那并不意味着你的生活就此结束，而你无法做任何事情 来改变它。如果你发现自己在聊天之余还在寻找其余话题，尝试以下这些策略来寻找一些让聊天更 有趣的方法。 最近，在和同事的一次聚会中，有人问我，“你有碰到什么新鲜的事情吗?”(41)通常来讲，我认为我是 一个很健谈的人。毕竟,我的工作就是与人交流，讲述他们的故事或分享他们的建议。那并不是一个 无法预测的问题。唯一让我想到的“对我而言新颖”的话题是我女儿的篮球锦标赛以及我对于那个上 午的政治新闻的感受一在那一刻既无趣又不恰当的话题。 2021.12/47(第2套) 的经历，来和其他人建立联系是让我们变得有趣的方式。我对于不想分享生活中普通事情的迟疑以 及在大脑中疯狂搜寻更有意思的事情，也许会事与愿违，而让我看起来更加无趣。 趣的对话，不一定会有很好的结果。这将会给别人一种刻意营造的对话的感觉，人们不一定愿意加入 到对话中。” 普通事物的人。(36)他说:“通常来说，无聊的事情'可能一点儿也不无聊。也许它们实际上是很小 的奇迹。”把你对于周围世界的观察分享出来—你听到的有趣的故事或是你留意到的事情—你可 能会惊讶于它们激发出来的普遍联系。 间思考对于她而言什么是有趣的事情。（42)她说，有趣的人总是充满好奇心。 么？是谁在我的城市里建造了那个有趣的建筑？附近的哪些景点是我还没有去过的？为什么人们用 那种方式做事？用你发现的东西询问更多的问题并且更多地了解你周围的世界。她说：“拥有那种好 奇心几乎就像拥有一件防止变得无聊的防护装备。”当你发现对你来说的确非常有趣的事情，分享 它们。 I 电视界资深人士、美国全国广播公司的《美国之声》的执行制片人奥黛丽·莫里西经常在寻找能让一 个人或一个故事吸引观众的东西：（39)这通常是个性问题。她说：“有一个强烈的观点、标志性的风 格，或对某一特定领域充满热情，这些都能让人变得有趣。”那意味着拥抱对你而言真正有趣或独特的 事物。“很多人通过与人交谈或擅长社交聚会等变得不再无聊'。变得有趣意味着你生活过，经历过 风险，旅行过，寻找机会学习并与人分享，”她说。 方都感兴趣，关注听者是很重要的一部分。她说，不停地谈论自己感兴趣的事情，并不会让你成为一 个有趣的人。 话就不会是片面的。”你自己要成为一个更好的倾听者，通过提出问题或请求，让他们分享自己的经历 或想法，从而给其他人一些机会来参与到对话中。（例如:“现在，跟我谈谈你最喜欢的书，”或“你曾经 去过那个景点吗?”)提问是一个有力的工具，尤其是当他们鼓励其他人说出自己的信息时。加州大学 圣巴巴拉分校在2012年的一项研究发现，在我们谈话的时候，大约有40%的时间，我们都在透露自 己对于个人经历的主观感受。当我们这样做的时候，我们的大脑更投入。（44)所以，要想给别人留下 一种印象，让别人觉得你是一个出色的谈话伙伴，一个策略就是让别人谈论他们自己。 些勇于敞开心扉并和其他人自由分享他们自己以及他们在乎的事情的人。这些是观察者们最容易建 立联系并且感兴趣的人。真实可靠、诚实、脆弱的人总是有趣的人。” 一定要有乐趣。因为当你享受的时候，你周围的人也会开始享受。（40)对他人表现出一些兴趣，他们 也一定会向你表现出一些兴趣。如果你是一个非常内敛的人，一开始可能会有点困难。但是，只要稍 加努力，你肯定会有所改进。 2021.12/48(第2套)"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_12_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Withobesitynowaffecting 29%oft he population in england, andexpectedtoriseto 35%by 2030, should we now recognise it as a disease?Obesity, in which excess body fathasaccumulatedto such an extentthathealthmaybeadversely affected, meetsthedictionarydefinitionof disease, arguesProfessor JohnWilding. Hepointsoutthatmorethan 200genesinfluenceweight.\"Thus body weight is strongly influencedbybiology-it is not an individual'sfaultiftheydevelopobesity.”Yet the widespread view is that obesity is self-inducedandthat it is entirelytheindividual'sresponsibility to do something about it. Recognisingobesityasa chronic diseasewithseverecomplicationsratherthana lifestyle choice\"should help reduce the stigma(耻辱) and discrimination experienced by many people with obesity,\"he adds. Professor Wilding disagreesthatlabellinga highproportionofthepopulationashaving a disease removespersonalresponsibilityormayoverwhelmhealth services, pointingoutthatother common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people withobesitywilleventually developcomplications.\"But unless we accept that obesity is a disease, we are not going to be able to tackle it,\"heconcludes. But dr. RichardPile, a physician with a specialinterestindiabetes, arguesthatadoptingthis approach“could actually result inworseoutcomesforindividualsandsociety.”He belie vest hat the dictionary definition of disease\"is so vague that we canclassifyalmostanything as a diseaseandsays the question is not whether we can, but whether we should, and to what end. If label ling obesity as a diseasewasharmlessthenitwouldn'treallymatter, hewrites. But label ling obesity as a disease“risksreducingautonomy, disempoweringandrobbingpeopleoftheintrinsic(内在 的) motivation that is such an importantenablerofchange.”What's more, makingobesity a disease\"may notbenefitpatients, but itwillbenefithealthcareprovidersandthepharmaceutical(制药的) industry when health insurance and clinical guidelines promote treatment with drug sand surgery,\"he warns.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does ProfessorJohn Wilding argue about obesity?",
+              "stemCn": "【定位】由题干中Professor John Wilding定位至",
+              "options": {
+                "A": "Its impact on society is expected to rise. 2021-12-CET4(第2套）-6 ===== PAGE 7 =====",
+                "B": "It is now too widespread to be neglected.",
+                "C": "It should be regarded as a genetic disease.",
+                "D": "Its dictionary definition should be updated."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句提到，约翰·怀尔丁"
+              },
+              "answer": "C",
+              "analysis": "第一段第二、三句。 教授认为肥胖符合字典对疾病的定义。他指出， 有200多个基因影响体重。由此可知，肥胖是一 种受基因影响的疾病，故答案为C)。 【避错】第一段第一句提到，预计到2030年，将有 35%的英国人口受肥胖影响，但是这并不是约 翰·怀尔丁教授的看法，故排除A)；原文中并没 有提到肥胖是否已不容忽视，故排除B)；原文第 一段第二句只是说肥胖符合疾病的字典定义，而 没有说应该更新肥胖的字典定义，故排除D)。 B)"
+            },
+            {
+              "num": 47,
+              "stem": "What is the popular view of obesity?",
+              "stemCn": "【定位】由题干中 the popular view of obesity 定",
+              "options": {
+                "A": "It is difficult to define.",
+                "B": "It is a modern disease.",
+                "C": "It has much to do with one's genes.",
+                "D": "It results from a lack of self-control."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句提到，普遍的观点是，"
+              },
+              "answer": "D",
+              "analysis": "位至第一段第五句。 肥胖是自己造成的，对此做些什么完全是个人的 责任。由此可知，人们普遍认为肥胖是个人因素， 是由于缺乏自控力导致的，故答案为D)。 【避错】A)“很难定义”与B)“它是一种现代疾病” 在原文中均未提及，因此排除；第一段第四句提到 生物学对体重影响极大，但这是约翰·怀尔丁教 授的看法，而非人们的普遍观点，故排除C)。"
+            },
+            {
+              "num": 48,
+              "stem": "Why are some people opposed to label ling obesity as a disease?",
+              "stemCn": "【定位】由题干中 labelling obesity as a disease 定",
+              "options": {
+                "A": "Obese people would not feel responsible to take any action.",
+                "B": "Obese people would not be able to afford the medical costs.",
+                "C": "Obese people would be overwhelmed with anxiety.",
+                "D": "Obese people would be disc rim in a ted against."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句提到，将较高比例的"
+              },
+              "answer": "A",
+              "analysis": "位至第二段第一句。 人口贴上患病的标签会使个人责任消失，或者可 能使医疗服务不堪重负，怀尔丁教授不同意这一 观点。反过来说，人们反对将肥胖列为疾病，就是 认为这样做的话会让肥胖者认为自己没有责任， 不需采取任何行动，故答案为A)。 【避错】B)“肥胖的人负担不起医疗费用”与C)“肥 胖的人会被焦虑压倒”在原文中均未提及，因此排 除；原文第一段最后一句提到，将肥胖列为疾病有 助于减少肥胖者遭受的歧视，虽然D)的意思与原 文内容相符，但是与题干不符，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What does Dr. Richard Pile think of the dictionary definition of disease?",
+              "stemCn": "【定位】由题干中Dr．RichardPile和the",
+              "options": {
+                "A": "It is of no use in understanding obesity.",
+                "B": "It is too inclusive and thus lacks clarity.",
+                "C": "It helps little to solve patients' problems.",
+                "D": "It matters little to the debate over obesity."
+              },
+              "optionCn": {
+                "B": "。 【避错】",
+                "A": "“它对了解肥胖是没有用的”、",
+                "C": "“它对 解决病人的问题帮助不大”和",
+                "D": "“这与对肥胖的"
+              },
+              "answer": "B",
+              "analysis": "dictionary definition of disease定位至第三段第 二句。 【精析】细节辨认题。定位句提到，理查德·派尔 医生认为，字典上对疾病的定义“如此模糊，以至 于我们几乎可以将任何事物归类为疾病”。也就 是说，疾病的定义范围太大，缺乏清晰度。因此本 争论无关”三项在原文中均未提及，因此排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What is Dr. Richard Pile's concern about classifying obesity as a disease?",
+              "stemCn": "【定位】由题干中Dr.RichardPile'sconcern和",
+              "options": {
+                "A": "It may affect obese people's quality of life.",
+                "B": "It may accelerate the spread of obesity.",
+                "C": "It may cause a shortage of doctors.",
+                "D": "It may do little good to patients."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句提到，理查德·派尔"
+              },
+              "answer": "D",
+              "analysis": "obesity as a disease 定位至第四段第三句。 医生警告说，将肥胖看作一种疾病可能不会给患 者带来好处，因此确定答案为D。 【避错】A)“它可能会影响肥胖人群的生活质量”、 医生的短缺”三项在原文中均未提及，因此排除。 2021.12/49(第2套) 参考译文 如今，有29%的英国人受肥胖影响，而这个数据预计2030年会上升至35%。我们现在应该把肥胖视 为一种疾病吗？（46)约翰·怀尔丁教授认为，肥胖是指体内多余的脂肪堆积到对健康造成不利影响的程 度，符合字典对疾病的定义。他指出，有200多种基因会影响体重。“因此，生物学对体重影响极大——发 胖并不是个人的错。”(47)然而，普遍的观点是，肥胖是自己造成的，对此做些什么完全是个人的责任。承 认肥胖是一种带有严重并发症的慢性疾病,而不是一种生活方式的选择“应该有助于减少许多肥胖人士 所经历的耻辱和歧视，”他补充道。 (48)将较高比例的人口贴上患病的标签会使个人责任消失，或者可能使医疗服务不堪重负，怀尔丁教 授不赞同这一观点。他指出，其他常见疾病，如高血压和糖尿病，需要人们采取行动来控制自己的病情。 他认为，大多数肥胖患者最终都会出现并发症。“但除非我们承认肥胖是一种疾病，否则我们将无法解决 它，”他总结道。 但对糖尿病特别感兴趣的理查德·派尔医生认为，采用这种方法“实际上可能对个人和社会造成更 糟糕的后果”。（49)他认为，字典上对疾病的定义“如此模糊，以至于我们几乎可以将任何事物归类为疾 病”。他说，问题不在于我们是否可以，而在于我们是否应该，以及目的是什么。 他写道，如果把肥胖列为一种疾病不会产生危害，那就没什么影响。但是，把肥胖视为一种疾病“可能 会降低人们的自主权，削减并剥夺人们内在的动力，而这种动力是推动改变的重要因素。”(50)此外，他警 告说,将肥胖看作一种疾病“可能不会给患者带来好处,但当医疗保险和临床指南提倡药物和手术治疗 时，它将使医疗保健服务提供者和制药行业受益。” Passage Two 【文章来源】本文选自2019年11月28日刊登在hechingerreport.org(赫金格报告网站)上的一篇标题为“Whatis itlike to bea male teacher in early ed?\"(《成为幼教男老师是什么感受?》)的文章。 【结构框图】 第1、2段说明了男性幼儿教师对儿童身心发展的重要性。 第3段介绍了男性幼儿教师面临的问题，既有来自社会和文化的阻力，也有来 本文主要讨论了缺少男 性幼儿教师的问题。 自家长的担心。 ：第4—6段介绍了解决缺少男性幼儿教师的办法，包括加薪、建立支持小组等。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_12_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender. \"In our world and our society, we have very specific stereotypes (模式化形象) of gender roles,\" said Mind i Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children. Reich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long -term. The report suggests paying all early childhood educators the way elementary school teachers are paid Cities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders. The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fat hers. 2021-12-CET4(第2套)-7 ===== PAGE 8 =====",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn from the first paragraph about early childhood education in the U.S.?",
+              "stemCn": "【定位】由题干中 thefirst paragraph定位至第",
+              "options": {
+                "A": "It helps raise children's awareness of genderroles.",
+                "B": "It exposes children to different ways of interaction.",
+                "C": "It is negatively impacted by a lack of male teachers.",
+                "D": "It clearly aims to formchildren'sidentity through play."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位段提到，在整个美国范"
+              },
+              "answer": "C",
+              "analysis": "一段。 围内，只有大约3%的幼儿教师是男性。专家表 示，这可能会对儿童产生影响，他们对性别角色和 身份的理解正在迅速形成。研究发现，接触不同 类型的老师对孩子是有益的。由此可知，男性幼 儿教师的缺乏会对儿童产生不利的影响，因此确 定答案为C)。 【避错】A)、B)两项混淆了原文的概念。原文指的 是如果儿童接触到不同类型的老师，他们可以接 触到各种各样的游戏和交流，也有助于他们围绕 性别形成健康的观念。而现实是缺少男性幼儿教 师，因此排除A)和B);D)将原文中提到的play和 identity混淆在一起，误解了原文要表达的意思， 故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What doesMindiReich-Shapiro emphasize in her comment on childhood education?",
+              "stemCn": "【定位】由题干中Mindi Reich-Shapiro 定位至第",
+              "options": {
+                "A": "The importance of broadening children's horizons.",
+                "B": "Theresponsibilities off at hers forchildren's growth.",
+                "C": "The urgency of creating teacher education programs.",
+                "D": "The role of teachers inmotivating children to learn."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句提到，让孩子们看到"
+              },
+              "answer": "A",
+              "analysis": "二段第二句。 其他的可能性和他们可以选择的其他道路是很重 要的。也就是说，拓宽孩子的视野是十分重要的， 因此确定答案为A)。 2021.12/50(第2套) 【避错】B)、C)、D)三项都不是明迪·赖希-夏皮 罗所做的评论，因此排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What do we learn about male teachers from their responses in the study?",
+              "stemCn": "【定位】由题干中male teachers from their",
+              "options": {
+                "A": "Some of them find itawkwardwhenhugging children.",
+                "B": "They feel pressured to keep up with female colleagues.",
+                "C": "They find it hard to meet the expectations ofkids'parents.",
+                "D": "Many oft hem feel prejudiced against socially and culturally."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句提到，尽管很大程度"
+              },
+              "answer": "D",
+              "analysis": "responses in the study定位至第三段第一句。 上感觉得到了同事和家人的支持，许多接受该研 究调查的男性教育工作者表示，作为早教教师，他 们在职业生涯中面临着社会或文化阻力。也就是 说，男性幼儿教师经历着社会和文化的偏见，因此 本题答案为D)。 【避错】原文第三段最后一句说的是男性幼儿教师 被建议不要拥抱孩子，而不是男老师他们自己觉 得拥抱孩子很尴尬，因此排除A);B)在原文未提 及；原文第三段第二句提到，有些家长对自己孩子 的老师是男性感到惊讶或担心，并未涉及家长的 期望，因此排除C)。"
+            },
+            {
+              "num": 54,
+              "stem": "What is needed formen to commit to early childhood education?",
+              "stemCn": "【定位】由题干中for men to commit to early",
+              "options": {
+                "A": "Higher pay.",
+                "B": "Job security.",
+                "C": "Social recognition.",
+                "D": "Better working conditions."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句提到，在打算留在早"
+              },
+              "answer": "A",
+              "analysis": "childhoodeducation定位至第四段第三句。 教工作者队伍中的男性教育工作者中，超过70% 参考译文 的人表示，加薪是激励他们长期从事这一职业的 主要因素。由此可以确定anincreasedsalary是 关键词，因此本题答案为A)。 【避错】B)“工作稳定”C)“社会认可”和D)“更好 的工作环境”三项在原文中并未提及，因此排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What do the author soft he study recommend to bridge the gender gap in early childhood education?",
+              "stemCn": "【定位】由题干中recommend tobridgethe",
+              "options": {
+                "A": "Recruiting young men who have a passion for education young children.",
+                "B": "Taking measures to attract prospective male teachers to work in the field.",
+                "C": "Persuading prospective fat hers to consider a change in their career.",
+                "D": "Providing male teachers with more opportunities for advancement."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。第六段首句指出，传统的幼"
+              },
+              "answer": "B",
+              "analysis": "gender gap定位至第六段。 儿教育工作者招聘方法不能解决该领域的性别 差距。第二句提供了解决方法，即通过培训和 志愿者项目为年轻男性提供与孩子一起工作的 机会，目标人群是那些考虑跳槽的男性群体，比 如爸爸们。由此可知，该研究的作者建议吸引 潜在的男老师来从事幼教工作，因此本题答案 为B)。 【避错】A)和D)在原文中并未提及，因此排除；第 六段第二句说的是这些培训和志愿者项目的目标 人群是考虑跳槽的男性群体，比如爸爸们，而不是 说服未来的爸爸们考虑改变他们的职业，因此排 除C。 (51)在整个美国范围内，只有大约3%的幼儿教师是男性。专家表示，这可能会对儿童产生影响，他 们对性别角色和身份的理解正在迅速形成。研究发现，接触不同类型的老师对孩子是有益的。对于最年 幼的学习者来说，这意味着他们更有可能接触到各种各样的游戏和交流。这也有助于他们围绕性别形成 健康的观念。 “在我们的世界和社会中，我们对性别角色有非常具体的刻板印象，”曼哈顿社区学院教师教育系的 助理教授明迪·赖希一夏皮罗说，她是最近一项研究的作者之一。（52)“让孩子们看到其他的可能性和他 们可以选择的其他道路是很重要的。” (53)尽管很大程度上感觉得到了同事和家人的支持，许多接受该研究调查的男性教育工作者表示，作 为早教教师，他们在职业生涯中面临着社会或文化阻力。一些人还报告说，有些家长对自己孩子的老师 是男性感到惊讶或担心。他们的同事或其他工作人员建议他们不要拥抱孩子。 赖希一夏皮罗和其他研究人员提出了一些建议，以增加男性在该领域的代表性。低工资长期以来一 直被认为是儿童早期教育领域的一个主要问题。（54)在打算留在早教工作者队伍中的男性教育工作者 中，超过70%的人表示，加薪是激励他们长期从事这一职业的主要因素。该报告建议像支付小学教师的 工资一样支付所有的幼儿教育工作者。 城市和项目应为男性幼儿教育工作者建立支持小组，并为男性教育工作者及其项目负责人提供职业 辅导制度和专业发展建议。 (55)作者还建议，传统的幼儿教育工作者招聘方法“不能解决该领域的性别差距”。他们建议通过培 训和志愿者项目为年轻男性提供与孩子一起工作的机会，目标人群是那些考虑跳槽的男性群体，比如爸 爸们。 2021.12/51(第2套) Part I Translation Karez, a kind of water conservancy system in the droughty area of Xinjiang, is formed with wells connected by underground channels. This system collects lots of rainwater and snowmelt seeping into the ground in spring and summer and drains it to the ground surface through the natural slope of the mountain to irrigate the farmland and meet people's daily needs. Karez reduces the evaporation of water on the ground surface with minimal damage to it, thus effectively protecting the natural resources and ecological environment. It embodies the wisdom of the Chinese people to coexist in harmony with nature and is a great contribution to the human civilization. tunnel 地道，隧道 be linked together 相互连接 geological conditions 地质条件 intelligence 智力，智慧 underground water 地下水 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "坎儿井(Karez)是新疆干旱地区的一种水利系统，由地下渠道将水井连接而成。该系统将春夏 季节渗入(seep into)地下的大量雨水及积雪融水收集起来，通过山体的自然坡度引到地面，用于灌 溉农田和满足人们的日常用水需求。坎儿井减少了水在地面的蒸发(evaporation)，对地表破坏很小， 因而有效地保护了自然资源与生态环境。坎儿井体现了我国人民与自然和谐共存的智慧，是对人 类文明的一大贡献。 2021-12-CET4(第2套)-8 ===== PAGE 9 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

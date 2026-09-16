@@ -1,0 +1,503 @@
+{
+  "id": "cet4-2023_06_1",
+  "level": 4,
+  "year": 2023,
+  "month": 6,
+  "setNo": "第1套",
+  "title": "2023年6月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Suppose your university is conducting a survey to collectstudents'opinions of online classes. You are to write a response to the surveyabout theiradvantagesand disadvantages,and what improvements can bemade.You willhave30minutes forthe task.You shouldwrite at least120 wordsbutno more than 180words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choicesgiven in a word bank following the passage. Read the passage through care fully beforemaking yourchoices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer sheet 2 with a single line through the centre. You may not use any oft he words in the bank more than once. You probably haven'ttakenthetimeto think of all the work thatwentintocreatingthe shirt on your back.I mean, how hard it could be to createfabricand_26__it into a shirt shape. Don't machines do all that?Well, creating fabric from cotton, which is themost_27__clothing material, is videobelowfromNationalGeographicfor some more mind-blowing_29__aboutcottonclothing production. Clean water is__3o__becoming one of the most sought-after resources in the world. Given how large the_31__andcotton industries are, they take up a lot of our fresh water demands across the world, according to The HuffingtonPost. ThevideofromNationalGeographic wascreatedto spread better watermanagementandfarmingpractices, waterusageincottonproductioncanbecut down by 33__40 percent. Called\"Better cotton\",thisenvironmentallyconsciousproductwillsavemillionsoflitersofwater a year simplyfrom_34__the demands of cotton production. Cotton doesn't have to go, since it is, 2023年6月四级真题第1套第3页，共8页 ===== PAGE 4 ===== after all, one of the most useful cash crops across the globe. However, as water supplies 35__, farmers and consumers need to be more conscious oft he effect thattheseproducts have on the environment as a whole.",
+          "wordBank": {
+            "A": "abstracts",
+            "B": "abundant",
+            "C": "awareness",
+            "D": "conscience",
+            "E": "exact",
+            "F": "increasingly",
+            "G": "intense",
+            "H": "mend",
+            "I": "nearly",
+            "J": "reckoning",
+            "K": "reducing",
+            "L": "sew",
+            "M": "shrink",
+            "N": "statistics",
+            "O": "textile"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前有连词and，说明本空填入的"
+              },
+              "answer": "L",
+              "analysis": "词与and之前的create并列，因此本空应填入动 词原形。 【语义判断】空格所在句指出，制作布料并 成衬衫的形状有多难。由句意可知，此处 是想表达把布料制成衬衫，因此本空应填人含有 “制造，制作”意义的动词原形，由此确定答案为L） sew。备选的其他动词原形均没有此含义，因此 排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格前有形容词最高级的标志the"
+              },
+              "answer": "B",
+              "analysis": "most，空格后有名词词组clothingmaterial，因此 本空应填入形容词。 【语义判断】空格所在句指出，棉花是最 服装材料。将备选项中的形容词代入句中，只有 案为B）。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前有系动词be，因此本空应填人"
+              },
+              "answer": "E",
+              "analysis": "形容词。 【语义判断】空格所在句指出，用棉花来制作织物 实际上是一个需要大量用水的过程，每件衬衫需 要2,700升的水， 。本句提供了一个用棉 花制作织物所需水量的准确数字，因此本空应填 入含有“准确的，确切的”意义的形容词，由此确定 答案为E）exact。tobeexact表示“准确地说，确 切地说”。备选的其他形容词均没有此含义，因此 排除。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格前有形容词mind-blowing，因此"
+              },
+              "answer": "N",
+              "analysis": "本空应填入名词。 第7页，共15页 【语义判断】空格所在句的意思是，看看下面《国家 地理》杂志的视频，就可以知道更多关于棉质服装 生产的令人震惊的 。前一句已经提供了 一个惊人的数字——2，700，而空格前又出现了 more，因此本空应填入含有“数字，数据”意义的名 词，由此确定答案为N）statistics。备选的其他名 词均没有此含义，因此排除。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格位于谓语动词is becoming之间，"
+              },
+              "answer": "F",
+              "analysis": "因此本空应填入副词。 【语义判断】空格所在句的意思是，净水正 成为世界上最受欢迎的资源之一。由常识可知， 人们对净水的需求日益增多，因此本空应填入含 有“日益地，越来越多地”意义的副词，由此确定答 案为F）increasingly。备选的其他副词均没有此 含义，因此排除。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "textile。备选的其他名词"
+              },
+              "answer": "O",
+              "analysis": "0)【语法判断】空格前有定冠词the，因此本空应填入 名词，并和and后面的cotton并列。 【语义判断】空格所在句的意思是，据《赫芬顿邮 报》报道，考虑到 和棉花工业的规模，它们 占用了全球大量的淡水需求。本文第一段中提到 制造衬衫需要大量的水，而将棉花做成衬衫涉及 纺织业，因此本空应填入含有“纺织业”意义的名 均没有此含义，因此排除。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前有及物动词spread，后面是of"
+              },
+              "answer": "C",
+              "analysis": "介词词组，因此本空应填入名词。 【语义判断】空格所在句的意思是，这段来自《国家 地理》的视频是为了传播棉花对环境危害的 。由句意可知，该视频的目的是让人们知 参考译文 道棉花对环境的危害，因此本空应填入含有“认识， 意识”意义的名词，由此确定答案为C)awareness。 备选的其他名词均没有此含义，因此排除。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "【语法判断】空格前是介词by，空格后是一个数字，"
+              },
+              "answer": "I",
+              "analysis": "因此本空应填入副词修饰该数字。 【语义判断】空格所在句的意思是，通过更好的水 管理和耕作方式，棉花生产中的用水量可以减少 40%。将备选副词分别代入句中，只有 答案为I。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格前是介词from，空格后是名词短"
+              },
+              "answer": "K",
+              "analysis": "语，因此本空应填入及物动词的-ing形式。 【语义判断】空格所在句的意思是，这种被称为“更 好的棉花”的环保产品，仅通过 棉花生产 的需求，每年就可以节省数百万升水。由句意可 知，如果要节约水，就要减少棉花的产量，因此本 空应填入含有“减少，降低”意义的动词，由此确定 答案为K）reducing。备选的另一个动词-ing形式 reckoning没有此含义，因此排除。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格所在部分是as引导的从句，空格"
+              },
+              "answer": "M",
+              "analysis": "前的watersupplies是从句的主语，因此本空应填 入动词作谓语。 【语义判断】空格所在句的意思是，然而，随着水 供应 ，农民和消费者需要更加意识到这 些产品对整个环境的影响。备选动词中，虽然 不能作谓语，由此确定答案为M）shrink“减少”。 其他备选动词不符合句意，因此排除。 你可能还没有花时间想过你身上这件衬衫的制作过程。我的意思是，制作布料并缝制成衬衫的形状 有多难。机器不都能做到吗？其实，棉花是最充足的服装材料，用它来制作织物实际上是一个需要大量用 水的过程，准确地说，每件衬衫需要2，700升的水。看看下面《国家地理》杂志的视频，就可以知道更多关 于棉质服装生产的令人震惊的统计数据。 净水正日益成为世界上最受欢迎的资源之一。据《赫芬顿邮报》报道，考虑到纺织和棉花工业的规模， 它们占用了全球大量的淡水需求。这段来自《国家地理》的视频是为了传播棉花对环境是多么有害的意 识。但这种情况是可以改善的。通过更好的水管理和耕作方式，棉花生产中的用水量可以减少近40%。 这种被称为“更好的棉花”的环保产品，仅通过减少棉花生产的需求，每年就可以节省数百万升水。棉 花并不一定要消失，毕竟它是全球最有用的经济作物之一。然而，随着水供应的减少，农民和消费者需要 更加意识到这些产品对整个环境的影响。 第8页，共15页"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "C) They enable him to enjoy a creative career.\nD) They are affected by the over use of social media.\nB) Many office workers nap during work hours.\nC) Some bosses can concentrate without napping.\nD) Many of his friends day dream in the office.\nA) We're growing more used to chatting to our computers, phones and smart speakers through voice\nB) Out of these assistants, Sir i is the most well-known. The assistant uses voice inquiries and a\nC) Some think voice could soontakeoverfromtypingandclickingas the main way to interact online. But\nD) Whatuseiswritenonlinecontentifyoucan'tread?Thatisthesituationfacingilliterate（不识字的)\nE) \"Themostfrequentlyheardcomplaintisaboutrainfallpredictions,\"saysMr Dittoh, who lives in Tamale,\nF) MrDittoh says the idea of converting online weatherreports into speech came from the farmers\nG) The spoken web could also help the one-in-five adults in Europe and the U.S. with poor reading skills.\nH) So although many computer assistants can answer simple questions about the weather and play music for\nI) Sir i has often been praised for its ability to interpret our casual language and deliver very specific and\nJ) Using voice interaction feels far more intimate than surfing the net the old-fashioned way. This is\nK) But digital voices need more personality to make them popular. Robots are not yet witty, Sir i is boring.\nL) Last year, speech recognition company Nuance helped a doctors' surgery in Dukinfield, near Manchester,\nM) Using voice also makes sense when you're doing other things with your hands. Think about when you're\nA) A luxury for the homeless. C) An abundant source of comforts.\nB) A reward for industriousness. D) An absolute necessity for happiness.\nA) Many Americans'quality of life has become lower.\nB) People from diverse backgrounds no longer socialize.\nC) People no longer have access to public swimming pools.\nD) Many Americans'private life has been negatively affected.\nC) Questions about what lifestyle to promote.\nD) Questions concerning housing development.\nA) One in which the wealthy exploit the low-wage laborersbuilding theirhouses.\nB) One in which the rich purchaseamenities at an increasingly un justifiable price.\nC) One in which the upperclasses deprive the lower classesof affordable housing.\nD) One in which the affluent enjoy am ore comfortable life at the expense of the poor.\nA) Finding ways to turn private spaces into public ones.\nB) Building more houses affordable to those less affluent.\nC) More public spaces created for everyone to enjoy.\nD) All amenitiesmadeaccessible to the rich and the poor alike.\nA) They are more willing to risk their own lives.\nB) They are more ambitious than ordinary people.\nC) They achieve greater nonconventional success.\nD) They have more positive qualities than most of us.\nA) Ambitious people may not have a greater chance of success.\nB) Ambitious people may not have more positive qualities.\nC) Entrepreneurs' ambition does as much good as harm.\nD) Entrepreneurs are more naturally driven to success.\nC) Focusing determinedly on one particular goal.\nD) Avoiding radical change in one's career direction.\nA) Distinguishbetweenconventional success and our life goal.\nB) Follow the example of the most ambitious entrepreneurs.\nC) Avoid taking unnecessaryrisks when starting a business.\nD) Prioritize health and happiness over material success.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "According to Francis Dittoh, their speech-based weather information service was me ant to be",
+              "stemCn": "【定位】由题干中的inexpensive and easy to use定",
+              "options": {},
+              "optionCn": {
+                "F": "段倒数第二句。"
+              },
+              "answer": "F",
+              "analysis": "项服务设计的宗旨是既便宜又易于运行。题干中 的speech-based weatherinformation service指的 是定位句中的Theservice，题干中的inexpensive and easy to use对应定位句中的cheapandeasyto run，故答案为F)。"
+            },
+            {
+              "num": 37,
+              "stem": "Using voice insteadoftypingenables doctors to spend more timetaking care of patients.",
+              "stemCn": "【定位】由题干中的doctors和spendmoretime",
+              "options": {},
+              "optionCn": {
+                "K": "段最后"
+              },
+              "answer": "K",
+              "analysis": "两句。 填写关于患者的在线表格，每分钟可以口述150个 单词，比在键盘上打字快三倍。这使他们能够花更 少的时间在管理上，花更多的时间给病人诊断病 情。题干中的spend more time taking careof patients是对定位句中spend less time on administrationandmore time with patients的归 纳概括，故答案为K）。"
+            },
+            {
+              "num": 38,
+              "stem": "It is extremely difficult to convert voice into text because of different pronunciations.",
+              "stemCn": "【定位】由题干中的extremely difficultto convert",
+              "options": {},
+              "optionCn": {
+                "H": "段末句。"
+              },
+              "answer": "H",
+              "analysis": "voice into text和different pronunciations定位到 音转换成文本也是最难解决的问题之一，因为地球 上有多少人就有多少种发音方法。题干中的 extremelydifficult对应定位句中的oneofthe hardestproblems,题干中的convert voiceinto text对应定位句中的turning your voice into text， 题干中的differentpronunciations对应定位句中 的many ways to pronounce things。题干是对定 位句的总结概括，故答案为H）。"
+            },
+            {
+              "num": 39,
+              "stem": "African farmers unable to read often don't have access to important informationconveyed online.",
+              "stemCn": "【定位】由题干中的Africanfarmersunableto",
+              "options": {},
+              "optionCn": {
+                "D": "段第"
+              },
+              "answer": "",
+              "analysis": "read 和 don't have access to important 二、三句。 识字的农民所面临的情况。他们经常对网络提供 给许多其他人的关键信息无从知晓。题干中的 Africanfarmersunabletoread对应定位句中的 illiterate Africanfarmers，题干中的don'thave access是对定位句中denied的同义转述，题干中 的importantinformationconveyedonline对应定 位句中的crucialinformationtheweboffers，故答 案为D）。"
+            },
+            {
+              "num": 40,
+              "stem": "Some phone users worry advertisers will take advantage of voice assistants to sendads directly to them.",
+              "stemCn": "【定位】由题干中的voiceassistants和sendads",
+              "options": {},
+              "optionCn": {
+                "J": "段末句。"
+              },
+              "answer": "J",
+              "analysis": "天助手会被用来直接向我们发送广告。题干中的 voice assistants对应定位句中的assistants，题干中 的sendadsdirectlytothem对应定位句中的 deliveradvertising directlyto us，故答案为J）。"
+            },
+            {
+              "num": 41,
+              "stem": "The spoken web is helpful when one's hands are occupid.",
+              "stemCn": "【定位】由题干中的whenone's hands areoccupied",
+              "options": {},
+              "optionCn": {
+                "M": "段第一句。"
+              },
+              "answer": "M",
+              "analysis": "他事情时，使用语音也是有意义的。题干中的The spokenweb指的就是定位句中的voice，题干中的 第9页，共15页 helpful是对定位句中makes sense的同义转述，题 干中的whenone's handsare occupied对应定位 句中的whenyou're doingotherthings withyour hands，故答案为M)。"
+            },
+            {
+              "num": 42,
+              "stem": "Some people believe online interaction would soon depend mainly on voice.",
+              "stemCn": "【定位】由题干中的onlineinteraction和depend",
+              "options": {},
+              "optionCn": {
+                "C": "段第一句。"
+              },
+              "answer": "C",
+              "analysis": "音很快就会取代打字和点击成为在线互动的主要 方式。题干中的onlineinteraction对应定位句中 的interactonline，题干中的dependmainlyon对 应定位句中的themainway，故答案为C)。"
+            },
+            {
+              "num": 43,
+              "stem": "Setting up a spoken web is by no means an easy task.",
+              "stemCn": "【定位】由题干中的Setting upa spokenweb和by",
+              "options": {},
+              "optionCn": {
+                "G": "段第二句。"
+              },
+              "answer": "G",
+              "analysis": "并非易事。题干中的Setting up a spoken web对 应定位句中的buildingthespokenweb，题干中的 by no means an easy task是对定位句中isn't straightforward的同义转述，故答案为G)。"
+            },
+            {
+              "num": 44,
+              "stem": "Weather information is extremely important to farmers.",
+              "stemCn": "【定位】由题干中的Weatherinformation和",
+              "options": {},
+              "optionCn": {
+                "E": "段"
+              },
+              "answer": "E",
+              "analysis": "参考译文 语音网络 末句。 灌溉作物或放牧的农民来说，知道什么时候会下雨 至关重要。题干中的Weatherinformation指的 就是定位句中的whenit’s going torain，题干中的 extremelyimportanttofarmers对应定位句中的 vitalforfarmers，故答案为E)。"
+            },
+            {
+              "num": 45,
+              "stem": "Some people are concernedaboutprivacybecause their phones are constantly collecting their personal",
+              "stemCn": "【定位】由题干中的concernedaboutprivacy和",
+              "options": {},
+              "optionCn": {
+                "J": "段第四、五句。"
+              },
+              "answer": "J",
+              "analysis": "their phones are constantly collecting their 是在我们身边，它们一直在收集关于我们的数据。 这已经引起了人们对隐私的担忧。题干中的 concernedaboutprivacy对应定位句中的raised privacy concerns，题干中的their phones are constantly collecting their personalinformation 对应定位句中的theyarecollecting dataaboutus allthetime，故答案为J）。 能音箱聊天。几十年来，盲人和弱视人士一直在使用文本语音转换器。 在这些助手中，Siri是最知名的。该助手使用语音查询和一种面向用户自然语言的界面回答问题。 随着用户的持续使用，该软件会适应用户个人的语言用法、搜索和偏好。 （42）一些人认为语音很快就会取代打字和点击成为在线互动的主要方式。但是，向“语音网络”转变 的挑战是什么呢？ 如果你不会阅读，书写形式的在线内容有什么用？（39）这就是非洲不识字的农民所面临的情况。他 们经常对网络提供给许多其他人的关键信息无从知晓。基于语音的天气信息服务MrMeteo的研究 员弗朗西斯·迪托表示，非洲部分地区的识字率仅为22.6%，农民往往“因为他们可能不知道当前的 价格而导致得到的报酬过低”。 居住在加纳北部塔马利的迪托先生说：“最常听到的抱怨是关于降雨预测。他们告诉我们，他们的祖 先用来预测天气的方法现在似乎不太管用。”他认为，这是气候变化造成的。（44）然而，对于想要播 种、灌溉作物或放牧的农民来说，知道什么时候会下雨至关重要。 迪托先生表示，将在线天气报告转变为语言播报的想法是在瓜布利加村的一次研讨会后，由农民自己 提出的。他说：“他们想出了这个主意。”MrMeteo获取在线天气预报，将其转换为适当语言的短录 音，并且基础款的手机也可以收听。农民通过打电话来接收信息。有120万人使用当地语言达戈巴 尼语，但没有任何在线翻译应用程序可以为他们提供服务。（36）迪托先生说，这项服务设计的宗旨是 既便宜又易于运行。他计划于本月联合塔马利的萨凡纳农业研究所开始区域测试。 语音网络也可以帮助欧洲和美国五分之一阅读能力差的成年人。（43）但建立语音网络——由网络到 语音和由语音到网络———并非易事。让软件了解意大利餐馆供应披萨是很容易的。要覆盖多个领 域，并能够在每个话题上与用户进行对话，还有很长的路要走。 第10页，共15页 类对话的事情都需要几十年的时间。人工智能还不够聪明。（38）甚至把你的声音转换成文本——自 动语音识别—也是最难解决的问题之一，因为地球上有多少人就有多少种发音方法。 外的信息。但它仍然受到一些限制，特别是当语言从更生硬的命令转向更多的人类互动时。在一个 例子中，“给贾森、克林特、萨姆和李发一条短信，说我们要在银云餐厅吃饭”这句话被理解为只给贾森 发一条短信，短信中包含“克林特·萨姆和李说我们要在银云餐厅吃饭”。还有人注意到，Siri缺乏适 当的编辑功能，当你说“编辑短信：我们在银云餐厅，你应该来找我们”会生成为“克林特·萨姆和李说 我们在银云餐厅吃饭，说我们在银云餐厅，你应该来找我们”。 情感依恋。但如果有东西说话，它也必须倾听。（45）我们的手机总是在我们身边，它们一直在收集关 于我们的数据。这已经引起了人们对隐私的担忧。美国民权联盟表示，数字化助手制造了来自黑客 的隐私威胁。有些人还有其他担忧。（40）他们担心有一天助手会被用来直接向我们发送广告。 不是手指敲击的好处显然取决于场合。（37）例如，医生通过语音填写关于患者的在线表格，每分钟可 以口述150个单词，比在键盘上打字快三倍。这使他们能够花更少的时间在管理上，花更多的时间给 病人诊断病情。 立了语音系统。现在，他们可以口述患者的健康状况和治疗情况，智能助手会自动将信息输入在线表 单的正确区域。以前，医生会录下声音，然后由秘书转录—这一过程成本高昂，还可能造成延误。 新系统意味着给病人的信件现在有了更多的细节。 步是什么。你的手上沾满了油；你不会去触碰iPad，所以说话自然更合适。当你开车的时候，说话显 然是有意义的。保险公司StateFarm的数据显示，在美国，有29%的司机承认他们边开车边上网。 这一比例高于2009年的13%。美国国家安全委员会表示，开车时使用手机每年造成的车祸比酒后 驾驶还要多，这就不难理解了。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "TheUnitedStatesisfacingahousingcrisis: Affordable housing is inadequate, while luxury homes abound （充裕),and homelessness remains a persistent problem. Despite this, popular culture and the housing industrymarkethappiness aslivingwithbothmorespaceandmoreamenities（便利设施).Big housesareadvertizedas a reward for hard work and diligence, turning housing from a basic necessity into a luxury. Thisisreflectedinourhomes. The average single-familyhomebuiltintheUnitedStatesbefore 1970wasless than 1,500 square fee tin size. By 2016,the average size of anew, single-family home was 2,422 squarefeet. What'smore, homesbuilt in the 2000sweremorelikelythanearliermodels to have more of all types of spaces; bedrooms, bathrooms, living rooms, dining rooms, recreation room sand garages. There are consequencesoflivingbig. As middle-classhouses have grownlarger, two things have happened. First, large house stake time to maintain, so cleaner sand other low-wage service workers are required tokeepthesehouses in order. Second, once-publicspaces, where people from diverse backgrounds used to come together, have increasinglybecomeprivatized, leading to a reduction in the number of public facilitiesavailable to all, and areducedquality of life form any. Takeswimmingpools. While in 1950,only 2,500U.S.familiesownedpools, by 1999this number was 4 million. At the same time, public municipal pools were oftenclosed, leaving low-income people nowhere to swim. The trend for bigger housing thus posesethicalquestions. ShouldAmericans accept a system in which the middleandupperclasses enjoy a luxurious lifestyle, using the low-wagelaborofothers?Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor? I believe neither is acceptable. We must change the way we think: living well does not need to mean having more private spaces; instead, it could mean having more public spaces. A better goal than building bigger houses for some is to create more publicly accessible spaces andamenities for all.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What are big houses promoted to be in the UnitedStates? 2023年6月四级真题第1套第6页，共8页 ===== PAGE 7 =====",
+              "stemCn": "【定位】由题干中的bighouses和promoted tobe B）【精析】细节辨认题。定位句指出，大房子被宣传",
+              "options": {
+                "A": "A luxury for the homeless.",
+                "B": "A reward for industriousness.",
+                "C": "An abundant source of comforts.",
+                "D": "An absolute necessity for happiness."
+              },
+              "optionCn": {
+                "B": "。"
+              },
+              "answer": "B",
+              "analysis": "定位到首段第三句。 为是对辛勤工作和勤奋的奖励，而这一宣传将住 第11页，共15页 房从基本必需品变成了奢侈品。由此可见，流行 文化与房地产行业都以大房子是对辛苦工作和勤 奋的奖励为噱头来推销豪宅，industriousness是对 【避错】首段第一句提到，经济适用房不足，而豪宅 比比皆是，无家可归仍然是一个长期存在的问题， 可见“大房子是无家可归者的奢侈品”是问题，不 可能成为促销理由，故排除A）。首段第二句提到， 流行文化和房地产行业将幸福感营销为居住在更 大空间和拥有更多的便利设施，但这并不意味大 房子是“舒适的丰富源泉”和“幸福的绝对需要”，故 排除C）和D）。"
+            },
+            {
+              "num": 47,
+              "stem": "What is one of the consequences of living big?",
+              "stemCn": "【定位】由题干中的consequences oflivingbig定",
+              "options": {
+                "A": "Many Americans'quality of life has become lower.",
+                "B": "People from diverse backgrounds no longer socialize.",
+                "C": "People no longer have access to public swimming pools.",
+                "D": "Many Americans'private life has been negatively affected."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。第三段主要介绍了住房面积"
+              },
+              "answer": "A",
+              "analysis": "位到第三段首句。 增大带来的两个后果。第三段第四句提到，曾经 的公共空间越来越私有化，导致所有人可用的公 共设施数量减少，许多人的生活质量下降了。由 此可知，住房面积的增大导致很多美国人生活质 量下降了，故答案为A）。 【避错】第三段第四句提到，曾经的公共空间越来 越私有化导致所有人可用的公共设施数量减少， 并不是不同背景的人不再社交，故排除B）。第三 段第七句提到，市政公共游泳池经常关闭，让低收 人人群无处游泳。可见，公共泳池的减少只是影 响了低收入群体，并不是所有人，故排除C）。文中 并未提到“美国人的私生活受到负面影响”，故排 除D）。"
+            },
+            {
+              "num": 48,
+              "stem": "What questions arise from living big?",
+              "stemCn": "【定位】由题干中的questions arise from livingbig",
+              "options": {
+                "A": "Questions related to moral principles.",
+                "B": "Questions having to do with labor cost.",
+                "C": "Questions about what lifestyle to promote.",
+                "D": "Questions concerning housing development."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句指出，住房面积增大"
+              },
+              "answer": "A",
+              "analysis": "定位到第四段首句。 的趋势引发了道德问题。由此可见，住房面积增 参考译文 大的趋势给人们带来的是与道德原则有关的问 题，故答案为A)。 【避错】文中没有提到“与劳动力成本有关的问题” “关于推广什么样的生活方式的问题”和“关于住 房开发的问题”，故排除B）、C）和D）。"
+            },
+            {
+              "num": 49,
+              "stem": "What kind of social system does the author think is unacceptable?",
+              "stemCn": "【定位】由题干中的socialsystem和unacceptable",
+              "options": {
+                "A": "One in which the wealthy exploit the low-wage laborersbuilding theirhouses.",
+                "B": "One in which the rich purchaseamenities at an increasingly un justifiable price.",
+                "C": "One in which the upperclasses deprive the lower classesof affordable housing.",
+                "D": "One in which the affluent enjoy am ore comfortable life at the expense of the poor."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。由第五段第一句“两者都不"
+              },
+              "answer": "D",
+              "analysis": "定位到第四段最后一句和第五段第一句。 可接受”可知，不可接受的问题在第四段。第四段 最后一句提到一种“富人购买便利设施的增加意 味着穷人的便利设施减少”的制度。换言之，作者 反对“富人通过牺牲穷人的生活品质而享受更舒 适的生活的制度“，故答案为D）。 【避错】文中并没有提到“富人剥削建造房屋的低 工资劳动者的制度”“富人以越来越不合理的价格 购买便利设施的制度”以及“上层阶级剥夺下层阶 级负担得起的住房的制度”，故排除A）、B）和C）。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author advocate for people to live well?",
+              "stemCn": "【定位】由题干中的advocateforpeopletolive",
+              "options": {
+                "A": "Finding ways to turn private spaces into public ones.",
+                "B": "Building more houses affordable to those less affluent.",
+                "C": "More public spaces created for everyone to enjoy.",
+                "D": "All amenitiesmadeaccessible to the rich and the poor alike."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句指出，过得好可以意"
+              },
+              "answer": "C",
+              "analysis": "well定位到末段最后两句。 味着拥有更多的公共空间。对一些人来说，比起 建造更大的房子，更好的目标是为所有人创造更 多的公共空间和便利设施。由此可见，为了使人 们过得好，作者主张创造更多每个人都可以享受 的公共空间，故答案为C）。 【避错】文中并没有提到“想办法把私人空间变成 公共空间”和“为那些不太富裕的人建造更多负担 得起的房子”，故排除A）和B）。在最后一段最后 一句中，作者强调的是为所有人创造更多的公共 空间和便利设施，而非所有的便利设施都对富人 和穷人一视同仁，故排除D）。 美国正面临住房危机：经济适用房不足，而豪宅比比皆是，无家可归仍然是一个长期存在的问题。尽 管如此，流行文化和房地产行业将幸福感营销为居住在更大空间和拥有更多的便利设施。（46）大房子被 宣传为是对辛苦工作和勤奋的奖励，而这一宣传将住房从基本必需品变成了奢侈品。 这反映在我们的家里。1970年之前，美国建造的独栋房屋平均面积不到1，500平方英尺。到2016 年，新的独栋住宅的平均面积为2，422平方英尺。此外，21世纪建造的房屋比早期的模型更有可能拥有 更多的所有类型的空间：卧室、浴室、客厅、餐厅、娱乐室和车库。 第12页，共15页 （47-1）住房面积的增大带来一些后果。随着中产阶级的房子越来越大，发生了两件事。首先，大房子 需要时间来维护，所以需要清洁工和其他低工资的服务人员来保持房屋整洁。（47-2）第二，曾经的公共空 间常有来自不同背景的人聚集在一起，如今变得越来越私有化，导致所有人可用的公共设施数量减少，许 多人的生活质量也相应降低。以游泳池为例。1950年，只有2，500个美国家庭拥有游泳池，而到1999 年，这一数字为400万。与此同时，市政公共游泳池经常关闭，让低收入人群无处游泳。 （48）因此，住房面积增大的趋势引发了道德问题。美国人应该接受一种中上层阶级利用他人的低薪 劳动享受奢侈的生活方式的制度吗？（49-1）我们是否愿意接受这样一种富人购买便利设施的增加意味着 穷人的便利设施减少的制度？ （49-2）我认为两者都不可接受。我们必须改变我们的思维方式：过得好并不意味着拥有更多的私人 空间；（50）相反，它可以意味着拥有更多的公共空间。对一些人来说，比起建造更大的房子，更好的目标是 为所有人创造更多的公共空间和便利设施。 Passage Two 【结构框图】 第1、2段论述了具备一定野心对于创业而言的诸多好处。 第3一5段指出拥有过度的野心也会产生一些负面影响。 本文主要介绍了过度 的野心对于创业者来 说既可能是幸事，亦 第6、7段通过对比具备野心的人和没有野心的人，指出后者更容易拥有健康和 可能是祸因。 幸福。 第8段总结全文，指出适度的野心有益，过度的野心有害。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Most of us in the entrepreneurial communityareblessed—or cursed—with higher-than-average ambition. Ambitious people strongly desireaccomplishmentsandarewillingtotakemorerisksand spend more effort to get them. Overall, this is a positive quality, especially for people trying tobuildtheirownbusinesses. Apparently, if you're more naturallydrivento set goals, you are more likely to succeed. Actually, this isn'talwaysthecase. In fact, in some cases, extreme ambition may end updoing more harm than good. One major sideeffectofexcessiveambitionis the tendency to focus too determinedly on one particular vision or end goal. This is problematic because ithinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur. If a new competitoremergesto threaten your business, you may need to change direction, even if that means straying from your original vision. If you have too much ambition, you'llfind this hard, if not impossible. Fewpeoplearesuccessfulwhentheytrytobuildtheirfirstbrand. Unfortunately, fort he most ambitious entrepreneurs, a failure is seenas disastrous, and impossible to recover from. It'sa cleardeparturefromtheintendedplantowardtheintendedgoal. For people with limited ambition, however, failure is vie wed as somethingclosertoreality. Remember, failure is inevitable, and every failure you survive is a learning experience. Ambitious people tend to be more materialistically successful than their non-ambitious 2023年6月四级真题第1套第7页，共8页 ===== PAGE 8 ===== counterparts. However, they'reonly slightlyhappierthantheirless-ambitiouscounterparts, and tend to live significantly shorterlives. This implies that even though ambitious people are more likely to achieve conventional\"success, such successmeansnothingfortheirhealthandhappiness-and if you don'thave health and happiness, whatelsecouldpossiblymatter? Clearly, some amount of ambition is good for your motivation. Without any ambition, you wouldn'tstartyourownbusiness, setorachievegoalsandgetfar in life. But an excess of ambition can also be dangerous, putting you at risk of burn out, stubbornness and even a shorter life.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author think of mostentrepreneurs?",
+              "stemCn": "【定位】由题干中的mostentrepreneurs定位到首",
+              "options": {
+                "A": "They are more willing to risk their own lives.",
+                "B": "They are more ambitious than ordinary people.",
+                "C": "They achieve greater nonconventional success.",
+                "D": "They have more positive qualities than most of us."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句指出，大部分创业群"
+              },
+              "answer": "B",
+              "analysis": "段第一句。 体的人都会有幸拥有亦或是受苦于一种高于常人 的野心。由此可知，创业者比普通人拥有更多的 野心，故答案为B)。 【避错】第一段末句提到，有抱负的人强烈渴望有 所成就，并愿意承担更多的风险、付出更多的努力 来得到这些成就。但并没有明确指出他们更愿意 冒生命危险，故排除A）。第七段末句指出，具备野 心的人更有可能取得传统意义上的“成功”，故排 除C）。第二段开头指出，具备野心是一种积极的 品质。但并未提及具备野心的人比大部分人拥有 更多积极的品质，故排除D）。"
+            },
+            {
+              "num": 52,
+              "stem": "Whatdoestheauthorimplybysaying\"this isn'talwaysthecase\"(Line 1,Para.3)?",
+              "stemCn": "【定位】由题干定位到第三段第一句。",
+              "options": {
+                "A": "Ambitious people may not have a greater chance of success.",
+                "B": "Ambitious people may not have more positive qualities.",
+                "C": "Entrepreneurs' ambition does as much good as harm.",
+                "D": "Entrepreneurs are more naturally driven to success."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。由于定位句位于第三段段"
+              },
+              "answer": "A",
+              "analysis": "首，需要结合第二段的内容方可得到答案。第二 段末句指出，如果你有更自然的动力去设定目标， 那么你就更有可能成功。紧接着在第三段首句提 到，事实并非一贯如此。这是针对第二段提出的 观点进行反驳，故答案为A）。 【避错】第二段只是指出具备野心是一种积极品 质，但并未提到有野心的人也许没有更多的积极 品质，故排除B）。第三段指出，过度的野心也许会 带来更多的弊端而非好处，即弊端多于好处，故排 除C）。文章并未提及企业家会更自然地被驱动走 向成功，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "What does the author say is of extreme importance for one to become a successful entrepreneur?",
+              "stemCn": "【定位】由题干中的extreme importanceforone",
+              "options": {
+                "A": "Holding onto one's original vision.",
+                "B": "Being able to adapt to new situations.",
+                "C": "Focusing determinedly on one particular goal.",
+                "D": "Avoiding radical change in one's career direction."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句指出，这是有问题的，"
+              },
+              "answer": "B",
+              "analysis": "to become a successful entrepreneur定位到第四 段第二句。 因为这会限制你适应新环境的能力，而这一点对 于想成为一名成功企业家的你来说又至关重要。 由此可知，如果想成为成功的企业家，能够适应新 第13页，共15页 环境是很重要的，故答案为B）。 【避错】第四段指出，过度的野心带来的一个主要 的副作用是太容易断然地关注某一个特定的愿景 或是终极目标，说明这样做是有问题的。同时作 者指出，如果出现新的竞争者威胁了你的企业，你 也许需要改变方向，这是一个成功企业家应该具 备的能力。由此可以排除A）“坚持自己最初的想 法”C）“坚定地专注于一个特定的目标”和D）“避 免彻底改变职业方向”三项。"
+            },
+            {
+              "num": 54,
+              "stem": "How do the most ambitious entrepreneurs regard failure in their endeavor? AItwillawakenthemtoreality.",
+              "stemCn": "【定位】由题干中的themostambitiousentrepreneurs",
+              "options": {
+                "B": "It is a lesson they have to learn.",
+                "C": "It means the end of their career.",
+                "D": "It will result in a slow recovery."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句指出，不幸的是，对于"
+              },
+              "answer": "C",
+              "analysis": "regardfailure intheirendeavor定位到第五段 末句。 最有野心的企业家而言，失败被视为是灾难性的， 无法从中恢复。由此可知，无法从失败中恢复就 意味着职业生涯走向终点，故答案为C）。 【避错】第六段提到，对于那些野心有限的人而言， 失败被视为一种更接近现实的常态事件。失败在 参考译文 所难免，每次你从失败中走出，都是一次学习经 历。这里说的是只有一点野心的人，而不是题干 中最有野心的企业家，故排除A）和B）。定位句指 出，对于最有野心的企业家而言，失败被视为是灾 难性的，是无法恢复的，而不是缓慢恢复，故排除"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author advise us to do concerning ambition?",
+              "stemCn": "【定位】由题文同序原则和选项内容定位到第七段",
+              "options": {
+                "A": "Distinguishbetweenconventional success and our life goal.",
+                "B": "Follow the example of the most ambitious entrepreneurs.",
+                "C": "Avoid taking unnecessaryrisks when starting a business.",
+                "D": "Prioritize health and happiness over material success."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，这意味着即便"
+              },
+              "answer": "D",
+              "analysis": "末句。 具备野心的人更有可能取得传统意义上的“成 功”，但这种成功却无益于他们的健康和幸福 假如你失去了健康和幸福，其他的事情又有何重 要呢？作者通过反问的方式，暗示了健康和幸福 要比“成功”更重要，故答案为D）。 【避错】文中没有提到“区分传统意义上的成功和 我们的人生目标”、“以最有野心的企业家为榜样” 和“创业时避免承担不必要的风险”，故排除A）、 （51）大部分创业群体的人都会有幸拥有亦或是受苦于一种高于常人的野心。有抱负的人强烈渴望有 所成就，并愿意承担更多的风险、付出更多的努力来得到这些成就。 总而言之，这是一种积极的品质，尤其是对于那些想要自主创业的人。（52-1）显然，如果你有更自然 的动力去设定目标，那么你就更有可能成功。 （52-2）实际上，事实并非一贯如此。事实上，在某些情况下，过度的野心也许会带来更多的弊端而非 好处。 过度的野心带来的一个主要的副作用是太容易断然地关注某个特定的愿景或终极目标。（53）这是有 问题的，因为这会限制你适应新环境的能力，而这一点对于想成为一名成功企业家的你来说又至关重要。 如果出现一个新的竞争者威胁了你的企业，你可能需要改变方向，即使这意味着将会偏离你最初的愿景。 如果你野心太大，你会发现即便是有可能，但做到这一点还是很难。 很少有人在尝试建立自己的首个品牌时就能成功。（54）不幸的是，对于最有野心的企业家而言，失败 被视为是灾难性的，无法从中恢复。 这是从既定计划到既定目标的明显偏离。然而，对于那些野心有限的人而言，失败被视为一种更接 近现实的常态事件。请记住，失败在所难免，每次你从失败中走出，都是一次学习经历。 相比起那些没有野心的人而言，有野心的人在物质上会更加富足。然而，他们只比没有野心的人稍 微幸福一点，且寿命往往更短。（55）这意味着即便具备野心的人更有可能取得传统意义上的“成功”，但这 种成功却无益于他们的健康和幸福——假如你失去了健康和幸福，其他的事情又有何重要呢？ 显然，一定程度的野心对于你的动力是有好处的。没有任何野心的话，你就不会创业，设定或实现目 标，并在人生中大步向前。但是过度的野心也是危险的，会让你面临疲劳、偏执甚至寿命缩短的风险。 第14页，共15页 Part Translation 参考译文与难点注释 Chinaattachesmoreandmore1.第一句是对客观事实的陈述，因此时态应用一般现在时。前后两个分 importance to lifelong education, andthe development of continuing education is an effective way to build a lifelong education system.As the base for talent cultivation, universities haveadvanced teaching concepts and superior teaching resources, so they should become the main providers of continuing education. Therefore, in recent years,a number of universities have been trying to explore a new path for developing continuing education that suits to China's specific conditions by catering to social needs and strengthening communications with employers,so that continuing educationcanplaya greater role in the national development strategy. adulteducation成人教育 vocationaleducation职业教育 in-serviceeducation在职教育 careertransition职业转型 short-termcourse短期课程 句可用and连接构成并列句。“越来越重视”可译为attachmoreand more/increasingimportanceto;“构建终身教育体系的有效途径”可译 为an effective way to build a lifelong education system。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "中国越来越重视终身教育，发展继续教育是构建终身教育体系的有效途径。高校作为人才培养的 基地，拥有先进的教学理念和优越的教学资源，理应成为继续教育的办学主体。因此，近年来许多高校 适应社会需求，加强与用人单位沟通，努力探索一条符合中国国情的继续教育发展新路，以使继续教育 在国家发展战略中发挥更大的作用。 2023年6月四级真题第1套第8页，共8页",
+          "terms": [],
+          "reference": "Chinaattachesmoreandmore 1.第一句是对客观事实的陈述，因此时态应用一般现在时。前后两个分 importance to lifelong education, and the development of continuing education is an effective way to build a lifelong education system. As the base for talent cultivation, universities have advanced teaching concepts and superior teaching resources, so they should become the main providers of continuing education. Therefore, in recent years, a number of universities have been trying to explore a new path for developing continuing education that suits to China's specific conditions by cate ring to social needs and strengthening communications with employers, so that continuing education can play a greater role in the national development strategy.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "id": "cet6-2022_09_1",
+  "level": 6,
+  "year": 2022,
+  "month": 9,
+  "setNo": "第1套",
+  "title": "2022年9月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_09_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:For this part,you are allowed 3O minutes to write an essay that begins with the sentence \"Nowadaysmore andmore students are becoming increasinglyaware ofthe importance ofdeveloping digital skills.\" You can make comments,cite examples or use your personal experiences to develop your essay.You should write at least 15o words but no more than 20o words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2022_09_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "(40 minutes) blank from a listofchoices given in a word bank following the passage. Read the passage through care fully before making your choices. Each choice in the bank is identifiedby a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. The now extinct passenger pigeon has the dubious honor of being the last species anyone ever expected to disappear. At one point, there were more passenger pigeons than any other species of bird. Rough 26 oft heir population went as high as five billion andtheyaccountedfor around 4O percent oft he totalindigenousbirdpopulationofNorthAmerica in the early 19thcentury. Despite their huge population, passengerpigeons were 27 to human intrusion into their nesting 28_,the parent pigeons would territory. Theirnests were shabbythings and two weeks after theeggs abandon their offspring, leaving them to take care of themselves. People discovered that these baby pigeons were really tasty, and the adult birds were also quite 29 .First the Native Americans and then the transplanted Europeans came to consider the birds a great 30 By the 185Os, commercial trapping of passenger pigeons was proceeding at an_31 pace. Hundreds of thousands of thebirds were being harvestedevery day to bemade into popular pigeon pies. In addition, large 32 of thepigeons’nesting territory were being cleared away for planting crops and creating pasture land. As numerous as the passenger pigeons were, they were not an 33 resource. By the 1880s, it was noticed that the bird population had become seriously 34 .The last passenger pigeons killed in the wild were shot in 1899. Eventually those billions and billions of birds shrank to a single remaining 35_,a passenger pigeon named Martha, who die don September 1,1914,in captivity at the cincinnati Zoo. In addition to being the end of an era, it was also the first time humans were able to exactly time the extinction of a species. A) vulnerable F) refuge B) unprecedented G) plazas C) tracts H) infinite D) specimen I) hatched E) robust J) expired 第3页",
+          "wordBank": {
+            "A": "vulnerable",
+            "B": "unprecedented",
+            "C": "tracts",
+            "D": "specimen",
+            "E": "robust",
+            "F": "refuge",
+            "G": "plazas",
+            "H": "infinite",
+            "I": "hatched",
+            "J": "expired",
+            "K": "excerpts",
+            "L": "estimates",
+            "M": "edible",
+            "N": "depleted",
+            "O": "delicacy"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前面是形容词rough，因此空格"
+              },
+              "answer": "L",
+              "analysis": "处应填入一个名词。 【语义判断】空格所在句意思是“据粗略估计，在 19世纪早期，北美旅鸽的数量高达50亿只，约占 北美本土鸟类总数的40%”，L）estimates“估计” 符合语境，故为答案。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前是主语passengerpigeons和"
+              },
+              "answer": "A",
+              "analysis": "第6页 系动词were，空格后是介词to，可知空格处应填 一个形容词或动词的分词形式作表语。 【语义判断】此处意思是“尽管旅鸽的数量庞大，但 它们很容易受到人类入侵其筑巢领地的影响”。 备选项中的形容词vulnerable表示“易受伤的；易 受攻击的”，符合语境，故答案为A）。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "【语法判断】空格所在句是一个由and连接的并列"
+              },
+              "answer": "I",
+              "analysis": "句，the parent pigeons是第二个并列分句的主语， two weeks after the eggs 这一部分为该 分句的时间状语从句，该状语从句的主语为名词 eggs，因此空格处需填入一个动词作谓语。 【语义判断】此句意思是“蛋孵化两周后，鸽子的父 母就会抛弃它们的孩子，让它们自生自灭”。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格前有系动词were和副词quite，"
+              },
+              "answer": "M",
+              "analysis": "可知空格处应填一个形容词作表语。 【语义判断】空格所在句逗号前面的部分提到 these baby pigeons were really tasty（这些乳鸽非 常美味），可知空格所在处是指“成年鸽子也很好 吃”。备选项中的形容词edible表示“可食用的”， 符合语境，故答案为M）。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "delicacy“珍馐，佳肴”符合语境，故为答案。"
+              },
+              "answer": "O",
+              "analysis": "0）【语法判断】空格前面是不定冠词a和形容词 great，因此空格处应填入一个名词。 【语义判断】空格所在句的上一句提到乳鸽和成年 鸽子好吃，可推断空格所在句是说美洲原住民和 移居的欧洲人认为这种鸟是一种美味。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格前是不定冠词an，空格后面是名"
+              },
+              "answer": "B",
+              "analysis": "词pace，可知空格处应填一个形容词或名词作 定语。 【语义判断】空格所在句提到commercialtrapping ofpassenger pigeons（商业捕获旅鸽)，接下来的一 句又提到hundredsofthousandsofthebirdswere beingharvestedeveryday（每天都有数十万只旅 鸽被捕获），可判断此处是指商业捕获旅鸽的速度 非常快。备选项中的形容词unprecedented表示 “前所未有的”，用在此处符合语境，故答案为B）。 参考译文"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前面是形容词large，空格后面是"
+              },
+              "answer": "C",
+              "analysis": "介词of，因此空格处应填入一个名词。 【语义判断】由of后面的thepigeons’nesting territory（鸽子筑巢的领地）可知，空格处的词意思 应与土地面积相关。C)tracts“（土地的）一大片” 符合语境，故为答案。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "。"
+              },
+              "answer": "H",
+              "analysis": "H【语法判断】空格前是不定冠词an，空格后面是名 词resource，可知空格处应填一个形容词。 【语义判断】空格所在句前半部分是一个让步状语 从句，意为“尽管旅鸽数量众多”，空格所在句语义 进行转折，结合句中出现的not一词可知，空格处 所在词意思应与前面的numerous“很多的”一词语 义一致。备选项中的形容词infinite表示“无限"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格所在句中it为形式主语，真正的"
+              },
+              "answer": "N",
+              "analysis": "主语为that引导的主语从句，该主语从句是个主 系表结构，表语部分不完整。空格前是副词 seriously，可知空格处应填一个形容词作表语。 【语义判断】根据上下文可知，此处意思是“到19 世纪80年代，人们注意到这一鸟类的数量已经严 重减少”。备选项中的depleted用作动词意为“消 减，损耗”，其过去分词也可用作形容词，意为“减 少的”，符合语境，故答案为N)。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前面是形容词remaining，因此空"
+              },
+              "answer": "D",
+              "analysis": "格处应填入一个名词。 【语义判断】根据上下文意思可知，空格所在部分 意思是“这数十亿只旅鸽缩减为唯一的标本”。 现在已经灭绝的旅鸽成为人们预期会灭绝的最后一个物种，这也算是一种荣幸吧。有一段时间，旅鸽 的数量比其他鸟类都多。据粗略估计，在19世纪早期，北美旅鸽的数量高达50亿只，约占北美本土鸟类 总数的40%。 尽管旅鸽的数量庞大，但它们很容易受到人类入侵其筑巢领地的影响。它们的巢很破旧，蛋孵化两周 后，鸽子的父母就会抛弃它们的孩子，让它们自生自灭。人们发现这些乳鸽非常美味，成年鸽子也很好吃。 最初是美洲原住民，然后是移居的欧洲人，开始把这种鸟视为美味佳肴。 到了19世纪50年代，商业捕获旅鸽的速度达到了前所未有的水平。每天都有数十万只旅鸽被捕获， 做成广受欢迎的鸽子派。此外，鸽子筑巢的大片领地被清理出来，用于种植庄稼和开辟牧场。尽管旅鸽数 量众多，但它们并不是无穷无尽的资源。到19世纪80年代，人们注意到这一鸟类的数量已经严重减少。 1899年最后一批旅鸽在野外被射杀。 最终，这数十亿只旅鸽缩减为唯一的标本，一只名叫玛莎的旅鸽，这只鸽子于1914年9月1日在辛辛 那提动物园圈养的时候死亡。这不仅标志着一个时代的结束，也是人类第一次能够准确记录一个物种的 灭绝时间。 第7页"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_09_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "B) It has to do with short-term memory forlistening comprehension.\nC) It depends on the overlap in processing differentkinds of information.\nD) It depends on the participants'ability to concentrate on the task at hand.\nC) Use vocal material as little as possible.\nB) Shy quiet people were most adversely impacted.\nC) Less outgoing people were more affected by silence.\nD) Confident people were unaffected by high-arousal music.\nA) As computer codinghasbecome an increasingly sought-after skill, more K-12 schools are working it\nB) There'sa debate over whether it's appropriate to teach coding in elementary schools, with fierce\nC) The idea is that computer programming is a language, all owing people to communicate withmachines\nD) According to the 2016U.S.News/Ray the on stem index, computer sciencejobs have helped boost\nE) \"I think the opportunity to give people a choice is important,” says Florida state Senator Jeremy Ring,\nF) TheFloridabilldiedthis yearafterpassing 35:5inthestateSenatewhenthefullLegislaturefailedto\nG) AKentuckybillsimilartotheone in florida was metwithcomplaints fromeducators, and was then\nH) Texas passed a bill in 2013 that allows students to substitute computer coding only after they have\nI) Computer science courses already fulfill a math or science high school graduation requirement in 28\nJ) Studies show that bilingualism（双语） correlates with cognitive development, intelligence, memory\nK) \"Our world is shrinking but its problems are really growing, says ACTFLNationalLanguage Teacher\nL) Even withthebenefits and skillsets languages provide, recruiters andemployers valuecomputerskills\nM) Ring says foreign language skills are important, but expresses doubt that school districts could work\nN) Zarrow agrees that foreign language education should begin earlier, but says it is possible to work both\nO) Though the benefits of computer programming skills are vast, foreign language and coding experts\nA) How to ensure the sustainable growth of their tech giants.\nB) How to keep the competitiveness of their tech companies.\nC) How to break up the powerful giant tech companies.\nD) How to stop tech companies from gaining monopoly.\nA) Allattempts to evade regulation are doomed to failure.\nB) Allattempts to monopolize sales must be cracked down.\nC) Allcompanies mustberegulatedby the government.\nD) Allcompanies, domestic or foreign, are created equal.\nA) They can no longer do business independent of tech giants.\nB) They are frequently denied access to tech giants'platforms.\nC) They have to change marketing strategies to keep customers.\nD) They no longer have the power to price their own products.\nA) They have imposed strict regulation over digital giants'advert i sing.\nB) They have con side red regulatory action to promote fair competition.\nC) They have limited sales of digital giants'products.\nD) They have sought to protect consumers'privacy.\nA) They are invading people's privacy. C) They are becoming untrustworthy.\nB) They are increasingly influential. D) They are growing out of control.\nA) Its benefits may compensate for the adverse environmental consequences.\nB) Its rapid development is attributedto people's improved living standard.\nC) Itappeals to people inplaces withfavorablegeographicalconditions.\nD) It contributes to the economy of destination countries and regions.\nA) It gives rise to an increase in mass confrontations.\nB) It incurslocal residents'antagonism to tourists.\nC) It inhibits the steady growth of local economy.\nD) Itbrings in a large chunk of mobile population.\nA) They fall victim to socialconflictsandenvironmental disturbances.\nB) They have little opportunity to enjoy themselves on cruise ships.\nC) They cannot find employment inmultinationalhotel chains.\nD) They do not think they benefit as much as they deserve.\nA) They endeavor to adapt to it. C) They immerse tourists in their culture.\nB) They readily adoptnewlifestyles. D) They try to upgrade their business models.\nA) Show interest in local customs andlifestyles.C） Usetheservicesprovidedbylocalbusinesses.\nB) Seekpossibilitiesto invest inlocalcompanies.D) Givefavorablecomments about their services.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Employers attach more importance to applicants'computer skills than their language competence.",
+              "stemCn": "【定位】由题干中的employers和computerskills",
+              "options": {},
+              "optionCn": {
+                "L": "段第一句。 L"
+              },
+              "answer": "L",
+              "analysis": "带来了益处和一系列技能，但招聘人员和雇主更 看重计算机技能。由此可知：相比语言能力，雇主 更重视计算机技能，题干是对定位句的同义转述。 题干中的attach more importance to applicants' computer skills对应原文中的valuecomputer skills more，故答案为L)。"
+            },
+            {
+              "num": 37,
+              "stem": "OneU.S.state senator proposedthathighschool studentsbeallowed to study either foreign language",
+              "stemCn": "【定位】由题干中的state senator和studentsbe",
+              "options": {},
+              "optionCn": {
+                "E": "段第一句。"
+              },
+              "answer": "E",
+              "analysis": "allowed to study either foreign language or 达州参议员杰里米·林，随后指出他去年提出的 一项法案允许佛罗里达州的学生在外语和编码课 程之间做出选择，以满足大学人学要求。题干中 的study either foreign language or computer coding是对原文中的choosebetweenforeign languageand coding classes的同义转述，故答案 为E）。"
+            },
+            {
+              "num": 38,
+              "stem": "Learning languages broadens students' internationalperspective and nurtures mutual respect among",
+              "stemCn": "【定位】由题干中的learninglanguages、mutual",
+              "options": {},
+              "optionCn": {
+                "K": "段。"
+              },
+              "answer": "K",
+              "analysis": "respect和ahighschoollanguageteacher定位到 语言教师，而随后的两句说，我们需要找到一种方 法，让自己立足于全球舞台并相互尊重，而学习语 言能够让我们做到这一点。可知题干对这两处信 息进行了归纳。题干中的broadensstudents internationalperspective对应原文中的put ourselves at the global table,而mutual respect among peoples是对原文中treat eachotherwith mutualrespect的同义转述，故答案为K）。 第8页"
+            },
+            {
+              "num": 39,
+              "stem": "One U.S.state will see to it that programming classes are taughtbyquality teachers.",
+              "stemCn": "【定位】由题干中的programmingclasses和",
+              "options": {},
+              "optionCn": {
+                "G": "段第二句。"
+              },
+              "answer": "G",
+              "analysis": "关计算机编程教育的法案，其中第二句说，该州将 为编程课程的高质量认证教师提供支持。题干中 see to it对应原文中的providesupportfor，题干 中的qualityteachers对应原文中的higher qualitycertifiedteachers，故答案为G)。"
+            },
+            {
+              "num": 40,
+              "stem": "Statistics show while computer-related job shave been on the rise, foreign languages have become less",
+              "stemCn": "【定位】由题干中的computer-relatedjobs和",
+              "options": {},
+              "optionCn": {
+                "D": "段前两句。"
+              },
+              "answer": "D",
+              "analysis": "年美国新闻/雷神公司STEM指数，计算机相关工 作在STEM领域内占据前七位，从业人员数量最 多。另一方面，对于外语的兴趣自1995年以来首 次下降。由此可知，题干是对该处信息的归纳。 题干中的havebeenontherise对应原文中的 hold thetopsevenpositions inSTEMfieldsfor highestnumber of workers，题干中的foreign languages have become less appealing是原文中 “Foreignlanguage interest...is declining”的同义 表达，故答案为D）。"
+            },
+            {
+              "num": 41,
+              "stem": "All school subjects are said to be essential to students'well-roundeddevelopment.",
+              "stemCn": "【定位】由题干中的subjects和well-rounded",
+              "options": {},
+              "optionCn": {
+                "H": "段第二句后半部分。"
+              },
+              "answer": "H",
+              "analysis": "科，无论是艺术、数学还是语言，都对全面发展有 着重要贡献。题干是对该部分的同义转述。题干 中的essential是原文中a significantcontribution 的同义表达，题干中的well-roundeddevelopment 则对应原文中的awell-roundedexistence，故答案 为H）。"
+            },
+            {
+              "num": 42,
+              "stem": "There is consensus among mosteducators that coding should be taught in schools but should not replace",
+              "stemCn": "【定位】由题干中的consensus和most educators",
+              "options": {},
+              "optionCn": {
+                "B": "段第二句。"
+              },
+              "answer": "B",
+              "analysis": "育者的意见都是一致的：编码应该被添加到课程 中，但不能以牺牲外语课程为代价。题干是对该 句的同义转述。题干中的consensus对应原文中 的agree，题干中的coding shouldbe taughtin schools是对原文中coding shouldbeaddedto curriculums的转述，而replace foreign language 则是原文中at the expense offoreignlanguage classes的同义表达，故答案为B）。"
+            },
+            {
+              "num": 43,
+              "stem": "One study showedthatforeignlanguage learning improvedstudents'academic performance.",
+              "stemCn": "【定位】由题干中的onestudy和performance定",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句。"
+              },
+              "answer": "J",
+              "analysis": "一项研究表明，仅需经过两年到三年的外语学习， 学生在标准化测试中就有优于非外语同龄人的表 现。也就是说，外语学习改善了他们的学习能力， 提高了其成绩。题干中的improvedstudents academic performance 对应原文中的 outperformed their non-foreign language peers on standardizedtests，故答案为J)。"
+            },
+            {
+              "num": 44,
+              "stem": "Being short of funding andqualified teachers, schools lag behind the fast developing computer science",
+              "stemCn": "【定位】由题干中的shortoffundingandqualified",
+              "options": {},
+              "optionCn": {
+                "C": "段第三句。"
+              },
+              "answer": "C",
+              "analysis": "teachers和 fast developing computer science 限制和缺乏对教师的技能培训，计算机科学领域 参考译文 的发展速度远不是学校所能跟上的。题干中的 shortoffundingandqualifiedteachers是对原文 中budget constraints and a lackof skills training for teachers的同义转述，题干中的schoolslag behind则对应原文中的is growingfasterthan schools cankeep up，故答案为C)。"
+            },
+            {
+              "num": 45,
+              "stem": "A distinguishedhighschoollanguage teacheralsobelieves it is advisable to start learning a foreign",
+              "stemCn": "【定位】由题干中的learning a foreign language",
+              "options": {},
+              "optionCn": {
+                "N": "段第一句。",
+                "K": "段中的"
+              },
+              "answer": "N",
+              "analysis": "ACTFLNationalLanguageTeacheroftheYear 和whoteacheshighschoolLatin可知，扎罗正是 一位杰出的高中语言教师。另外，题干中出现了 also一词，说明前文中也有类似的信息出现，M）段 提到林认为教授语言是必须尽早开始的事情，但 由E）段第一句中的信息可知，林是佛罗里达州的 参议员，而非高中教师。综合可知，题干信息对应 的出处在N）段。题干是对文中信息的归纳，其中 的a distinguishedhigh schoollanguage teacher 是指Zarrow，题干中的believes对应原文中的 agrees,题干中的it is advisable to startlearning a foreignlanguage atan earlierage转述原文中的 foreign language education shouldbegin earlier, 故答案为N）。 计算机编码是外语吗？ 排。尽管遭到教育工作者的反对，一些州已经考虑允许学生放弃外语课而转修编码课程。 用编码来填补外语要求时，大多数教育者的意见都是一致的：编码应该被添加到课程中，但不能以牺 牲外语课程为代价。 世纪的语言，比自然语言更有价值。（44）由于预算限制和缺乏对教师的技能培训，计算机科学领域的 发展速度远不是学校所能跟上的。 助于提高美国的工资，计算机相关工作在STEM领域内占据前七位，从业人员数量最多。另一方面， 对于外语的兴趣自1995年以来首次下降。根据美国现代语言协会的数据，2009年至2013年间，高等 教育语言学科减少了11.1万多个招生名额。 的一项法案允许佛罗里达州的学生在外语和编码课程之间做出选择，以满足大学入学要求。“我认 为，如果你打算在高中学习两年的语言，倒不如选择计算机编码。” 流于失败。这将是第一个尝试此类举措的州。林说，尽管他即将卸任，但明年将由其他人代表他再次 提出同样的法案。“我在参议院的演讲中说，我们可能是第一个这样做的州，也可以是第50个这样 做的州。这取决于我们的选择。这一切最终一定会发生，'林说。 第9页 学教育的动议，但没有提到对外语的要求。（39）相反，该州将为编程课程的高质量认证教师提供支 持。根据华盛顿法案，公立大学招生将要求申请者接受两年的计算机科学课程，而不是两年的外语课 程。一份详细阐述州立大学官员意见的报告将于2017年11月之前提交立法机构。 编码作为替代。儿童友好型教学编码公司Tynker的首席技术官兼联合创始人斯里尼·曼迪亚姆认 为，允许学生因为感到困难而放弃学习外语是毫无益处的，（41）因为每门学科，无论是艺术、数学还是 语言，都对全面发展有着重要贡献。“许多学生在代数方面表现不好，但我们从未讨论过取消它…… 或者说现在将化学课视为代数课，”他通过电子邮件说。“我们教代数是因为它很重要，而我们教授外 语和编码也应该是出于同样的原因。广泛接触各类科目和材料才能培养出全面发展的学生，让他们 能够做出明智的决定……知道自己想要追求什么。” 2013年只有12个州设置这一要求。虽然该法案的倡导者表示，这些课程应该算作外语，但反对者却 强调平衡计算机和外语技能的重要性。 （43)2007年的一项研究表明，仅需经过两年到三年的外语学习，学生在标准化测试中就有优于非外语 同龄人的表现。尽管2014年一份来自德国和美国大学的报告表明，程序员在理解代码时使用大脑的 语言（而不是数学）区域，但批评者仍持谨慎态度。他们说，无论认知功能如何，在日益国际化的经济 中，即使英语已经成为事实上的商业语言，单语仍是一种劣势。 德·扎罗说。他在马萨诸塞州韦斯特伍德教高中拉丁语，并且还学习过西班牙语、法语、德语、意大利 语和希腊语。“我们需要找到一种方法，让自己立足于全球舞台并相互尊重。而学习语言能够让我们 做到这一点，因为语言不是文化的一部分，语言就是文化。” 主协会2016年的报告，海外留学和外语流利度在员工招聘过程中影响不大，而55%的雇主在求职者 的简历中寻找的却是计算机技能。不过，尽管与其他工作相比，2016年计算机科学专业毕业生的起薪 有望在今年排名第二，但劳工局预测，到2024年，对计算机程序员的需求将减少8%，即26500个工 作岗位。 为在校时间并没有那么多。“我并不是反对教授语言，”他说。“我只是认为这是必须尽早开始的事 情，而不是仅仅局限于高中几年的事情，”他说道。 出了一个沉浸式的双语项目，学生半天用英语，半天用另一种语言，全国各地的几所学校已经成功实 施。“学习语言可以培养对多元化的尊重，对不同种族的尊重，以及对语言的真正尊重，”扎罗说。 完全取代外语。曼迪亚姆说，这两种技能都是必不可少的，但并不相关。“编码是我们孩子在21世纪 学习的一项非常重要的技能，这就是我们花这么多时间来教它的原因，”曼迪亚姆在电子邮件中说。 “但我认为，它与学习一门外语是一样的，甚至可以说是相当的。如果为了增加其他东西，哪怕像编码 这样重要的东西，而失去了如此重要的东西，那将是一种耻辱。显然，教育领导者必须找到一种方法 来教授这两种技能。”"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_09_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "TheU.S.and china don'tagree on much these days. Germany and france share a border and a currency but are frequently at odds. The U.K.and india like to march to their own drum. But there's one issue on which all these countries see eye to eye: Technology companies are too big, too powerful, and too profitable. And that power is only likely to intensify, leaving governments with no choice but to confront it head-on by taking the companies to court, passing new competitionlaws, and perhaps even brea king up the tech giants. China is the latest to implement an anti-trust crack down, unveiling anti-monopolyrules last month. The draftrulesfollowedthesurprisesuspensionof a $37billion stock offering by billion a ire JackMa's Ant Group Co.,making clear that no company can evade the government's regulation. The move sin China coincide with accelerating efforts in theU.S.and europe to rein inAmazon.com, Apple, Face book, and go ogle. \"The big get bigger andbigger but without being better,”says Andreas Schwab, a German member of the european parliament who championed a 2014resolution to break up Go ogle. \"Growingeconomic power, growing influence on localmarkets all over the world, and a growing concern of competitor sand consumers altogether have made it happen now. In this new anti-trust era, the old focus on pricing power no longer applies, because several of the biggest tech companies haveestablishedtrillion-dollarmonopollies bycharging consumers next to nothing. Tech giants are increasingly assuming powerful positions in ban king, finance, advert i sing, retail, and othermarkets thatforcesmaller businesses to rely ontheirplatforms to reach customers. For years, Europe alone confronted thepowerofdigitalgiants. Governments werealarmedthat European companies were failing to match silicon valley's innovations or to stop Go ogle and face book from vacuuming up personal data and, with that, advert i sing revenue. Ledby Margrethe Vestager, the European Union's competition chief, countries have sought to police the market and encourage fair play. In China the crack down has been driven at least partly by fear that the homegrowntechindustryis becoming too powerful. The country has long championed Alibaba and Ten cent, but their massive accumulation of data on the chinese citizenry is a growing concern for Beijing. In theU.S.,a new breed of anti-trust experts argues that consideration should be given to privacy, control over data, workersrights, and the overall impact on smaller companies. And the public in general have grown increasingly skepticalofsocialmediacompanies. More than 6o% say the sector has a negative effect on the country, and almost half want more regulation for social media, according to a 202oPew Research center study. 第6页 ===== PAGE 7 =====",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say is the issue all major economic powers have to address?",
+              "stemCn": "【定位】由题干中的issue、allmajoreconomic",
+              "options": {
+                "A": "How to ensure the sustainable growth of their tech giants.",
+                "B": "How to keep the competitiveness of their tech companies.",
+                "C": "How to break up the powerful giant tech companies.",
+                "D": "How to stop tech companies from gaining monopoly."
+              },
+              "optionCn": {
+                "D": "【精析】细节推断题。文章首段第四、五句指出，在"
+              },
+              "answer": "D",
+              "analysis": "powers定位到首段第四、五句。 一个问题上，所有这些国家的看法都是一致的：科 技公司规模太大，实力太强大，太有利可图。而且 这种力量只可能增强，使得政府别无选择，而只能 通过将公司告上法庭、通过新的竞争法，甚或拆分 这些科技巨头来进行积极对抗。由此可知，各经 济大国必须做的事情是阻止科技公司获得垄断地 位，故答案为D）。 【避错】本段及整篇文章均主要指出，各国认为科 技公司发展过于迅速、实力过于强大，要采取相应 措施阻止科技公司获得垄断地位，A）、B）项与文 章意思不符，故排除；“拆分强大的巨型科技公司” 是政府试图阻止科技公司获得垄断地位的其中一 种手段，并非需解决的问题本身，故排除C）项。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the suspension of Ant Group Co.'s stock offering suggest?",
+              "stemCn": "【定位】由题干中的suspension和AntGroup",
+              "options": {
+                "A": "Allattempts to evade regulation are doomed to failure.",
+                "B": "Allattempts to monopolize sales must be cracked down.",
+                "C": "Allcompanies mustberegulatedby the government.",
+                "D": "Allcompanies, domestic or foreign, are created equal."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。文章第二段第二句提到，在"
+              },
+              "answer": "C",
+              "analysis": "Co.'sstockoffering定位到第二段第二句。 亿万富翁马云的蚂蚁科技集团股份有限公司出人 意料地暂停了370亿美元的股票发行之后，国家 发布了这些规则草案，明确表示没有一家公司可 以逃避政府的监管。由此可知，该事件说明所有 公司都必须受政府监管，故答案为C）。 【避错】文章第二段提到蚂蚁科技集团股份有限公 司暂停发行股票，意在说明中国公司需要受政府 的监管，并未提及逃避监管注定会失败，故排除 与垄断销售无关，故排除B）项；文章只提到中国 对科技公司采取的反垄断措施与美国和欧洲的相 一致，并未说明国内外公司一律平等，故排除"
+            },
+            {
+              "num": 48,
+              "stem": "How are smaller companies impacted by tech giants' business expansion?",
+              "stemCn": "【定位】由题干中的smallercompanies定位到第",
+              "options": {
+                "A": "They can no longer do business independent of tech giants.",
+                "B": "They are frequently denied access to tech giants'platforms.",
+                "C": "They have to change marketing strategies to keep customers.",
+                "D": "They no longer have the power to price their own products."
+              },
+              "optionCn": {
+                "A": "【精析】细节推断题。文章第四段最后一句指出，"
+              },
+              "answer": "A",
+              "analysis": "四段最后一句。 第11页 科技巨头越来越多地在银行、金融、广告、零售和 其他市场占据强大的地位，迫使小型企业依靠它 们的平台来接触客户。由此可知，这些小公司无法 再独立于这些科技巨头来做生意，故答案为A）。 【避错】第四段最后一句指出，这些小公司不得不 依靠科技巨头的平台来接触客户，B）项与原文意 思不符，故排除；文章并未提到小公司采取其他有 效策略来留住客户，故排除C）项；文章只提到，在 这个新的反垄断时代，过去对定价权的关注不再适 用，并未提及小公司的定价权问题，故排除D）项。"
+            },
+            {
+              "num": 49,
+              "stem": "What have EU countries done to confront the power of digital giants?",
+              "stemCn": "【定位】由题干中的EUcountries、confrontthe",
+              "options": {
+                "A": "They have imposed strict regulation over digital giants'advert i sing.",
+                "B": "They have con side red regulatory action to promote fair competition.",
+                "C": "They have limited sales of digital giants'products.",
+                "D": "They have sought to protect consumers'privacy."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第五段最后一句提到，在欧"
+              },
+              "answer": "B",
+              "analysis": "powerofdigitalgiants定位到第五段。 盟委员会竞争主管玛格丽特·维斯塔格的领导 下，各国都在寻求监管市场，并鼓励公平竞争，故 答案为B）。 【避错】第五段第二句指出，欧洲公司未能与硅谷 的创新相匹敌，也未能阻止谷歌和脸书收集个人 数据，以及随之获取广告收入，由此可知它们对数 字巨头的广告监管不到位，A）项与文章意思不符， 故排除；文章并未提及欧盟国家对数字巨头产品 销售的限制，故排除C）项；文章最后一段指出，美 国的反垄断专家认为应该考虑到隐私问题、对数 据的控制等，这并非欧盟国家的举措，D）项与文章 意思不符，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What do Americans generally think of social media companies according to the author?",
+              "stemCn": "【定位】由题干中的Americans和socialmedia",
+              "options": {
+                "A": "They are invading people's privacy.",
+                "B": "They are increasingly influential.",
+                "C": "They are becoming untrustworthy.",
+                "D": "They are growing out of control."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。最后一段最后两句指出，公"
+              },
+              "answer": "C",
+              "analysis": "companies定位到最后一段。 众普遍对社交媒体公司越来越怀疑。根据皮尤研 究中心2020年的一项研究，超过60%的人认为这 个行业对国家有负面影响，几乎一半的人希望对 社交媒体进行更多的监管。由此可知，社交媒体 公司正逐渐失去人们的信任，故答案为C）。 【避错】文章最后一段提到，美国的反垄断专家认 为应该考虑隐私问题，并未提及美国公众对社交 媒体侵犯隐私的看法，故排除A）项；最后一段只 提到，超过60%的人认为这个行业对国家有负面 影响，但未提及影响力大小，故排除B）项；文章提 参考译文 到各国政府对科技巨头发展态势的担心，并未提 及美国人对社交媒体公司发展失控的判断，D）项 与题干不符，故排除。 近来，美国和中国在很多问题上意见不一。德国和法国有共同的边界和货币，但经常有分歧。英国和 印度喜欢按自己的节奏行事。（46）但在一个问题上，所有这些国家的看法都是一致的：科技公司规模太 大，实力太强大，太有利可图。而这种力量只可能增强，使得政府别无选择，而只能通过将公司告上法庭、 通过新的竞争法，甚或拆分这些科技巨头来进行积极对抗。 中国是最新实施反垄断制裁的国家，上个月公布了反垄断规则。（47）在亿万富翁马云的蚂蚁科技集 团股份有限公司出人意料地暂停了370亿美元的股票发行之后，国家发布了这些规则草案，明确表示没有 一家公司可以逃避政府的监管。在中国采取上述行动的同时，美国和欧洲也在加紧控制亚马逊、苹果、脸 书和谷歌公司。 “大公司越做越大，但却没有变得更好，”欧洲议会的德国议员安德烈亚斯·施瓦布说。他曾在2014 年支持了一项拆分谷歌的决议。“不断增长的经济实力，对世界各地地方市场日益增长的影响，以及对竞 争者和消费者日益增长的担忧，所有这一切导致了现在的结果。” 在这个新的反垄断时代，过去对定价权的关注不再适用，因为几家最大的科技公司通过几乎不向消费 者收取费用，建立了万亿美元的垄断地位。（48）科技巨头越来越多地在银行、金融、广告、零售和其他市场 占据强大的地位，迫使小型企业依靠它们的平台来接触客户。 多年来，欧洲独自对抗着数字巨头的力量。各国政府担心，欧洲公司未能与硅谷的创新相匹敌，也未 能阻止谷歌和脸书收集个人数据，以及随之获取广告收入。（49）在欧盟委员会竞争主管玛格丽特·维斯 塔格的领导下，各国都在寻求监管市场，并鼓励公平竞争。 在中国，制裁的动力至少部分原因是担心本土科技产业变得过于强大。长期以来，中国一直支持阿里 巴巴和腾讯，但它们对中国公民数据的大量积累让中国政府越来越担心。 在美国，新一代的反垄断专家认为，应该考虑隐私问题、对数据的控制、工人的权利以及对小型公司的 整体影响。（50）而且公众普遍对社交媒体公司越来越怀疑。根据皮尤研究中心2020年的一项研究，超过 60%的人认为这个行业对国家有负面影响，几乎一半的人希望对社交媒体进行更多的监管。 Passage Two 【文章来源】本文选自2017年12月18日刊登在https：/apnews.com上一篇标题为“TheTravelIndustryHas SparkedaBacklashagainst TouristsbyStressingQuantityoverQuality（《旅游业因重数量轻质量而引发对游客 的抵制》）的文章。 【结构框图】 第1、2段由国际旅游的盛行引出问题：旅游业因重数量轻质量而引发对游 客的抵制。 本文主要说明了目的地 第3一7段分析目的地居民抵制游客的原因。 居民抵制游客的原因及 其解决方法。 第8—11段列举了游客对旅游目的地产生积极影响的做法。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_09_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Born from the accessibility of mass air travel, modern international tourism hasbeenpopularizedas \"holiday-making”inregions that offer comparativeadvantages of sand, sun and sea. Travel is often portrayed as a tool for personal growth and tourism as an economic motor for destination countriesand cities. There is a tendency to assume that tourism is good for everyone involved. Today the big bang of tourism drivesoverl.2billiontouristsacross internationalborders annually. Manypopularplacesareliterallybeinglovedto death. Recentprotests in ports of call like venice and Barcelona against disturbances createdby cruise ships show the unfortunate consequencesof emphasizing quantity over quality in tourism. Uncontrolled tourism development has become a primary driver of social and environmental disruption. Tourism studies provide much documentation of the many negative social impacts of tourism andresulting resentment thatlocalpopulations direct towardvisitors. Antagonism toward tourists typically develops in mature, heavily visited destinations. Protests in heavily visited destinations suggest that traditional tourism has overstayed its welcome. Residentsoftenbecomefrustrated when thebenefitsof tourismarenotfeltlocally. Although it can generate foreign exchange, income and employment, there's no guarantee thatmultinationalhotelchains will allocate thesebenefits equitablyamonglocalcommunities. On the contrary, when people stay at large resorts or on cruise ships, they make most of their purchases there, leaving local communities little opportunity to benefit from touristspending. These forms of tourism widen economic andpoliticalgaps betweenhaves and have-nots at local destinations. In recent decades, localresidents in destination communities also have found themselves negotiating new culturalboundaries, class dynamics, service industry roles and lifestyle transformations. For example, data show that tourism activity corresponds to increased social problems as local residents adopt the 第7页 ===== PAGE 8 ===== behaviors oftourists. What does all this meanfortheeverydaytraveler? First, all tourists should make every effort to honor theirhosts andrespectlocalconditions. This meansbeingprepared toad apt to local customs andnorms, ratherthanexpecting localconditions to adapt to travelers. Second, tourism is a market-based activity and works best when consumers reward better performer. In the information age, there's little excuse for travelers being uninformed about where their vacation money goes and who it enriches. Informed travelers also are better able to distinguish between multinational companies and local entrepreneurs whose businesses provide direct social, environmental, and economic benefits for local residents. Suchbusinesses are in love with the destination and are therefore deserving of market reward. In the long run, being a responsible traveler means ensuring net positive impacts for local people and environments. With theinformationavailable at ourfingertips, there has never been more opportunity to do so.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What is the popular assumption about international tourism?",
+              "stemCn": "【定位】由题干中的popular assumption和",
+              "options": {
+                "A": "Its benefits may compensate for the adverse environmental consequences.",
+                "B": "Its rapid development is attributedto people's improved living standard.",
+                "C": "Itappeals to people inplaces withfavorablegeographicalconditions.",
+                "D": "It contributes to the economy of destination countries and regions."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。文章首段第一句提到现代国"
+              },
+              "answer": "D",
+              "analysis": "internationaltourism定位到第一段。 第12页 际旅游业流行的原因。紧接着第二句指出，旅游 业往往被描述为目的地国家和城市的经济引擎。 文中motor原指“发动机，马达”，此处比喻促进经 济发展的行业。由此可知，人们普遍认为国际旅 游业有助于目的地国家和地区的经济发展。故答 案为D）。 【避错】第三段虽然提到未加控制的旅游业开发已 成为环境破坏的主要驱动因素，但原文并未表明 旅游业带来的好处是否能弥补其不良环境影响， 故排除A）项；首段第一句指出，现代国际旅游业 源自大规模航空旅行的通达性，而非人们生活水 平的提高，故排除B）项；首段第一句表明现代国 际旅游业在拥有沙滩、阳光和海洋这些相对地理 优势的地区以“度假”的形式吸引了众多外国游 客，而非当地居民，故排除C）项。"
+            },
+            {
+              "num": 52,
+              "stem": "What do we learn from some studies about uncontrolledtourism development?",
+              "stemCn": "【定位】由题干中的studies和uncontrolled",
+              "options": {
+                "A": "It gives rise to an increase in mass confrontations.",
+                "B": "It incurslocal residents'antagonism to tourists.",
+                "C": "It inhibits the steady growth of local economy.",
+                "D": "Itbrings in a large chunk of mobile population."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第三段第一句提到未加控制"
+              },
+              "answer": "B",
+              "analysis": "tourism development定位到第三段。 的旅游业开发已成为社会和环境破坏的主要驱动 因素。紧接着第二句指出，旅游业研究提供了大 量文献资料证明该行业的众多负面社会影响以及 由此导致当地居民对游客的怨恨。第四段第一句 则进一步强调这种对游客的敌意通常出现在人满 为患的成熟目的地。由此可知，对未加控制的旅 游业开发进行的一些研究表明它引起当地居民对 游客的怨恨和敌意。故答案为B）。 【避错】第四段第二句提到在人满为患的成熟目的 地发生了抗议活动，但并未表明其规模以及次数 增减，故排除A）项；第三段表明旅游业开发对当 地社会和环境造成破坏，但未提及对当地经济的 负面影响，故排除C）项；虽然第二段提到旅游业 的爆发式发展每年促使12亿多游客跨越国界，但 相关研究并未说明它对人口的影响，故排除D）项。"
+            },
+            {
+              "num": 53,
+              "stem": "Why does the author say local residents of popular destinations often feel frustrated?",
+              "stemCn": "【定位】由题干中的localresidents和feel",
+              "options": {
+                "A": "They fall victim to socialconflictsandenvironmental disturbances.",
+                "B": "They have little opportunity to enjoy themselves on cruise ships.",
+                "C": "They cannot find employment inmultinationalhotel chains.",
+                "D": "They do not think they benefit as much as they deserve."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。第五段第一句提到当地方感"
+              },
+              "answer": "D",
+              "analysis": "frustrated定位到第五段。 受不到旅游业带来的好处时，当地居民往往就会 变得沮丧。紧接着第二句进一步解释原因是旅游 业无法保证跨国连锁酒店会在当地社区公平分配 这些好处。由此可知，当地居民经常感到沮丧是 因为他们无法公平获得旅游业带来的好处，即未 获得应得的好处。故答案为D）。 【避错】第三段第一句提到socialand environmental disruption，但这是指未加控制的旅 游业开发造成的负面影响，原文并未表明旅游目 的地居民感到沮丧的原因与此相关，故排除A） 项；第六段第一句提到cruiseships和litle opportunity，但指的是当地社区很少有机会获益 于游客在游轮上的消费，而非当地居民很少有机 会在游轮上享受玩乐，故排除B）项；第五段第二 句指出无法保证跨国连锁酒店会在当地社区公平 分配旅游业所创造的就业机会，而非当地居民完 全无法在跨国连锁酒店找到工作，故排除C）项。"
+            },
+            {
+              "num": 54,
+              "stem": "How does the author saylocalresidents in destinationcommunities respond to tourism activity?",
+              "stemCn": "【定位】由题干中的localresidents indestination",
+              "options": {
+                "A": "They endeavor to adapt to it.",
+                "B": "They readily adoptnewlifestyles.",
+                "C": "They immerse tourists in their culture.",
+                "D": "They try to upgrade their business models."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第七段第一句提到目的地社"
+              },
+              "answer": "A",
+              "analysis": "communities和tourismactivity定位到第七段。 区的当地居民发现自己一直在适应新的文化边界、 阶级动态、服务行业角色和生活方式转变。紧接着 第二句具体举例进行说明，因为当地居民出现了同 游客一样的种种不良行为，即当地居民在适应旅游 活动的负面影响，所以旅游活动相应地带来了社会 问题的增加。综合可知，目的地社区的当地居民对 旅游活动的回应是尽力去适应它。故答案为A）。 【避错】第七段第一句只提到当地居民在适应生活 方式转变，并未提及其接受的态度，故排除B）项； 第七段第一句提到culturalboundaries，但指的是 当地居民在适应新的文化边界，而非让游客沉浸 于当地文化之中，故排除C）项；第七段第一句只 表明当地居民在适应服务行业角色，并未提及他 们是否试图升级其商业模式，故排除D）项。"
+            },
+            {
+              "num": 55,
+              "stem": "What can tourists do to exert more positive impacts on the tourist destinations?",
+              "stemCn": "【定位】由题干中的tourists和positive impactson",
+              "options": {
+                "A": "Show interest in local customs andlifestyles.",
+                "B": "Seekpossibilitiesto invest inlocalcompanies.",
+                "C": "Usetheservicesprovidedbylocalbusinesses.",
+                "D": "Givefavorablecomments about their services."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。最后一段第三句提到从长远"
+              },
+              "answer": "C",
+              "analysis": "the tourist destinations定位到最后一段第三句。 来看，做一个负责任的旅行者意味着确保对当地 人和当地环境只有积极影响。而前两句指出，本 土企业为当地居民提供直接的社会、环境和经济 效益，应该得到市场回报。由此可知，负责任的旅 行者应使用本土企业提供的服务，让本土企业从 中获利，从而对当地产生积极影响。故答案为C）。 【避错】第九段第二句提到游客要做好准备适应当 地习俗与规范，而非对其表现出兴趣，故排除A) 项；最后一段提到了当地公司应获得市场回报，但 未提及游客是否应对其投资，故排除B）项；第九 段第一句提到游客对旅游目的地的态度应该是尊 重，但未提及游客对服务的评价，故排除D）项。 参考译文 源自大规模航空旅行通达性的现代国际旅游业，已在拥有沙滩、阳光和海洋这些相对优势的地区以 “度假”形式普及开来。（51）旅游通常被描述为个人成长的工具，而旅游业则往往被描述为目的地国家和 城市的经济引擎。人们倾向于认为旅游业有利于所有相关人员。 第13页 如今，旅游业的爆发式发展每年促使12亿多游客跨越国界。许多热门旅游地确实让人爱到要死。在 威尼斯和巴塞罗那等停靠港，近期针对游轮造成的骚乱而举行的抗议活动，显示出旅游业重数量轻质量所 导致的不幸后果。 （52-1）未加控制的旅游业开发已成为社会和环境破坏的主要驱动因素。旅游业研究提供了大量文献 资料证明该行业的众多负面社会影响以及由此导致当地居民对游客的怨恨。 （52-2）对游客的敌意通常出现在人满为患的成熟目的地。而在此类地方发生的抗议活动表明传统旅 游已令人生厌。 （53）当地方感受不到旅游业带来的好处时，当地居民往往就会变得沮丧。虽然旅游业可以创造外汇、 收入和就业，但无法保证跨国连锁酒店会在当地社区公平分配这些好处。 恰恰相反，当人们住在大型度假胜地里或者游轮上时，他们的大部分消费都是在那里进行的，这让当 地社区很少有机会获益于游客消费。这些旅游形式扩大了目的地当地富人和穷人之间的经济与政治 差距。 （54）近几十年来，目的地社区的当地居民也发现自己一直在适应新的文化边界、阶级动态、服务行业 角色和生活方式转变。例如，数据显示，旅游活动相应地带来了社会问题的增加，因为当地居民出现了同 游客一样的种种不良行为。 这一切对于日常旅行者而言意味着什么？ 首先，所有游客都应尽力尊重东道主，顾及当地情况。这意味着要做好准备适应当地习俗与规范，而 非期待当地情况来适应旅行者。 其次，旅游业是基于市场的活动，当消费者奖励表现较好的一方时，旅游业才能发挥最佳效果。在信 息时代，旅行者没有什么理由对其度假开销去向以及获利对象不知情。 （55）见多识广的旅行者还能更好地区分跨国公司和本土企业家，而本土企业为当地居民提供直接的 社会、环境和经济效益。这类企业热爱本土，因此应该得到市场回报。从长远来看，做一个负责任的旅行 者意味着确保对当地人和当地环境只有积极影响。随着信息触手可及，我们拥有前所未有的机会去做到 这一点。 PartI Translation 参考译文： Pasting theSpring Festivalcouplets is an important customforChinesepeopleto celebrate the Spring Festival. The Spring Festivalcouplets consistofa pairof poems and a four-characterhorizontal scrollwrittenin goldorblackonred paper,withredrepresentingluckandgoldrepresenting wealth.The Spring Festival couplets are pastedontheleftandright sides ofthegate andabovethe doorframe.ThelinesoftheSpring Festivalcouplets embody the characteristics oftraditionalChinese poetry,with twolines having thesame numberofcharactersandrelatedcontent.Thehorizontalscrollhighlighting thethemeofthe Spring Festival couplets is even theicing on the cake.People depict vividimages in simple words inthe Spring Festival couplets,expressing a beautifulvision.When every householdputs up the Spring Festivalcouplets,peoplewill realizethattheSpringFestivalhasofficiallykickedoff 第14页"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_09_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "贴春联（SpringFestivalcouplets）是中国人欢度春节的一个重要习俗。春联由一对诗句和四字横批 （horizontalscroll）组成，诗句和横批用金色或黑色写在红纸上，红色代表幸运，金色代表财富。春联贴在大 门左右两侧和门框上方。春联的诗句体现中国传统诗词的特点，两句诗的字数相同、内容相关。横批凸显 春联的主题，更是锦上添花。春联以简洁的文字描绘生动的形象，抒发美好的愿望。当家家户户贴春联 时，人们就会意识到春节己经正式拉开序幕。 第8页",
+          "terms": [],
+          "reference": "Pasting the spring Festivalcouplets is an important customforChinesepeopleto celebrate the Spring Festival. The Spring Festivalcouplets consist of a pair of poems and a four-character horizontal scrollwrittenin gold or black on red paper, withredrepresentingluckandgoldrepresenting wealth. The Spring Festival couplets are pastedontheleftandright sides oft he gate and above the door frame. The line soft he spring Festivalcouplets embody the characteristics of traditional chinese poetry, with twolines having the same numberofcharactersandrelatedcontent. Thehorizontalscrollhighlighting the theme oft he Spring Festival couplets is even theicing on the cake. People depict vividimages in simple words in the Spring Festival couplets, expressing a beautiful vision. When every householdputs up the Spring Festivalcouplets, people will realizethattheSpringFestivalhasofficiallykickedoff 第14页",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

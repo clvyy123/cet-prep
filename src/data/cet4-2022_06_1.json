@@ -1,0 +1,630 @@
+{
+  "id": "cet4-2022_06_1",
+  "level": 4,
+  "year": 2022,
+  "month": 6,
+  "setNo": "第1套",
+  "title": "2022年6月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose you are going to write a proposal to your school library for improving its service.You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at leasst 120 words but no more than 180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_1-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1and 2 are based on the news report you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What do we learn about the new study from the",
+              "stemCn": "",
+              "options": {
+                "A": "It studied the effects of exercise on sleep.",
+                "B": "Its participants came from various walks of life.",
+                "C": "Its findings confirmed those of previous studies.",
+                "D": "It ran for as long as some thirty years."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。新闻开头提到，在一项新研"
+              },
+              "answer": "D",
+              "analysis": "news report? 究中，其研究对象被随访了大约三十年。由此可 知，这项研究进行了大约三十年。因此，答案为D。"
+            },
+            {
+              "num": 2,
+              "stem": "What is the scientists’recommendation?",
+              "stemCn": "",
+              "options": {
+                "A": "Eating more vegetables instead of meats.",
+                "B": "Dr in king water instead ofbeverages withadded sugar.",
+                "C": "Consuming more energy drinks and sports drinks.",
+                "D": "Forming the habit of exercising regularly. Questions 3and 4 are base don the news report you have justheard. 3.A) He askedthemabout his lost paintings."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。新闻末尾提到，科学家的研"
+              },
+              "answer": "B",
+              "analysis": "究结果支持限制添加糖的饮料，他们认为人们应该 用其他饮料代替添加糖的饮料，而水是最好的选 择。因此，答案为B）。 Questions3and 4 arebasedonthenews reportyouhave just heard. （3-1)German policeappealedFridayforinformationaboutthepossibleownersoftwo17th-centuryoil paintings. (3-2)Police saida64-year-oldmanfoundthe paintings in a garbage pileat ahighwayrest stoplastmonth. HelaterhandedthemintotheColognepolice. (4)An initialassessment by an art expert concluded the two framed paintings were originals,police said. Oneis alandscapepaintedbytheItalianartistPietroBellotti dating to1665.Theotheris a paintingofa boybythe17th-centuryDutch artist SamuelvanHoogstraten,date unknown. Their combined worthis estimated tobe aroundone million euros. Authorities have not yet confirmed whatwillhappen if the rightfulowner is not found.Nevertheless,itis speculatedthattheycould either be handedoverto theNationalArtMuseumofCologneor sold to the publicby thelocal government."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_1-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Two",
+          "intro": "Questions 22 to 25 are based onthe passage you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What is a major key to success in international",
+              "stemCn": "",
+              "options": {
+                "A": "Choosing the best time for signing a business contract.",
+                "B": "Changing one's form of communication from time to time.",
+                "C": "Laying equal stress on writtenand spoken communication.",
+                "D": "Using different forms of communication appropriately."
+              },
+              "optionCn": {
+                "D": "【精析】细节推断题。短文开头提到，交流可分为"
+              },
+              "answer": "D",
+              "analysis": "business according to the passage? 书面交流和口头交流，人们什么时候需要书面或 口头交流取决于他们的文化。知道适时将一种形 式换成另一种形式是在国际业务中取得成功的关 键。因此，答案为D)。"
+            },
+            {
+              "num": 23,
+              "stem": "What does the passage say about spoken word",
+              "stemCn": "",
+              "options": {
+                "A": "They are regarded as seriously binding.",
+                "B": "They are seldomhonored by business partners.",
+                "C": "They are taken as memos of understanding.",
+                "D": "They are to be confirmed in writtenform."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。短文中提到，在中东部分地"
+              },
+              "answer": "A",
+              "analysis": "agreements in some Middle East countries? 区，口头协议被视为具有很强的约束力，一个人的 言语与他们的信誉相关，而书面合同则被当作协 议备忘录。因此，答案为A)。"
+            },
+            {
+              "num": 24,
+              "stem": "What do we learn about the Western working culture?",
+              "stemCn": "",
+              "options": {
+                "A": "It has reachedthehighestlevelofevolution.",
+                "B": "It places a high value on written contracts.",
+                "C": "It regards written contracts as un alter able.",
+                "D": "It has seen a decline in verbal agreements."
+              },
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "【原文】Western working culture tends to place a high value on the written word, and this reaches its highest level of intensity when it comes to contracts.\n【翻译】西方工作文化倾向于高度重视书面文字，而当涉及到合同时，这种重视达到最高程度。\n【解析】听力原文明确指出“Western working culture tends to place a high value on the written word”（西方工作文化倾向于高度重视书面文字），特别是在合同时。这与选项B \"It places a high value on written contracts.\" (它高度重视书面合同) 相符。选项A、C、D在原文中未提及或与原文信息不符。原文提到了在西方国家（如美法德），书面合同被视为“必须严格执行”，但这与“不可更改”略有区别，B是更直接的描述。"
+            },
+            {
+              "num": 25,
+              "stem": "How does a Japanese firm tend to view a written contract?",
+              "stemCn": "",
+              "options": {
+                "A": "Its details cannotberenegotiated.",
+                "B": "It has to be carriedout to the letter.",
+                "C": "It strengthens business partnerships.",
+                "D": "Its terms may not be strictly binding."
+              },
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "【原文】For example, a Japanese firm may have signed a contract, but they may not feel bound by every detail of it. Particularly if circumstances later change.\n【翻译】例如，一家日本公司可能签了一份合同，但他们可能不觉得受合同的每个细节约束。特别是在情况后来发生变化时。\n【解析】听力原文通过日本公司的例子说明，“a Japanese firm may have signed a contract, but they may not feel bound by every detail of it”（一家日本公司可能签了一份合同，但他们可能不觉得受合同的每个细节约束），特别是在情况变化时。这表明合同条款可能不被视为严格绑定。这与选项D \"Its terms may not be strictly binding.\" (它的条款可能不具有严格约束力) 相符。选项A、B与原文描述的日本公司对合同的态度相反。选项C在原文中未提及。"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2022_06_1-A.mp3",
+        "B": "/audio/papers/cet4-2022_06_1-B.mp3",
+        "C": "/audio/papers/cet4-2022_06_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any oft he 2022.6/3（第1套） ===== PAGE 4 ===== words in the bank more than once. You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just 26 under any condition?In spite of our 27discomfort, it turns out there's a good reason our teeth are so sensitive. Tooth pain is a 28 mechanism that ensures when a tooth is being damaged we'llnotice and do something about it. If we eat something too hot or too cold, or if the tooth is worn down enough where the tissue 29 is exposed, allofthosethings cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more. So it'sreally a protectivemechanismmore than anything else. If teeth didn't feel pain, we might 30to use them in situations that damage them, and for humans, damaging 31 teeth is a problem because, unlike crocodiles, we can't 32 them. Teeth have three layers, only one of which—the innermost layer of the tooth—can hurt, as that layer oft he tooth 33bothblood vessels andnerves. Pain is the only feeling to which the nerves in that layer respond. Whereas people with tooth sensitivity may complain, for example, of tooth pain 34 by heat or cold, the nerve sin the inner layer don't sense temperature. Rather, they feel pain, which maybe 35_with, say, dr in king something very cold.",
+          "wordBank": {
+            "A": "adult",
+            "B": "associated",
+            "C": "chew",
+            "D": "contains",
+            "E": "continue",
+            "F": "defense",
+            "G": "dental",
+            "H": "downward",
+            "I": "emotional",
+            "J": "implies",
+            "K": "mammal",
+            "L": "replace",
+            "M": "swallow",
+            "N": "triggered",
+            "O": "underneath"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前有情态动词could，因此本空应"
+              },
+              "answer": "C",
+              "analysis": "填入动词原形。 【语义判断】空格所在句的意思是：如果它们在任 何情况下都能 不是更好吗？根据上文可 知，空格所在句的主语they指的是teeth。结合语 境、常识以及备选的动词原形可知，本空应填入含 有“咀嚼”意义的动词原形，由此确定答案为 下”不是牙齿的功能，因此均可排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前有形容词性物主代词our，后"
+              },
+              "answer": "G",
+              "analysis": "面是名词discomfort，因此本空应填入形容词 或名词。 【语义判断】空格所在句的意思是：尽管我们的 不舒服，事实证明我们的牙齿如此敏感 是有原因的。由our teethare so sensitive可知， discomfort指的是“牙齿”不舒服，因此本空应填 入含有“牙齿”意义的形容词或名词，由此确定答 案为G)dental。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格前有不定冠词a，空格后是名词"
+              },
+              "answer": "F",
+              "analysis": "mechanism。mechanism后是that引导的定语从 句，用来修饰先行词mechanism。因此，本空应填 入形容词或名词来修饰mechanism。 【语义判断】空格所在句的意思是：牙痛是一种 机制，确保当牙齿受损时，我们会注意到 并采取措施。由此可知，牙痛是一种“防御”机制， 因此本空应填入含有“防御”意义的名词，由此确 定答案为F）defense。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "【语法判断】空格前是名词tissue，空格后是谓语动"
+              },
+              "answer": "O",
+              "analysis": "词is exposed，因此本空应填入一个定语来修饰名 词tissue。 【语义判断】空格所在句的意思是：牙齿因为被磨 损得太多而导致 组织暴露在外面。结合 常识可知，牙齿被磨损得太多之后，“下面的”组织 就会暴露在外面，因此本空应填入含有“下面”意 义的词，由此确定答案为O)underneath。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前有情态动词might，因此本空"
+              },
+              "answer": "E",
+              "analysis": "应填入动词原形。 【语义判断】空格所在句的意思是：如果牙齿感觉 不到疼痛，我们可能会在损害牙齿的情况下 使用它们。上一句已经说明牙痛是一种 保护机制，在感到牙痛时我们就不再使用那颗牙 齿了。本句是一个假设，即如果牙齿感受不到疼 痛，那我们就会“继续”使用牙齿，这样会伤害牙 齿。因此，本空应填入含有“继续”意义的动词原 形，由此确定答案为E）continue。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前是动名词，空格后是名词"
+              },
+              "answer": "A",
+              "analysis": "teeth，因此空格处应填入形容词或名词来修饰 teeth，和teeth一起作damaging的宾语。 【语义判断】空格所在句的意思是：对人类来说，损 牙齿是一个问题。由常识可知，人的 一生总共有乳牙和恒牙两副牙齿。乳牙会被恒牙 替换，但是恒牙脱落后不能再生，因此恒牙受损就 比较严重了。恒牙就是成熟的牙，因此，本空应填 人表达“成熟的”意义的词，由此确定答案为A) adult。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前是情态动词can't，因此本空应"
+              },
+              "answer": "L",
+              "analysis": "填入动词原形。 【语义判断】空格所在句的意思是：对人类来说，损 害成熟的牙齿是一个问题，因为我们不能像鳄鱼 那样_ 它们。由常识可知，损坏成熟的牙 齿是一个问题，因为人类无法自然“替换”成熟的 牙齿，因此本空应填入含有“替换”意义的动词原 形，由此确定答案为L）replace。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前是句子的主语thatlayerof"
+              },
+              "answer": "D",
+              "analysis": "the tooth，空格后是宾语bothbloodvesselsand 2022.6/7（第1套） nerves，因此空格处应填入动词的第三人称单数形 式作谓语。 【语义判断】空格所在句的意思是：牙齿包括三层， 只有其中一层——牙齿最内层——会感到疼痛， 因为牙齿那一层 血管和神经。由常识可 知，牙齿会感到疼痛是因为“含有”神经，因此本空 应填入含有“包含，含有”意义的动词，由此确定答 案为D）contains。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格前是名词短语toothpain，空格"
+              },
+              "answer": "N",
+              "analysis": "后是介词短语byheatorcold，而toothpain by heat orcold是complain of的宾语。 由此可知，空格处应填入动词的-ed形式作pain 的后置定语。 【语义判断】空格所在句的意思是：牙齿敏感的人 参考译文 可能会抱怨诸如由热或冷 牙痛。由常识 可知，对牙齿敏感的人来说，太热或太冷的东西容 易“引起”牙痛，因此本空应填入含有“引起”意义 的动词-ed形式，由此确定答案为N）triggered。 备选的动词-ed形式中，B）associated不符合此处 语境，而且通常与with连用，因此排除。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格前是be动词，空格后是介词"
+              },
+              "answer": "B",
+              "analysis": "with，因此本空应填人一个词构成短语be with。 【语义判断】由前一句可知，牙齿内层的神经不会 感受到温度，它们感受到的是“与异常温度有关 的”疼痛。因此，空格处应填人含有“有关”意义的 词，由此确定答案为B)associated。beassociated with...意为“与……有关的”。 你可能会认为你的牙齿是工具，就像内置的刀叉一样。但如果它们只是工具，为什么它们会感到疼 痛，如果它们在任何情况下都能咀嚼不是更好吗？尽管我们的牙齿不舒服，事实证明我们的牙齿如此敏 感是有原因的。牙痛是一种防御机制，确保当牙齿受损时，我们会注意到并采取措施。 如果我们吃了太热或太冷的东西，或者牙齿因为被磨损得太多而导致下面的组织暴露在外面，所有 这些都会导致疼痛，然后疼痛使人们不再使用那颗牙齿，以此来多给它一些保护。所以这真的是一种保 护机制，而非其他。如果牙齿感觉不到疼痛，我们可能会在损害牙齿的情况下继续使用它们，而对人类来 说，损害成熟的牙齿是一个问题，因为我们不能像鳄鱼那样替换它们。 牙齿包括三层，只有其中一层——牙齿最内层—一会感到疼痛，因为牙齿那一层包含血管和神经。 疼痛是该层神经唯一能对它做出反应的感觉。牙齿敏感的人可能会抱怨诸如由热或冷引发的牙痛，而内 层的神经感觉不到温度。相反，它们会感到疼痛，这可能与人们喝了非常凉的东西有关。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "B) It places a high value on written contracts.\nC) It regards written contracts as un alter able.\nD) It has seen a decline in verbal agreements.\nB) It has to be carriedout to the letter. D) Its terms may not be strictly binding.\nA) On paper, the job seemed perfect for me: The position was completely in line with my degree, the\nB) Sounds like my dream job, right? There was only one small problem: I simply didn't get along with the\nC) When it comes to lookingfor a new job, you already know that a big part of the interview process\nD) However, figuring out what a company is like before you actually work there can be a bit of a\nE) First of all, know what you want. It's hard to make any decisions when you don't really know what\nF) Start by writing down the things you didn't like about previous employers, as well as theparts you\nG) Make sure to do your research. Now comes the part when you put on your detective hat and do a little\nH) Next, turn your attention toward their socialmediaoutlets. Are they sharingphotos oft heir team's\nI) AnindustryreviewwebsitelikeGlassdooris anotherspottocheckinordertofind someinsider\nJ) Finally, you can never fail with personal connections. Send a quick message to a current or previous\nK) Learn more by as king questions. You know that part at the end of a job interview when the hi ring\nL) Prioritize yourvalues. What does my dream company culture look like?Well, I could come and go as i\nM) What are my chances of finding all of those things with one employer?Slim to none—believe me, I've\nN) When you're hunting for a new job, you already know that the employer is trying to decide whether or\nO) Keep these tips in mind to figure out whether you and a potential employer are a perfect match or just\nA) They can access course materials easily.\nD) They rarely fulfil the course requirements.\nB) They are me ant to facilitate interaction.\nC) They are based on easily accessible material.\nD) They are given to accommodate students'needs.\nA) Theyarefrequentlyscheduledat irregulartimes.\nB) They make professors'offices much less accessible.\nC) They tend to increase professors' burden of responding to students'emails.\nD) Theyprovidelittlechancefor students to buildrelationships with each other.\nA) More students may find it easy to be absent from them.\nB) Teachers will worry about poor internet connections.\nC) Some students may have difficulty attending them.\nD) Schools with limitedresources will beat a disadvantage.\nA) Acquisition of useful knowledge. C) Development of students'personalities.\nB) Training of real-life skills on campus. D) Cultivation of analytical thinking ability.\nA) Help the public to better understand science.\nB) Clear up confusion in the scientific community.\nC) Settle disputes between universities and government agencies.\nD) Prevent information from being used incorrectly by the public.\nA) It might hinder the progress in medical research.\nB) It might breed public distrust in modern medicine.\nC) It might add to the difficulty of getting researchfunds.\nD) It might prevent medical scientists reaching consensus.\nA) Debating scientific issues at a conference is now old-fashioned.\nB) Diverse topics can be debatedbyboth scientists and the public.\nC) Debates about science are accessible to the public anyway.\nD) Scientists can voice their opinions whatever way they like.\nA) Have more discussions about it. C) Formulate newrules for it.\nB) Embrace it with open arms. D) Restrain it to a rational degree.\nA) It is transmittedthroughtextbooks. C) It is a dynamic and self-improving process.\nB) It is whatproves valid and true to life. D) It is a collection offacts andestablishedrules.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Clues about the culture of a company can be found on its website.",
+              "stemCn": "【定位】由题干中的Clues abouttheculture ofa",
+              "options": {},
+              "optionCn": {
+                "G": "段第四、五句。"
+              },
+              "answer": "G",
+              "analysis": "哪里寻找这些文化线索呢？首先从最明显的地方 开始：公司的网站。题干中的Cluesaboutthe culture ofa company和its website分别对应定位 句中的these culture clues和the company's website。题干是对定位句的概括归纳，故答案 为G）。"
+            },
+            {
+              "num": 37,
+              "stem": "It can be difficult to know the real situation in a company until you become part of it.",
+              "stemCn": "【定位】由题干中的difficult、realsituation和",
+              "options": {},
+              "optionCn": {
+                "D": "段第一句。"
+              },
+              "answer": "D",
+              "analysis": "个公司工作之前弄清楚该公司是什么样子可能是 个挑战。题干中的difficult对应定位句中的abit of a challenge，题干中的know thereal situation in a company对应定位句中的figuring out whata company is like，题干中的become part of it对应 定位句中的actuallyworkthere。题干是对定位 句的同义转述，故答案为D)。"
+            },
+            {
+              "num": 38,
+              "stem": "It is impossible for a job applicant to have every expectation met.",
+              "stemCn": "【定位】由题干中的impossible和haveevery",
+              "options": {},
+              "optionCn": {
+                "M": "段第一、二句。"
+              },
+              "answer": "M",
+              "analysis": "主那里找到所有这些东西的概率有多大？几乎没 有——相信“我”，“我”已经找过了。题干中的 impossible对应定位句中的Slimtonone，题干中 的have every expectationmet是对定位句中 finding all of those things with one employer的 同义转述，题干中的ajobapplicant对应定位句中 的I。题干是对定位句的同义转述，故答案为M)。"
+            },
+            {
+              "num": 39,
+              "stem": "Simply by reading its description, the author found the job offered ideal.",
+              "stemCn": "【定位】由题干中的readingitsdescription、the",
+              "options": {},
+              "optionCn": {
+                "A": "段。"
+              },
+              "answer": "A",
+              "analysis": "作对“我”来说似乎很完美。题干中的readingits description对应定位段中的Onpaper，题干中的 theauthorfoundthe jobofferedideal对应定位 段中的thejob seemedperfectforme。题干是对 定位段的归纳总结，故答案为A）。"
+            },
+            {
+              "num": 40,
+              "stem": "Job applicants are advised to make a written list of their likes and dislikes in their previous",
+              "stemCn": "【定位】由题干中的makea writtenlist、likesand",
+              "options": {},
+              "optionCn": {
+                "F": "段"
+              },
+              "answer": "F",
+              "analysis": "第一、二句。 喜欢前任雇主的地方，以及你真正看重的部分。 这里没有错误的答案——所以从大事到小细节， 把它们都写在你的清单上。题干中的makea writtenlist对应定位句中的writethemalldown on your list，题干中的likesand dislikes对应定位 句中的theparts youreally valued和the things youdidn't like，题干中的previous employment对 应定位句中的previousemployers。题干是对定 位句的概括归纳，故答案为F）。"
+            },
+            {
+              "num": 41,
+              "stem": "At the end of an interview, a job applicant should seize the opportunity to get answers to their urgent",
+              "stemCn": "【定位】由题干中的Attheendofaninterview、",
+              "options": {},
+              "optionCn": {
+                "K": "段第二、三句。"
+              },
+              "answer": "K",
+              "analysis": "theopportunity和urgentquestions定位到文章 结束时，招聘负责人问你有没有什么问题，你只是 张着嘴茫然地盯着桌子对面吗？这是一个很好的 机会，你可以大声说出自己的想法，让招聘负责人 回答你迫切想了解的企业文化的问题！题干中的 Attheendofaninterview对应定位句中的atthe end of a job interview，题干中的the opportunity to get answers to their urgent questions对应定位 句中的the perfect opportunity和getyour burning company culture questions answered。题 干是对定位句的概括归纳，故答案为K）。"
+            },
+            {
+              "num": 42,
+              "stem": "To begin with, jobapplicants should be clear what they expect from their future employer.",
+              "stemCn": "【定位】由题干中的beclear和whattheyexpect",
+              "options": {},
+              "optionCn": {
+                "E": "段第三句。"
+              },
+              "answer": "E",
+              "analysis": "和某家公司是否合拍之前，先明确你到底想从雇 主那里得到什么，这一点很重要。题干中的be clear对应定位句中的have a solidhandle，题干中 的what they expectfrom their future employer 对应定位句中的whatexactlyyouwantfrom your employer。题干是对定位句的归纳总结，故 答案为E)。"
+            },
+            {
+              "num": 43,
+              "stem": "Job applicants should read with a critical eye what is written about a company on the website.",
+              "stemCn": "【定位】由题干中的readwithacriticaleye定位",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】同义转述题。定位句指出，记住要对你读"
+              },
+              "answer": "I",
+              "analysis": "到文章I段第二句。 到的评论持保留态度——其中许多都是由被鄙视 的员工写的。题干中的readwithacriticaleye what is written about a company对应定位句中的 take the reviews you read with a grain of salt,故 答案为I）。"
+            },
+            {
+              "num": 44,
+              "stem": "Job satisfaction has a lot to do with company culture.",
+              "stemCn": "【定位】由题干中的Jobsatisfaction和company",
+              "options": {},
+              "optionCn": {
+                "C": "段最后一句。"
+              },
+              "answer": "C",
+              "analysis": "你的工作感受产生很大的影响，所以你要确保你 是跟真正感兴趣的公司签了聘用函。题干中的 Jobsatisfaction对应定位句中的howyoufeel about your work，题干中的has a lot to do with对 应定位句中的havea big impacton，题干中的 companyculture在定位句中直接出现，故答案 为C）。"
+            },
+            {
+              "num": 45,
+              "stem": "A chat with an insider of a company can give job applicants very useful information when they prepare",
+              "stemCn": "【定位】由题干中的Achat、aninsiderofa",
+              "options": {},
+              "optionCn": {
+                "J": "段"
+              },
+              "answer": "J",
+              "analysis": "第二、三句。 2022.6/9（第1套） 或电子邮件给该公司的在职员工或离职员工发一 条简短的信息，询问他们是否愿意和你就该公司 的总体情况进行简短的交谈。如果你的聊天请求 得到了同意，你将会带着一些非常强大和有用的 信息进入面试！题干中的Achat在定位句中直接 参考译文 出现，题干中的an insider ofa company对应定位 句中的a current or previous company employee， 题干中的veryusefulinformation对应定位句中 的prettypowerfulandhelpful information。题 干是对定位句的总结，故答案为J）。 如何确定一家公司是否适合你 符，而且办公室有一个储备充足的厨房，可以满足我对零食的各种需求。 听起来像是我的理想工作，对吧？只有一个小问题：我就是不适应公司的文化。他们喜欢一种比较僵 化、封闭的企业氛围，而我更喜欢更具协作性和开放性的氛围。他们完全就是看表等下班的人，而我 希望时间安排更灵活。说白了，我们只是无法达成共识。 说到找新工作，你已经知道面试过程的一个重要部分涉及公司评估你是否适合他们的空缺职位。但 是，重要的是要记住，雇主并不是唯一需要确定合适人选的人———你也应该寻找同样的东西。（44）公 司文化会对你的工作感受产生很大的影响，所以你要确保你是跟真正感兴趣的公司签了聘用函。 （37）然而，在你实际去某个公司工作之前弄清楚该公司是什么样子可能是个挑战。幸运的是，在虚线 上签名之前，你可以做一些事情来判断这家公司是否适合你。 首先，知道自己想要什么。当你真的不知道自己在寻找什么时，很难做出任何决定。（42）所以，在你 确定自己和某家公司是否合拍之前，先明确你到底想从雇主那里得到什么，这一点很重要。我们很多 人很容易确定我们绝对不想要的东西。如果你能想到的只有这些，别担心！这仍然是一个很好的 起点。 （40）首先写下你不喜欢前任雇主的地方，以及你真正看重的部分。这里没有错误的答案——所以从 大事到小细节，把它们都写在你的清单上。这将帮助你立即确定你在公司中寻找什么，以及你试图狠 狠地远离的东西。 公室之前熟悉这家公司的文化时，互联网将是你最好的朋友。（36）你到底应该去哪里寻找这些文化 线索呢？首先从最明显的地方开始：公司的网站。浏览他们的信息和博客。他们使用正式的、直接的 语言吗？或者是随意的、口语式的，甚至可能是有点幽默的？这可以很好地反映出该公司想要营造什 么样的氛围。 接下来，将你的注意力转向他们的社交媒体渠道。他们是在分享团队周四下午烧烤或万圣节服装比 赛的照片吗？还是他们的社交媒体账号仅限于与公司相关的公告和产品发布？ 像Glassdoor这样的行业评论网站是另一个可以查看的地方，你可以从中找到一些关于某家公司的 内幕信息。（43）然而，记住要对你读到的评论持保留态度——其中许多都是由被鄙视的员工写的。 最后，一定要动用个人人脉。（45）通过LinkedIn或电子邮件给该公司的在职员工或离职员工发一条 简短的信息，询问他们是否愿意和你就该公司的总体情况进行简短的交谈。如果你的聊天请求得到 了同意，你将会带着一些非常强大和有用的信息进入面试！ 通过提问了解更多信息。（41）你知道在面试结束时，招聘负责人问你有没有什么问题，你只是张着嘴 茫然地盯着桌子对面吗？这是一个很好的机会，你可以大声说出自己的想法，让招聘负责人回答你迫 切想了解的企业文化的问题！所以，是的，你当然可以问面试官，在那家公司工作是什么感觉。一些 简单的问题，比如，“你会用哪三个词来描述这里的文化?”或者“在这家公司工作，你最喜欢的部分是 什么?”，可以揭示很多不公开的真实情况。 由。老板会认真听取并重视我的所有想法和建议。同事间都会友好相处，而不会陷人办公室流言蜚 语的陷阱。厨房里有无数的比萨和饼干可供选择。哦，他们会给我两个月的带薪假期，薪水还很高。 就是为什么知道你最看重公司文化的哪些方面是如此重要。是开放的沟通方式，还是灵活的时间安 排？把注意力集中在优先事项清单上最重要的事项上，并确保你的潜在雇主至少勾选了这些选项。 不幸的是，这就是现实，你不可能拥有你想要的一切，但有一些是可以实现的。 2022.6/10（第1套） 当你在找一份新工作的时候，你已经知道雇主要判断你是否适合这个职位。但你也应该通过类似的 视角来看待这个过程。你也许不是主持面试的那个人，但你仍然在努力确定这家公司是否适合你。 把这些建议记在心里，看看你和你的潜在雇主是绝配，还是只会带来灾难。毕竟，在真正接受一份工 作之前弄清楚是件好事。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Online classes beg an to be popularized just a few decades ago. They are advertised as a way foradults to finishtheireducationandstudents to learn the material at their own pace—it is farm ore compatible for people with busy schedules. But after being enrolled in an onlinecourselastfallsemester, Icame to realize online classes were merely a means to fulfil course requirements. First of all, student slack the desire to learn, and they simply complete theirassignmentstoreceive credit for a passing grade rather than genuinely engage with the course material. As online courses tend to have more than 10ostudents, most of the assignments are short and simple. They are not designed forstudents to interact with the material in depth but designed to be graded easily to accommodate such a large number of students. Perhaps the biggest disadvantage oft a king an online class is the absence of face-to-face interaction between the teacher and theirstudents. Live sessions are infrequent and are often scheduled during the middle of the day when students have to attend other classes or work. Theofficehours oft he professor may also be during inconvenient times for many students as well. Most interaction with the professor has to be throughemail which is often impersonal. It is nearly impossible for students to build a relationship with their professor. 2022.6/6（第1套） ===== PAGE 7 ===== There is also little interaction amongst students. It can be harder for students to create study groups and form relationships with their peers. Online classes also require either a computer or laptop and a reliable internet connection. Not all students have access to these types ofresources, whether it is for financial or otherreasons, and some students can be put at a disadvantage. Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions. However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking. We need restructured online classes in which students can have a learning experience that willactuallyprovidequality education.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say about students enrolled in online classes?",
+              "stemCn": "【定位】由题干中的studentsenrolledinonline",
+              "options": {
+                "A": "They can access course materials easily.",
+                "B": "They are unmotivated to learn.",
+                "C": "They can learn at their own pace.",
+                "D": "They rarely fulfil the course requirements."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。第二段起到承上启下的作"
+              },
+              "answer": "B",
+              "analysis": "classes定位到第二、三段。 用。第三段指出，学生缺乏学习的欲望，他们只是 简单地完成作业以获得及格的分数，而没有真正 参与到课程学习中。故正确答案为B）。 【避错】A）是根据第三段最后提到的thecourse material设置的干扰，但是该句说的是“学生不能 真正参与到课程学习中”，并没有提及学生是否可 以轻松获得课程材料，故排除A）。C）是根据第一 段第二句提到的students tolearn...attheirown pace设置的干扰项，但这是人们宣传的在线课程 的优点，而不是作者的观点，故排除C）。第二段 提到，作者意识到在线课程只是满足课程要求的 一种手段，并没有说学生很少达到课程要求，故排 除D）。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the author think of online course assignments?",
+              "stemCn": "【定位】由题干中的onlinecourseassignments定",
+              "options": {
+                "A": "They are made convenient to mark.",
+                "B": "They are me ant to facilitate interaction.",
+                "C": "They are based on easily accessible material.",
+                "D": "They are given to accommodate students'needs."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。第四段第二句提到，这些作"
+              },
+              "answer": "A",
+              "analysis": "位到第四段。 业不是为了让学生深入研究学习内容而设计的， 而是为了便于评分，从而容纳如此大量的学生。 故正确答案为A)。 【避错】定位句提到这些作业不是为了让学生深入 研究学习内容而设计的，并没有提到旨在促进互 动，故排除B)。第四段第一句提到大多数作业都 很简短，但并没有提到它们都基于易于获取的材 料，故排除C）。D）根据第四段第二句中的 accommodate设置干扰，文中指的是把课后作业 设计得便于评分以容纳大量的学生，而不是为了 满足学生的需求，故排除D)。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the author say is one disadvantage of online classes?",
+              "stemCn": "【定位】由题干中的one disadvantageofonline",
+              "options": {
+                "A": "Theyarefrequentlyscheduledat irregulartimes.",
+                "B": "They make professors'offices much less accessible.",
+                "C": "They tend to increase professors' burden of responding to students'emails.",
+                "D": "Theyprovidelittlechancefor students to buildrelationships with each other."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句提到，也许参与在线"
+              },
+              "answer": "D",
+              "analysis": "classes定位到第五段第一句。 课程的最大缺点是教师和学生之间缺乏面对面的 互动。第六段进一步指出，学生之间的互动也很 少，学生很难创建学习小组并与同龄人建立关系。 故正确答案为D）。 【避错】第五段第二、三句提到在线课程的时间问 题：直播课程通常安排在正午，因为学生不得不参 加其他课程或工作。很多学生可能也不方便在教 授的办公时间上课。文章没有提到在线课程被安 排在不定期的时间，也不能由此推出在线课程使 教授的办公室更难进入，故排除A）和B）。第五段 第四句提到，与教授的大多数互动都必须通过电 子邮件进行，这往往缺少人情味，旨在表明学生和 教师间的交流变少了，而不是说教授回复学生电 子邮件的负担增加了，故排除C）。"
+            },
+            {
+              "num": 49,
+              "stem": "What problem may arise if classes go online?",
+              "stemCn": "【定位】由题干中的classes go online及题文同序",
+              "options": {
+                "A": "More students may find it easy to be absent from them.",
+                "B": "Teachers will worry about poor internet connections.",
+                "C": "Some students may have difficulty attending them.",
+                "D": "Schools with limitedresources will beat a disadvantage."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。第七段第二句指出，并非所"
+              },
+              "answer": "C",
+              "analysis": "2022.6/11（第1套） 原则定位到第七、八段。 有学生都能获得电脑、笔记本和稳定的网络连接， 一些学生可能会因为一些原因无法参加线上课 程。故正确答案为C）。 【避错】由定位段可知，由于缺少学习工具，有的学 生无法参加线上课程，但不能由此推出更多的学 生会发现逃课很容易，也不能推出资源有限的学 校处于不利地位，故排除A）和D）。第七段第一 句提到在线课程还需要一台电脑或笔记本以及稳 定的互联网连接，并没有提到老师担心互联网连 接不好的问题，故排除B）。 参考译文"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author think constitutes a key part of genuine education?",
+              "stemCn": "【定位】由题干中的genuineeducation定位到最",
+              "options": {
+                "A": "Acquisition of useful knowledge.",
+                "B": "Training of real-life skills on campus.",
+                "C": "Development of students'personalities.",
+                "D": "Cultivation of analytical thinking ability."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句提到在线课程强调便"
+              },
+              "answer": "D",
+              "analysis": "后一段第二句。 利性而不是批判性思维，并不能提供真正的教育。 由此可知，D）中提到的“思辨能力的培养”是真正 教育的组成部分。故正确答案为D）。 【避错】最后一段最后一句提到我们需要重新规划 在线课程，提供优质教育，让学生能够获得真正的 学习体验，但并没有提到获得有用的知识或在校 园内培训现实生活技能，故排除A）和B）。文中没 有提到关于学生个性发展的问题，故排除C）。 在线课程在几十年前才开始普及。它们被宣传为成年人完成学业和学生按照自己的节奏学习教材 的一种方式——它更适合日程繁忙的人。 （46-1）但在去年秋季学期上了一门在线课程后，我开始意识到在线课程只是满足课程要求的一种 手段。 （46-2）首先，学生缺乏学习的欲望，他们只是简单地完成作业以获得及格的分数，而没有真正参与到 课程学习中。 由于在线课程的学生人数往往超过100人，因此大多数作业都很简短。（47）这些作业不是为了让学 生深入研究学习内容而设计的，而是为了便于评分，从而容纳如此大量的学生。 （48-1）也许参与在线课程的最大缺点是教师和学生之间缺乏面对面的互动。直播课程很少，而且通 常安排在正午，因为学生不得不参加其他课程或工作。很多学生可能也不方便在教授的办公时间上课。 与教授的大多数互动都必须通过电子邮件进行，这往往缺少人情味。学生们几乎不可能与他们的教授建 立师生情。 （48-2）学生之间的互动也很少。学生很难创建学习小组并与同龄人建立关系。 在线课程还需要一台电脑或笔记本以及稳定的互联网连接。（49）并非所有学生都能获得这些类型的 资源，无论是出于经济原因还是其他原因，一些学生可能会处于不利地位。 提供在线课程当然可以帮助那些原本无法参加课堂课程的学生。（50）然而，它们未能提供真正的教 育，它们强调便利性而不是批判性思维。我们需要重新规划在线课程，提供优质教育，让学生能够获得真 正的学习体验。 Passage Two 【文章来源】本文选自2021年1月15日刊登在www.science.org网站上一篇标题为“Publicdebateis goodfor science”（《公开辩论对科学有益》）的文章。 【结构框图】 第1段指出公开辩论对科学有利有。 第2段举例说明一些专家担心公开辩论可能存在的问题。 本文主要介绍了作者关 于公开辩论对科学的作 用的看法。 ：第3段指出专家的担忧是多余的，公开辩论可以使科学讨论多样化。 第4段具体讨论了公开辩论对科学的益处。 2022.6/12（第1套） 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "In the age oft he internet, there's no such thing as a private debate. But is that bad for science? Some scientists have had concerns. When debates in any sector move beyond the halls of universitiesand government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public. Recent open debates on scientific research, health, and policy have aroused greater public attention and encouraged more diverse voices. If this trendspurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists. Are cent debatepublished inTheNewYork Times discussedthequestionofhowquickly medicine should be developed andproduced. Issues such as safety oftheproductandperception oft he public were 2022.6/7（第1套） ===== PAGE 8 ===== examinedand con side red. But some experts worried that such public speculation might lead people to believe that disagreement about thedetailsmeant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine. The anxiety seems misplaced. Gone are the days of going to a conference anddebating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of where they take place. Formanyscientists, public debate is a new frontier and it may feel like a place with few restraintsor rules, but rather than avoiding suchconversations, let the debates be transparent and vigorous, wherever they are held. If the public is to understand that science is anhonorablyself-correcting process, the idea that science is a fixed set of facts in a textbookneeds to be dismissed. With the validity of science coming under attack, there'sa need for scientific debatestobeperceivedasopenandtrue to life. Let everyone see the noisy, messy deliberations that advance science and lead to decisions that benefit us all.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author think open debate can do?",
+              "stemCn": "【定位】由题干中的opendebate定位到第一段第",
+              "options": {
+                "A": "Help the public to better understand science.",
+                "B": "Clear up confusion in the scientific community.",
+                "C": "Settle disputes between universities and government agencies.",
+                "D": "Prevent information from being used incorrectly by the public."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，当任何领域的"
+              },
+              "answer": "A",
+              "analysis": "四句。 辩论走出了大学和政府机构的大厅时，信息就有 可能被误用，导致公共混乱。然而，公开辩论也可 以促进科学界和公众之间的交流。由此可知，公 开辩论可以帮助公众更好地理解科学，故答案 为A)。 【避错】定位句提到，当辩论地点不局限于大学和 政府机构的大厅时，信息就有可能被误用，导致公 共混乱，而不是消除混乱，故排除B）。定位句只 提到了辩论的地点不局限于大学和政府机构的大 厅，没有提及解决大学与政府机构之间的纠纷，故 排除C）。定位句提到，信息有可能被误用，并没 有提及防止公众误用信息，D）属于过度推断，故 排除。"
+            },
+            {
+              "num": 52,
+              "stem": "Why did a recent debate published inTheNewYork Timesarouse concerns among experts?",
+              "stemCn": "【定位】由题干中的TheNewYorkTimes和",
+              "options": {
+                "A": "It might hinder the progress in medical research.",
+                "B": "It might breed public distrust in modern medicine.",
+                "C": "It might add to the difficulty of getting researchfunds.",
+                "D": "It might prevent medical scientists reaching consensus."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。第二段首句介绍这场辩论，"
+              },
+              "answer": "B",
+              "analysis": "arouse concerns定位到第二段。 第三句提到一些专家的担心：这种公开的猜测可 能会导致人们认为，细节上的分歧意味着对现代 医学的安全性和效率缺乏足够的科学共识。由此 可以推断，这会引起公众对现代医学不信任，故答 案为B)。 【避错】第二段前两句说明了这场辩论讨论的问 题，并没有提及这场辩论会阻碍医学进展，故排除 scientificconsensus设置的干扰项，此处是表达细 节上的分歧意味着对现代医学的安全性和效率缺 乏足够的科学共识，并没有提到辩论会阻碍医学 科学家达成共识，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "Why does the author say some experts' anxiety seems misplaced?",
+              "stemCn": "【定位】由题干中的someexperts’anxiety和",
+              "options": {
+                "A": "Debating scientific issues at a conference is now old-fashioned.",
+                "B": "Diverse topics can be debatedbyboth scientists and the public.",
+                "C": "Debates about science are accessible to the public anyway.",
+                "D": "Scientists can voice their opinions whatever way they like."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。第三段首句指出，这种焦虑"
+              },
+              "answer": "C",
+              "analysis": "misplaced定位到第三段。 似乎放错了地方。末句指出，如今，无论有关科学 参考译文 的辩论发生在哪里，公众都可以接触到，故答案 为C)。 【避错】第三段第二句提到，参加会议并讨论科学 问题的日子一去不复返了，这并不是指那样的日 子已经过时了，而且这也不是作者认为专家的焦 虑放错地方的原因，故排除A）。第三段第二句提 到，那些会议不够多样化，并没有提及科学家和公 众可以讨论各种各样的话题，故排除B）。文中没 有提到科学家应该如何发表观点的问题，而且 whateverwaytheylike过于绝对，故排除D)。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author suggest scientists do about public debate?",
+              "stemCn": "【定位】由题干中的scientists、public debate和题",
+              "options": {
+                "A": "Have more discussions about it.",
+                "B": "Embrace it with open arms.",
+                "C": "Formulate newrules for it.",
+                "D": "Restrain it to a rational degree."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句提到，对许多科学家"
+              },
+              "answer": "B",
+              "analysis": "文同序原则定位到第四段首句。 来说，公开辩论是一个新的领域，它可能感觉像是 一个没有什么限制或规则的地方，但与其避免这 样的对话，不如让辩论变得透明和充满活力，无论 辩论在哪里举行。由此可以推断，作者支持公开 辩论，故答案为B）。 【避错】文中没有提及建议科学家对公开辩论进行 更多讨论，故排除A）。定位句提到，公开辩论感觉 像是一个没有什么限制或规则的地方，但这并不 是让科学家制订新的规则或将其限制到合理的程 度，故排除C）和D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author say about science in the last paragraph?",
+              "stemCn": "【定位】由题干中的thelastparagraph定位到最",
+              "options": {
+                "A": "It is transmittedthroughtextbooks.",
+                "B": "It is whatproves valid and true to life.",
+                "C": "It is a dynamic and self-improving process.",
+                "D": "It is a collection offacts andestablishedrules."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。最后一段第二句提到，如果"
+              },
+              "answer": "C",
+              "analysis": "后一段。 公众要理解科学是一个正大光明的自我纠正的过 程，那么，需要摒弃那种认为科学是教科书中一系 列固定不变的事实的观点。由此可以推断，科学 是一个自我完善的过程，故答案为C）。 【避错】A）和D）是根据最后一段第二句中afixed setoffacts inatextbook设置的干扰项，此处是 表达需要摒弃那种认为科学是教科书中一系列固 定不变的事实的观点，不是表达科学通过教材传 播或者科学是事实和既定规则的集合，故排除A） 和D）。最后一段第三句指出，科学的有效性受到 攻击，B）与文章意思相反，故排除。 在互联网时代，没有私人辩论这回事。但那对科学有害吗？一些科学家对此表示担忧。（51）当任何 领域的辩论走出了大学和政府机构的大厅时，信息就有可能被误用，导致公共混乱；然而，公开辩论也可 以促进科学界和公众之间的交流。最近关于科学研究、健康和政策的公开辩论引起了公众更多的关注， 并鼓励更多人发出不同的声音。如果这一趋势促使科学家更快地就我们问题的最佳解决方案达成一 致——同时帮助公众更清楚地观察科学论述的过程——那么这对每个人都有好处，包括科学家自己。 2022.6/13（第1套） (52)最近发表在《纽约时报》上的一场辩论讨论了药物应该以多快的速度开发和生产的问题。辩论调 查和考虑了诸如产品安全性和公众的看法等问题。但一些专家担心，这种公开的猜测可能会导致人们认 为，细节上的分歧意味着对现代医学的安全性和效率缺乏足够的科学共识。 (53)这种焦虑似乎放错了地方。参加会议并讨论科学问题的日子一去不复返了，这是好事，因为那些 会议不够多样化，并排除了许多重要的意见。如今，无论有关科学的辩论发生在哪里，公众都可以接触到。 （54)对许多科学家来说，公开辩论是一个新的领域，它可能感觉像是一个没有什么限制或规则的地 方，但与其避免这样的对话，不如让辩论变得透明和充满活力，无论辩论在哪里举行。（55）如果公众要理 解科学是一个正大光明的自我纠正的过程，那么，需要摒弃那种认为科学是教科书中一系列固定不变的 事实的观点。随着科学的有效性受到攻击，有必要将科学辩论视为开放和真实的生活。让每个人都看到 嘈杂、混乱的讨论，这些讨论推动了科学的发展，并促成了有益于我们所有人的决策。 Part Translation There was once a peasant who was unhappy about the slow growth of his seedlings. So he went to the field and pulled up them a bit one by one. After getting back home, he told his family,\"I amreally tired outtoday!But Ifinally made those young crops grow taller allat once.”Onhearing this, his son hurried to the field, only to find that the crops were all dead. At present, some parents are so eager for their children's success that theytendtofollow the example of the peasant, making their children suffer a lot yet seeing no academic progress. Should these parents wake up to this problem and let their children grow up in a natural way? in ancient times在古时候 rack one's brains绞尽脑汁 hitupon an idea想出一个主意 with great satisfaction 心满意足 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "从前有个农夫嫌他种的禾苗长得慢，就到地里把禾苗一株株地拔高了一点。回家后他对家人说：“今 天可真把我累坏了！但我总算让禾苗一下子长高了。”他儿子到地里去一看，禾苗都已死光了。 现在有些家长急于让孩子成功，往往步那个农夫的后尘，搞得孩子苦不堪言，却不见孩子学业长进。 这样的家长是否该对这个问题有所醒悟，让孩子自然成长呢？ 2022.6/8（第1套）",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "cet6-2023_06_1",
+  "level": 6,
+  "year": 2023,
+  "month": 6,
+  "setNo": "第1套",
+  "title": "2023年6月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthispart,youareallowed30minutesto writeanessaythatbegins withthe sentence \"Today there is a growingawarenessthatmentalwell-beingneedstobegivenasmuch attentionasphysicalhealth.\"Youcanmakecomments,citeexamplesoruse your personal experiences to develop youressay. You should write at least150words but no more than 200 words. PartII Section A",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to\nB) While this research into gratitude is relatively new, the principles involved are anything but. Students\nC) Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait\nD) When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in\nE) Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For\nF) Recent scientific studies support these ancient teachings. Individuals who regularly engage in\nG) There are multiple explanations for such benefits of gratefulness. One is the fact that expressing\nH) Gratitude also tends to strengthen a sense of connection with others. When people want to do good\nI) Of course, acts of kindness can also foster discomfort. For example, if people feel they are not\nJ) There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply\nK) Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two\nL) Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents\nM) When Defoe depicted Robin son Crusoe making thanksgiving a daily part of his island life, he was",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "It does us far more good to focus on things we can be grateful for than what makes us sad and",
+              "stemCn": "【定位】由题干中的focuson定位到文章C）段最",
+              "options": {},
+              "optionCn": {
+                "C": "【精析】同义转述题。"
+              },
+              "answer": "C",
+              "analysis": "后一句。 生活中我们可以表达感激之情的事情比专注于让 我们产生怨恨和悲伤的事情更为有益，由此可知， 题干是对定位句的同义转述。题干中的good对 应原文中的helpful，题干中的begrateful对应原 I) 文中的express gratitude，题干中的whatmakesus sad andresentful是对原文中thosethat inclineus towardresentmentandlamentation的同义转述， 故答案为C）。"
+            },
+            {
+              "num": 37,
+              "stem": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider",
+              "stemCn": "【定位】由题干中的beneficial impacts of gratitude、",
+              "options": {},
+              "optionCn": {
+                "G": "段第四、五句。"
+              },
+              "answer": "G",
+              "analysis": "之心的社区更加宜居，而感恩的有益影响甚至可 能会进一步扩大。随后两句则指出，心怀感恩的 人会给周围的世界带来更多的善意，可知这是说 感恩的益处可辐射至整个社会，结合上一段提到 的感恩给个人带来的益处，可知感恩的益处可从 个人延伸到他们的社区乃至更广泛的社会，题干 是对G）段相关信息的归纳概括，故答案为G）。"
+            },
+            {
+              "num": 38,
+              "stem": "The participants in a recent study repeatedly underestimated the positive effect on those who received",
+              "stemCn": "【定位】由题干中的theparticipants和recent",
+              "options": {},
+              "optionCn": {
+                "A": "段第二句。"
+              },
+              "answer": "F",
+              "analysis": "项研究要求参与者给人写一封感谢信，然后预估 收信人会有多么惊讶和高兴——而参与者们一直 都低估了这种影响。题干中的repeatedly underestimated对应原文中的consistently underestimated，题干中的positive是对原文中 surprised and happy的转述，题干中的effect对应 原文中的impact，故答案为A)。"
+            },
+            {
+              "num": 39,
+              "stem": "Good deeds can sometimes make people feel uncomfortable.",
+              "stemCn": "【定位】由题干中的uncomfortable定位到I）段第",
+              "options": {},
+              "optionCn": {
+                "I": "段定位句指出，善意的行"
+              },
+              "answer": "K",
+              "analysis": "一句。 为也可能导致不适。题干中的gooddeeds是对原 文中actsofkindness的同义转述，题干中的make peoplefeeluncomfortable是对原文中foster discomfort的同义转述，故答案为I。"
+            },
+            {
+              "num": 40,
+              "stem": "People who regularly express gratitude can benefit in moral terms.",
+              "stemCn": "【定位】由题干中的express gratitude、benefit和",
+              "options": {},
+              "optionCn": {
+                "F": "段第二至四句。"
+              },
+              "answer": "D",
+              "analysis": "达感激之情能够提高人际关系满意度，身体疾病 的症状也会减少，进而指出，其益处还不仅仅是心 理上和身体上的，也可能是道德方面的。题干中 的express gratitude对应原文中的expressing gratitude，而题干中的benefitinmoralterms是对 本段第三、四句信息的归纳概括，故答案为F）。"
+            },
+            {
+              "num": 41,
+              "stem": "A basketball coach advocated performing generous acts without expecting anything in return.",
+              "stemCn": "【定位】由题干中的basketballcoach和generous",
+              "options": {},
+              "optionCn": {
+                "K": "段第一句和第三句。"
+              },
+              "answer": "M",
+              "analysis": "教练向学员提出两条建议，而其后的第三句提到， 他的第一条建议旨在促进纯粹的慷慨行为，而不 是那些以期获得回报为动机的善举。题干中的 advocatedperforming generousacts对应原文中 第9页，共15页 的promote purely generous acts，题干中的 without expecting anything inreturn是原文中as opposed to those performed with an expectation ofreward的同义转述，故答案为K）。"
+            },
+            {
+              "num": 42,
+              "stem": "More and more evidence shows it makes us mentally and physically healthier to routinely count our",
+              "stemCn": "【定位】由题干中的evidence和countour blessings",
+              "options": {},
+              "optionCn": {
+                "D": "段最后一句。"
+              },
+              "answer": "B",
+              "analysis": "的证据表明，历数幸事是我们可以养成的促进身 心健康的最佳习惯之一。题干中的moreand more是原文中mounting的同义表达，题干中的 makes us mentallyand physically healthier是原 文中promotementalandphysicalhealth的同义 表达，故答案为D)。"
+            },
+            {
+              "num": 43,
+              "stem": "Of all states of mind, feeling grateful is con side red one of the most healthy and beneficial.",
+              "stemCn": "【定位】由题干中的ofallstatesofmind定位到文",
+              "options": {},
+              "optionCn": {
+                "M": "【精析】同义转述题。"
+              },
+              "answer": "H",
+              "analysis": "章M段最后一句的前半部分。 心态中，感恩是最健康、最滋养的。题干中的 feeling grateful对应原文中的gratitude，题干中 的themosthealthyandbeneficial则是对原文中 参考译文 thehealthiest andmost nourishing的同义转述， 故答案为M）。"
+            },
+            {
+              "num": 44,
+              "stem": "The principles underlying the research into gratitude are nothing new at all.",
+              "stemCn": "【定位】由题干中的principles和research定位到",
+              "options": {},
+              "optionCn": {
+                "B": "段第一句。"
+              },
+              "answer": "A",
+              "analysis": "关于感恩的研究相对较新，但其所涉及的原理绝 非如此。而“绝非如此”指的就是感恩研究的原理 并不像研究本身那么新，题干中的nothingnewat all是对原文中relativelynew和areanythingbut 两处信息的同义转述，故答案为B）。"
+            },
+            {
+              "num": 45,
+              "stem": "Gratitude is likely to enhance one's sense of being connected with other people.",
+              "stemCn": "【定位】由题干中的gratitude和connected定位",
+              "options": {},
+              "optionCn": {
+                "H": "段第一句。"
+              },
+              "answer": "C",
+              "analysis": "助于加强与他人的联系。题干中的islikelyto enhance对应原文中的tends to strengthen，题干 中的one's sense ofbeing connected with other people是原文中a sense of connection with others的同义表达，故答案为H)。 感恩之心的救生力量 预估收信人会有多么惊讶和高兴——而参与者们一直都低估了这种影响。另一项研究评估了写感谢 信对健康的益处。研究人员发现，在三周的时间里，每周写三封感谢信就可以提高生活满意度，增加 幸福感，并减轻抑郁症的症状。 课上，我的学生们正在阅读丹尼尔·笛福那部已有300年历史的《鲁滨孙漂流记》，这本书通常被视为 第一本用英语出版的小说。克鲁索独自一人被遗弃在一个未知的岛屿上，没有明显的获救或逃跑的 希望，他有很多可哀叹的事。但他并没有陷入绝望，而是列出了一份他应当感激的事件清单，包括他 是海难的唯一幸存者以及能够从残骸中抢救出许多有用的物品。 贴切。这也是当代心理学和医学刚刚开始探究的一个问题。（36）简单地说，对我们大多数人来说，专 注于生活中我们可以表达感激之情的事情比专注于让我们产生怨恨和悲伤的事情更为有益。 往往会感到更加后悔。相反，当我们专注于值得感恩的事情上，更大的幸福感会在我们的生活中弥 散。虽然没有人会赞成去培养一种虚假的幸福感，（42）但越来越多的证据表明，历数幸事是我们可以 养成的促进身心健康的最佳习惯之一。 一颗持久而完全的感恩之心，而一些东方思想家则不仅将感恩视为一种态度，更是一种需要付诸实践 的美德。 表达感激之情，能够提高人际关系满意度，身体疾病的症状也会减少。而感恩的益处还不仅仅是心理 上和身体上的。它们也可能是道德方面的——那些实践感恩之举的人看待自己的生活也不会那么物 质和功利，因而也就鲜少有嫉妒之心。 举动，从而促进人际关系中善意的良性循环。同样，心存感激的人更有可能会以自身的善举来予以回 报。（37）从广义上讲，一个人们互存感激之心的社区可能比一个人们彼此猜忌和怨恨的社区更加宜 居。感恩的这种有益影响甚至可能会进一步扩大。例如，当许多人都对他人为其所做的一切感到满 意时，他们会有一种昂扬鼓舞之感，从而相应地增强对人性的尊重。有些人受到鼓舞而试图让自己变 得更好，做更多的事情来扬人之长，并为周围的世界带来更多的善意。 第10页，共15页 奉献程度往往会提高，人际关系似乎会持续更长的时间。当人们感觉到彼此联系增多时，他们有可能 选择更多地与他人共处，并在日常行为中表达爱心。 （39）当然，善意的行为也可能导致不适。例如，如果人们觉得自己不值得被如此善意对待，或者怀疑 善意的背后有着某些别有用心的动机，感恩的益处将无法实现。同样，接受善意可能会产生负债感， 让受益人觉得他们现在必须偿还他们所接受的任何善意。只有当人们有足够的安全感和信赖感，感 激之情才能蓬勃滋长。感恩的另一个障碍通常被称为权利感。有时人们没有将经历到的善行视为一 种好报，而认为这只是对其亏欠的一种偿还，对此没有任何人应获得道德上的赞扬。 有一些切实可行的增强感激之情的方法，任何人都可以采用。其中一种方法是定期花时间回想一位 带来改变的人，或写一封感谢信，或当面表达这种感激之情。在古代的宗教教义中也有其他的一些方 法，比如回忆从他人那里得到的恩惠，或者为施恩者的健康和幸福祈祷。除了得到的恩惠，也可以关 注施行善举的机会，无论是那些过去做过的还是未来希望去做的都可以。有些人最感激的不是别人 为他们所做的，而是他们享有的帮助他人的机会。通过时常回想生活中值得感激的事情，笛福笔下的 克鲁索相信，相较于留在航程起点之处的原生社会中，来到荒岛的他成为了远胜于此的更好的人。 他说:“除非你为一个永远无法回报你的人做了什么，否则这一天不可能是完美的。”（41-2）伍登这样 说是为了促进纯粹的慷慨行为，而不是那些以期获得回报为动机的善举。其次，他说：“每天都感恩你 的幸运。” 躺下睡觉前都会进行感恩祈祷。还有些人则在白天表达感恩，比如在每次用餐前。其他不太频繁的 特殊事件，如出生、死亡和结婚，也可以通过这种感恩祈祷来预示。 科学和医学发现。然而，他也反映了数千年前宗教和哲学传统的智慧。（43）在所有的心态中，感恩是 最健康、最滋养的，那些将感恩作为一种习惯的人不仅充实了自己的人生，也丰富了周围人的生活。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_06_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity. While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications. Aristotle argued that the capacity for making practical judgments depends on regularly making them—on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves. In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are are as where algorithmic (算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these are as no longer will. Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own. At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've prefer red in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way. As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. Algorithms could soon—if they don't already—have a better idea about which show you'd like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display. But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they ecome more and more predictable, the creatures inhabiting the increasingly AI-media ted world will become less and less like us.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do we learn about the deeper implications of AI?",
+              "stemCn": "【定位】由题干中的deeper implications定位到第",
+              "options": {
+                "A": "It is causing catastrophic levels of unemployment.",
+                "B": "It is doing physical harm to human operators.",
+                "C": "It is altering moral judgments. 2023-06-CET6(第 1套)-7 ===== PAGE 8 =====",
+                "D": "It is reshaping humanity."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。文章第二段第一句指出虽然"
+              },
+              "answer": "D",
+              "analysis": "二段第一句。 人工智能这个词唤起人们对机器人杀手或大规模 失业的焦虑，但它还有其他更深层次的含义，由此 可知深层含义的内容在后面有所提及。接下来一 句提到人工智能越来越多地影响人类体验，并提 出问题：这会如何改变人类的意义呢？这与D) “它正在重塑人类”语义相同，故答案为D）项。 【避错】第二段第一句提到人工智能这个词唤起人 们对大规模失业的焦虑，这虽然是implication（影 响），但并非deeperimplication，因此排除A）项； 文中提到killerrobots（机器人杀手），但是提到它 只是为了说明AI的可能影响，而并没有提到对 humanoperator（人类操作员）的身体伤害，考生 容易由killerrobots想到机器人对操作员的伤害， 这属于主观臆断，因此排除B）项；文中第二段最 后一句提到AI问题与人做出选择的能力有关系， 尤其是具有道德含义的判断。moraljudgements （道德判断）在文中的确有所提及，但并未提到 第11页，共15页 altering（改变）道德判断，这属于对原文意思的曲 解，因此排除C）项。"
+            },
+            {
+              "num": 47,
+              "stem": "What is the consequence of algorithmic prescription replacing human judgment?",
+              "stemCn": "【定位】由题干中的algorithmic prescription",
+              "options": {
+                "A": "People lose the chance to cultivate the ability to make practical judgments.",
+                "B": "People are prevented from participating in making major decisions in the workplace.",
+                "C": "Managers no longer have the chance to decide which loan to approve.",
+                "D": "Managers do not need to take the trouble to determine who to hire or fire."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第四段第二句中提到在有些"
+              },
+              "answer": "A",
+              "analysis": "replacinghuman judgment定位到第四段第二句。 领域，算法正在取代人类的判断，因此，原本有机 会在这些领域培养实际判断力的人将不再有机 会，选项A）正是文中内容的同义转换，文中的 developpractical judgment与选项A）中的 cultivate theability to makepractical judgments 意思一致，故答案为A）项。该题的难点是读懂定 位句，首先，定位句中people后面的who引导的 C) 是定语从句，修饰people，nolongerwill后省略了 have the chance to developpracticaljudgment。 读懂了这句话，答案自然就选出来了。 【避错】定位句中出现的theseareareas指的是前 一句中提到的工作中经理关于雇用、解雇人和批 准贷款这样的场景，而不是第四段第一句中的 workplace，而且算法取代人类判断后，经理只是 没有机会做决定了，而不是被阻止做重大决定了， 被阻止是有外力在作用的，B）项与原文意思不符， 故排除；第四段第一句指出，在工作场所，经理日 常会决定批准哪笔贷款，下文指出，AI的出现剥 夺了人类学习做决定的能力，这里不是在强调经 理能否决定批准哪项贷款，而是指人类学习做决 定的权利因为AI的出现而被剥夺了，因此排除 决定雇哪个人或解雇哪个员工，而现在AI则会取 代经理，做出人事决定，而非经理们不需要费力地 决定雇用或解雇谁，故排除D）项。 B）"
+            },
+            {
+              "num": 48,
+              "stem": "What may result from increasing application of recommendation engines in our consumption of culture?",
+              "stemCn": "【定位】由题干中的recommendation engines以",
+              "options": {
+                "A": "Consumers will have much limited choice.",
+                "B": "Consumers will actually enjoy better luck.",
+                "C": "It will be easier to decide on what to enjoy.",
+                "D": "Humans will develop tastes similar to machines'."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章第五段第一句指出，在"
+              },
+              "answer": "A",
+              "analysis": "及consumption ofculture定位到第五段第一句。 人们的文化消费中，推荐引擎成为越来越普遍的 中介，可能会限制选择并最大限度地减少运气成 分。推荐引擎成为越来越普遍的中介，与题干中 的increasing application of recommendation engines语义相同，而推荐引擎具体做的事情就是 may serve to constrain choice and minimizeluck （可能会限制选择并最大限度地减少运气成分）， 推荐引擎限制了选择，也就是消费者会有很有限 的选择，定位句中的constrain对应选项A）中的 limited，因此答案为A)项。 【避错】文中提到推荐引擎可能会最大限度地减少 参考译文 运气成分，而不是B）项中的betterluck，B）项与文 章意思相反，故排除；第五段强调的是在推荐引擎 的推荐下，人们会有更少的选择（choice），而不是 在强调C）项的enjoy（享受），C）项属于偷换概念， 故排除；第五段第二句提到通过算法选择这种方 式，公司正在用机器口味取代人类口味，而非人类 会发展出与机器相似的口味，D）项与原文意思不 符，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+              "stemCn": "【定位】由题干中的largerparts of our dailylife",
+              "options": {
+                "A": "They will turn out to be more pleasant.",
+                "B": "They will repeat our past experience.",
+                "C": "They can be completely anticipated.",
+                "D": "They may become better and better."
+              },
+              "optionCn": {
+                "C": "项语义相同，定位句中的"
+              },
+              "answer": "C",
+              "analysis": "和machinelearningalgorithms improve定位到 第七段第一句。 【精析】事实细节题。第七段第一句提到机器学习 算法在改进，它们的计算也在基于更广泛的数据 集，在这种情况下，日常生活的大部分可能变得完 utterlypredictable正好对应选项中的completely anticipated，因此答案为C)项。 【避错】第七段第二句提到日常经历变得更加高效 和愉快，而不是题干中的largerparts ofour daily life，A）项属于偷换概念，故排除；文中关于past experience在第六段中有提及，指出这种选择正 在基于人们过去的偏好进行优化，而不是重复 （repeat）过去的经历，而且这也与人们大部分日常 生活的变化无关，故排除B）项；第七段第二句说 的是预测（predictions)会越来越准确，而不是题干 中的largerparts ofour dailylife会越来越好，D) 项同样属于偷换概念，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "Why does the author say the creatures living in the more and more AI-media ted world will become increasingly unlike us?",
+              "stemCn": "【定位】由题干中的AI-mediatedworld定位到最",
+              "options": {
+                "A": "They will have lost the most significant human element of being intelligent.",
+                "B": "They will no longer possess the human characteristic of being unpredictable.",
+                "C": "They will not be able to understand themselves as we can do today.",
+                "D": "They will be deprived of what their predecessors were proud of about themselves."
+              },
+              "optionCn": {
+                "B": "项。"
+              },
+              "answer": "B",
+              "analysis": "后一段。 【精析】推理判断题。最后一段第二句提到随着事 情变得越来越可预测，居住在日益以人工智能为 媒介的世界中，我们会越来越不像自己了，也就是 说人类需要不可预测性，所以人类不再拥有不可 预测性就会让我们越来越不像自己，因此答案为 【避错】最后一段第一句提到人类正在失去一些重 要的东西（somethingimportant），但指的是不可 预测性，而不是beingintelligent，因此排除A）项； 文中提到不可预测性是人们理解自己的方式的一 部分（part)，只是一部分，而不是说人类没有了不 可预测性就不能理解自己了，因此排除C）项；文 中提到人类正在失去不可预测性，并未提及先辈 们认为不可预测性是他们引以为傲的，D）项属于 过度推断，故排除。 科技从来不是实现人类目的的中性工具。科技创新重塑了人类，因为他们利用这些创新来控制自己 的环境。例如，人工智能正在改变人类。 （46）虽然人工智能这个词唤起人们对机器人杀手或大规模失业的焦虑，但它还有其他更深层次的含 义。随着人工智能越来越多地影响人类体验，这会如何改变人类的意义呢？这个问题的核心是一个人做 出选择的能力，尤其是具有道德含义的判断。 第12页，共15页 亚里士多德认为，做出实际判断的能力与定期对习惯和实践做出判断有关。机器作为替代评判者出 现在各种日常环境中，我们认为，这对正在自学如何有效地进行判断的人类构成了潜在威胁。 在工作场所，经理日常会决定雇哪个人或解雇哪个员工，批准哪笔贷款，等等。（47）在这些领域，算法 正在取代人类的判断，因此，原本有机会在这些领域培养出实际判断力的人将不再有机会。 （48）在人们的文化消费中，推荐引擎成为越来越普遍的中介，可能会限制选择并最大限度地减少运气 成分。利用算法选择接下来观看、阅读、流媒体播放和访问的内容，把选择后的内容呈现给消费者，通过这 种方式，公司正在用机器口味取代人类口味。从某种意义上说，这的确有帮助。毕竟，和那些有时间和精 力自己去选择的任何一个人对比，机器可以提供更广泛的选择。 然而，与此同时，这种选择正在基于人们过去的偏好进行优化。我们认为，人们的选择有可能会以一 种新的、意料不到的方式受到过去的限制。 （49）机器学习算法在改进，它们的计算也在基于更广泛的数据集，在这种情况下，日常生活的大部分 可能变得完全可预测。预测会越来越准确，最终会让日常经历变得更加高效和愉快。 算法—一如果它们还没有—会很快对你接下来想看哪个节目更了解，也会更加了解你应该雇用哪 个求职者。通常，人类在做出一些决定时会有偏见，有一天，人类甚至可能会找到一种方法，让机器来做出 没有偏见的决定。 （50）但不可预测性是人们理解自己的方式的一部分，也是人们喜欢自己的一部分，从这方面来说，人 类正在失去一些重要的东西。随着事情变得越来越可预测，居住在日益以人工智能为媒介的世界中，我们 会越来越不像自己了。 Passage Two 【文章来源】本文选自2021年6月12日刊登在TheEconomist（《经济学人》）上一篇标题为“AmericanSchools TeachReadingAllWrong（《美国学校教授的阅读方法完全错误》）的文章。 【结构框图】 第1段点题：目前美国很多学校教授的阅读方法是错误的。 第2段指出教授错误的阅读方法导致的结果——美国学生阅读水平在国际上 排名不高。 本文指出“语音教学 第3段阐述美国这些年来关于“语音教学法”和“全语言教学法”的争论， 法”已被证明是教孩 并指出目前大部分教学采用的是这两种方法的混合，即“均衡阅读教学法” 子阅读的最好方法， 但很多学校仍然使用 其效果不佳。 错误的教学方法。 第4、5段讲述密西西比州采用科学的语音教学法并取得巨大成就。 第6段指出尽管科学已经否定了全语言教学法，但它仍被很多教师所采用。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_06_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Phonics, which involves sounding out words syllable (音节) by syllable, is the best way to teach children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong. The consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam. America is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as \"whole language\". Most teachers today, almost three out of four according to a survey by the EdWeek Research Centre in 2019, use a mix called \"balanced literacy\". This combination of methods is ineffective. \"You can't sprinkle in a little phonics,,\" says Tenette Smith, executive director of elementary education and reading at Mississippi's education department. \"It has to be systematic and explicitly taught.\" Mississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. For the first time since measurement beg an, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state. 2023-06-CET6(第1套)-8 ===== PAGE 9 ===== Mississippi's success isattributed to implementing readingmethods supportedby a body of research knownasthescienceofreading. In 1997CongressrequestedtheNationalInstituteofChildHealthand HumanDevelopmentandtheDepartmentofEducationtoconveneaNationalReadingPaneltoendthe \"readingwars”andsynthesizetheevidence. Thepanelfoundthatphonics, along with explicit instruction in phonemic(音位的) awareness, fluency and comprehension, worked best. Yet over two decade son,\"balancedliteracy”isstillbeingtaughtinclassrooms. But advance sin statisticsandbrainimaginghave disprovedthewhole-language method. To the teacher who is a proficient reader, literacy seems like a naturalprocessthatrequires educatedguessing, ratherthanthedeliberate processemphasizedbyphonics. Teachers can imagine that they learned to read through osmosis(潜移默 化) when they werechildren. Without proper training, they bring this to classrooms.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn about phonics in many American classrooms?",
+              "stemCn": "【定位】由题干中的phonics in manyAmerican",
+              "options": {
+                "A": "It is illreputed.",
+                "B": "It is mostly misapplied.",
+                "C": "It is arbitrarilyexcluded.",
+                "D": "It is misrepresented."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。第一段第二句指出，在许多"
+              },
+              "answer": "A",
+              "analysis": "classrooms定位到第一段第二句。 教室里，语音教学法（this指代phonics）可能是一 个航脏的词。此处dirty对应的就是选项中的ill reputed。第三句指出一些老师不得不把语音教学 法的教材偷偷带进教室。由此可推测出语音教学 法在美国声誉不好，要不然老师就大大方方地采 用语音教学法了，故答案为A)。 【避错】B）将原文内容“语音教学法没有被采用” 曲解为“该方法被误用了”，故排除选项B）；选项 说明语音教学法在美国因为名声不好而不受待 见，但个别老师会偷偷地将其教材带进教室，所以 该教学法是个有争议的方法，并未被排除在外，因 此排除C）；原文中没有提及语音教学法被歪曲， 故排除选项D）。"
+            },
+            {
+              "num": 52,
+              "stem": "What has America been witnessing fordecades?",
+              "stemCn": "【定位】由题干中的fordecades定位到第三段第",
+              "options": {
+                "A": "An obsession with innovating teaching methodologies of reading.",
+                "B": "An enduring debate over the approach to teaching children to read.",
+                "C": "An increasing concernwithmanychildren's inadequacy in literacy.",
+                "D": "An ever-forceful advocacy of a combinedmethodforteaching reading."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章第三段第一句提到，近"
+              },
+              "answer": "B",
+              "analysis": "一句。 几十年来，美国对如何教孩子阅读一直争论不休。 故答案为B）。 【避错】第三段第四句提到，现在大多数教师用“均 衡阅读教学法”，原文没有提及对创新方法的痴 迷，排除选项A）；美国学生的阅读水平在国际上 排名不佳，这可能会使美国越来越关注阅读能力， 第13页，共15页 但文章没有明确指出，这也不是作者想要强调的 事情，故排除C);“均衡阅读教学法”是目前大多 数教师采取的方式，这是目前的情况，并非几十年 来美国所发生的，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "Why does TenetteSmiththink a combinationofteachingmethods is ineffective?",
+              "stemCn": "【定位】由题干中的a combinationofteaching",
+              "options": {
+                "A": "Elementaryschoolchildrenwillbefrustratedwhentaughtwithseveralmethodscombined.",
+                "B": "Phonicshas tobesystematicallyappliedandclearlytaughttoachievethedesiredeffect.",
+                "C": "Sprinkling in a little phonics deters the progress ofevenadequatelymotivatedchildren.",
+                "D": "Balanced literacy fails to sustainchildren's interest in developing a good reading habit."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。第三段第五句指出，这种组"
+              },
+              "answer": "B",
+              "analysis": "methodsis ineffective定位到第三段第五句。 合的方法是无效的。第六句和第七句接着阐述了 原因：你不能在课堂上穿插一些语音教学法。它 必须是系统的、明确的教学。综合可知，答案 为B)。 【避错】几种方法相结合的教学方法是否会让小学 生感到沮丧，这一点在文中并未提及，故排除选项 法是否会阻碍有充分动力的孩子的进步，故排除 孩子培养良好阅读习惯的兴趣，故排除选项D）。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author say Mississippis success is attributedto?",
+              "stemCn": "【定位】由题干中的Mississippi's success is attributed",
+              "options": {
+                "A": "Convening a National reading Panel to synthesize research evidence.",
+                "B": "Placing sufficient emphasis uponbothfluencyandcomprehension.",
+                "C": "Adopting scientifically groundedapproaches to teaching reading.",
+                "D": "Obtaining support from congress to upgrade teaching methods."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第五段第一句指出，密西西"
+              },
+              "answer": "C",
+              "analysis": "to定位到第五段第一句。 比州的成功要归功于它实施的阅读方法，该方法 得到了一系列被称为“阅读的科学”研究的支持， 即该方法有科学依据。选项C）与文章意思相符， 故为本题答案。 参考译文 【避错】召集全国阅读专家组来综合研究证据不是 密西西比州政府的行为，是国会要求国家儿童健 康与人类发展研究所和教育部实施的，目的是结 束关于阅读教学法的争论，这不是密西西比州阅 读教学成功的原因，排除选项A)；第五段最后一 句提到fluencyandcomprehension，但这是国家 阅读专家组提出的有效教学方法的一部分，而不 是密西西比州成功的原因，故排除选项B）；原文 中没有提到密西西比州政府争取国会支持这件 事，故排除选项D）。"
+            },
+            {
+              "num": 55,
+              "stem": "Whathaveadvances in statistics and brain imaging proved ineffective?",
+              "stemCn": "【定位】由题干中的advances instatisticsandbrain",
+              "options": {
+                "A": "The teaching of symbol-soundrelationships.",
+                "B": "Explicit instruction in phonemic awareness.",
+                "C": "Efforts to end the reading wars.",
+                "D": "The immersive approach."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。最后一段第二句提到，统计"
+              },
+              "answer": "D",
+              "analysis": "imaging定位到文章最后一段第二句。 学和脑成像的进步已经否定了全语言教学法。关 于全语言教学法，在第三段第三句有提及：全语言 教学（wholelanguage）是一种沉浸式教学方法（an immersiveapproach）。综合可知答案为D)。 【避错】强调符号和发音关系的教学法是语音教学 法，文章是提倡这种教学方法的，故排除A）：“音 位意识的明确指导”是国家阅读专家组提出的，与 统计学和脑成像的进步无关，故排除B)；结束“阅 读方法战”是国会的目的，而不是统计学和脑成像 进步所证明的事实，故排除C）。 语音教学法，即一个音节一个音节地读出单词，是教孩子阅读的最好方法。(51)但在许多教室里，这 可能是一个肮脏的词。这样一来一些老师不得不把语音教学法的教材偷偷带进教室。一项又一项的研究 发现，大多数美国孩子所学的阅读方法是错误的。 后果是惊人的。2017年，只有不到一半的美国成年人精通阅读。美国四年级学生在国际阅读素养进 展研究（一项国际性测试）中排名第15位。 （52)近几十年来，美国对如何教孩子阅读一直争论不休。一些人主张教授“符号和发音的关系”（/k/ 的发音可以拼写为c、k、ck或ch），这被称为语音教学法。其他人则支持一种沉浸式的方法（用猫的图片 来学习单词cat），这被称为“全语言教学法”。根据《教育周刊》研究中心2019年的一项调查，今天的大多 数教师（几乎四分之三）使用一种名为“均衡阅读教学法”的混合方法。（53）这种组合的方法是无效的。密 西西比州教育部门小学教育和阅读执行主任特内特·史密斯说：“你不能在课堂上穿插一些语音教学法。 它必须是系统的、明确的教学。” 在社会政策方面经常落后的密西西比州在这方面树立了榜样。密西西比州曾因阅读成绩低而声名狼 藉，但该州立法机构在2013年通过了新的阅读标准。自那以后，密西西比州取得了显著的进步。该州四 年级学生在全国教育进步评估考试（一项全国性考试）中的排名已经由第49位（共50个州）上升到第29 位。2019年，它是唯一一个得分提高的州。自评估开始以来，密西西比州的学生第一次达到了平均阅读 水平，在这样一个贫穷的州，这是一个了不起的成就。 (54)密西西比州的成功要归功于它实施的阅读方法，该方法得到了一系列被称为“阅读的科学”研究 的支持。1997年，国会要求国家儿童健康与人类发展研究所和教育部召集一个国家阅读专家组，来终止 这场“阅读方法战”并给出全面的证据。专家组发现，语音教学法，结合音位意识、阅读的流利度和阅读的 理解能力的清晰教学模式，效果最好。 然而，20多年过去了，“均衡阅读教学法”仍在课堂上教授。（55)但是统计学和脑成像的进步已经否 定了全语言教学法。对于一个精通阅读的老师来说，识字似乎是一个自然的过程，需要有根据的猜测，而 不是语音教学法所强调的刻意学习的过程。老师们可以想象，当他们还是孩子的时候，他们是通过耳濡目 染学会阅读的。没有适当的培训，他们会把这种思想带到教室里。 第14页，共15页 Part Translation 参考译文与难点注释 In recent years, an increasing number of Chinese cultural products have entered theglobal market, gaining growing popularity among overseas consumers. Propelled by the rapid growth of China's foreign cultural trade, the export volume of Chinese cultural products has maintained a high rank globallyfor many years, and a group of cultural enterprises,products and brands with international influence have been established. Statistical data reveals that the sales volume of Chinese publications, films and television programs, online literature, and animation products overseas has increased year after year. The Chinese government has introduced a series of policies to encourage and 4. support more outstanding cultural products with Chinese elements to go abroadand expand market share in overseas markets so as to further enhance theinfluence ofChinese culture intheworld."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "近年来，越来越多的中国文化产品走向全球市场，日益受到海外消费者的青睐。随着中国对外 文化贸易的快速发展，中国文化产品出口额已持续多年位居世界前列，形成了一批具有国际影响力 的文化企业、产品和品牌。数据显示，中国的出版物、影视作品、网络文学与动漫作品等在海外的 销售量连年攀升。中国政府出台了一系列政策鼓励和支持更多具有中国元素的优秀文化产品走出国 门，扩大海外市场份额，进一步提升中国文化的世界影响力。 2023-06-CET6(第1套)-9 ===== PAGE 10 ===== Suggested Version",
+          "terms": [],
+          "reference": "In recent years, an increasing number of Chinese cultural products have entered the global market, gaining growing popularity among overseas consumers. Propelled by the rapid growth of China's foreign cultural trade, the export volume of Chinese cultural products has maintained a high rank globally for many years, and a group of cultural enterprises, products and brands with international influence have been established. Statistical data reveals that the sales volume of Chinese publications, films and television programs, online literature, and animation products overseas has increased year after year. The Chinese government has introduced a series of policies to encourage and 4. support more outstanding cultural products with Chinese elements to go abroad and expand market share in overseas markets so as to further enhance the influence of chinese culture in the world.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "id": "cet4-2024_06_3",
+  "level": 4,
+  "year": 2024,
+  "month": 6,
+  "setNo": "第3套",
+  "title": "2024年6月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Suppose your university is seeking students' opinions on whether university canteens should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+          "review": "第三套 作文要求考生假设自己所在的大学正在向学生征求意见，即大学餐厅是否应当对公众开放，考生需要就 此写一篇文章表达自己的观点。这属于选择论证型作文，考生可以二选其一，展开论述。支持开放，可以从方 便临时去高校办事的公众、增加学校和公众的联系等方面进行论证。反对开放，可以从大学餐厅具有专属性 质，应确保师生利益，向公众开放可能造成一系列不利因素等方面进行论证。",
+          "sample": "I firmly believe that university canteens should indeed be open to the 1表明立场，大学食堂应对公众 public. This move not only enhances the utilization of campus resources but also contributes to community cohesion.²University canteens.often renowned for their diverse and nutritional menus, could serve as an additional dining option for the local community, particularly those see king healthy and affordable meals. Moreover opening up canteens to the public could potentially generate additional revenue for the university, which could then be reinvested in improving facilities or supporting academic programs Such an approach also fosters a sense of inclusivity, brea king down barriers between the university and the surrounding community. However it is crucial to ensure that the flow of external visitors does not disrupt the daily livesof students and staff.5Well- planned measures, such as design a ted visiting hours and appropriate seating arrangements, can help strike a balance.6 In conclusion, opening university canteens to the public is a beneficial endeavor that can bring about positive changes for both the university and the wider community, provided that it is implemented with careful consideration and planning.7",
+          "sampleNote": "我坚信大学食堂确实应该向公众开放。 开放。 2陈述第一个理由：不仅可以提 高校园资源的利用率，而且有 助于增强社区凝聚力。 3陈述第二个理由：可以增加额 外收入，用于再投资，改善学 校设施，支持学术项目。 4陈述第三个理由：有助于提升 大学的包容性，打破大学和周 边社区的隔阂。 5指出应注意的第一个事项：确 保访客不会打扰师生日常生 活。 6指出精心规划的措施可以帮助 取得平衡。 7得出结论：向公众开放大学食 堂是一项有益的尝试，只要规 划得当，就能给大学和社区带 来积极的变化。",
+          "sampleCn": "这一举措不仅提高了校园资源的利用率，而且有助于增强社区凝聚力。大学食堂通常以其多样化和营养 丰富的菜单而闻名，可以为当地社区提供额外的用餐选择，尤其是那些寻求健康和经济餐饮的人群。此外，向 公众开放食堂可能会为大学带来额外收入，这些收入可以再投资于改善设施或支持学术项目。这种做法还培养 了包容性，打破了大学与周边社区之间的隔阂。然而，确保外来访客的流动不影响学生和教职员工的日常生活 也是至关重要的。精心规划的措施，如指定的参观时间和适当的座位安排，有助于取得平衡。 总之，向公众开放大学食堂是一项有益的尝试，只要经过深思熟虑和精心的规划，就能为大学和更广泛 的社区带来积极的变化。 老师说 本套讲解视频中，老师教你锤炼语言、使用高级词汇和句式进行写作的技巧，带你分析这次四级阅读题源、命题点，教 你如何应对四级阅读的方法，帮助你分析中文句子结构，找出中英文之间的对应性，提升翻译技能，扫码观看视频解析课！ (第三套",
+          "vocab": [
+            "contribute to有助于，促进",
+            "reinvest再投资",
+            "well-planned精心规划的",
+            "cohesion凝聚力",
+            "inclusivity包容性",
+            "designated指定的",
+            "(be)renownedfor因……而闻名",
+            "breakdown barriers打破隔阂",
+            "strike abalance取得平衡",
+            "nutritional营养的",
+            "disrupt打扰，干扰",
+            "bring about positive changes带来积极的变化"
+          ],
+          "patterns": [
+            "1.I firmly believe that...",
+            "句型意为“我坚信…”，是用于表达观点的一个常用句式。",
+            "2.….,provided that….",
+            "句型意为“如果……，在……的情况下”，表示一种假设的条件，其中provided相当于连词，that引导",
+            "从句。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "academic ___26___ on these developments, there has been little study on how workers ___27___ to being replaced through technology. To find out, business researchers at TUM and Erasmus University Rotterdam conducted 11 studies and surveys with over 2,000 persons from several countries. The findings show: in principle, most people view it more ___28___ when workers are replaced by other people than by robots or intelligent software. This preference ___29___, however, when it refers to people’s own jobs. When that is the case, the majority of workers find it less up setting to see their own jobs go to robots than to other employees. In the long term, however, the same people see machines as more threatening to their future role in the workforce. These effects can also be observed among people who have recently become unemployed. The researchers were able to identify the causes behind these ___30___ paradoxica results, too: People tend to ___31___ themselves less with machines than with other people. Consequently, being replaced by a robot or software ___32___ less of a threat to their feeling of self-worth. This reduced self-threat could even be observed when participants assumed that they were being replaced by other employees who relied on technological abilities such as artificial intelligence in their work. “Even when unemployment results from the ___33___ of new technologies, people still judge it in a social context,” says Christoph Fuchs, one of the authors of the study. “It is important to understand these ___34___ effects when trying to manage the massive changes in the working world to minimize ___35___ in society.”",
+          "wordBank": {
+            "A": "compare",
+            "B": "contradicts",
+            "C": "conventional",
+            "D": "debate",
+            "E": "disruptions",
+            "F": "drastically",
+            "G": "favorably",
+            "H": "guarantee",
+            "I": "introduction",
+            "J": "modifications",
+            "K": "poses",
+            "L": "psychological",
+            "M": "react",
+            "N": "reverses",
+            "O": "seemingly"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "语法判断空格前是形容词短语intensive academic，空格后是介词短语on these developments，由此可知，空 格处应填入一个名词。 语义判断文章开头提到，在未来几十年里，数以百万计的工作岗位将受到机器人和人工智能的威胁。空格 所在句意为“尽管学术界对这些发展进行了激烈的 ,但关于工人如何 被技术取代的研究却很 少”，代入选项可知，debate符合语境。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "语法判断空格前是从句的主语workers，空格后是介词to，空格所在句子时态为一般现在时，由此可知，空 格处应填入动词原形，充当从句的谓语。 语义判断对于将来会被机器所取代，工人会作何感想。下文便提到了相关研究，并给出了结论。reactto意 为“对……作出反应”，故react符合语境。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "38.I 39.A 40.E 41.B 42.J 43.F 44.D 45.H 48.D 49.B 50.D 51.A 52.C 53.A 54.D 55.B"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "N",
+              "analysis": "语法判断空格前是句子的主语Thispreference，空格后是逗号、连词however和状语从句，由此可知，空格 处应填入动词的第三人称单数，充当主句的谓语。 语义判断前一句提到大多数人认为，工人被其他人取代比被机器人或智能软件取代更有利，而后一句是说 大多数工人发现，看到自己的工作交给机器人而不是其他员工并不那么令人沮丧，前后表意相反，因此， 空格所在句指的是，当涉及自己的工作时，人们的偏好会发生逆转，故reverses符合语境。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "O",
+              "analysis": "语法判断空格前是限定词these，空格后是名词短语paradoxicalresults，由此可知，空格处应填入一个形容词 或分词，与paradoxical一起充当results的定语，或填入一个副词，修饰paradoxical。 语义判断研究结果表明，和被其他员工替代相比，被机器人替代并未让人们感到那么沮丧，但从长远来 看，这些人认为机器对他们的威胁性更高，这些结果似乎是相互矛盾的。因此seemingly符合语境。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格前是动词短语tendto，空格后是宾语themselves，由此可知，空格处应填入动词原形。 语义判断此处阐述研究结果自相矛盾的原因，即人们更愿意与其他人而非机器相比较，故compare符合 语境。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "语法判断空格前是句子的主语being replacedby a robot or software，空格后是宾语less ofa threat，由此可 知，空格处应填入动词的第三人称单数，充当句子的谓语。 语义判断该句意为“因此，被机器人或软件取代对他们的自我价值感 威胁较小”，posea threat意为 “构成威胁”，故poses符合语境。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "语法判断空格前是定冠词the，空格后是介词短语ofnewtechnologies，由此可知，空格处应填入一个名词。 语义判断技术的发展终究会使机器人和人工智能接替更多的工作岗位，工人将被淘汰，即失业是由于新技 术的引人造成的，故introduction符合语境。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断空格前是限定词these，空格后是名词effects，由此可知，空格处应填入一个形容词或分词，充当 effects的定语。 语义判断技术革新及人工智能的发展会导致工人下岗，随之而来的就是社会的变化，为了使影响最小化， 了解工人对待职场变化的态度至关重要。代入选项可知，psychological符合语境。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "contradicts（v.反驳，否认；相矛盾）",
+                "C": "conventional（adj.依照惯例的，遵循习俗的）",
+                "F": "drastically （adv.极其，非常；彻底地；激烈地）",
+                "H": "guarantee（v.确保，保证；担保n.保证，担保）"
+              },
+              "answer": "E",
+              "analysis": "语法判断空格前是动词minimize，空格后是介词短语in society，由此可知，空格处应填入一个名词，充当 minimize的宾语。 语义判断该句意为“在试图应对职场的巨大变化以减少对社会的时，了解这些心理影响很重要”， 代入选项可知，disruptions符合语境。 干扰项注释 modifications（n.修改，改进） ·概览· 本文主要讨论了随着科技的进步和教育方式的变革，美国部分地区传统的“雪休日”（即学生因大 雪等极端天气导致学校停课而获得的意外假期）正在被“线上学习日”所取代。美国多州学区出台政 策，要求学生在学校因极端天气停课时，通过电子设备在家线上学习。此举意图减少学生因天气原因造 成的旷课，同时也避免了额外的“补课日”。尽管此举在实践中已初显成效，但也引发了一些争议，各 方对此看法不一。 “雪休日”变成“线上学习日”，别想逃课了 比如学校，很可能会关闭。[39]当美国出现降雪天气时，这意味着学校的孩子们有机会享受“雪休日”这 一由来已久的传统，即学校被迫停课，学生们得到一个意想不到的休息日。 使校车无法运行，课程也被取消，但学校仍然正常开放。极端天气导致停课或延迟上课的情况在应对能力 较弱的地区更为频繁。[41]在习惯了冬季大量降雪的美国北部地区，雪休日不太常见，因为市政当局设备 精良，能够及时清理道路和清除积雪。而在不太习惯下雪的地区，即使是一两英寸的小雪也可能使道路变 得不安全。 雪人、打雪仗。但对于南卡罗来纳州、内华达州、佐治亚州和印第安纳州等美国几个州的学生来说，这一 传统现在已经结束了。[37本学年，许多学校董事会都出台了政策，要求学生在学校因下雪或极端天气停 课时在家学习。这被称为“线上学习日”，听起来当然没有雪休日有趣。 题。[44南卡罗来纳州安德森县一个学区的试点项目为学生提供了布置作业的电子平板电脑，以便他们在 学校停课时完成作业。如果该试点项目成功，就可能会在全州范围内推广。 “下雪的时候，让孩子们尽情享受吧，”一位评论者表示。另一位评论者说，这一决定将“进一步毁掉学 校”，还有人说下雪天是“童年乐趣的一部分”。但该政策的支持者表示，这意味着孩子们缺课的天数将 减少。这也将终结一个在美国高中不太受欢迎的传统：“补课日”，这一传统要求许多州的学生在学校放 假期间通过补课来弥补因天气原因而损失的时间。 区主管汤姆·威尔逊说，取消雪休日的做法既实际又省钱。他说，技术已经改变了每一个行业，所以利用 技术“取消”补课日是合理的。印第安纳州教育部的亚当·贝克说，线上学习日被证明是一个“巨大的 成功”。他说，印第安纳州的大多数学校已经在课堂上使用数字设备，所以将其推广到学校停课的日子 是一个“容易的决定”。他否认这一决定剥夺了孩子享受雪天的机会。“学生仍然可以享受雪天和户外时 光，”他说。“许多学生有体育和科学作业，这可以让他们出去享受天气。”[43但俄亥俄州当地的学校 校长正在抵制采用线上学习日的提议。他们担心，在家不能上网的学生将因这项政策而处于不利地位，而 校长汤姆·罗斯则担心，线上学习日会降低教育质量。 足以代替上课。他说：“我认为我们仍然需要课堂时间为孩子们提供他们应该享有的教育。”“用暴风雪书 包或在家做作业是无法做到这一点的。这样做的效果不会那么好。” 教育部在2016年发表的一项研究中指出，旷课可能会对学习成绩产生负面影响。研究还得出结论说，即使 一年中只旷课几天，也足以导致学生无法在考试中取得好成绩。这与美国哈佛大学的一项研究结果不同， 该研究得出的结论是，由于天气原因偶尔旷课几天并不会对学习造成影响。 管许多教职员工和学生都缺席了，学校仍然试图在恶劣天气下继续上课。但哈佛大学去年夏天发表的另一 项研究显示，天气确实会对学习成绩产生影响。[38]炎热的天气对成绩有负面影响。研究人员对1000万名 学生13年来的成绩进行了调查，发现极端炎热天气的年份与成绩下降之间存在“显著”联系。 择。[42]然而，研究表明，与未经批准的旷课相比，在极端天气等情况下经批准的旷课对学生造成的问 题要少得多。这是因为未经批准的旷课往往反映了学生脱离课堂的模式和行为，或者反映了学生在学校 学习过程中家长可能采取的消极教育态度。学生学习成绩受影响的程度与其旷课的时间长短以及旷课的 频率有关。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) It is read by people for entirely different reasonsC) It makes enjoyable as well as informative reading.\nB) It is me ant for those interested in fashion historyD) It converts fashion into something for deliberation.\nA) By examining the restraints imposed on it.C) By glancing at its fabrics, colors, and ornaments.\nB) By looking at what the nobility were we a ring.D) By doing a survey of the upper and middle classes.\nA) To facilitate the rise of the middle class.C) To help initiate some novel fashions.\nB) To loosen restrictions on dress codes. D) To preserve the status of the nobles.\nA) It uses comparison and contrast in describing fashions of different eras\nB) It makes heavy reading but is not lacking in humor or appeal\nC) It is filled with interesting episodes to spare readers intolerable boredom.\nD) It is characteristic of academics in presenting arguments.\nA) Plentiful information. C) Evolved thinking.\nB) Meaningful choices. D) Intellectual depth.\nA) People may cither be born with it or be able to cultivate it.\nB) It proves crucial in making others follow one's course of action.\nC) It refers to the natural and instinctive power of influencing one’s coworkers.\nD) People may view it as both a means to convince others and an art of communication.\nA) They enable employees to be convinced of their long-term gains.\nB) They enable employees to trust their leaders un condition ally.\nC) They help motivate coworkers to strive for a common goal.\nD) They help an organization to broaden its vision effectively.\nA) Acquire effective communication skills. C) Understand the reason for pursuing their goals\nB) Avoid getting involved in conflicts with others.D) Commit themselves fully to their ideas and plans\nA) When they are convinced you work in their interests while sacrificing your own.\nB) When they become aware of the potential strength of the judgements you make.\nC) When they become aware of the meaningful relationships you keep with them.\nD) When they are convinced they will make achievements together with you.\nA) To convince employees of the value of collaboration.\nB) To allow for the preferences of most people of today\nC) To improve on traditional organizational structures\nD) To adapt to employees’ ever-changing working styles.",
+          "analysisOverview": "本文节选自网站https://www.tum.de上2019年9月8日发表的一篇标题为“EmployeesLessUpsetatBeing ReplacedbyRobotsthanbyOtherPeople”的文章。在未来几十年里，数以百万计的工作岗位将受到机器 人和人工智能的威胁。而工人将如何应对被技术所取代的趋势，本文针对相关研究进行了阐述。",
+          "translationCn": "在未来几十年里，数以百万计的工作岗位将受到机器人和人工智能的威胁。尽管学术界对这些发展进行 了激烈的[26辩论，但关于工人如何[27]应对被技术取代的研究却很少。 为了找到答案，慕尼黑工业大学和鹿特丹伊拉斯谟大学的商业研究人员对来自若干国家的两千多人进行 了11项研究和调查。 研究结果表明：原则上，大多数人认为，工人被其他人取代比被机器人或智能软件取代更[28]有利。然 而，一旦涉及他们自己的工作，这种偏好就会[29逆转。在这种情况下，大多数工人发现，看到自己的工作交 给机器人而非其他员工并不那么令人沮丧。不过，从长远来看，这些人认为机器对他们未来在职场中的角色更 具威胁性。在最近失业的人群中也可以看到这些影响。 研究人员也能够找出这些[30看似矛盾的结果背后的原因，即人们更倾向于将自己与其他人而非机器进行 [31]比较。因此，被机器人或软件取代对他们的自我价值感[32]构成的威胁较小。甚至当参与者认为他们正在 被其他在工作中依赖人工智能等技术能力的员工取代时，也可以观察到这种自我威胁的降低。 “即使失业是由于新技术的[33引人造成的，人们仍然会在社会背景下对其进行判断，”该研究的作者之 一克里斯托弗·富克斯表示，“在试图应对职场的巨大变化以减少对社会的[35]干扰时，了解这些[34]心理影响 很重要。”",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "There is opposition to the practice of giving children assignments to take home before extreme weather forces a school",
+              "stemCn": "题干译文有人反对在极端天气导致学校停课前给学生布置家庭作业的做法。",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息opposition、assignments、take home和extreme weather forces a school closure 定位到G段。该段首句提到，还有所谓的“暴风雪书包”，孩子们可以在预计的大雪封路之前把作业带 回家。但罗斯表示，这还不足以代替上课。可见有人反对这种做法，由此可见，题干是对该句的同义转 述，其中There isoppositionto是对原文ButMrRothsays itis not sufficientasareplacement的概括总结，而the practiceofgivingchildrenassignmentsto take home对应原文中的withassignments thatchildrentakehome，而 before extreme weather forces a school closure对应原文中的ahead of an expected snow closure。"
+            },
+            {
+              "num": 37,
+              "stem": "New policies adopted by many US schools require students to do online learning at home in case of a school closure.",
+              "stemCn": "题干译文 美国许多学校所采取的新政策要求学生在遇到学校停课的情况下，在家进行线上学习。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息Newpolicies、manyUS schools、online learning和school closure定位到C段。 该段最后两句承接上文提到，本学年，许多学校董事会都出台了政策，要求学生在学校因下雪或极端天 气停课时在家学习。这被称为“线上学习日”，听起来当然没有雪休日有趣。由此可知，题干是对原 文内容的概括总结。其中New policies adopted by manyUS schools对应原文中的many schoolboards have introducedpolicies，而requirestudentsto doonline learningathome对应原文中的require studentsto work from home和“e-learning days”，而incase ofa school closure对应原文中的iftheschool is shutby snow or extreme weather。"
+            },
+            {
+              "num": 38,
+              "stem": "According to some research, extreme hot weather negatively affects students’ performance.",
+              "stemCn": "题干译文一些研究表明，极端炎热的天气会对学生的学习成绩产生负面影响。",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "答案I。由题干关键信息someresearch、extreme hot weather和negatively affects students'performance定位 到I段。该段讲述天气对学生学习成绩的影响，最后一句提到，炎热的天气对成绩有负面影响。研究人员对 1000万名学生13年来的成绩进行了调查，发现极端炎热天气的年份与成绩下降之间存在“显著”联系。由 此可知，题干是对该句内容的概括总结。题干中的According to someresearch对应原文中的Theresultsof10 million school students were examined over13 years and researchers found，extreme hot weather对应原文中的 extremely hot weather，negativelyaffects对应原文中的has the negative impact，而studentsperformance对应原 文中的lowerresults。"
+            },
+            {
+              "num": 39,
+              "stem": "There is a time-honoured tradition in the US for school kids to stay at home on “snow days”.",
+              "stemCn": "题干译文在美国，学生因“雪休日”放假在家是一个悠久的传统。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息a time-honoured tradition in theUS、schoolkids、stay at home和snow days定位 到A段。该段第二句提到，当美国出现降雪天气时，这意味着学校的孩子们有机会享受“雪休日”这一由 来已久的传统，即学校被迫停课，学生们得到一个意想不到的休息日。由此可见，题干是对该句的同义 转述，其中atime-honoured tradition对应原文中的thelong-standing tradition，in theUS属于原词重现，snow days对应原文中的snowday，schoolkids对应原文中的school children，而stay at home对应原文中的getan unexpected day off。"
+            },
+            {
+              "num": 40,
+              "stem": "Debates on social media show some parents are opposed to ending the “snow day” tradition.",
+              "stemCn": "题干译文社交媒体上的争论表明，一些家长反对终结“雪休日”的传统。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息Debates on social media、some parents、are opposed to和the“snow day”tradition 定位到E段。该段首句承接前文提到，但是一些家长反对这项新政策，如果安德森县学区的Facebook页面 上的激烈争论能说明什么的话。该句中的“新政策”即指前文提到的用“线上学习日”取代传统的“雪 休日”，由此可知，题干是对原文内容的概括总结。题干中的Debatesonsocialmedia对应原文中的the vigorous debate on the Facebook pageofAndersonCounty school district,而some parents are opposed toending the“snow day”tradition对应原文中的some parents object to the new policy。"
+            },
+            {
+              "num": 41,
+              "stem": "In more northern regions of the US, school is less likely to be affected by snowy weather.",
+              "stemCn": "题干译文在美国北部地区，学校受雪天影响（而停课）的可能性较小。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息more northern regions oftheUS、less likely和beaffected by snowy weather定位 到B段。该段倒数第二句提到，在习惯了冬季大量降雪的美国北部地区，雪休日不太常见，因为市政当局 设备精良，能够及时清理道路和清除积雪，即学校受雪天影响（而停课）的可能性较小。由此可知，题干 是对原文内容的同义转述。题干中的Inmore northernregions oftheUS对应原文中的inmore northernareasof the UnitedStates，而school is less likely to beaffected by snowy weather是对Snow days are less common..that are used to heavy winter snowfall,because municipalities are well equipped to clear roads and remove snow的 概括总结。"
+            },
+            {
+              "num": 42,
+              "stem": "Research indicates absences from school with permission do not cause as many problems as those without permission.",
+              "stemCn": "题干译文研究表明，经批准的旷课比未经批准的旷课（对学业）造成的问题更少。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息Research、absences from school with permission和manyproblems定位到J段。该 段第三句提到，然而，研究表明，与未经批准的旷课相比，在极端天气等情况下经批准的旷课对学生造成 的问题要少得多。由此可知，题干是对该句内容的同义转述。其中Researchindicates对应原文中的research shows，absences from school with permission对应原文中的that authorised absences from school，而do not cause as manyproblems as those without permission对应原文中are less problematic for students than absences that are not authorised。"
+            },
+            {
+              "num": 43,
+              "stem": "There is objection to e-learning days owing to fear that students with no access to the Internet at home will suffer.",
+              "stemCn": "题干译文有人反对线上学习日，因为担心在家不能上网的学生将会受到影响。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案F。由题干关键信息objection to e-learning days、fear和students withno access to the Internet athome 定位到F段。该段最后两句提到，但俄亥俄州当地的学校校长正在抵制采用线上学习日的提议。他们担 心，在家不能上网的学生将因这项政策而处于不利地位。由此可知，题干是对原文内容的同义转述。 题干中的There is objection to e-learning days对应原文中的local school superintendents inOhio are resisting proposals to adopt e-learning days，而owing to fear that students with no access to the Internet at home will suffer 对应原文中的Theyfear that students without internetaccess at home willbe disadvantagedbythe policy。"
+            },
+            {
+              "num": 44,
+              "stem": "In a pilot programme, students are given electronic devices to do assignments when schools are closed.",
+              "stemCn": "题干译文在一个试点项目中，当学校停课时，学生会获得电子设备来完成作业。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案D。由题干关键信息a pilotprogramme、electronic devices、doassignments和schools are closed定位 到D段。该段第二句提到，南卡罗来纳州安德森县一个学区的试点项目为学生提供了布置作业的电子平板 电脑，以便他们在学校停课时完成作业。由此可知，题干是对原文内容的同义转述。其中apilotprogramme 属于原词重现，students aregivenelectronic devicesto do assignments whenschools are closed对应原文中的has supplied students with electronic tablets loaded with assignments to complete in the eventofa school closure。"
+            },
+            {
+              "num": 45,
+              "stem": "A long-standing debate is going on over the impact of school absences on students’ academic performance.",
+              "stemCn": "题干译文关于旷课对学生学习成绩的影响，长期以来一直存在着争论。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息Along-standing debate、the impactof school absences和students’academic performance定位到H段。该段首句提到，关于旷课是否会影响学习成绩的争论由来已久。由此可知，题干 是对原文内容的同义转述，其中Along-standing debate is going on over对应原文中的There is a long-running debate on，而the impact ofschool absences on students’academic performance对应原文中的whether missing days of school affects attainment。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "It may sound surprising, but you don't have to be interested in fashion, or even in history, to enjoy dress Codes: How the Laws of Fashion Made History. I happen to be interested in both, and ended up enjoying the book for completely different reasons. Richard Thompson Ford is a law professor, and you probably won't forget that for even one page. His care fully reasoned arguments, packed with examples, sound almost like reading a court opinion, only maybe wordier. You will probably never think of fashion as a trifle again. Ford's thesis is that the best way to understand what particular fashions me ant in any given era is to look at the restrictions placed on them. Through this lens, he shows us that the first laws passed in the 1200s to ensure that only the nobility were allowed to wear certain fabrics, colors and ornaments reflected the rise of the middle class, who were now able to imitate some of these fashions. The status of the upper classes was threatened: fashion was a tool to preserve it. Ford takes the reader through the evolution of fashion while examining the underlying motivations of status: sex, power, and personality, which, he assumes, influenced all innovations in fashion in the past and which continue to influence us today. His writing is more than a little dense — dense with research, clauses, and precise adjectives and nouns. But there's also humor and enough interesting episodes to make the writing appealing. No one is spared his sharp analysis: not the easy targets of 19th century women's crippling (伤害身体的 ) fashions nor the modern uniforms of Silicon Valley T-shirts. But the greatest strength of this book (on fashion!) is its intellectual profoundness. Ford asks us to question unconscious beliefs, to realize that we almost never do so, to understand that the simplest choices are charged with meaning, and yet that meaning can and does change all the time. Consider the fact that a 1918 catalog insisted that boys and girls be dressed in the appropriate color. We believe our thinking today is evolved. Ford shows us it’s not.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author think of the book Dress Codes: How the Laws of Fashion Made History?",
+              "stemCn": "作者如何看待《着装规范：时尚法则如何创造历史》这本书？",
+              "options": {
+                "A": "It is read by people for entirely different reasons",
+                "B": "It is me ant for those interested in fashion history",
+                "C": "It makes enjoyable as well as informative reading.",
+                "D": "It converts fashion into something for deliberation. ===== PAGE 4 ====="
+              },
+              "optionCn": {
+                "A": "人们出于完全不同的原因阅读它。",
+                "B": "它是为对时尚史感兴趣的人准备的。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词thebook可以将答案定位到第一段第一句、第二段第二句。 第一段第一句指出，这听起来可能令人惊讶，但你并不需要对时尚甚至历史感兴趣，就可以享受阅读《着 装规范：时尚法则如何创造历史》这本书。接下来第二段第二句指出，该书作者的论点经过镇密且充分的 论证，而且书中充满了例子，看完后你可能再也不会认为时尚是件小事了。由此可知，在作者看来，这本 书令人享受，且能让人增长见识，选项C与原文意思一致，故本题选C。选项A错在，原文是说作者出于不 同的原因喜欢上了这本书，并不是人们出于完全不同的原因阅读它，故排除。选项B以偏概全，选项D属 于过度推断，均排除。"
+            },
+            {
+              "num": 47,
+              "stem": "How can people best understand a particular fashion in an era, according to Ford?",
+              "stemCn": "根据福特的说法，人们如何才能最好地理解一个时代的特定时尚？",
+              "options": {
+                "A": "By examining the restraints imposed on it.",
+                "B": "By looking at what the nobility were we a ring.",
+                "C": "By glancing at its fabrics, colors, and ornaments.",
+                "D": "By doing a survey of the upper and middle classes."
+              },
+              "optionCn": {
+                "A": "通过仔细研究对其施加的限制。",
+                "B": "通过观察贵族的穿着。"
+              },
+              "answer": "A",
+              "analysis": "定位C通过浏览面料、颜色和装饰品。 根据题干关键词best understand a particular fashion in an era可以将答案定位到第三段第一句。 第三段第一句指出，福特的论点是，要理解任何一个时代的特定时尚意味着什么，最好的方法是看一看当 时对时尚施加的限制。由此可知，本题选A。选项中的restraints imposed onit与原文中的restrictions placed onthem是同义替换，restraint和restriction都是“限制”的意思。其他三项虽然包含部分原文词汇，但都不 是福特所说的理解一个时代特定时尚的最佳方式，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What was the aim of the first laws passed regarding fashion in the 1200s?",
+              "stemCn": "世纪首批通过的时尚行业的法律的目的是什么？",
+              "options": {
+                "A": "To facilitate the rise of the middle class.",
+                "B": "To loosen restrictions on dress codes.",
+                "C": "To help initiate some novel fashions.",
+                "D": "To preserve the status of the nobles."
+              },
+              "optionCn": {
+                "A": "促进中产阶级的崛起。",
+                "B": "放宽对着装规范的限制。"
+              },
+              "answer": "D",
+              "analysis": "定位根据题干关键词the first laws passed regarding fashion in the 1200s可以将答案定位到第三段第二、三句。 第三段第二句指出，福特向我们展示了13世纪首批通过的确保只有贵族才能穿着某些面料、颜色和佩戴某 些装饰品的法律，这反映了中产阶级的崛起，他们现在能够模仿其中一些时尚风格。但是仅从这句话，我 们无法推断通过该法律的目的。我们继续读下一句：上层阶级的地位受到了威胁；时尚是维护其地位的工 具。由此可知，首批通过的时尚行业的法律规定贵族才能穿某些面料、颜色和装饰品，其目的也就是维护 贵族的地位，故本题选D，选项中的preserve是原词重现。虽然原文提到了中产阶级的崛起，但这是这部法 律的颁布反映出的一个现象，而不是其目的，故排除A。选项B和C原文没有提及，均排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the author think of Ford's writing?",
+              "stemCn": "作者认为福特的作品怎么样？",
+              "options": {
+                "A": "It uses comparison and contrast in describing fashions of different eras",
+                "B": "It makes heavy reading but is not lacking in humor or appeal",
+                "C": "It is filled with interesting episodes to spare readers intolerable boredom.",
+                "D": "It is characteristic of academics in presenting arguments."
+              },
+              "optionCn": {
+                "A": "它使用比较和对比的手法来描述不同时代的时尚。",
+                "B": "它读起来很晦涩，但不乏幽默感或吸引力。",
+                "C": "它充满了有趣的章节，使读者免于无法忍受的枯燥。",
+                "D": "在提出论点方面，它具有学术特点。"
+              },
+              "answer": "B",
+              "analysis": "定位根据题干关键词Ford’swriting可以将答案定位到倒数第二段第二、三句。 倒数第二段第二句和第三句指出，他的作品比较晦涩难懂——充满了研究细节、从句和精确的形容词和 名词。但这部作品中也不乏幽默和足够有趣的章节，使文字充满吸引力。对比四个选项，只有选项B概括 最为全面且符合文章内容，故本题选B，选项中的heavyreading与原文中的dense属于同义替换。本题还可 以用排除法来做。选项A原文未提及，故排除。选项C错在，原文说作品“不乏”足够有趣的章节，并没 有说“充满”了有趣的章节，而且该选项对福特作品的概括也不全面，故排除。作者只是提到福特的作品 中论点论证缜密，例子丰富，听起来就像阅读法庭意见书一样，这表明作者认为福特的书有法律文献的味 道，而并非D项所说的具有学术特点，故D项可排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author say is the greatest strength of Ford's book?",
+              "stemCn": "作者认为福特这本书最大的优点是什么？",
+              "options": {
+                "A": "Plentiful information.",
+                "B": "Meaningful choices.",
+                "C": "Evolved thinking.",
+                "D": "Intellectual depth."
+              },
+              "optionCn": {
+                "A": "丰富的信息。",
+                "C": "进化的思维。",
+                "B": "有意义的选择。",
+                "D": "思想的深度。"
+              },
+              "answer": "D",
+              "analysis": "根据题干关键词thegreatest strength ofFord’sbook可以将答案定位到最后一段第一句。 定位 最后一句段第一句指出，这本书（关于时尚！）最大的优势在于其思想的深刻程度，故本题选D。选项 Intellectual depth与原文中的intellectual profoundness是同义替换。其他三项均不符合题意，故排除。 Passage Two ·概览· 本文节选自网站harappa.education于2020年10月4日发表的一篇题为“TheArtOfPersuasion”的文 章。这篇文章主要讨论的是说服的艺术。首先介绍了什么是说服的艺术，并指出，有些人天生就具有说 服力，有些人可以靠后天学习说服力。作者指出在工作中说服力发挥着十分重要的作用。 ·全文翻译· 说服的艺术意味着劝服别人同意你的观点或遵循你的行动方案。[51对 于我们中的一些人来说，说服是一种本能的特质，影响他人的力量自然而然地 产生。对于其他人来说，说服技巧是可以随着时间的推移而学习和发展的。 雇主们非常重视具有说服技巧的员工，因为他们可以影响工作表现的 几个方面。此外，团队合作和领导力在很大程度上依赖于说服力来完成各 项事务。如果没有说服技巧，员工可能不会全心投入组织的愿景和长期使 命，也不会对其重要性深信不疑。[52]有效运用说服技巧不仅能让同事对 你的想法感到兴奋，还可以帮助你激励他们实现共同的目标。 为了在工作场所学会说服的艺术，你需要了解如何处理冲突并达成 一致。良好的沟通是有效说服的第一步，但逻辑和推理同样重要。[53]在 让别人支持你的目标之前，你应该帮助他们理解为什么他们要追求这个目 标。使用视觉辅助工具来支持你的想法可以帮你更好地传达你的想法、提 出令人信服的论点，这样你的听众将会做出合乎逻辑的选择，并将全身心 地投入实现你的想法和计划。 成功的说服技巧基于你与他人进行积极互动以及保持有意义的关系的 能力。为了维持这些关系，你也必须为他们的最佳利益着想。[54]当你的 同事和你一起取得成功时，他们更有可能同意你的观点。他们取得的成就 越多，获得的进步越大，就越信任你的判断和你的实力。 我们每天都在说服别人，也在被人说服——我们要么有说服力，要么 被别人说服。[55]与传统的组织结构相比，绝大多数人更喜欢协作和团队 合作；没有人喜欢被人告之应该做什么或被人摆布。因此，组织和领导者 应该采用强有力的说服技巧，以促成必要的变革。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "The art of persuasion means convincing others to agree with your point of view or to follow your course of action. For some of us, persuasion is an instinctive quality and the power of influencing comes naturally. For the rest of us, persuasion skills can be learned and developed over time. Employers place a great value on employees with persuasion skills because they can impact several aspects of job performance. Besides, teamwork and leadership rely heavily on the power of persuasion to get things done. Without persuasion skills, employees may not be as commit ted to or convinced of the importance of an organization's vision and long- term mission. Effective use of persuasion skills will not only help get your coworkers excited about your ideas, it’ll also help you motivate them to achieve a common goal. In order to learn the art of persuasion at the workplace, you need to understand how to handle conflicts and reach agreements. Good communication is the first step in effective persuasion, but logic and reasoning are just as important. Before you can get somebody on-board with your goal, you should help them understand why they should pursue it. Using visual aids to back up your ideas can help communicate your ideas better and make compelling arguments so your listeners will come to a logical choice and become fully commit ted to your ideas and plans. Successful persuasion skills are based on your ability to have positive interactions and maintain meaningful relationships with people. In order to sustain those relationships, you must be able to work in their best interests as well. Your coworkers are more likely to agree with you when they succeed alongside you. The more they achieve and the greater progress they make, the more they trust your judgement and strength. We persuade and get persuaded every day — were either convincing or being convinced. A vast majority of people prefer collaboration and teamwork over traditional organizational structures, no one likes to be told what to do or to be pushed around. Therefore, organizations and leaders should adopt powerful persuasion skills to bring about necessary changes.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author say about the ability to be persuasive in the first paragraph?",
+              "stemCn": "在第一段中，关于说服他人的能力，作者说了什么？",
+              "options": {
+                "A": "People may cither be born with it or be able to cultivate it.",
+                "B": "It proves crucial in making others follow one's course of action.",
+                "C": "It refers to the natural and instinctive power of influencing one’s coworkers.",
+                "D": "People may view it as both a means to convince others and an art of communication."
+              },
+              "optionCn": {
+                "A": "它可能是人们与生俱来的，也能够后天培养。",
+                "B": "事实证明，它对于让他人遵循自己的行动方案至关重要。",
+                "C": "它指的是影响同事的自然且本能的力量。",
+                "D": "人们可能将其视为一种说服他人的手段和沟通的艺术。"
+              },
+              "answer": "A",
+              "analysis": "重难点单词及短语 convincev.说服；使相信 instinctive adj.本能的 vision n.愿景 ·motivatev.激励 ·logic n.逻辑 ·reasoningn.推理；论证 on-boardadj.（对某项工作、 活动）参与或支持的 pursuev.追求；执行 compellingadj.令人信服的； 有说服力的 be/becomecommittedto全心 投入；致力于 sustainv.使持续；保持；遭受 alongside prep.与….一起; 与…同时 strengthn.实力；影响力 collaborationn.合作,协作 push around把……差来遣 去；摆布；使唤 根据题干关键词the ability to be persuasive in the firstparagraph可以将答案定位到第一段第二、三句。 第一段第一句指出什么是说服的艺术。接着，第二、三句指出，对一些人来说，说服是一种本能的特质， − 对于其他人来说，说服的技巧是可以随着时间的推移而学习和发展的。由此可知，选项A正确，说服力既 有可能与生俱来，也有可能后天培养。选项中的cultivate（培养）与原文中的learnedand developed属于同 义替换。其他三项虽然包括原文中的词汇，但是表达的意思都不准确，可以排除。"
+            },
+            {
+              "num": 52,
+              "stem": "Why are persuasion skills greatly valued in the workplace?",
+              "stemCn": "为什么说服技巧在工作场所受到高度重视？",
+              "options": {
+                "A": "They enable employees to be convinced of their long-term gains.",
+                "B": "They enable employees to trust their leaders un condition ally.",
+                "C": "They help motivate coworkers to strive for a common goal.",
+                "D": "They help an organization to broaden its vision effectively. ===== PAGE 5 ====="
+              },
+              "optionCn": {
+                "A": "它们能让员工相信他们的长期收益。",
+                "B": "它们能让员工无条件地信任他们的领导。",
+                "C": "它们有助于激励同事为了一个共同的目标而奋斗。",
+                "D": "它们帮助组织有效地拓宽其视野。"
+              },
+              "answer": "C",
+              "analysis": "定位根据题干关键词persuasion skills greatly valued in the workplace可以将答案定位到第二段最后一句。 第二段讲的是在工作场所说服力为什么很重要。首先，有说服力的员工可以影响工作表现的几个方面。其 次，团队合作和领导力在很大程度上依赖于说服力。第三，说服技巧可以让员工为组织的愿景和长期使命 全心投入，且深信不疑。第四，有效使用说服技巧不仅可以让你的同事对你的想法感到兴奋，还可以帮你 激励他们实现共同的目标。对比四个选项，只有选项C与第四点符合，故为正确答案。其他三项均与原文 不符，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What should people do to learn the art of persuasion at the workplace?",
+              "stemCn": "在工作场所，人们应该如何学习说服的艺术？",
+              "options": {
+                "A": "Acquire effective communication skills.",
+                "B": "Avoid getting involved in conflicts with others.",
+                "C": "Understand the reason for pursuing their goals",
+                "D": "Commit themselves fully to their ideas and plans"
+              },
+              "optionCn": {
+                "A": "获得有效的沟通技巧。",
+                "C": "了解追求目标的原因。",
+                "B": "避免卷入与他人的冲突。",
+                "D": "全身心地投入到自己的想法和计划中。"
+              },
+              "answer": "A",
+              "analysis": "定根据题干关键词learn the art of persuasion at the workplace可以将答案定位到第三段第三句。 位 第三段讲的是人们应如何学习说服的艺术。首先，在工作场所学会说服的艺术，你需要了解如何处理冲突 并达成一致。其次，需要良好的沟通、逻辑和推理。第三，在让别人支持你的目标之前，你应该帮他们理 解为什么要追求这个目标。第四，使用视觉辅助工具来支持你的想法。对比四个选项，可知选项A“获得 有效的沟通技巧”，与原文第二点“需要良好的沟通”相符，为正确答案。选项B错在应该是了解如何解 决冲突，选项C错在应该是让支持你的人理解为什么追求这个目标，故排除。选项D原文没有提及， 故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "When are you more likely to succeed in persuading your coworkers?",
+              "stemCn": "什么时候你更有可能成功说服你的同事？",
+              "options": {
+                "A": "When they are convinced you work in their interests while sacrificing your own.",
+                "B": "When they become aware of the potential strength of the judgements you make.",
+                "C": "When they become aware of the meaningful relationships you keep with them.",
+                "D": "When they are convinced they will make achievements together with you."
+              },
+              "optionCn": {
+                "A": "当他们确信你为他们的利益而工作，同时牺牲你自己的利益时。",
+                "B": "当他们意识到你做判断的潜在力量时。",
+                "C": "当他们意识到你与他们保持着有意义的关系时。",
+                "D": "当他们确信他们将和你一起取得成就时。"
+              },
+              "answer": "D",
+              "analysis": "根据题干关键词more likely to succeed in persuading your coworkers可以将答案定位到第四段第三句。 第四段第三句指出，当你的同事和你一起取得成功时，他们更有可能同意你的观点。由此可知，当同事们 确信跟你一起会取得成就时，你更有可能说服他们，故选项D正确。选项A错在原文没有提到牺牲自己的 利益；选项B用原文词汇混淆视听，表达的意思与原文不符；原文没有提到同事们意识到你与他们保持着 有意义的关系，故排除选项C。"
+            },
+            {
+              "num": 55,
+              "stem": "Why are organizations and leaders advised to adopt powerful persuasion skills to bring about necessary changes?",
+              "stemCn": "为什么建议组织和领导者采用强有力的说服技巧，以促成必要的变革？",
+              "options": {
+                "A": "To convince employees of the value of collaboration.",
+                "B": "To allow for the preferences of most people of today",
+                "C": "To improve on traditional organizational structures",
+                "D": "To adapt to employees’ ever-changing working styles."
+              },
+              "optionCn": {
+                "A": "让员工相信协作的价值。",
+                "C": "改进传统的组织结构。",
+                "B": "考虑到当今大多数人的偏好。",
+                "D": "适应员工不断变化的工作方式。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干关键词adopt powerful persuasion skillsto bring aboutnecessary changes可以将答案定位到最后一段 后两句。 最后一段后两句指出，与传统的组织结构相比，绝大多数人更喜欢协作和团队合作；没有人喜欢被人告之 应该做什么或被人摆布。因此，组织和领导者应该采用强有力的说服技巧，以促成必要的变革，也就是 说，考虑到大多数人更喜欢协作，不喜欢被摆布，所以组织和领导者需要用强有力的说服技巧以促成必要 的变革，故选项B正确。其他三个选项都与原文不符，可以排除。 ·难词译注· PartIV > Translation 社会安定social stability 向往yearning for 表示mean； signify；indicate 倒过来upside down 幸福和好运happiness and goodluck 国家昌盛national prosperity 寓意mean;carry the meaning of;symbolize ·参考译文· 由来已久的long-standing；age-old；time-honored The Chinese characterfu\",signifying happiness and good luck,is one of the most commonly used auspicious symbols in traditionalChinese culture.People usually write a big character of fu on red paper,whichmeans that they look forward to family happiness,social stabilityand national prosperity.Posting the characteroffu duringthe Spring Festival is a long-standing folk custom.In order to celebrate the Spring Festival,every family will putthe character offu on the doors or walls to express the yearning for a happy life and the expectation for a better future.People sometimes put the character of fu upside down,indicating that happiness and good luck have arrived. ·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "汉语中的 “福”字(the character fu) 表示 幸福 和好运 ,是中国传统文化中最常用的吉祥 (auspicious) 符号之一 。人们通常将 一个大大的福字写在红纸上 ,寓意期盼家庭社会安定、 国家昌盛。 春节贴福字是民间由来已久的习俗。 为了欢庆春节 , 家家户户都会将福字贴在门上或墙上 ,表达对幸福生活的向往、对美好未来的期待。人们有时还将福字倒过来贴 ,表 示幸福 已到、好运已到。 ===== PAGE 6 =====",
+          "terms": [],
+          "reference": "由来已久的long-standing；age-old；time-honored The Chinese characterfu\",signifying happiness and good luck, is one of the most commonly used auspicious symbols in traditional chinese culture. People usually write a big character of fu on red paper, which means that they look forward to family happiness, social stability and national prosperity. Posting the characteroffu during the Spring Festival is a long-standing folk custom. In order to celebrate the Spring Festival, every family will putt he character offu on the doors or walls to express the yearning for a happy life and the expectation for a better future. People sometimes put the character of fu upside down, indicating that happiness and good luck have arrived.",
+          "notes": "1.第一句：本句由两个小句构成，第一个小句中的“表示幸福和好运”根据英文表达习惯翻译成非谓语动词 或非限制性定语从句，即signifying happiness andgoodluck或whichmeans happinessandgood luck；第二个小 句中的“最常用的………之一”翻译成one of the most commonly used...。 2.第二句：“寓意期盼家庭幸福、社会安定、国家昌盛”表示伴随情况，起补充说明的作用，可翻译成现 在分词短语或非限制性定语从句，即symbolizing thattheylookforwardtofamily happiness，socialstability and national prosperity或which means that theylookforward to family happiness,socialstability and national prosperity。 3.第三句：“春节贴福字是民间……的习俗”翻译成posting the characteroffu during theSpring Festival is.…folk custom。 4.第四句：“表达对幸福生活的向往、对美好未来的期待”表示目的，翻译成不定式短语，即toexpressthe yearning for a happy life and the expectation for a better future。 5.第五句：“将福字倒过来贴”翻译成put thecharacteroffuupsidedown；“表示幸福已到、好运已到”表示伴 随情况，可翻译成现在分词短语，即indicating thathappiness and goodluck have arrived。 2024年6月大学英语四级考试 第三套 答案速查 PartⅢ>Reading Comprehension 26.D 27.M 36.G 37.C 46.C 47.A 48四级2024.6第三套 28.G 29.N 30.0 31.A 32.K 33.I 34.L 35.E 38.I 39.A 40.E 41.B 42.J 43.F 44.D 45.H 48.D 49.B 50.D 51.A 52.C 53.A 54.D 55.B",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

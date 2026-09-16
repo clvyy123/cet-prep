@@ -1,0 +1,547 @@
+{
+  "id": "cet4-2023_12_2",
+  "level": 4,
+  "year": 2023,
+  "month": 12,
+  "setNo": "第2套",
+  "title": "2023年12月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on the recent development in their hometown. You are now to write an essay for submission. You will have 30 minutes to write the essay.You should write at least12o words but no more than18o words. (25 minutes)",
+          "review": "第二套 作文假设校报正在为其新一期以家乡近来发展为主题的内容向学生们征稿。考生需要写一篇字数符合要 求的短文进行投稿，内容须紧扣征稿主题，描绘出家乡的近来变化。写作过程中还要注意引用的例子要生动， 使用的句式丰富，让文章内容立体、饱满。",
+          "sample": "In the heart of china lies my beloved hometown, Beijing.1Over the years, I have witnessed its incredible transformation.2 For one thing,3 the environmental governance in Beijing has been tremendously successful, bringing a bluer sky. This improvement in air quality is not just a blessing for theresidents but also a testament to the city's commitment to environmental sustain ability. For another 3 the strides in infrastructure development are nothing short of spectacular. The Daxing International airport is hailedas one oft he New Seven Wonders oft he world and its construction epitomizes Beijing's infrastructural achievements. Additionally 3 the implementationofdedicatedBusRapid Transit (BRT) lanes have further streamlined transportation, making commutingmore efficientandenvironmentallyfriendly. Most notably, Beijing has become the first city in the world to have hosted both the Summer and WinterOlympics, showcasing its charm as an international metropolis. In conclusion, the recent developments in Beijing are a reflection of its relent less pursuit of progress.4 These advancements not only enhance the quality of life foritsresidents but also positionBeijing as a city oft he future.5",
+          "sampleNote": "1点出北京是自己深爱的 家乡。 2点出主题：北京发生了 巨大转变。 3分点叙述，从环境治 理、基础设施建设和文 化领域反映北京近年来 的几个重大变化。 4 文末总结，指出北京近 期的变化体现了其对进 步的不懈追求。 进一步升华，指出这座 城市的进步不仅提高了居 民的生活质量，还将其自 身定位为一座未来之城。",
+          "sampleCn": "我深爱的家乡北京位于中国的心脏地带。这些年来，我见证了它不可思议的转变。 一方面，北京在环境治理方面取得了巨大的成功，带来了更加湛蓝的天空。空气质量的改善不仅使居民 受益，也证明了北京对环境可持续发展的承诺。另一方面，基础设施建设的进展令人瞩目。大兴国际机场被誉 为世界新七大奇迹之一，其建成代表了北京在基础设施方面的成就。此外，专用的快速公交（BRT）车道的实 施进一步简化了交通，使通勤更加高效和环保。最值得注意的是，北京已成为世界上首个既举办过夏季奥运会 又举办过冬季奥运会的城市，展示了其作为国际大都市的魅力。 总之，北京的最新发展反映了其对进步的不懈追求。这些进步不仅提高了其居民的生活品质，还将北京 定位为一座未来之城。",
+          "vocab": [
+            "spectacular壮观的；令人惊叹的",
+            "BusRapidTransit（BRT）快速公交",
+            "transformation转变",
+            "notably明显地；特别是；尤其",
+            "blessing好事；有益之事",
+            "be hailed as被誉为",
+            "relentless坚持不懈的",
+            "testament证明",
+            "wonder奇迹",
+            "stride发展；进步",
+            "epitomize成为……的典范",
+            "老师说",
+            "本套讲解视频中，老师为你讲述文章结构优化升级的高分写作技巧，讲解揣测对话者言外之意、真实意图的技巧，揭",
+            "示长篇阅读理解中转述与归纳概括的命题特点，介绍翻译题转译、增译等技巧，快来扫描二维码观看，先睹为快吧！"
+          ],
+          "patterns": [
+            "1.This improvement in...is not just a blessing for...butalso...",
+            "句型意为“……方面的改善不仅使……受益而且……”，其中not just..butalso...表示“不仅……而",
+            "且…”，连接了两个并列的成分。这种并列结构使句式更加丰富且在内容上具有说服力。",
+            "2.For one thing..Foranother...",
+            "句型意为“一方面……另一方面……”，使用这种结构来列举不同方面的变化，可以使文章结构清晰，是",
+            "分层次分析的常用句型。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_2-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 3 and4 are based on the news report you have just heard.",
+          "material": "Mobile phones have changed the way we live, how we read, work, communicate, and shop. But we already know this.[3] What we have not yet understood is the way the tinymachines in front of us are changing our skeletons, possibly altering not just the way we behave but even the very shape of our bodies. New scientific research at the University oft he Sunshine Coast inQueensland, Australia, suggests that young people are developing extra pieces of bone at thebacks of theirheads. These piecesofbone are causedbythe way people bend their heads when they use the phone. This shifts weight onto the muscles at the back oft he head and causes the bone to grow in away that is not normal.[4] This process can becompared to the way the skin hardens in response to constant rubbingor pressure. The result is apiece of bone like a horn that sticksout from the head by the neck.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What does the report say we have not yet understood about mobile phones?",
+              "stemCn": "",
+              "options": {
+                "A": "How they change the way we shop.",
+                "B": "How they alter human skeletons."
+              },
+              "optionCn": {
+                "A": "它们如何改变我们的购物方式。",
+                "C": "它们如何导致头痛加剧。",
+                "B": "它们如何改变人类的骨骼。",
+                "D": "它们如何影响我们的交流。"
+              },
+              "answer": "B",
+              "analysis": "报道称，我们还不了解关于手机的什么事情？ 新闻开头提到，手机改变了人类的很多方面，但是我们尚不了解的是，眼前的这些小机器是如何改变我们 的骨骼的，故B项为正确答案。新闻中提到，手机改变了我们阅读、工作、交流和购物的方式，这些都是 我们已知的，故A、D两项错误。C项在新闻中未提及，可排除。"
+            },
+            {
+              "num": 4,
+              "stem": "What happenstotheskinwhenrubbedorpressedconstantly？",
+              "stemCn": "皮肤在经过持续摩擦或压力下会发生什么？",
+              "options": {
+                "A": "It loosens.",
+                "B": "Itbrightens.",
+                "C": "How they cause increased headaches.",
+                "D": "How they affect our communication."
+              },
+              "optionCn": {
+                "A": "它会变松。",
+                "C": "它会变硬。",
+                "B": "它会变明亮。",
+                "D": "它会变软。"
+              },
+              "answer": "C",
+              "analysis": "新闻末尾提到，人们长期使用手机时低头的方式会导致后脑勺长出额外的骨头块儿，这一过程可以比作皮 肤在持续摩擦或压力下变硬的过程。由此可知，皮肤在持续摩擦或压力下会变硬，故C项为正确答案。其 余三项新闻中均未提及，可排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_2-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 5 to 7 are based onthe news report you have just heard.",
+          "material": "[5] A village is going to throw a birthday party for an orange cat named Wilbur, who has become famous for making a regular appearance at local shops. Wilbur has his own internet pages as heapproaches his 1Othbirthdayon July,7.Wilbur is both bold and friendly. [6] He spends most of his time in shops and businesses around the village. He'll just take himself into any shop anywhere. There was one time when the doctor's receptionist came back and he was sitting on her chair. Among his favorite haunts are a local hairdresser, two pubs, and the Nottingham Primary School. Lesley harper, whorunsoneofthepubs, saidthecathas beenabighitwiththeircustomers. He'sbeenaregularvisitor for most oft his year”she toldthePress Association.\"He'saveryrelaxedcat, happy for customer sand villagersyoungand old to come in and say hello.\"[7] She also saidheisacatofexpensivetasteswho likeshis high pricedcatfood. Sarah Godfrey, who is organizing Wilburs party, toldthe local newspaper,\"Wilbur is part of our lives, as he is for everyone who lives in the village.\"",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What does there port say the village is going to do fort he cat Wilbur?",
+              "stemCn": "",
+              "options": {
+                "A": "Create Internet pages for him.",
+                "B": "Ask a local pet shop to adopt him."
+              },
+              "optionCn": {
+                "A": "为他创建网页。",
+                "C": "用他的名字命名一棵橘子树。",
+                "B": "请当地一家宠物店收养他。",
+                "D": "为他举办生日派对。"
+              },
+              "answer": "D",
+              "analysis": "报道中说，村里要为名叫威尔伯的猫做什么？ 新闻开头提到，一个村庄要为一只名叫威尔伯的橘猫举办生日派对，故D项为正确答案。新闻中只提到这 只猫有了自己的网页，但并未说这是整个村庄为他做的，故排除A项；其余两项在新闻中均未提及，可 排除。"
+            },
+            {
+              "num": 6,
+              "stem": "What do welearnfromthereportaboutthecat?",
+              "stemCn": "关于这只猫，我们从报道中可以了解什么？",
+              "options": {
+                "A": "He is a bold and aggressive pet.",
+                "B": "He pays regular visits to village shops."
+              },
+              "optionCn": {
+                "A": "他是一只大胆而好斗的宠物。",
+                "C": "他曾经咬过一位医生的接待员。",
+                "D": "他喜欢坐在理发师的椅子上。 .",
+                "B": "他经常光顾村里的商店。"
+              },
+              "answer": "B",
+              "analysis": "新闻中提到，这只猫大部分时间都待在村周边的商店和企业里。他自己会去任何一个商店，任何地方，故 B项为正确答案。新闻中提到，这只猫既大胆又友好，而非好斗，A项错误；新闻中提到，有一次医生的 接待员回来时发现这只猫坐在了她的椅子上，而并未提及这只猫是否咬过该接待员，也未提及他是否喜欢 坐在理发师的椅子上，故排除C、D两项。"
+            },
+            {
+              "num": 7,
+              "stem": "What does the pub owner，Lesley Harper，say about the cat?",
+              "stemCn": "关于这只猫，酒吧老板莱斯利·哈珀说了什么?",
+              "options": {
+                "A": "He is fond of luxury cat food.",
+                "B": "He likes to stay in villagers'houses. Section B",
+                "C": "Name an orange tree after him.",
+                "D": "Hold a birthday party for him."
+              },
+              "optionCn": {
+                "A": "他喜欢吃奢侈的猫粮。",
+                "C": "他认识村里的每一个人。",
+                "B": "他喜欢住在村民家里。",
+                "D": "他经常在她的酒吧附近觅食。"
+              },
+              "answer": "A",
+              "analysis": "+新闻结尾部分提到，一家酒吧的老板莱斯利·哈珀说这只猫口味奢侈，喜欢高价猫粮，故A项为正确答 案。新闻并未提及他喜欢住在村民家中，也未提及他认识村子里的每个人，没有提到他经常在莱斯利·哈 珀的酒店周围觅食，可排除其他选项。 SectionB"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2023_12_2-A.mp3",
+        "B": "/audio/papers/cet4-2023_12_2-B.mp3",
+        "C": "/audio/papers/cet4-2023_12_2-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "D) It causes the bubble around us to vanish.\nA) Attitudes towards paternity leave（陪产假) have drasticallychanged in America in thelastfiveyears as more\nB) Research by the BostonCollegeCenterforWork & Family, whichsurveyed new parents at four large us\nC) Oft hose surveyed,62%off at hers to ok the maximum amount of time off compared to 93%ofmothers, and\nD) The us isoneofonlythreecountries in the world nottoofferstatutory（法定的) paidleave, but increasingly\nE) BradHarrington, executive director of thecenterandleadauthorof the study, estimatesonly 20%to 30%\nF) \"WedidastudonptrnileavefiveyearaoComparewittosefiningthesenumrsw\nG) The previous study found that nearly three-quartersoffathers saw two to four weeksas an appropriate\nH) Since then, there have been a number of legal casesagainst companies involving paternity leaveincluding\nJ) The vastmajorityofmen 97%,saidoneofthetopreasons to take leave was to sharecaregiving with their\nK) Menand women's experience soft here turn to work following parental leave were also considerably\nL) On the subject of career advancement,59% ofwomen and 49%ofmensaidleave couldbelimiting and\nM) Harrington said culture change dependsoncompanies putting morefocusonmenandtheirresponsibilities.\nN) In May, theAmericanCivilLiberties Union（ACLU) and out ten &GoldenLLPannounced a historic class-\nO) The father of two fromColumbus, Ohio, who still works at the company as an associate and investigator, said\nA) Byenabling them to out compete other entrepreneurs.\nB) By enabling them to make their venture a success.\nC) Byhelping them to reach long-term goals.\nA) They may adopt strategies that are bound to ruin their venture.\nB) They may resort to unethical means to outperform theirrivals.\nC) They may be too eager to succeed while ignoring the huge labor cost.\nD) They may be intently focused on winning at the current market level.\nA) Deliberate on what really matters. C) Estimate the long-term consequences.\nB) Prioritize reaping immediate benefits. D) Reflect on what successes are achievable.\nA) By engaging themselves in critical reasoning.\nB) By developing a habit ofkeeping their integrity.\nC) By criticizing themselves for previous poor performances.\nD) Byrefraining from being too excited about their successes.\nA) Bypaying close attention to their current performance.\nB) By taking steps that stand to endanger theirrivals'success.\nC) By monitoring how their decision-making impacts theirmentality.\nD) Bykeeping their emotions in check to avoidmaking poordecisions.\nA) An operating system capable ofdoing several tasks at once.\nB) A skilled worker executing more than one task at the same time.\nC) A sophisticated technologydoing several tasks effectively at once.\nD) An efficient person able to perform multiple tasks at the same time.\nA) They are not sufficiently exposed to multitasking situations.\nB) They are not comparable to mechanical operating systems.\nC) Theirbrains do not allow them to multitask.\nA) People makegreater achievements by maintaining whatever they are doing is multitasking.\nB) People's performance benefits from the perception of what they are doing as multitasking.\nC) People's active mental processes exert a positive effect on theirmultitasking.\nD) People canimprovetheircapabilities by handlingmultitasking situations.\nA) It is a rare skill often found in fluidorganisations.\nB) It is an adaptable capability requiredofallworkers.\nC) It is an essential quality many employees lack.\nD) It is a desirable ability that can be developed.\nA) Work in a flexible way. C) Avoid multitasking.\nB) Learn from mistakes. D) Increase efficiency.",
+          "analysisOverview": "",
+          "translationCn": "越来越多的父亲休陪产假，但母亲仍然承担着所有的工作 A）一项针对在职父母的新研究显示，在美国的过去五年以来，人们对陪产假的态度发生了极大的变化，因为 越来越多的父亲对延长陪产假感到很自在，但是在涉及职业前景和家庭问题上，性别偏见依然存在。 B）[39]波士顿学院工作与家庭中心对美国四家大型公司中有资格休至少六周带薪育儿假的新手父母进行了 调查，结果发现，在接受调查的1，240名员工中，有81%的人表示，父亲休陪产假的观念已经变得更容易接 受了。 [42]在接受调查的人当中，62%的父亲休满了陪产假，而母亲的这一比例为93%，而且大约四分之三的员 C) 工表示，他们的雇主对母亲和父亲休育儿假持同样的支持态度，超过一半的人表示，休育儿假的政策使得 职场文化得到了改善。 D)[36]美国是世界上仅有的三个不提供法定带薪休假的国家之一，但越来越多的州和公司正在开始关注这一 问题。到目前为止，八个州和哥伦比亚特区都有自己的带薪家庭休假法。 E）[44]该中心的执行主任、该研究的主要作者布拉德·哈林顿估计，在美国只有20%到30%的公司提供带薪 育儿假。他认为研究结果反映出企业对新手爸爸休假的态度发生了显著的变化。 F)[40]“我们五年前做了一项关于陪产假的研究。与那些研究结果相比，这些数字令我感到震惊。我没想 到80%的人会说公司认为父亲休陪产假是可以接受的，四分之三的人认为公司对男女休假持同样的支持态 度。”哈林顿说道。 先前的研究发现，近四分之三的父亲认为两周到四周的陪产假是合适的，76%的父亲表示他们更倾向于不 G） 要一次性休完所有的假。 H)[45]从那以后，出现了多起针对涉及陪产假的公司的法律案件——包括针对摩根大通和雅诗兰黛的案 件——这有助于对公司施加压力，要求它们制定性别中立的陪产假政策。 I)[41]然而，这项研究也显示了传统的性别角色在工作和家庭中是如何持续存在的，在工作中，相比男性， 更多的女性报告称她们感知到的职业潜力发生了变化，这一点甚至在那些声称强烈渴望平等的员工中也是 如此。 绝大多数男性（97%）表示，休假的主要原因之一是与伴侣分担照顾孩子。但当他们被问及如何分配照顾 J) 孩子和家务时，他们的回答却描绘了一幅不同的画面。[37]尽管75%的员工表示，男性和女性都应该给予 （孩子）同样的看护，但大多数男性和近一半的女性承认，在现实生活中，女性实际上做了大部分的看护 工作。一小部分（2%）的男性表示，他们承担了更多的育儿工作。 K) 男性和女性在育儿假后重返工作岗位的经历也有很大不同。在接受调查的女性中，32%的人报告称她们的 工作满意度下降了，14%的人表示上升了。相比之下，17%的男性说他们的工作满意度下降了，20%的人 表示上升了。与此同时，更多的女性表示，生育之后，她们的职责以及上司对她们的期望增加了。一半的 女性表示她们在成为母亲之后采用了灵活的工作安排，而只有27%的男性这样做。相似比例的男性和女性 表示，他们喜欢自己的职业，并认为工作给他们带来成就感，而大约一半的女性和44%的男性表示，工作 是他们身份的关键部分。 30四级2023.12第二套 L）在职业发展这个问题上，59%的女性和49%的男性表示休假可能会限制（他们的发展），而且男性和女性 都表示他们担心这会对他们的长期发展产生影响。但是在晋升机会这方面，超过30%的女性（比例是男 性的两倍多）和15%的男性认为，成为父母后他们晋升的机会减少了。[43]尽管取得了进步，但在今年的 《财富》500强榜单上，女性争取获得最高权力职位的努力才得以彰显，该榜单创下了33位女性首席执行 官的纪录，但这仍然只占名单总人数的一小部分。 M)哈林顿表示，企业文化的改变取决于企业更加关注男性及其职责。“我这样说的意思是，公司需要给男性 陪产假并鼓励男性在孩子成长的早期抽出时间陪伴孩子。公司还需要认识到，男性在成为父亲之后必须做 出重大调整。公司不可能做所有这些事情来促进女性的发展，然后转身说：哦，但我们不希望男性在家 里取代女性。’” N）在五月份，美国公民自由联盟和欧登律师事务所宣布与摩根大通达成了一项具有历史意义的集体诉讼，代 表那些声称自己被非法剥夺了带薪陪产假的男性雇员，双方达成了500万美元的和解。35岁的德里克·罗 通多对其所在的公司提出了歧视指控，据称此前人力资源部告诉他，母亲被认为是（孩子的）主要看护 人。因此，允许母亲休16周的带薪育儿假。然而，父亲可能只能休两周。 0）德里克·罗通多来自俄亥俄州哥伦布市，是两个孩子的父亲，目前仍在该公司担任助理和调查员，他 说，自从和解以来，他目睹了公司间的“多米诺效应”，但在改变对陪产假的态度方面仍需取得实质性的 进展。 P) “我确实认为还有一段路要走…对于新手爸爸们来说，多少仍然会有未明说的期望，那就是他们能马上回 来工作，但我认为该研究表明，这种情况正在开始改变。”[38]他说，平等的育儿假是创造职场性别平等的 必要组成部分。“女性待在家里、生孩子和做饭的旧标准不适用了，而且已经很长时间都不适用了。”",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "In the absence of federal legislation, some states in the us have passedlaws concerning paidfamilyleave.",
+              "stemCn": "题干译文 在没有联邦立法的情况下，美国的一些州已经通过了有关带薪家庭休假的法律。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案D。由题干关键信息the absence ofFederal legislation、some states in theUS和laws concerningpaid familyleave定位到D段。该段提到，美国是世界上仅有的三个不提供法定带薪休假的国家之一，但越来越 多的州和公司正在开始关注这一问题，到目前为止，八个州和哥伦比亚特区都有自己的带薪家庭休假法。即 在没有联邦立法的情况下，美国的一些州已经通过了有关带薪家庭休假的法律。由此可见，题干是对该段的 同义转述，其中Intheabsence ofFederallegislation对应原文中的TheUSisoneofonly threecountries in the world not to offer statutorypaid leave，some states in theUS对应原文中的eightstates and the DistrictofColumbia，而have passed laws concerning paid family leave对应原文中的have their own paid family leave laws。"
+            },
+            {
+              "num": 37,
+              "stem": "Most fat hers admit ted that even during their paternity leave they actually did much less child care than the",
+              "stemCn": "题干译文大多数父亲承认，即使在陪产假期间，他们实际上照顾孩子的时间也比母亲少得多。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息Most fathers、during their paternity leave和didmuchlesschildcare than themother 定位到J段。该段倒数第二句提到，尽管75%的员工表示，男性和女性都应该给予（孩子）同样的看护， 但大多数男性和近一半的女性承认，在现实生活中，女性实际上做了大部分的看护工作。由此可知，题干 是对该句内容的同义转述。其中Mostfathers对应原文中的themajorityofmen，而admittedthatevenduring theirpaternityleave theyactually didmuchless childcare than themother对应原文中的admitted that in realitythe femaleactually didmostofit。"
+            },
+            {
+              "num": 38,
+              "stem": "According to one father, equal parental leave is indispensable to achieving gender equality in the workplace.",
+              "stemCn": "题干译文根据一位父亲的说法，平等的育儿假对于实现职场中的性别平等是必不可少的。",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": "答案P。由题干关键信息onefather、parental leave、an essential component和achieving genderequalityin theworkplace定位到P段。该段进一步论述了D段中那位父亲的观点，第二句提到：他说，平等的育儿假是 创造职场性别平等的必要组成部分。由此可知，题干是对该句内容的同义转述。题干中的onefather对应 原文中的He（即前文中提到的DerekRotondo），而equal parentalleave is indispensabletoachievinggender equality inthe workplace对应原文中的equal parentalleave isan essentialcomponenttocreatinggenderequality in the workplace。"
+            },
+            {
+              "num": 39,
+              "stem": "One survey indicated there is now less objection to paternity leave.",
+              "stemCn": "题干译文一项调查显示，现在反对陪产假的人变少了。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息One survey和less objection to paternity leave定位到B段。该段提到，波士顿学 院工作与家庭中心对美国四家大公司中有资格休至少六周带薪育儿假的新手父母进行了调查，结果发现， 在接受调查的1，240名员工中，有81%的人表示，父亲休陪产假的观念已经变得更容易接受了。换言之，现 在反对陪产假的人变少了。由此可见，题干是对该句的同义转述，其中Onesurvey indicated对应原文中的 Research.found，而there is nowless objection to paternityleave对应原文中的the notion of fathers taking leave has becomemore acceptable。"
+            },
+            {
+              "num": 40,
+              "stem": "Compared to five years ago, according to one researcher, many more people saidtheir organisation gave the",
+              "stemCn": "题干译文 一位研究人员表示，和五年前相比，更多的人称他们公司对休育儿假的男性和女性给予了同样的",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "支持。 答案F。由题干关键信息five years ago、one researcher和theirorganisation gave the same support tomen andwomentakingparentalleave定位到F段。该段引用哈林顿的话：“我们五年前做了一项关于陪产假的研 究。与那些研究结果相比，这些数字令我感到震惊。我没想到80%的人会说公司认为父亲休陪产假是可以 接受的，四分之三的人认为公司对男女休假持同样的支持态度。”由此可知，题干是对原文内容的概括总 结。题干中的Comparedto对应原文中的Compared with，five years ago属于原词重现，oneresearcher对应原 文中的Harrington,many more people对应原文中的80%ofpeople，而theirorganisation gave the same supportto men and women taking parentalleave是对原文theorganisationfinds dadstakingthisleave acceptable andthree- quarters to say it’s equally supportive of womenandmen taking leave的概括总结。"
+            },
+            {
+              "num": 41,
+              "stem": "Onestudyfinds that even workers who claim to desiregenderequalitystick to traditional genderrolesbothat",
+              "stemCn": "题干译文一项研究发现，即使是那些声称渴望性别平等的员工，也还是坚持传统的性别角色，不管是在工",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "作中还是家庭中。 答案I。由题干关键信息Onestudy、workers whoclaim to desire gender equality和traditional genderroles bothatworkandathome定位到I段。该段承接上文提到，然而，这项研究也显示了传统的性别角色在工作 和家庭中是如何持续存在的，这一点甚至在那些声称强烈渴望平等的员工中也是如此。由此可知，题干是 对原文内容的同义转述。题干中的One studyfinds对应原文中的thestudyalso shows，workers whoclaimto desire genderequality对应原文中的workers who claim to have astrong desire for equality，stickto对应原文中 的endure，而traditionalgenderrolesboth atworkandathome属于原词重现。"
+            },
+            {
+              "num": 42,
+              "stem": "The majority of workers surveyed said parental leave policies had improved workplace culture.",
+              "stemCn": "题干译文大多数接受调查的员工表示，育儿假政策改善了职场文化。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息Themajorityofworkers、parental leavepolicies和workplaceculture定位到C段。 该段提到，在接受调查的人当中……超过一半的人表示，休育儿假的政策使得职场文化得到了改善。由 此可知，题干是对该段内容的同义转述。其中Themajorityofworkers surveyed said对应原文中的ofthose surveyed.overhalf said，而parental leave policies had improved workplace culture对应原文中的leavepolicies hadmade workplace culture better。"
+            },
+            {
+              "num": 43,
+              "stem": "In spite of progress, the numberofwomen in top positions of big companies remains extremely small.",
+              "stemCn": "题干译文尽管取得了进步，但是在大公司担任高层职位的女性数量仍然非常少。",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "答案L。由题干关键信息Inspite of progress、women in top positions ofbig companies和remains extremely smal定位到L段。该段最后一句提到，尽管取得了进步，但在今年的《财富》500强榜单上，女性争取获 得最高权力职位的努力才得以彰显，该榜单创下了33位女性首席执行官的纪录，但这仍然只占名单总人数 的一小部分。由此可知，题干是对原文内容的概括总结。题干中的Inspiteofprogress对应原文中的Despite progress，women对应原文中的female，toppositions ofbig companies对应原文中的the highest positionsof power，而remains extremely small对应原文中的still represents a tiny fractionofthe total。"
+            },
+            {
+              "num": 44,
+              "stem": "According to one estimate, less than one third of companies in the us provide paid parental leave.",
+              "stemCn": "题干译文据估计，美国只有不到三分之一的公司提供带薪育儿假。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息one estimate、less than one thirdofcompanies in theUS和paid parental leave定位 到E段。该段首句提到，该中心的执行主任、该研究的主要作者布拉德·哈林顿估计，在美国只有20%到 30%的公司提供带薪育儿假。换言之，美国只有不到三分之一的公司提供带薪育儿假。由此可知，题干是 对原文内容的同义转述。其中estimate对应原文中的estimates，而less thanonethirdofcompanies intheUS providepaid parental leave对应原文中的only 20%to30%ofcompanies in theUSoffer paid parental leave。"
+            },
+            {
+              "num": 45,
+              "stem": "A number oflawsuits have pressured companies to formulate gender neutral policies on parental leave.",
+              "stemCn": "题干译文一些诉讼已经迫使公司制定性别中立的育儿假政策。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息Anumberof lawsuits、pressured companies、gender neutral policies和parental leave定位到H段。该段提到，从那以后，出现了多起针对涉及陪产假的公司的法律案件——包括针对摩 根大通和雅诗兰黛的案件——这有助于对公司施加压力，要求它们制定性别中立的陪产假政策。由此可 知，题干是对原文内容的同义转述，其中Anumberoflawsuits对应原文中的anumberoflegalcases，而have pressuredcompanies to formulategender neutral policies on parental leave对应原文中的have helped putpressure on companies to make their parental leave policies gender neutral。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Having a rival can keep you commit ted to achieving your goals and enhance your overall performance. But before you go out and find an entrepreneur to out compete, its important to understand and avoid the traps that often come with rivalry. After all, competitive rivalry canal so hinder effective decision-making and increase your willingness to take risks, behaviors that can ultimately hurt your venture's success. Finding someone you're commit ted to outcompeting can be a great way to stay focused on your goal sand push your venture to the next level. But when you're intentlyfocused onoutperforming yourrivals, you may begin to develop a\"win-at-all-costsmentality that causes you to ignore how you achieve success. One group ofresearchers, for example, examinedthe link between rivalry and unethical behavior. They found that when people compete againsttheirrivals, they are more willing to behave un ethically to win. But such behavior may stain your reputation and strainrelationships important toy our success. One way to avoid this trap is to stop and reflect on what's important. While outperforming yourrivals may provide short-term benefits, the loss of your integrity will have long-termconsequences. One reason having a rival can enhance your venture’s performance is that it creates a level of excitement that drives you to work harder. But this eagerness to win may also hurt your venture's success, particularly when it causesyoutomakeimpulsive, insensibledecisions. But it’s possibletoavoidsuchcostlymistakesbymaking 15 ·2023年12月四级真题（第二套） ===== PAGE 7 ===== a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture. The sense of eagerness that comes with having a rival can not only cause you to make poorer decisions, but it can also lead you to take greaterrisks that put your venture in peril. One way you can overcome the risk- inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "How can competitive rivalry benefit entrepreneurs according to the passage?",
+              "stemCn": "根据这篇文章，竞争性的较量如何使企业家受益?",
+              "options": {
+                "A": "Byenabling them to out compete other entrepreneurs.",
+                "B": "By enabling them to make their venture a success.",
+                "C": "Byhelping them to reach long-term goals.",
+                "D": "By helping them to stay goal-oriented."
+              },
+              "optionCn": {
+                "A": "通过让他们能够超越其他企业家。",
+                "B": "通过让他们的企业取得成功。",
+                "C": "通过帮助他们实现长期目标。",
+                "D": "通过帮助他们保持以目标为导向。"
+              },
+              "answer": "D",
+              "analysis": "根据题干关键词competitive rivalry benefit entrepreneurs可以将答案定位到第一段第一句。 定位 第一段第一句指出，拥有一个竞争对手可以让你致力于实现自己的目标并提升你的整体表现。由此可知， 通过帮助企业家保持以目标为导向并提升表现，竞争性的较量可以让企业家受益，故本题选D。其他三项 的内容都与原文不符，均排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What is oneofthetraps entrepreneurs may often fall into whencompeting withrivals?",
+              "stemCn": "企业家在与竞争对手竞争时可能经常掉进什么陷阱当中？",
+              "options": {
+                "A": "They may adopt strategies that are bound to ruin their venture.",
+                "B": "They may resort to unethical means to outperform theirrivals.",
+                "C": "They may be too eager to succeed while ignoring the huge labor cost.",
+                "D": "They may be intently focused on winning at the current market level."
+              },
+              "optionCn": {
+                "A": "他们可能会采取必然会毁掉他们企业的策略。",
+                "B": "他们可能会诉诸不道德的手段来超越他们的竞争对手。",
+                "C": "他们可能过于渴望成功，而忽略了巨大的人力成本。",
+                "D": "他们可能非常专注于在当前的市场水平获胜。"
+              },
+              "answer": "B",
+              "analysis": "根据题干关键词traps entrepreneursmayoftenfall into可以将答案定位到第二段。第六句说到避免掉进这个 定位 陷阱的方法，而题目问的是陷阱是什么，需要从上文去寻找。 第二段第四句指出，当与竞争对手竞争时，人们更愿意为了赢得胜利而做出不道德的行为。第五句指出这 种做法的弊端，然后第六句给出了避免掉进这个陷阱的方法。由此可知，陷阱就是第四句提到的，人们为 了超越竞争对手而做出一些不道德的行为，故本题选B。选项A过于绝对，原文只是说他们可能会做出不 道德的行为，玷污企业的声誉，并没有说这必然会毁掉整个企业，故排除。选项C和D的内容原文均没有 提及，可以排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What are entrepreneurs advised to do to avoid traps that often accompany rivalry?",
+              "stemCn": "作者建议企业家做什么来避免那些往往伴随竞争而来的陷阱？",
+              "options": {
+                "A": "Deliberate on what really matters.",
+                "B": "Prioritize reaping immediate benefits.",
+                "C": "Estimate the long-term consequences.",
+                "D": "Reflect on what successes are achievable."
+              },
+              "optionCn": {
+                "A": "慎重考虑什么才是真正重要的事。",
+                "B": "优先获取眼前的利益。",
+                "C": "估计长期的后果。",
+                "D": "反思哪些成功是可以实现的。"
+              },
+              "answer": "A",
+              "analysis": "根据题干关键词avoid traps以及上一题的定位分析可以将答案定位到第二段倒数第二句。 定位 第二段倒数第二句指出，避免掉进这个陷阱的一个方法是停下来，反思一下什么才是重要的。由此可知， 作者建议企业家慎重考虑什么才是真正重要的，故本题选A。选项中的deliberate意为“慎重考虑，仔细思 考”，与原文中的reflecton属于同义替换。其余三个选项虽然使用了原文词汇，但是表达的意思与原文均 不一致，可以排除。"
+            },
+            {
+              "num": 49,
+              "stem": "How can entrepreneurs avoid making impulsive and insensible decisions?",
+              "stemCn": "企业家如何才能避免做出冲动和不明智的决定？",
+              "options": {
+                "A": "By engaging themselves in critical reasoning.",
+                "B": "By developing a habit ofkeeping their integrity.",
+                "C": "By criticizing themselves for previous poor performances.",
+                "D": "Byrefraining from being too excited about their successes."
+              },
+              "optionCn": {
+                "A": "通过进行批判性论证。",
+                "B": "养成保持正直的习惯。",
+                "C": "批评自己以前的糟糕表现。",
+                "D": "不要对自己的成功过于兴奋。"
+              },
+              "answer": "A",
+              "analysis": "根据题干关键词avoidmaking impulsive and insensible decisions可以将答案定位到第三段第二句、第三句。 定位 第三段第二句指出，这种对胜利的渴望也可能有损于你的企业的成功，特别是当它导致你做出了冲动、不 明智的决策时。接着第三句给出了避免这种错误的方法——养成进行批判性思考的习惯，并举例说明。由 此可知，企业家通过进行批判性论证，可以避免做出冲动和不明智的决定，故本题选A。选项中的critical reasoning与原文中的criticalthinking属于同义替换。其余三个选项原文均没有提及，可以排除。"
+            },
+            {
+              "num": 50,
+              "stem": "How can entrepreneurs overcome the risk-inducing effects of rivalry?",
+              "stemCn": "企业家如何克服竞争的风险诱发效应？",
+              "options": {
+                "A": "Bypaying close attention to their current performance.",
+                "B": "By taking steps that stand to endanger theirrivals'success.",
+                "C": "By monitoring how their decision-making impacts theirmentality.",
+                "D": "Bykeeping their emotions in check to avoidmaking poordecisions."
+              },
+              "optionCn": {
+                "A": "通过密切关注他们目前的表现。",
+                "B": "通过采取措施来危及对手的成功。",
+                "C": "通过监控他们的决策是如何影响他们的心态的。",
+                "D": "通过约束自己的情绪，以避免做出错误的决策。"
+              },
+              "answer": "D",
+              "analysis": "根据题干关键词risk-inducing effects ofrivalry可以将答案定位到最后一段最后一句。 定位 最后一段最后一句指出，竞争有风险诱发效应，这会危及企业的成功，能克服这种效应的一种方法是密切 关注你的情绪状态，并积极地监控这样的情绪是如何影响你的决策的。换句话说，想要克服竞争带来的 风险，就要约束自己的情绪，不要让情绪影响你做出错误的决策，故本题选D。选项中的keep.incheck意 为“约束；控制”与原文中的remainattentiveto..andactivelymonitor（密切关注并积极监控）属于同义替 换。选项A错在密切关注的对象不正确，原文说的是密切关注自己的情绪，而不是表现，可以排除。选项 B原文未提及，而且明显属于不道德的行为，比较容易排除。原文是说监控情绪如何影响决策，而不是监 控决策如何影响心态，故也排除选项C。 Passage Two ·概览· 本文节选自网站www.iberdrola.com发表的一篇题为“Whatismultitaskingandwhatareitsmainpros andcons?”的文章。文章指出，对于多重任务处理，人们有不同的看法，大多数科学家认为我们的大 脑无法很好地处理多个任务，但是有些人认为多重任务处理是可能实现的。而且有研究发现，多重任 务处理有积极的作用，从商业角度来看，也是如此。虽然多任务处理有很多好处，但它也可能导致更多 错误。 ·全文翻译· [51]多重任务处理者是指能够同时有效地处理两项或多项任务的 人，除了明显的（人机）区别之外，这与计算机的工作相似。[51]这 个概念确实源自技术领域，它用来指代可以同时执行多项任务的操作系 统。然而，问题是：一个人真的可以成为多重任务处理者吗？ 对大多数科学家来说，答案是否定的。甚至，[52]根据神经系统 科学专家的说法，我们的大脑无法很好地处理多重任务的情况。一旦有 两项任务需要我们的关注，生产力就会受到影响。因此，我们所说的多 重任务处理，实际上是一种或多或少地从一项任务转向另一项任务的能 力。这需要两个基本条件：一，其中的一项任务需要是无意识的，像走 路或吃饭；二，两项任务都需要不同的心理过程。例如，在接听电话的 同时书写。 然而，另一方面，有些人坚持认为多重任务处理是有可能的，至少 看起来是可能的。[53]最近的一项研究得出结论，无论人们是否真的在同 时处理几项任务，只要他们认为这项活动是多重任务处理，就会对他们 的表现起到积极的作用。 [54]从商业角度来看，我们能得到一个不同的视角：多重任务处 理被认为是适应公司的所有环境类型，并在设定的时间范围内有效地开 展不同活动的能力。事实上，许多公司都在寻找擅长多重任务处理的人 来提高其生产力。从这个不同的角度来看，你不仅可以同时处理多项任 务，而且这种能力也可以被教授：多重任务处理在流动性强的组织中更 加容易实现，因为它们鼓励工作实践中的灵活性。 多重任务处理的好处显而易见。更快、更高效可以提升我们的表 现，我们完成的任务数量也会增加。[55]但是，不得不同时关注几件事意 味着注意力会减弱，从而可能会导致更多的错误。 答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Amultitasker is one who can perform two or more tasks effectively at the same time, which—apart from the obvious differences—is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker? For most scientists，the answer is no. So much so that, according to experts in neuroscience（神经系统科学）， ourbrains do nothandlemultitasking situations well. As soon as two tasksrequireourattention, productivity ·2023年12月四级真题（第二套）· 16 ===== PAGE 8 ===== suffers. What we callmultitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essentialconditions: that one of the tasks needs to be automatic, like walkingor eating, and that they both need different mentalprocesses. Answering the phone and writing at the same time, for example. However, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking. Are cent studyconcludedthatregardlessofwhetherpeopleareactuallyhandling several tasks or not, the mere fact that they perceive this activity asmultitasking has a positive effect on their performance. The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, manycompanieslookforpeople who are skilled inmultitasking to improve their productivity. From this different perspective, you cannotonlybemultitasking butt his abilitycanalsobetaught: something that is easier in fluidorganisations, which favour flexibility in their working practices. Thebenefits ofmultitasking are clear. Beingquickerandmore efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that thepowersof concentration are reduced and that can lead to more mistakes.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does a\"multitasker”originally refer to?",
+              "stemCn": "多重任务处理者”最初指的是什么？",
+              "options": {
+                "A": "An operating system capable ofdoing several tasks at once.",
+                "B": "A skilled worker executing more than one task at the same time.",
+                "C": "A sophisticated technologydoing several tasks effectively at once.",
+                "D": "An efficient person able to perform multiple tasks at the same time."
+              },
+              "optionCn": {
+                "C": "一项可以同时有效完成多项任务的复杂技术。",
+                "A": "一个能够同时进行多项任务的操作系统。",
+                "B": "一个同时执行多项任务的技术工人。",
+                "D": "一个能够同时进行多项任务的高效人士。"
+              },
+              "answer": "A",
+              "analysis": "重难点单词及短语 ·multitaskern.多重任务处理者； 善于处理多项任务的人 •effectively adv.有效地 ·apart from除了 realmn.领域；范围 executev.执行；实施 so much so到……的程度；以 至于 ·productivityn.生产力 ·sufferv.受挫；变差；遭受 ·automaticadj.无意识的；自动的 mental adj.心理的 on the other side of the coin另一 方面 maintainv坚称；断言；维持 ·regardlessof不管，不理会 mere adj.仅仅；只不过 perceivev.视为；认为；察觉到 perspective n.角度；视角；观点 ·setadj.安排好的；固定的 ·fluidadj.流动的；不稳定的 flexibilityn.灵活性 ·practice n.实践；通常做法 根据题干关键词“multitasker”originallyreferto可以将答案定位到第一段前两句。题干中的originallyreferto 定位 与原文中的come from属于同义替换。 第一段第一句指出，多重任务处理者是可以同时有效地处理两项或多项任务的人。但是这并没有说这个 概念最初指什么，我们继续往下看，可以发现，第二句给出了答案：这个概念确实源自技术领域，它用来 指代可以同时执行多项任务的操作系统。由此可知，选项A正确。其他三项的内容都与原文不符，均可以 排除。"
+            },
+            {
+              "num": 52,
+              "stem": "Why can't people really bemultitaskers according to neuroscientists?",
+              "stemCn": "根据神经科学家的说法，人们为什么不能成为真正的多重任务处理者？",
+              "options": {
+                "A": "They are not sufficiently exposed to multitasking situations.",
+                "B": "They are not comparable to mechanical operating systems.",
+                "C": "Theirbrains do not allow them to multitask.",
+                "D": "Their attention span cannot be expanded."
+              },
+              "optionCn": {
+                "A": "他们没有充分接触多重任务处理的情况。",
+                "C": "他们的大脑不允许他们同时处理多项任务。",
+                "B": "他们无法与机械的操作系统相比。",
+                "D": "他们的注意力范围无法扩大。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词neuroscientists可以将答案定位到第二段第二句。 第二段第二句指出，根据神经系统科学专家的说法，我们的大脑无法很好地处理多重任务的情况。由此可 知，人们不能真正地进行多重任务处理是因为大脑不允许，故选项C正确。其他三项的内容原文均没有提 及，可以排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What do we learn from the conclusion of a recent study on multitasking?",
+              "stemCn": "从最近一项关于多重任务处理的研究结论中，我们能了解到什么？",
+              "options": {
+                "A": "People makegreater achievements by maintaining whatever they are doing is multitasking.",
+                "B": "People's performance benefits from the perception of what they are doing as multitasking.",
+                "C": "People's active mental processes exert a positive effect on theirmultitasking.",
+                "D": "People canimprovetheircapabilities by handlingmultitasking situations."
+              },
+              "optionCn": {
+                "A": "通过坚称他们所做的任何事情都是多重任务处理，人们取得更大的成就。",
+                "B": "人们认为自己正在进行的工作是多重任务处理，这种想法对他们的表现有益处。",
+                "C": "人们活跃的心理过程对他们的多重任务处理产生了积极的影响。",
+                "D": "人们可以通过处理多重任务的情况来提升自己的能力。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干关键词the conclusion ofarecent study可以将答案定位到第三段第二句。 第三段第二句指出，最近的一项研究得出结论，无论人们是否真的在同时处理几项任务，只要他们认为这 项活动是多重任务处理，就会对他们的表现起到积极的作用。由此可知，只要人们认为自己在处理多重任 务，他们就能从这种想法中受益，故选项B正确。选项中的perception与原文中的perceive属于同义替换。 其他三项的内容均与原文不符，可以排除。"
+            },
+            {
+              "num": 54,
+              "stem": "How does the business world viewmultitasking?",
+              "stemCn": "商界如何看待多重任务处理？",
+              "options": {
+                "A": "It is a rare skill often found in fluidorganisations.",
+                "B": "It is an adaptable capability requiredofallworkers.",
+                "C": "It is an essential quality many employees lack.",
+                "D": "It is a desirable ability that can be developed."
+              },
+              "optionCn": {
+                "A": "它是一种罕见的技能，常出现在流动性强的组织中。",
+                "C": "它是许多员工都缺乏的一项必备特质。",
+                "B": "它是一种所有员工都需要拥有的适应能力。",
+                "D": "它是一种可以培养的理想能力。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干关键词business world viewmultitasking可以将答案定位到倒数第二段。 倒数第二段开头指出，从商业角度来看，多重任务处理被认为是适应公司的所有环境类型，并在设定的 时间范围内有效地开展不同活动的能力。事实上，许多公司都在寻找擅长多重任务处理的人来提高其生 产力。由此可知，多重任务处理是一种值得拥有的理想能力。本段第三句话指出，你不仅可以同时处理多 项任务，而且这种能力也可以被教授。既然它是能被教授的，那么就说明，这种能力是能通过学习而培养 的，故选项D正确。选项A错在原文并没有说这是一种罕见的技能。选项B错在原文没有说所有员工都需要 拥有这种能力。选项C原文并未提及，可排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author imply we should do if we have to focus on some task and do it well?",
+              "stemCn": "如果我们必须专注于某项任务并把它做好，作者暗示我们应该怎么做？",
+              "options": {
+                "A": "Work in a flexible way.",
+                "B": "Learn from mistakes.",
+                "C": "Avoid multitasking.",
+                "D": "Increase efficiency. 17 ·2023年12月四级真题（第二套）· ===== PAGE 9 ====="
+              },
+              "optionCn": {
+                "A": "以灵活的方式工作。",
+                "C": "避免进行多重任务处理。",
+                "B": "从错误中吸取教训。",
+                "D": "提高效率。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词haveto focus on some task可以将答案定位到最后一段最后一句。 最后一段开头先指出多重任务处理的好处，最后一句以but转折指出多重任务处理的弊端，即不得不同时 关注几件事就意味着注意力会减弱，从而可能会导致更多的错误。从这句话可以分析得知，作者在暗示 我们，如果我们想专注于一项任务，并且把它做好，我们最好不要采用多重任务处理的方式，故选项C正 确。其他三项的内容均与原文不符，可以排除。 PartIV > Translation ·难词译注· 改革开放reformandopeningup 快速发展rapiddevelopment 低脂low-fat 显著的conspicuous； significant 丰富多样diverse 推出launch 由于due to 对……的要求requirements for 低糖low-sugar 满足于be satisfied with 更加注重paymoreattention to 有机食品organicfoods 国·参考译文· Since the reform andopening up,the dietof theChinese people has undergone significant changes.In the past, due to economicbackwardness,the variety andquantityoffood were limited,and people wereonly satisfiedwith having enough to eat.Nowadays,with the rapid development ofChina's economy,food is notonlymore diverse but also ofmuchhigherquality.With the continuous improvementofliving standards,people have higherrequirements fordietand paymoreattentionto eating nutritiously and healthily.Therefore,the low-fatlow-sugar,andorganic foods currentlylaunched in themarketare widely welcomed by people. 四·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "改革开放以来，中国人的饮食（diet）发生了显著变化。过去由于经济落后，食品种类有限、数量不 足，人们仅仅满足于吃得饱。如今中国经济快速发展，食品不仅更加丰富多样，质量也大幅提高。随着 生活水平不断提升，人们对饮食的要求越来越高，更加注重吃得营养健康。因此，目前市场上推出的低脂、 低糖、有机食品受到人们的普遍欢迎。 ·2023年12月四级真题（第二套）· 18",
+          "terms": [
+            "改革开放reformandopeningup 快速发展rapiddevelopment 低脂low-fat",
+            "显著的conspicuous； significant 丰富多样diverse 推出launch",
+            "由于due to 对……的要求requirements for 低糖low-sugar",
+            "满足于be satisfied with 更加注重paymoreattention to 有机食品organicfoods",
+            "国·参考译文·",
+            "Since the reform andopening up,the dietof theChinese people has undergone significant changes.In the past,",
+            "due to economicbackwardness,the variety andquantityoffood were limited,and people wereonly satisfiedwith",
+            "having enough to eat.Nowadays,with the rapid development ofChina's economy,food is notonlymore diverse but",
+            "also ofmuchhigherquality.With the continuous improvementofliving standards,people have higherrequirements",
+            "fordietand paymoreattentionto eating nutritiously and healthily.Therefore,the low-fatlow-sugar,andorganic foods",
+            "currentlylaunched in themarketare widely welcomed by people.",
+            "四·译点精析·",
+            "1.第一句：“发生了显著变化”翻译为hasundergone significant changes。",
+            "2.第二句：“由于经济落后”翻译为介词短语duetoeconomic backwardness；“食品种类有限、数量不足”翻",
+            "译为the variety and quantityoffood were limited；“仅仅满足于吃得饱”翻译为were onlysatisfied withhaving",
+            "enough to eat。",
+            "3.第三句：“如今中国经济快速发展”翻译为Nowadays,with the rapid development ofChina's economy；句子",
+            "主体“食品不仅更加丰富多样，质量也大幅提高”翻译为foodisnotonlymorediversebutalsoofmuchhigher",
+            "quality。",
+            "4.第四句：“随着…的提升”需使用介词短语with the improvementof来表达，“不断”翻译为continuous，“生",
+            "活水平”翻译为livingstandards；“要求越来越高”和“更加注重吃得营养”为并列关系的谓语部分，可用",
+            "and连接，即have higher requirements for diet and paymore attention to nutrition。",
+            "5.第五句：“因此”可翻译为Therefore、Consequently或Thus；“目前市场上推出的”可翻译为过去分词短",
+            "语，即currently launched in themarket；“低脂、低糖、有机食品”翻译为thelow-fat，low-sugar，andorganic",
+            "foods；“受到人们的普遍欢迎”翻译为are widely welcomedbypeople。"
+          ],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

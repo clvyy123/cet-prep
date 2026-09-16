@@ -1,0 +1,366 @@
+{
+  "id": "cet6-2021_12_2",
+  "level": 6,
+  "year": 2021,
+  "month": 12,
+  "setNo": "第2套",
+  "title": "2021年12月六级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_12_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthispart,youareallowed 30minutestowriteanessayrelated to theshort passagegiven below.In youressay,youare to commenton thephenomenondescribed in thepassageand suggestmeasures to address theissue.You should write at least15o wordsbut no more than 200 words. Nowadays star chasing isprevalent among many teenagers. Theytakepop stars as their idols, imitating their wayoftalking,following their styleofdressing,andseeking everychancetomeetthemin person at great expenses.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2021_12_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Arecentanalysisfoundthatmostresearchmischaracterizestherelationshipbetweenmusicandskills\nB) In 2004,apaperappearedinthejournalPsychologicalScience, titled“MusicLessons EnhanceIQ”\nC) Schellenberg had long been skeptical of the science supporting claims that music education enhances\nD) The 2004 paper was specifically designed to address those concerns. And as a passionate musician,\nE) Schellenberg to ok that news in stride while continuing to cast a skeptical eye on the research in his\nF) For his recent study, Schellenberg asked two research assistants to look for correlational studies on\nG) After computing their assessments, Schellenberg concluded that the majority of the articles\nH) To argue for a cause-and-effect relationship, scientists must attempt to explain why and how a\nJ) Neuropsychologist Lutz Jancke agrees. \"Most of these studies don't allow for causal inferences,\" he\nK) Some researchers are starting to do just that. The neuroscientist Peter Schneider from Heidelberg\nL) To establish whether effects such as improved concentration are caused by music participation itself,\nM) That may seem compelling, but Habibi's children were not selected randomly. Did the children who\nN) Did he have a hidden talent that others didn't have? Or more endurance than his peers? Music",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Glenn Schellenberg's latest research suggests many psychologists and neuroscientists wrongly",
+              "stemCn": "【定位】由题干中的many psychologistsand",
+              "options": {},
+              "optionCn": {
+                "E": "段第二句。"
+              },
+              "answer": "E",
+              "analysis": "neuroscientists wrongly believe 和 the causal relationshipbetweenmusicandIQ定位到文章 月发表的研究结果表明，他的许多同行正是这样 做的。由上一句可知该句中的do justthat是指舍 伦贝格那些研究心理学和神经科学的同仁在音乐 和智力之间建立因果联系，而舍伦贝格认为这些 因果联系是错误的或至少是草率的。由此可知， 题干是对E）段最后两句的归纳概括。题干中的 latest和many psychologists and neuroscientists 分别对应原文中的published inMay和hisfellow researchers in psychology and neuroscience,题干 中的wrongly believe in the causalrelationship betweenmusic andIQ是对原文中“make... causal connections between music and intelligence\"和what he believes are erroneous的 归纳概括，故答案为E）。"
+            },
+            {
+              "num": 37,
+              "stem": "The belief in the positive effects of music training appeals to many researchers who are musicians",
+              "stemCn": "【定位】由题干中的positive effects ofmusic",
+              "options": {},
+              "optionCn": {
+                "N": "段第三句。"
+              },
+              "answer": "N",
+              "analysis": "training appeals to和musicians themselves定位 格一样，音乐研究人员往往自己就是音乐家，正如 舍伦贝格在其最新论文中所指出的：“音乐训练 （和其他令人愉悦的活动）对认知和神经产生积极 副作用的想法本身就很吸引人。”由此可知，题干 是对N）段第三句的归纳概括。题干中的the belief in the positive effects of music training对 应原文中的“theidea ofpositive...sideeffects frommusic training”，题干中的many researchers who aremusicians themselves是对原文中“Music researchers tend...to be musicians themselves\" 的同义转述，故答案为N)。"
+            },
+            {
+              "num": 38,
+              "stem": "Glenn Schellenberg was doubtful about the claim that music education helps enhance children's",
+              "stemCn": "【定位】由题干中的GlennSchellenbergwas",
+              "options": {},
+              "optionCn": {
+                "C": "段第一句。"
+              },
+              "answer": "H",
+              "analysis": "doubtful 和 music education helps enhance 来，舍伦贝格一直质疑科学研究所支持的这一说 法：音乐教育提高儿童的抽象推理、数学或语言能 力。紧接着第二句和第三句具体说明他认为儿童 智商提高的原因。由此可知，题干是对C）段第一 句的归纳概括。题干中的doubtful是原文中 skeptical的同义表达，题干中的children's intelligence是对原文中children'sabstract reasoning，math，or language skills的归纳概括， 故答案为C）。"
+            },
+            {
+              "num": 39,
+              "stem": "Glenn Schellenberg came to the conclusion that most of the papers assessed made the wrong claim",
+              "stemCn": "【定位】由题干中的cameto theconclusion、most",
+              "options": {},
+              "optionCn": {
+                "G": "段第一句。"
+              },
+              "answer": "D",
+              "analysis": "of thepapers和made the wrong claim定位到文 们的评估之后，舍伦贝格得出结论，大部分文章错 误地声称音乐训练有因果效应。题干中的“came to the conclusion that most of the papers...made the wrong claim”是对原文中concludedthatthe majority of the articles erroneously claimed的同 义转述，题干中的assessed对应原文中的 assessments，故答案为G)。"
+            },
+            {
+              "num": 40,
+              "stem": "You must abandon your unverified beliefs before you become a scientist.",
+              "stemCn": "【定位】由题干中的abandon your unverified",
+              "options": {},
+              "optionCn": {
+                "O": "段前两句指出，应在实验"
+              },
+              "answer": "J",
+              "analysis": "beliefs和becomea scientist定位到文章o）段。 之前检验这些想法，否则工作就会变成宗教或信 仰。最后一句指出，如果你想成为一名科学家，就 必须放弃自己的信仰。由此可知，题干是对0）段 的归纳概括。题干中的abandon是原文中letgo of的同义表达，题干中的your unverifiedbeliefs 是对原文中thoseconvictions shouldbechecked 的同义转述，故答案为O)。"
+            },
+            {
+              "num": 41,
+              "stem": "Lots of experiments have demonstrated that people with music training can better differentiate certain",
+              "stemCn": "【定位】由题干中的lots ofexperiments、music",
+              "options": {},
+              "optionCn": {
+                "H": "段最后"
+              },
+              "answer": "F",
+              "analysis": "一句。 验表明，音乐训练提高了某些听觉能力，比如从背 景噪音中过滤声音或区分辅音b'和g的不同。 F） 由此可知，题干是对H）段最后一句的同义转述。 题干中的lots ofexperiments和demonstrated分 别对应原文中的many experiments和shown，题 干中的betterdifferentiatecertainsounds是对原 文中improves certain hearing capabilities和 distinguishing the difference between the consonants b'andg'的归纳概括，故答案为H)。"
+            },
+            {
+              "num": 42,
+              "stem": "Glenn Schellenberg's findings at the beginning of this century were not supported by a larger study",
+              "stemCn": "【定位】由题干中的alargerstudy和someten",
+              "options": {},
+              "optionCn": {
+                "D": "段第三句。 I"
+              },
+              "answer": "I",
+              "analysis": "年后的2013年，教育捐赠基金会资助了一项规模 更大的研究，有900多名学生参加。紧接着第四 句指出该研究未能证实舍伦贝格的发现。题干中 的\"Glenn Schellenberg's findings...werenot supportedby a larger study”是对原文中的a bigger study 和 that study failed to confirm Schellenberg'sfindings的同义转述，题干中的 some ten years later对应原文中的nearly a decadelater，故答案为D)。 参考译文"
+            },
+            {
+              "num": 43,
+              "stem": "One researcher shares Glenn Schellenberg’ view that it is necessary to conduct long-term",
+              "stemCn": "【定位】由题干中的understandtheeffects定位到",
+              "options": {},
+              "optionCn": {
+                "J": "段第三句。"
+              },
+              "answer": "D",
+              "analysis": "来，詹克一直在研究音乐课的效果，和舍伦贝格一 样，他认为唯一能够真正了解其效果的方法就是 进行纵向研究。题干中的sharesGlenn Schellenberg's view 和 conduct long-term developmentalstudies分别是对原文中like Schellenberg和runlongitudinalstudies的同义转 述，故答案为J）。"
+            },
+            {
+              "num": 44,
+              "stem": "Glenn Schellenberg's research assistants had no idea what he was trying to prove in his new study.",
+              "stemCn": "【定位】由题干中的GlennSchellenberg'sresearch",
+              "options": {},
+              "optionCn": {
+                "F": "段最后一句。 【精析】细节推断题。"
+              },
+              "answer": "C",
+              "analysis": "assistants和what he was trying to prove定位到 格没有告诉他的助手自己到底想证明什么，由此 可推断出，舍伦贝格的研究助理并不知道他想证 明什么，即GlennSchellenberg'sresearch assistants hadno idea what he was trying to prove inhisnewstudy，故答案为F)。"
+            },
+            {
+              "num": 45,
+              "stem": "Glenn Schellenberg admits that practice can change certain are as of the brain but doubts that the",
+              "stemCn": "【定位】由题干中的change certain areas ofthe",
+              "options": {},
+              "optionCn": {
+                "I": "段最后一句提到，他承认"
+              },
+              "answer": "B",
+              "analysis": "brain和doubts that the change can affectother areas定位到I段最后一句。 练习确实会改变大脑，但值得怀疑的是认定这些 改变会影响负责空间推理或数学问题等大脑其他 区域的主张。由该段第一句可知，此处he指代舍 伦贝格。题干中的admitsthatpracticecan change certain areas ofthe brain和doubts that thechange canaffectother areas分别是对原文 中practicedoes changethebrain,heallows和 what is questionable is the assertion that these changes affectother brainregions的同义转述， 故答案为I）。 格伦·舍伦贝格进行了一项实验，将144名儿童随机分为四组：一组学习一年钢琴，一组上声乐课，一 组参加表演课，以及一个对照组没有任何课外培训。在一年中，两个音乐小组中的儿童智商平均提高 了7分；另外两组儿童的智商平均增加了4.3分。 或语言能力。他表示，如果弹钢琴的儿童更聪明，这不一定意味着他们是因为弹钢琴才更聪明。可能 是这些弹钢琴的小孩碰巧更有野心，或者更擅长专注于一项任务。毕竟，相关性并不能证明因果 关系。 信的证据证明音乐对一般智力有迁移效应。（42）但在大约十年后的2013年，教育捐赠基金会资助了 一项规模更大的研究，有900多名学生参加。该研究未能证实舍伦贝格的发现，没有提出证据证明音 乐课提高了数学和读写能力。 式调查他那些研究心理学和神经科学的同仁在音乐和智力之间建立因果联系的频率，而他认为这些因 果联系是错误的——或至少是草率的。他在5月发表的研究结果表明，他的许多同行正是这样做的。 以来总共发表了114篇论文。为了评估作者是否声称过任何因果关系，研究人员在每篇论文的标题 和摘要中寻找能说明问题的动词，诸如“提高”“促进”“便利”和“加强”之类的动词。如果研究采用了 磁共振等大脑成像方法，或者发表在名称带有“大脑”“神经科学”等相关术语的期刊上，那么论文被归 入神经科学类。否则论文就被归入心理学类。（44）舍伦贝格没有告诉他的助手自己到底想证明什么。 发现，这种过分吹嘘在神经科学研究中更为普遍，其中四分之三的研究将音乐训练和技能提高之间的 单纯联系曲解为因果关系。这可能出乎某些人的意料。很长一段时间以来，心理学家一直在与那些 指责他们没有从事“真”科学的指控作斗争——这在很大程度上是因为许多经典实验的发现已被证明 不可再现。另一方面，配有脑部扫描和脑电图的神经科学家却未受到同等批判。 科学家们经常提到大脑的可塑性——即大脑会随着使用方式而变化的事实。例如，当儿童学会拉小 提琴时，几项研究表明负责左手手指精细运动技能的大脑区域可能会增大。（41）许多实验表明，音乐 训练提高了某些听觉能力，比如从背景噪音中过滤声音或区分辅音b'和g的不同。 塑性自身已成为一个领域。”（45）他承认练习确实会改变大脑，但值得怀疑的是认定这些改变会影响 负责空间推理或数学问题等大脑其他区域的主张。 年以来，詹克一直在研究音乐课的效果，和舍伦贝格一样，他认为唯一能够真正了解其效果的方法就 是进行纵向研究。在此类研究中，研究人员需要在很长一段时间内追踪上音乐课和未上音乐课的两 组儿童——即便作业并非完全随机的。然后他们可以比较每组的结果。 儿童进行了十年追踪。其中一些儿童通过德国鲁尔区一项名为“给每个儿童一件乐器”的校本项目获 得乐器和上课，该项目的实施获得了政府资助。在这些儿童中，施耐德发现，那些对音乐充满热情且 自愿练习的儿童，不仅在专注力这种较为一般的能力上有所提高，而且听觉能力也有所提高。 大学心理学教授阿萨尔·哈比比对洛杉矶低收入社区的儿童进行了为期五年的纵向研究。这些儿童 分为三组：课后学音乐组，课后做运动组和课后无安排组。两年后，哈比比及其同事报告称发现受过 音乐训练的儿童，他们的大脑在局部和连接大脑不同部位的通路上都发生了结构变化。 或许具有某种特质使他们与众不同，但这种特质又未被大脑扫描仪察觉？“作为5岁就开始上钢琴课 并每早7点起床练习的人，这段经历改变了我，让我成了今天的我，”舍伦贝格说道。“问题是，这样的 经历是否会如此系统地影响不同个体，并产生完全相同的变化。我认为这是信仰的巨大飞跃。” 究人员往往自己就是音乐家，正如舍伦贝格在其最新论文中所指出的:“音乐训练（和其他令人愉悦的 活动）对认知和神经产生积极副作用的想法本身就很吸引人。”他还承认，如果有自己的孩子，他会鼓 励他们上音乐课和大学。“我认为这会让他们成为更好的人，更具批判性，总的来说更明智，”他说道。 名科学家，就必须放弃自己的信仰。”"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_12_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web. As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse: a gradual shift from a typographic (印刷的) culture to a photo graphic one, which in tum me ant a shift from rationality to emotions, exposition to entertainment. In an image-centered and pleasure-driven world, Postman noted, there is no place for rational thinking, because you simply cannot think with images. It is text that enables us to \"uncover lies, confusions and overgeneralizations, and to detect abuses of logic and common sense. It also means to weigh ideas, to compare and contrast assertions, to connect one generalization to another.\" The dominance of television was not confined to our living rooms. It overturned all of those habits of mind, fundamentally changing our experience of the world, affecting the conduct of politics, religion, business, and culture. It reduced many aspects of modem life to entertainment, sensationalism, and commerce. \"Americans don't talk to each other, we entertain each other,\" Postman wrote. \"They don't exchange ideas, they exchange images. They do not argue with propositions, they argue with good looks, celebrities and commercials.\" At first, the web seemed to push against this trend. When it emerged towards the end of the 1980s as a purely text-based medium, it was seen as a tool to pursue knowledge, not pleasure. Reason and thought were most valued in this garden—all derived from the project of the Enlightenment. Universities around the world were among the first to connect to this new medium, which hosted discussion groups, informative personal or group blogs, electronic magazines, and academic mailing lists and forums. It was an intellectual project, not about commerce or control, created in a scientific research center in Switzerland. And for more than a decade, the web created an alternative space that threatened television's grip on society. Social net works, though, have since colonized the web for television's values. From Face book to 2021-12-CET6(第2套)-7 ===== PAGE 8 ===== Instagram, the medium refocuses our attention on videos and images, rewarding emotional appeals —'like' buttons—over rational ones. Instead of a quest for knowledge, it engages us in an endless zest (热 情) for instant approval from an audience, for which we are constantly but unconsciously performing. (It's telling that, while Go ogle beg an life as a PhD thesis, Face book star ted as a tool to judge classmates, appearances. It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences. The Enlightenment's motto(座右铭) of 'Dare to know' has become'Dare not to care to know.'",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What did Neil Postman say about the rise of television?",
+              "stemCn": "【定位】由题干中的人名关键词和theriseof",
+              "options": {
+                "A": "It in it i a ted a change from dominance of reason to supremacy of pleasure.",
+                "B": "It brought about a gradual shift from cinema going to home entertainment.",
+                "C": "It star ted a revolution in photo graphic technology.",
+                "D": "It marked a new age in the entertainment industry."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。定位句指出，电视的兴起引"
+              },
+              "answer": "A",
+              "analysis": "television定位到第一段第二句。 人了一种新的话语方式，即印刷文化向影像文化 的逐渐转变，而这反过来又意味着从理性转向感 性，从阐释转向娱乐，可知尼尔·波斯曼认为，电 视的兴起让人们从崇尚理性转变为注重娱乐，故 答案为A)。 【避错】文章虽然谈到了娱乐，但并没有涉及从看 电影到家庭娱乐的转变，故排除B）项：定位句提 到的从印刷文化向影像文化的转变并不是指摄影 技术上的革新，故排除C）项；D）项是根据定位句 结尾部分设置的干扰，原文只说到从阐释意义向 娱乐的转化，而不是娱乐业自身的转变，故排除 该项。"
+            },
+            {
+              "num": 47,
+              "stem": "According to the passage, what is the advantage of text reading?",
+              "stemCn": "【定位】由题干中的textreading定位到第一段最",
+              "options": {
+                "A": "It gives one access to huge amounts of information.",
+                "B": "It allows more information to be processed quickly.",
+                "C": "It is capable of enriching one's life.",
+                "D": "It is conducive to critical thinking."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句论述文本阅读对我们"
+              },
+              "answer": "D",
+              "analysis": "后两句。 的意义，指出文本可以让我们发现谎言、困惑和过 度概括，察觉逻辑和常识的滥用，还能让人们权衡 观点，比较和对比断言，将一种概括与另一种概括 联系起来。原文所列举的这些思维活动概括而言 就是批判性思维，可知D）项是对原文信息的归 纳，故为答案。 【避错】A）项和B）项将定位句列举的这一系列思 想活动误解为对大量信息的获取或对大量信息的 处理，而原文并没有提及信息量的大小，故排除； 定位句主要是从文本阅读对人们思维方面的作用 阐述的，并未涉及是否可以丰富人们生活的其他 方面，故排除C）项。"
+            },
+            {
+              "num": 48,
+              "stem": "How has television impacted Americans?",
+              "stemCn": "【定位】由题干中的television和Americans定位",
+              "options": {
+                "A": "It has given them a lot more to argue about.",
+                "B": "It has brought celebrities closer to their lives.",
+                "C": "It has made them care more about what they say.",
+                "D": "It has rendered their interactions more superficial."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位段第二、三句指出，电视"
+              },
+              "answer": "B",
+              "analysis": "到第二段。 颠覆了人们的思维习惯，影响了政治、宗教、商业 和文化的行为，使得现代生活的许多方面沦为娱 乐、哗众取宠和商业运作。随后两句中作者引用 波斯曼的话指出，美国人不互相交谈，而是互相娱 乐，不交流思想，只交换图像，概括而言，电视使得 人们的交往更加肤浅，故答案为D）。 【避错】A）项和B）项是根据定位段最后一句设置 的干扰项，根据原句，人们在争论颜值、名人等话 题的同时，却不再争论见解，因此无法判断其话题 是否更多了，故排除A）；原文是说美国人会围绕 名人展开争论，但不能据此推断名人会因此更加 接近他们的生活，故排除B)；C）项与定位段第五 句所述相矛盾，原句提到美国人只交换图片，不交 流思想，因此更不要说在意自己的言论了，故 排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the passage say about the World Wide Web?",
+              "stemCn": "【定位】由题干中的WorldWideWeb定位到第三",
+              "options": {
+                "A": "It was developed primarily for universities worldwide.",
+                "B": "It was created to connect people in different countries.",
+                "C": "It was vie wed as a means to quest for knowledge.",
+                "D": "It was designed as a discussion forum for university students."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第三段首句提到了网络，并"
+              },
+              "answer": "D",
+              "analysis": "段第一句。 在随后的第二句中说，它在20世纪80年代末刚 刚出现的时候，是一种纯文本媒介，并被视为一种 追求知识而非快乐的工具。由此可知，C）项是对 该句的同义转述，故为答案。 【避错】定位段第四句虽然提到世界各地的大学是 最早连接到万维网上的，但并没有说这种媒介就 是为他们而开发的，故排除A）项；应注意选项使 用的时态是过去时，而根据第三段对万维网历史 的回顾可知，它在开发伊始的作用并不是为各国 人之间建立联系，故排除B）项；D）项是对定位段 第四句后半部分的曲解，虽然当时网络的功能之 中包括用来承载大学生们的讨论小组和论坛，但 这并非其唯一作用，也不能说明它就是为了这一 用途而设计的，故排除该项。"
+            },
+            {
+              "num": 50,
+              "stem": "What do we learn about users of social media?",
+              "stemCn": "【定位】由题干中的users of socialmedia定位到",
+              "options": {
+                "A": "They are bent on looking for an alternative space for escape.",
+                "B": "They are constantly see king approval from their audience.",
+                "C": "They are forever engaged in hunting for new information.",
+                "D": "They are unable to focus their attention on tasks for long."
+              },
+              "optionCn": {
+                "B": "项是对定位信息的转述，故为答案。"
+              },
+              "answer": "C",
+              "analysis": "最后一段。 络的出现，在其后的第三句中，作者指出社交网络 让其用户沉浸在无尽的热情中，为的是得到观众 的即时认可，为此我们一直在不自觉地进行表演。 【避错】原文虽然提到了社交媒体用户一直追求的 东西，但他们追寻的并不是可供逃避的替代空间 或者新的信息，故排除A）和C）；原文中并未提到 社交媒体用户在处理其他任务方面的表现，可知 参考译文 远在万维网出现之前，理性和启蒙的趋势就已受到了威胁。（46）正如尼尔·波斯曼在其1985年的 著作《娱乐至死》中所指出的那样，电视的兴起不仅引入了一种新的媒介，而且引入了一种新的话语方式： 印刷文化逐渐向影像文化转变，而这反过来又意味着从理性转向感性，从阐释转向娱乐。波斯曼指出，在 一个以形象为中心、以快乐为驱动力的世界里，没有理性思考的空间，因为你根本无法用形象思考。（47） 正是文本让我们能够“发现谎言、困惑和过度概括，察觉逻辑和常识的滥用。它还意味着权衡观点，比较和 对比断言，将一种概括与另一种概括联系起来。” 电视的主导地位并不局限于我们的起居室。它颠覆了所有这些思维习惯，从根本上改变了我们对世 界的体验，影响了政治、宗教、商业和文化的行为。（48）它使现代生活的许多方面沦为娱乐、哗众取宠和 商业运作。“美国人不互相交谈，我们互相娱乐，”波斯曼写道。“他们不交流思想，他们交换图像。他们不 争论见解，他们争论颜值、名人和商业广告。” （49）起初，网络似乎与这一趋势相悖。20世纪80年代末当它作为一种纯文本媒介出现时，它被视为 一种追求知识而非快乐的工具。理性和思想是这座花园中最受重视的，而它们都源于启蒙运动。世界各 地的大学是最早连接到这种新媒体的，它起着承载讨论小组、信息丰富的个人或团队博客、电子杂志、学术 邮件列表和论坛的作用。这是瑞士的一个科学研究中心创建的智力项目，与商业或控制无关。而十多年 后，网络创造了一个替代空间，威胁着电视对社会的控制。 然而，从那时起，社交网络已经开始在网络上大量移植电视的价值观。从Facebook到Instagram，这 种媒体将我们的注意力重新集中在视频和图像上，奖励情感诉求——例如“点赞”的按钮——而不是理性 的诉求。（50）它不是对知识的追求，而是让我们沉浸在无尽的热情中，为的是得到观众的即时认可，为此 我们一直在不自觉地进行表演。（这说明，当谷歌的创始从博士论文开始时，Facebook则以作为判断同学 外表的工具为起点。)它根据我们的个人资料和喜好，准确地向我们推送我们想要和考虑的东西，从而降低 了我们的好奇心。启蒙运动的口号“敢于知晓”变成了“不敢在意是否知晓。” Passage Two 【文章来源】本文选自2019年发表在JournalofBusinessEthics（《商业伦理学期刊》）上一篇标题为“Employe Entitlement，Engagement，andPerformance:TheModeratingEffectofEthicalLeadership”（《员工权益感、参 与度和绩效：道德领导力的调节作用》）的文章。 【结构框图】 第1、2段提到部分员工具有强烈的权益感，认为自己应该获得特殊待遇和 丰厚奖励，并指出他们出现这种心理倾向的原因。 本文主要介绍了关于道 德领导力如何被用于调 节员工权益感和参与度 第3、4段介绍了具体的研究过程和结果，指出道德领导力可以被用于处理 的一项研究。 此类问题，但也同时强调要谨慎发挥其调节作用。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_12_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "According to a recent study, a small but growing proportion of the workforce is affected to some degree by a sense of entitlement. Work is less about what they can contribute but more about what they can take. It can lead to workplace dysfunction and diminish their own job satisfaction. I'm not refer ring to employees who are legitimately dissatisfied with their employment conditions due to, say, being denied fair pay or flexible work practices. I'm talking about those who consistently believe they deserve special treatment and generous rewards. It's an expectation that exists irrespective of their abilities or levels of performance. As a result of that discrepancy between the privileges they feel they're owed and their inflated sense of self-worth, they don't work as hard for their employer. They prefer instead to slack off. It's a tendency 2021-12-CET6(第2套)-8 ===== PAGE 9 ===== which many scholars believe begins in childhood due to parents who over indulge their kids. This thereby leads them to expect the same kind of spoilt treatment throughout their adult lives. And yet despite how these employees feel, it's obviously important for their manager to nonetheless find out how to keep them motivated. And, by virtue of that heightened motivation, to perform well. The research team from several American universities surveyed more than 240 individuals. They sampled managers as well as team members. Employee entitlement was measured by statements such as \"I honestly feel I'm just more deserving than others.\" The respondents had to rate the extent of their agreement. Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement. That's because rather than indulging employees or neglecting them, ethical leaders communicate very direct and clear expectations. They also hold employees accountable for their behaviors and are genuinely commit ted to doing the right thing. Additionally, these leaders are consis tent in their standards. They're also less likely to deviate in how they treat employees. This means, when confronted by an entitled team member, an ethical leader is significantly disinclined to accommodate their demands. He or she will instead point out, constructively and tact fully, exactly how their inflated sense of deservingness is somewhat distorted. They'd then go further to explain the specific, and objective, criteria the employee must meet to receive their desired rewards. This shift away from unrealistic expectations is successful because entitled employeesfeel more confident that ethical leaders will deliver on their promises. This occurs because they're perceived to be fair and trust worthy. The researchers, however, exercise caution by warning no one single response is the perfect remedy. But there's no denying ethical leadership is at least a critical step in the right direction.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does a recent study find about a growing number of workers?",
+              "stemCn": "【定位】由题干中的a growing number定位到第",
+              "options": {
+                "A": "They attempt to make more contributions.",
+                "B": "They feel they deserve more than they get.",
+                "C": "They attach importance to job satisfaction.",
+                "D": "They try to diminish workplace dysfunction."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第一段第一句提到，一小部"
+              },
+              "answer": "A",
+              "analysis": "一段第一句。 分员工在某种程度上受到权益感的影响，第二句 和第五句继续指出，他们更重视自己在工作中得 到什么，而且总是认为自己应该享受到特殊待遇、 获得丰厚奖励，可见他们认为自己应得的应该比 实际所得更多，故答案为B）。 【避错】文章第一段第二句提到，对于这些员工而 言，工作不在于他们能贡献什么，而更在于他们能 得到什么，A）项不符合文章意思，故排除；文章第 一段第三句提到，这些员工的此种情况可能导致 工作场所运行失衡，还会使他们自己的工作满意 度降低，这都是在说这种员工权益感可能带来的 后果，C）项在文中并未提及，而D）项不符合文章 意思，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "Why don't some employees work hard according to many scholars?",
+              "stemCn": "【定位】由题干中的“don't...workhard”和many",
+              "options": {
+                "A": "They lack a strong sense of self-worth.",
+                "B": "They were spoiled when growing up.",
+                "C": "They have received unfair treatment.",
+                "D": "They are overindulged by their boss."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章第二段第一、三句提到，"
+              },
+              "answer": "B",
+              "analysis": "scholars定位到第二段第一、三句。 这些员工如果觉得自己应得的特权和膨胀的自我 价值感之间不一致，就不会努力工作，而许多学者 认为这种倾向来源于童年时期父母对他们过度的 溺爱。故答案为B)。 【避错】文章第二段第一句提到这些员工自我价值 感膨胀，A)不符合文章意思，故排除；由第一段第 四句可知，C)“他们受到了不公正的待遇”指的应 是那些正常努力工作的员工可能会因不公正的薪 酬待遇而对工作产生不满，而不是这些想要争取 权益的员工，故排除C）；文中只提到这些员工可 能童年时期被父母过度溺爱，并未提到老板对他 们的纵容，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "What is a manager supposed to do to enable workers to do a better job?",
+              "stemCn": "【定位】由题干中的manager和do a better job定",
+              "options": {
+                "A": "Be aware of their emotions.",
+                "B": "Give them timely promotions.",
+                "C": "Keep a record of their performance.",
+                "D": "Seek ways to sustain their motivation."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。第二段第五、六句指出，对经"
+              },
+              "answer": "D",
+              "analysis": "位到第二段第五、六句。 理来说，应该努力使这些员工保持积极性，工作积 极性提高后，他们能够好好完成工作，故答案 为D)。 【避错】文章第二段第五、六句指出，对于经理来说 重要的是调动这些员工的积极性，而不会去关注 他们心里的这种想法和感受，A）项不符合文章意 思，故排除；B）、C）项在文中均未提及，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What do the research findings reveal about ethical leaders?",
+              "stemCn": "【定位】由题干中的ethicalleaders定位到第三段",
+              "options": {
+                "A": "They are held accountable by their employees.",
+                "B": "They are always transparent in their likes and dislikes.",
+                "C": "They convey their requirements in a straightforward way.",
+                "D": "They make it a point to be on good terms with their employees."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第三段第七句指出，有道德"
+              },
+              "answer": "",
+              "analysis": "第七句。 的领导者会（向员工）传达非常直接和明确的期 望，而不是纵容或忽视他们。C)项直接对应原文 参考译文 内容，故为正确答案。 【避错】文章第三段第八句指出，有道德的领导者 要求员工对自己的行为负责，A）项是说领导者要 对员工负责，不符合文章意思，故排除；本段最后 两句指出，这些领导者坚持标准一致，对待员工不 太可能有失偏颇，这和B）、D）项所述的好恶透明 化及与员工保持良好关系存在一定的矛盾关系， 两项均不符合文章意思，故排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What kind of leaders are vie wed as ethical by entitled employees?",
+              "stemCn": "【定位】由题干中的viewedasethical和etitled",
+              "options": {
+                "A": "Those who can be counted on to fulfill commitments.",
+                "B": "Those who can do things beyond normal expectations. 2021-12-CET6(第2套)-9 ===== PAGE 10 =====",
+                "C": "Those who exercise caution in making major decisions.",
+                "D": "Those who know how to satisfy theiremployees'needs."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。最后一段第三至五句提到，"
+              },
+              "answer": "A",
+              "analysis": "employees定位到文章最后一段。 有道德的领导者会明确告知员工获得回报应符合 的标准，这种做法能够让那些想要争取权益的员 工觉得领导能够兑现他们的承诺，是公平的、值得 信赖的，故答案为A）。 【避错】文章最后一段第四句指出，领导者应对这 些员工的做法有助于使其摆脱不切实际的期望， 说明领导者不会去做超出正常预期的事，B）不符 合文章意思，故排除；C）项在文中并未提及，故排 除；最后一段第一句指出，面对一个想要争取权益 的员工时，一个有道德的领导者明显不愿意满足 他们的要求，D）不符合文章意思，故排除。 （51-1）最近的一项研究显示，一小部分员工在某种程度上受到权益感的影响，而这种员工的数量正 在增长。对于他们来说，工作不在于他们能贡献什么，而更在于他们能得到什么。这可能导致工作场所运 行失衡，还会使他们自己的工作满意度降低。我指的不是那些没有获得公平薪酬或未能享受灵活工作方 式的员工，他们对工作条件的不满是合理的。（51-2）我指的是那些始终认为自己应该受到特殊待遇和丰 厚奖励的员工。不管能力或者业务水平如何，他们都有着这样一种期望。 （52-1）如果他们觉得自己应得的特权和膨胀的自我价值感之间不一致，就不会为雇主努力工作。他 们宁愿偷懒。（52-2）许多学者认为，这种倾向来源于童年时期父母对孩子过度的溺爱。这导致他们在整 个成年生活中期待得到同样的娇惯纵容。（53）然而，尽管这些员工有这样的感受，对他们的经理来说，如 何使他们保持积极性且由于积极性提高而好好工作显然才是重要的。 来自几所美国大学的研究小组调查了240多人。他们对管理人员和团队成员进行了抽样调查。员工 权益感是通过诸如“我确实觉得我比别人更值得拥有”这样的陈述来衡量的。受访者必须根据其认同的程 度进行评分。同时，员工参与度是通过“我的确积极投入到工作中”这样的陈述来评估的。调查结果显示， 道德领导力确实能够缓解员工权益感带来的负面影响。（54）这是因为有道德的领导会（向员工）传达非 常直接和明确的期望，而不是纵容或忽视他们。他们还要求员工对自己的行为负责，且自己真正致力于做 正确的事情。此外，这些领导者坚持标准一致。他们在对待员工的方式上也不太可能有失偏颇。 这意味着，面对一位争取权益的团队成员时，一位有道德的领导者明显不愿意满足他们的要求。相 反，他或她会积极、委婉地指出，他们膨胀的应得感究竟是如何被扭曲的。（55）然后他们会进一步解释， 如果要获得他们想要的回报，员工必须满足什么具体和客观的标准。这种使员工摆脱不切实际的期望的 做法是成功的，因为这会使想要争取权益的员工感到更有信心，认为有道德的领导者会兑现他们的承诺。 之所以出现这种情况，是因为员工认为这些领导是公平的、值得信赖的。然而，研究人员警告我们要谨慎 实践，任何单一的对策都不是完美的处理措施。但不可否认的是，道德领导力至少是朝着正确方向迈出的 关键一步。 PartI Translation Yan'an is located in the north of ShaanxiProvince and in themiddle reaches of the Yellow River,which is the holy land of the Chinese revolution. Mao Zedong and other revolutionaries oftheolder generation used to live and fight here for13 years,leadingthe War ofResistance Against Japanese Aggression and the War of Liberation, cultivating the Yan'an spirit and making great contributions to the Chinese revolution. With the largest number of revolutionary sites in the widest distribution and with the highestlevel across China,Yan'an is considered as a national educational base for patriotism, revolutionary traditions and the Yan'an spirit. There are nine revolutionary memorial halls in Yan'an,whichcollect a large number ofimportant items left by theCentral Committee oftheCommunist Partyof Chinaandtherevolutionaries of the older generation in the Yan'an period. Therefore, it enjoys the reputation of “the city of revolutionary museums\". sacred神圣的;圣洁的 be situated in坐落于 declare宣告，宣称 foster培养，抚育 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_12_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "延安位于陕西省北部，地处黄河中叶，是中国革命的圣地。毛泽东等老一辈革命家曾在这里生 活战斗了十三个春秋，领导了抗日战争和解放战争，培育了延安精神，为中国革命做出了巨大贡献。 延安的革命旧址全国数量最大、分布最广，级别最高。延安是全国爱国主义、革命传统和延安精神 教育基地。延安有9个革命纪念馆，珍藏着中共中央和老一辈革命家在延安时期留存下来的大量重 要物品，因此享有“中国革命博物馆城”的美誉。 2021-12-CET6(第2套)-10 ===== PAGE 11 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

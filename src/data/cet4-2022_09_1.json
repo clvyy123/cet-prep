@@ -1,0 +1,599 @@
+{
+  "id": "cet4-2022_09_1",
+  "level": 4,
+  "year": 2022,
+  "month": 9,
+  "setNo": "第1套",
+  "title": "2022年9月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_09_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Suppose your university is selectingsome students to teachkids inremoterural areas during thecoming vacation.Youarenow to writeanapplicationletterto theuniversityto explain why you want to takepartand whatyoucando forthekids.Youwillhave30minutesto write the letter.Youshould writeat leastl20 wordsbutnomorethan180words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2022_09_1-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1 and 2 are based onthe news report you have just heard.",
+          "material": "Question 1. What do we learn from the news report about the study? Question 2. What did the researchers acknowledge? New Report 2. At around half past nine this morning, a trailer attached to a lorry turned over at the crossing of high street and Milton. Hundreds of frozen turkeys were spilled all over the road. It is reported that nobody was hurt in the incident, but police said it may affect traffic and Christmas dinners. With just one week to go before Christmas, there are worries that local supermarket supplies of this holiday favorite may be affected. A police spokeswoman said that officers were currently in attendance at the scene. She stated that the driver of the Lori had been arrested on suspicion of dangerous driving. The crossing on high street is a well-known accident black spot. This year alone, there have been seven traffic accidents at this location. Thankfully, none of these accidents have resulted in serious injury.",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What do we learn from the news report about the",
+              "stemCn": "",
+              "options": {
+                "A": "It examines the effect of cholesterol on people's health.",
+                "B": "Its participantsallhadhighbloodcholesterollevels.",
+                "C": "It questions the benefits of a vegetarian protein diet.",
+                "D": "Its finding came as a surprise to the researchers."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。新闻开头提到，鸡肉等白肉"
+              },
+              "answer": "D",
+              "analysis": "study? 可能会像红肉一样提高血液胆固醇水平，这一发 现让研究人员感到惊讶。因此，答案为D）。"
+            },
+            {
+              "num": 2,
+              "stem": "What did the researchers acknowledge?",
+              "stemCn": "",
+              "options": {
+                "A": "They do not know all the effects ofeating meat.",
+                "B": "Red meat itself does not cause heart diseases.",
+                "C": "White meat maybe healthierthanredmeat.",
+                "D": "Vegetarian protein may be easier to absorb."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。新闻中提到，研究小组承认，白"
+              },
+              "answer": "C",
+              "analysis": "肉比红肉可能更有益于我们的健康。因此，答案为C。 Questions 3 and 4 are based onthe news report you have justheard. Ataroundhalfpast ninethis morning,a trailer attached to a lorry turnedover atthe crossing ofHigh StreetinMilton.Hundreds offrozenturkeys were spilledallovertheroad.It isreportedthatnobody washurt in theincident,but police said it may affecttraffic andChristmas dinners.（3)With justone week to go before Christmas,there are worries that local supermarket supplies of this holiday favorite may be affected. Apolice spokeswoman saidthatofficers were currently in attendance at the scene.She statedthat the driver of the lorry had been arrested on suspicion of dangerous driving. (4)The crossing on High Street is a well-known accident blackspot.This yearalone,there have been seven traffic accidents at this location.Thankfully,none of theseaccidents haveresulted in serious injury."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_09_1-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 3 and 4 are based onthe news report you have just heard.",
+          "material": "Question 3, what does the news report say about the accident at the crossing of high street and Milton? Question 4. What do we learn about the crossing on high street? Use Report 3. India have launched its helicopter taxi service on Monday. Promising the ferry customers, the 40 miles between Bangalore's Electronic City Tech Hub, and the International Airport Terminal in 15 minutes. Customers can book their helicopter ride through a mobile app. The service which planes to be the first of its kind in India offers only one route, but Bengalu airport will add more once it gets approval. Helicopter taxi is not an affordable option for many travelers. A car ride for the same journey costs less than half as much. But Bingo Lourer Airport says it is a competitive alternative to a car ride for tech executives in a hurry. A large number of high-class travelers, including CEOs, have to spend more than three hours by road to get there. And that is a loss of time. A Bingo Lourer Airport spokesperson said, This is not a low-cost option, but it is an option, she added. The helicopters buried around eight customers to the airport on their first day. The company that owns and operates the service is called Thumbi Aviation. It previously specialized in private charter flights for government officials.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What does the news report say about the accident",
+              "stemCn": "",
+              "options": {
+                "A": "It may have been due to the lorry driver's drunk driving.",
+                "B": "It may affect the local supply of turkeys for Christmas.",
+                "C": "It interrupted traffic for several hours running.",
+                "D": "It was caused by a lorry running into a trailer."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。新闻开头提到，今天早上"
+              },
+              "answer": "B",
+              "analysis": "atthe crossing ofHighStreet inMilton? 9:30左右，一辆挂在卡车上的拖车在米尔顿的商业 街十字路口翻倒了，数百只冷冻火鸡散落在道路 上。接着新闻指出离圣诞节只有一周了，人们担心 当地超市的火鸡供应可能会受到影响。因此，答 案为B)。"
+            },
+            {
+              "num": 4,
+              "stem": "What do we learn about the crossing on High",
+              "stemCn": "",
+              "options": {
+                "A": "It has been the scene of several fatal accidents recently.",
+                "B": "It is the spot that causes the local police a lot of worry.",
+                "C": "It has witnessed several traffic accidents this year.",
+                "D": "It is a locationfrequentedbylocal traffic police. Questions 5 to 7 are base don the news report you have just heard. 5.A) Get approval to add more routes."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。新闻中提到，商业街的十字"
+              },
+              "answer": "C",
+              "analysis": "Street? 路口是有名的交通事故多发地区。仅今年一年，这 个地方就已经发生七起交通事故了。因此，答 案为C)。 Questions5to7arebasedonthenews reportyouhave justheard. Indialaunched its helicoptertaxi serviceonMonday,promising to ferrycustomers the 40miles between Bangalore's ElectronicCitytechhubandtheInternationalAirportterminal in15minutes. Customers canbooktheirhelicopterride through amobileapp.（5）Theservice,whichclaims to bethefirst of itskind inIndia,offers onlyoneroute,butBangaloreairportwilladdmore once it gets approval. Helicoptertaxi is notan affordableoptionformany travelers.（6)Acarrideforthe same journeycostsless than halfas much.（7）ButBangalore airport says it isa competitivealternative toa carridefor techexecutives in a hurry.\"Alarge numberofhigh-class travelers,including CEOs,have to spendmore than three hours by road to getthere-and that is a loss oftime,\"a Bangalore airport spokesperson said.\"This is not a low cost option,but it is an option,” she added. Thehelicopters ferried aroundeight customers to theairportontheirfirst day.The company that owns and operates the service is called Thumby Aviation. It previously specialized in private charter flights for government officials."
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2022_09_1-A.mp3",
+        "B": "/audio/papers/cet4-2022_09_1-B.mp3",
+        "C": "/audio/papers/cet4-2022_09_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2022_09_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "word for each blank from a listofchoicesgiven in a word bank following the passage. Read the passage through carefullybeforemaking yourchoices, Each choice in the bank is identifiedby a letter. Please mark thecorrespondingletterforeachitemon Answer sheet 2 with a single line through the centre. You may not use any oft he words in the bank more than once. Public perception of success in the U.S.might be totally misguided. While 92%of people believeothers care most about fame and 26,fewer than 10% factor those qualities into their own success. This is according to the newly 27 studybyHarvardGraduateSchoolofEducationprofessorToddSmith. Smithsays he was 28 by how past studieson success“assumedwhatpeople will care about.”In this study, his team“wentthe_29_direction”by spending years carrying out individual interviews and group surveys to see whatpeoplereallytalkabout when they talk about success. As a scientist, Smith_ 30 studiedindividualityfora living, and even he was surprised to find youngerrespondents caredmoreabouthaving a 31in life. Those betweentheages of 18and 34prioritized it most, andthatprioritizationdroppedoffas respondents'ages went up. Perhaps this is becauseolder people hadfeweroptionswhen they were starting their careers, at a time whenvaluesfocusedmore on stable incomes than 32 personal missions. Othertrendsincludedanemphasisontheimportanceofparenting. Being a parent 33veryhighacross theprioritiesofallstudyparticipants. Ultimately, Smithhopes institutions will take note of these insights 34 . Higher education institutions tend to focus on preparing studentsforhigh-paying jobs. For such institutions, from universities to workplaces, to better 35_people in theU.S., they'll need to understand\"what the American public highlyprioritizes,\"Smithsays.",
+          "wordBank": {
+            "A": "accommodate",
+            "B": "accordingly",
+            "C": "acquiring",
+            "D": "bothered",
+            "E": "fortune",
+            "F": "fulfilling",
+            "G": "identify",
+            "H": "literally",
+            "I": "opposite",
+            "J": "profession",
+            "K": "purpose",
+            "L": "ranked",
+            "M": "released",
+            "N": "similarly",
+            "O": "wrong"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前有介词about和and连接的并"
+              },
+              "answer": "E",
+              "analysis": "列名词fame，因此本空应填入名词。 【语义判断】空格所在句意为：尽管有92%的人认 为别人最在乎名声和 ，但只有不到10% 的人把这些品质考虑到自己的成功中。and一般 连接意思相近的词或短语，备选项中，跟fame“名 声”意思相近的只有fortune“巨款”。fameand 2022.9/15 fortune=beingrichandfamous，意为“名和利”， 因此答案为E）fortune。factor..into意为 “把……考虑在内”。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格前是副词newly，空格后是名词"
+              },
+              "answer": "M",
+              "analysis": "study，因此本空应填入形容词或动词的过去分词 形式。 【语义判断】空格所在句意为：这是根据哈佛大学 教育研究生院的教授托德·史密斯最新 研究得出的结论。由句意可知，本空应填入含有 “公布，发表”意义的词，由此确定答案为M) released。在这里released是动词的过去分词作 定语，修饰study。备选的其他形容词和动词均没 有此含义，因此排除。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前有be动词was，空格后有介词"
+              },
+              "answer": "D",
+              "analysis": "by，因此本空应填入形容词或动词的-ed形式。 【语义判断】空格所在句意为：史密斯说，过去关 于成功的研究“假设人们会关心什么”，这让他 。由句意可知，本空应填入表达某种情 L） 绪的词，由此确定答案为D)bothered。备选的其 他形容词和动词-ed形式均不能表达情绪，因此 排除。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "I 【语法判断】空格前有定冠词the，后面有名词 direction，因此本空应填入形容词。 【语义判断】空格所在句意为：在这项研究中，他 个人访谈和群体调查，就为了弄明白人们在谈论 成功时真正谈论的是什么。由此可知，史密斯的 团队与以前研究成功的团队采取了截然不同的方 式，他们没有对成功的定义做出假设，因此本空应 填人含有“不同的，相反的”意义的形容词，由此确 定答案为I)opposite。备选的其他形容词均没有 此含义，因此排除。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】分析句子结构可知，本句成分完整，"
+              },
+              "answer": "H",
+              "analysis": "因此空格处应填入副词作状语。 【语义判断】空格所在句意为：作为一名科学家， 史密斯 以研究个性为生。将备选副词分 别代入句中，只有literally“确实”符合句意，因此 答案为H)。B)accordingly、N）similarly和O) wrong代入句中均不符合句意，故排除。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格前有不定冠词a，空格后有介词"
+              },
+              "answer": "K",
+              "analysis": "2022.9/16 in，因此本空应填入名词。 【语义判断】空格所在句意为：甚至他惊讶地发 现，年轻的受访者更关心生活要有 。将 备选名词代入句中，只有purpose“目的”使句意通 顺，故答案为K）purpose。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格所在句的句子主干是values"
+              },
+              "answer": "F",
+              "analysis": "focused more on..than.….。than在这里用于引出 比较的第二部分，前面是名词词组stable incomes，故后面的应该是名词词组或动名词词组。 若than后面出现动词，通常用动词-ing形式。 【语义判断】空格所在句意为：这可能是因为年长 的人在刚开始职业生涯时选择较少，当时的价值 观更关注稳定的收入，而不是 个人使命。 将备选词分别代入句中，只有fulfillingpersonal missions“实现个人使命”符合句意，由此确定答案 为F)。C）acquiring“获得；得到”不符合句意， 故排除。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "ranked“具有….等级（地位）”可与"
+              },
+              "answer": "L",
+              "analysis": "【语法判断】空格前的Beingaparent是本句的主 语，本句缺少谓语，因此本空应填入动词。 【语义判断】空格所在句意为：在所有研究参与者 的优先级中，为人父母 非常重要。备选 high搭配，构成rankedhigh，意为“非常重要”。 备选的其他动词均没有此含义，因此排除。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "accordingly。备选的其他副词均没有此含"
+              },
+              "answer": "B",
+              "analysis": "【语法判断】分析句子结构可知，本句成分完整， 空格前的willtakenoteofthese insights是“谓语 +宾语”的结构，因此空格处应填入副词。 【语义判断】空格所在句意为：最终，史密斯希望 各类机构能 注意到这些见解。上文提到 了不同年龄阶段有各自的优先事项，也有共通的。 由此可知，史密斯希望各机构能注意到对应不同 人群的优先事项，因此本空应填入含有“对应地， 相应地”意义的副词，由此确定答案 义，因此排除。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】分析句子结构可知，空格所在部分作"
+              },
+              "answer": "A",
+              "analysis": "目的状语，空格前的to为动词不定式的标志， better“更好地”是well的比较级，因此本空应填 入动词原形。 【语义判断】空格所在句意为：对于这些机构来 说，无论是大学还是职场，为了更好地 美 国人，他们需要了解“美国公众高度重视的是什 么”。本段第一句提到，高校倾向于把重点放在让 学生为高薪工作做准备上，而高薪并非年轻人的 优先考虑事项，所以各类机构要了解美国公众究 参考译文 美国公众对成功的看法可能完全被误导了。 竟优先考虑什么，从而更好地适应这些人的需求。 因此本空应填入含有“适应，满足”意义的动词，由 此确定答案为A）accommodate。备选的其他动 词原形没有此含义，因此排除。 尽管有92%的人认为别人最在乎名利，但只有不到10%的人把这些品质考虑到自己的成功中。这是 根据哈佛大学教育研究生院的教授托德·史密斯最新发布的研究得出的结论。史密斯说，过去关于成功 的研究“假设人们会关心什么”，这让他感到困扰。在这项研究中，他的团队“反其道而行”，花了数年时间 进行个人访谈和群体调查，就为了弄明白人们在谈论成功时真正谈论的是什么。 作为一名科学家，史密斯确实以研究个性为生，甚至他惊讶地发现，年轻的受访者更关心生活要有目 标。年龄介于18到34岁之间的人最优先考虑这个问题，但随着受访者年龄的增长，这种优先考虑的程度 下降了。这可能是因为年长的人在刚开始职业生涯时选择较少，当时的价值观更关注稳定的收入，而不 是完成个人使命。 其他趋势还包括强调为人父母的重要性。在所有研究参与者的优先级中，为人父母非常重要。最终， 史密斯希望各类机构能相应地注意到这些见解。 高等教育机构倾向于把重点放在让学生为高薪工作做准备上。史密斯说，对于这些机构来说，无论 是大学还是职场，为了更好地适应美国人，他们需要了解“美国公众高度重视的是什么”。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_09_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "C) It breeds long-term passion and enthusiasm.\nD) It is bound to help us achieve greatersuccess.\nA) At whatever grade level teachersfindthemselves, from kindergarten to the final class at\nB) So it was whenarecentlettercamefromKelliHarding, a student 2lyearsago in my\nC) Her year-long serviceincludedcomfortingAIDspatients at a free health clinic and\nD) Kelli'sletter, aliterateupdateonbothherpersonalandprofessional life, touchedmy\nE) IfKelli standsout, it's because she is also a gifted writer. Last month, AtriaBooks\nF) Withablendingoffree-flowingconfessionalproseandscholarlyresearchfoundin 461\nG) Enter therabbits-not those running around in our woodlands butones serving in two\nH) The reason?Insteadofreceivingthestandardcaregiventolabanimals, the 60%group\nI) AmidthepoliticalnoiseaboutObamacare, Medicare, Medicaid, health insurance and\nJ) \"The rabbit effect,” she explains, means that“whenitcomes to our health, we'vebeen\nK) In more than a few passages, she relates the stories of menand women who cameup\nL) Kelliwastesno timetakingpotshotsat（随意批评) themedicalestablishmentandits\nM) It'sa guess how many George Engels in their white jacketsareatwork these day sand\nA) Overhalfofthestudents inter vie wed were unaware they werecheating.\nB) Cheating was becoming a way of life for a majority of high schoolteens.\nC) More than half oft he intervieweesfelt no sense of guiltovercheating.\nD) Cheating was getting more and more difficult for high school students.\nA) Most parents tended to over protect their children.\nB) Many students commit ted cheating unknowingly.\nC) Students were in urgent need of ethical education.\nD) Parents andkids hadconflicting ideasovercheating.\nB) They help each other to cover up theiracts.\nC) They keep changing their ways of cheating.\nA) Bring policies against cheating up to date.\nC) Take advantage of the latest technologies.\nD) Alert parents to their children's behaviour.\nA) Prevent students fromoverusing electronic devices.\nB) Develop more effective anti-cheating strategies.\nC) Find more ways to curb students'unethical acts.\nD) Guard against students 5 misuse of technology.\nC) Reexamine its effects on employees'behaviors.\nD) Reflect on its differences from working in the office.\nB) The ability to maximize work efficiency.\nC) The ability tofinishtasks in a timely manner.\nD) The ability to work with the least supervision.\nA) To evaluate theiremployees of similar rank in a consistent way.\nB) To keep a watchful eye on those employees who perform poorly.\nC) To helpemployees in need adapt to the new work environment.\nD) To maintain connections with theiremployees away from office.\nA) Urging theiremployees toad apt to the new situation.\nB) Rewarding their employees in unconventional ways.\nC) Identifyingemployees who make little contribution.\nD) All owing their employees to look for part-time jobs.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "KelliHardingalso distinguishes herself by her literary talent.",
+              "stemCn": "【定位】由题干中的KelliHarding、distinguishes I）",
+              "options": {},
+              "optionCn": {
+                "E": "段第"
+              },
+              "answer": "E",
+              "analysis": "一句。 而出，那是因为她也是一位天才作家。题干中的 KelliHarding对应定位句中的Kelli，题干中的 distinguishesherself是对定位句中standsout的 同义转述，题干中的literarytalent对应定位句中 的a giftedwriter，故答案为E）。"
+            },
+            {
+              "num": 37,
+              "stem": "KelliHarding doesn't think america's medical model is sufficientforpatients who need",
+              "stemCn": "【定位】由题干中的KelliHarding、doesn'tthink、",
+              "options": {},
+              "optionCn": {
+                "K": "段倒"
+              },
+              "answer": "K",
+              "analysis": "数第三、四句。 实践中，“我”看到的病情最严重的人往往有着相似 的背景：孤独、虐待、贫困或歧视。对他们来说，医 B 疗模式是不够的。题干中的KelliHarding对应 定位句中的I，题干中的doesn'tthinkAmericas medicalmodelissufficient对应定位句中的the medicalmodelisn'tenough，故答案为K）。"
+            },
+            {
+              "num": 38,
+              "stem": "Kelli Harding differsfromthose see king quick and simple solutionsto America's",
+              "stemCn": "【定位】由题干中的differsfrom和quickand",
+              "options": {},
+              "optionCn": {
+                "I": "段第一句。"
+              },
+              "answer": "I",
+              "analysis": "2022.9/17 【精析】细节归纳题。定位句提到，在关于奥巴马 医改、医疗保险、医疗补助、健康保险和强取豪夺 的医药公司的政治喧嚣中，凯莉·哈丁与呼吁快 速解决问题、越简单越好的群体不同。题干中的 differs from those seeking quick and simple solutions是对定位句中standsapartfromthe crowd calling for quickfixes,the simpler the better的同义转述，题干中的America'smedical problems是对定位句中thepoliticalnoiseabout Obamacare,Medicare,Medicaid,healthinsurance andthieving pharmaceuticalcompanies的归纳总 结，故答案为I。"
+            },
+            {
+              "num": 39,
+              "stem": "KelliHarding was a participant in a summer course the author taught.",
+              "stemCn": "【定位】由题干中的KelliHarding和summer",
+              "options": {},
+              "optionCn": {
+                "B": "段第一句。"
+              },
+              "answer": "B",
+              "analysis": "【精析】同义转述题。定位句提到，作者最近收到 了一封来自凯莉·哈丁的信，她是21年前作者在 华盛顿上和平研究暑期课的学生。题干中的a participant in a summer course the author taught 是对定位句中a student2lyearsago inmyPeace Studies summercourse的同义转述，故答案为B)。"
+            },
+            {
+              "num": 40,
+              "stem": "According to Kelli Harding, scientificadvances have notmade Americans healthier, nor",
+              "stemCn": "【定位】由题干中的KelliHarding、scientific",
+              "options": {},
+              "optionCn": {
+                "F": "段第二、三句。 F"
+              },
+              "answer": "F",
+              "analysis": "advances、not made Americans healthier和nor 丁）写道：“尽管我们取得了科学进步，但美国人的 健康状况非常糟糕。2016年，美国的预期寿命在 世界上排名第43位。”题干中的scientific advances对应定位句中的scientific progress，题 干中的havenotmadeAmericanshealthier是对 定位句中Americansareremarkablyunhealthy 的同义转述，题干中的norprolongedtheirlife是 对定位句中In2016，theUnitedStatesranked forty-third in theworldforlife expectancy的归 纳总结，故答案为F）。"
+            },
+            {
+              "num": 41,
+              "stem": "The author was deeplymovedby whatKelliHardingwroteabouthercurrentlife.",
+              "stemCn": "【定位】由题干中的deeplymoved、KelliHarding C)",
+              "options": {},
+              "optionCn": {
+                "D": "段第一句。"
+              },
+              "answer": "",
+              "analysis": "是她个人生活和职业生涯的最新写照，触动了 “我”的内心。题干中的Theauthorwasdeeply moved对应定位句中的touchedmyheart，题干 中的whatKelliHarding wroteabouthercurrent life是对定位句中aliterateupdateonbothher personal andprofessional life的概括归纳，故答 案为D）。"
+            },
+            {
+              "num": 42,
+              "stem": "George Engel, in treating his patients, notonlylooks intotheirsymptomsbutalso into",
+              "stemCn": "【定位】由题干中的GeorgeEngel、notonly和but",
+              "options": {},
+              "optionCn": {
+                "L": "段第二句。"
+              },
+              "answer": "L",
+              "analysis": "注患者的身体状况，也会关注患者的生活小细节， 比如她是否在病房里挂着家庭照片，是否收到别 人送的鲜花。题干中的notonlylooksintotheir symptoms butalso into things like the emotional supporttheyreceive是对定位句中noticednot just a patient's physical conditionbutlittle details about her life,such as if shehadfamily pictures up in her hospitalroom or flowers delivered的归 纳总结，故答案为L）。 参考译文"
+            },
+            {
+              "num": 43,
+              "stem": "AccordingtoKelliHarding, rabbits'health had more to dowithhumans'kindness to",
+              "stemCn": "【定位】由题干中的rabbits’health、kindness和",
+              "options": {},
+              "optionCn": {
+                "H": "段最后两句。"
+              },
+              "answer": "",
+              "analysis": "还是健康的不是饮食或基因，而是善良。题干中 的rabbits'health hadmore to do with humans kindness to them than their dietor genetics是对 定位句Itwasn't dietor geneticsthat madea difference in which rabbits got sick and which stayedhealthy.It was kindness.的同义转述，故答 案为H)。"
+            },
+            {
+              "num": 44,
+              "stem": "WhatKelliHardingwentthroughinWashingtonchangedherlife.",
+              "stemCn": "【定位】由题干中的KelliHarding、went through、",
+              "options": {},
+              "optionCn": {
+                "C": "段第"
+              },
+              "answer": "C",
+              "analysis": "三句。 【精析】同义转述题。定位句提到，在华盛顿的经 历，凯莉后来称之为“颠覆性的”，是她进入医学领 域的动力，促使她获得了哥伦比亚大学公共卫生 硕士学位和罗切斯特大学医学学位，并在纽约长 老会医院担任了近20年的急诊室精神科医生和 哥伦比亚大学欧文医学中心的精神病学临床教 授。题干中的WhatKelliHardingwentthrough inWashington对应定位句中的TheWashington experience，题干中的changedher life是对定位 句中transformative的同义转述，故答案为C)。"
+            },
+            {
+              "num": 45,
+              "stem": "A socialaspecttohealthhasnotbeentakenintoaccount in tryingtoprovidethebest",
+              "stemCn": "【定位】由题干中的Asocial aspect tohealth、not",
+              "options": {},
+              "optionCn": {
+                "J": "段倒数第二句。"
+              },
+              "answer": "",
+              "analysis": "been taken into account和thebestmedicalcare 【精析】细节辨认题。定位句提到，在寻找最佳和 最前沿医疗保健的努力中，“我们”彻底忽视了影 响健康的社会层面。题干中的Asocialaspectto health对应定位句中的asocialdimensionto health，题干中的hasnotbeentaken intoaccount 是对定位句中we'vecompletelyoverlooked的同 义转述，题干中的tryingtoprovidethebest medicalcare对应定位句中的oureffortstofind thebest and mostcutting-edge medical care，故答 案为J）。 一只兔子的研究和一个前学生是如何激发我对“爱和尊严”未来的希望的 重新出现，讲述他们的人生近况，以及他们四处奔波时是多么坚韧的时候，很少有什么时刻能像这样 令他们激动不已。 一次免费上课，宽的教室是由拉尔夫·纳德和他的非营利组织“公民”提供的，上课以讨论为基础，不 需要无用的作业或考试。只要参与进来，想办法增加和平，减少暴力。今天就做，明天就太晚了。该课 程吸引的主要是国会实习生，只有少数例外，比如凯莉，她是美国服务队在华盛顿的志愿者。 2022.9/18 大学伯克利分校主修政治学的本科时代截然不同。（44）在华盛顿的经历，凯莉后来称之为“颠覆性 的”，是她进入医学领域的动力，促使她获得了哥伦比亚大学公共卫生硕士学位和罗切斯特大学医学学 位，并在纽约长老会医院担任了近20年的急诊室精神科医生和哥伦比亚大学欧文医学中心的精神病 学临床教授。 仍然保留着“解决暴力”这门课的课本，还说“它仍然是我最喜欢的物品之一”。她在飞往伦敦的航班上 遇到了她的丈夫帕德里克，现在她和丈夫及三个儿子生活在曼哈顿下城。 应：用开创性的善良科学活得更久、更快乐、更健康》一书。 F在461篇笔记中，凯莉融合了自由流畅的自白散文和学术研究，满足了我对她的期望——她的想法和 理想将是正确且独特的。（40）“尽管我们取得了科学进步，”她写道，“美国人的健康状况非常糟糕。 2016年，美国的预期寿命在世界上排名第43位……它也是迄今为止世界上看病最贵的地方。” 服务的兔子，这些实验旨在测试高脂肪饮食的影响，以及胆固醇与心脏病之间的联系。在饮食相似的 情况下，预期所有的兔子都会出现类似的动脉阻塞。然而，其中一组却减少了60%。 的标准护理，“她对待动物的方式不同。当她喂兔子时，她与它们交谈，抚摸它们。她不光是分发食物， 还给予它们爱……研究表明，传统的生物医学模型中缺失一些东西。（43）决定了兔子生病还是健康的 不是饮食或基因，而是善良。” 凯莉·哈丁与呼吁快速解决问题、越简单越好的群体不同。她在医院大厅里走了太多的路，探望了太 多病入膏育的人，看到了太多认同传统思维的医疗错误。 因素。爱、友谊和尊严等因素。我们的社区、学校和工作场所的设计。（45）在寻找最佳和最前沿医疗 保健的努力中，我们彻底忽视了影响健康的社会层面……与医生办公室里发生的任何事情相比，最终 影响我们健康的最有意义的方式，是我们如何对待彼此，如何生活，以及如何思考人类的意义。 为肉块而已。“临床上，”她写道，“常见的情况是，两个病情相同的患者，比如心脏病发作后康复的患 者，根据看似无关的因素，比如他们的家庭关系或教育水平，有两种截然不同的疗程。（37）在我的行医 实践中，我看到的病情最严重的人往往有着相似的背景：孤独、虐待、贫困或歧视。对他们来说，医疗模 式是不够的。这就像是在修理飞机引擎，却忽略了飞行员正在酒吧喝第三杯酒，上空有一场巨大的风 暴……为了妥善照顾病人，我们还需要关心正在接受治疗的人的生活。” 持有积极的态度，她举例赞扬了她的医学院教授乔治·恩格尔，“他不仅总是关注患者的身体状况，也 会关注患者的生活小细节，比如她是否在病房里挂着家庭照片，是否收到别人送的鲜花。他是那种值 得信任的医生，你看到他时会感到如释重负，会欢迎他进入病房给你生病的家人看病。他会坐下来与 患者交谈，不光是聊病症，还会聊她的生活和当务之急。他建立了一个庞大的咨询服务，来解决住院患 者的整体需求，其中就包括心理和社会因素。” 总数很多，并且会越来越多。 2022.9/19"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_09_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Academic dish one sty is nothing new. As long as there have been homework assignments andtests, there have been cheaters. The way thatcheatinglooks has changed over time, though, particularlynowthattechnologyhasmade it easier than ever.A study by theJosephsonInstituteofEthics inter vie wed 23,0oohighschoolstudentsandaskedthema variety ofquestionsaboutacademic ethics. Oft he teens surveyed,5lpercent saidthatthey hadknowingly cheated at some point on an exam butt hat they did not feel uneasy about the behaviour.A commonsense media survey found that 35 -percentofstudentshadcheated via smart phone, thought he parents surveyed in that particular study did not believe their kidshad evercheated. Inmanycases, students did not realize that strategies likelookingup answers on a smart phone were actually cheating at all. In today's classrooms, students who cheat are rarely caught. There are noformulas written on the insides of hands or students lookingacross the aisle, or whispering answers to theirclassmates. Today's students use smartphones, tabletsorevenin-class computersto aid their cheatingattempts and leave not race oft heir crimes. Since cheating through technology is notlisted specifically as being against therules in many schoolpolicies, students do not view the actions unethical. 2022年9月英语四级真题1套第7页共10页 ===== PAGE 8 ===== The technology is being adopted so quickly that school districts cannot adequately keep up with cheating policies, or even awareness campaigns that alert students to the problem with usingtechnology to findanswers in a certain way. From a young age, studentslearnthatanswersexistconvenientlyattheirfingertipsthroughsearchenginesand expert websites. Schoolsmust develop anti-cheatingpolicies thatincludetechnologyandthese policies mustbeupdatedconsistently. Teachers must stay on guard when it comes to what their studentsaredoing inclassrooms andhowtechnologycouldbeplaying a negative role in the learning process. Parentsmustalso talk to theirkids about the appropriate ways to find academic answers and alert them to unethicalbehaviours that may seem innocent in their own eyes.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do we learn from the study by theJosephsonInstitute of ethics?",
+              "stemCn": "【定位】由题干中的the studybytheJosephson",
+              "options": {
+                "A": "Overhalfofthestudents inter vie wed were unaware they werecheating.",
+                "B": "Cheating was becoming a way of life for a majority of high schoolteens.",
+                "C": "More than half oft he intervieweesfelt no sense of guiltovercheating.",
+                "D": "Cheating was getting more and more difficult for high school students."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位段第五句指出，在接受"
+              },
+              "answer": "C",
+              "analysis": "InstituteofEthics定位到第一段。 调查的青少年中，有51%的人表示自己在某次考 试中有意作弊，但他们并没有对这种行为感到不 安。由此可见，一半以上的受访者对作弊没有负 罪感，故答案为C）。 【避错】首段最后一句提到，在许多情况下，学生 丝毫没有意识到用智能手机查找答案这样的策略 实际上是作。这个研究结果是由通识传媒调查 得出的，而非约瑟夫森伦理研究所。其次本句话 中的学生是泛指，并没有明确指出学生是指一半 以上的受访学生，故排除A）。本段第四、五句只 是指出，在受访的23,000名高中生中，51%的学 生有意作弊，而非“作弊正在成为大多数高中生的 生活方式”，B）属于过度推断，故排除。约瑟夫森 伦理研究所的研究并未涉及作弊难易程度问题。 同时第二段第一句也表示，如今学生作弊很难被 发现。此结论也与选项D）矛盾，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What did the common Sense Media survey reveal?",
+              "stemCn": "【定位】由题干中的theCommonSenseMedia定",
+              "options": {
+                "A": "Most parents tended to over protect their children.",
+                "B": "Many students commit ted cheating unknowingly.",
+                "C": "Students were in urgent need of ethical education.",
+                "D": "Parents andkids hadconflicting ideasovercheating."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。文章第一段倒数第一句提"
+              },
+              "answer": "B",
+              "analysis": "位到第一段倒数第一、二句。 到，在许多情况下，学生丝毫没有意识到用智能手 机查找答案这样的策略实际上是作弊。由此可 知，通识传媒的调查揭示了许多学生在不知不觉 D) 中作弊，故答案为B)。 【避错】文章第一段倒数第二句提到，通识传媒的 一项调查发现，35%的学生曾用智能手机作。 这些学生的父母同时也接受了该调查，但他们并 不相信自己孩子曾作过弊。本句只能说明这些父 母对孩子的认知有偏差，并不能推出“大多数父母 倾向于过度保护自己的孩子”，A）选项属于过度 推断，故排除。同时，根据这句话也无法推断出 “父母和孩子在作弊问题上存在分歧”，故排除 们迫切需要道德教育”，故排除C）。 2022.9/20"
+            },
+            {
+              "num": 48,
+              "stem": "Why do students rarely get caught cheating nowadays?",
+              "stemCn": "【定位】由题干中的rarely get caught和cheating",
+              "options": {
+                "A": "They copyformulas on their palms.",
+                "B": "They help each other to cover up theiracts.",
+                "C": "They keep changing their ways of cheating.",
+                "D": "They make use of modern technology."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位段第三句指出，如今的学"
+              },
+              "answer": "D",
+              "analysis": "nowadays定位到第二段。 生使用智能手机、平板电脑甚至课堂电脑作，而且 不会留下任何犯罪痕迹。由此可知，学生们利用现 代科技作弊，这样不会留下痕迹，故答案为D)。 【避错】第二段第二句提到，学生没有把公式写在 手心里。A）的表述与此矛盾，故排除。文章中并 未提及“他们互相帮助，掩盖自己的行为”，故排除 机、平板电脑甚至课堂电脑作。但该句并不能 说明“学生们不断改变作弊的方式”，故排除C）。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the author think schools should do to tackle cheating?",
+              "stemCn": "【定位】由题干中的author、schools和tackle",
+              "options": {
+                "A": "Bring policies against cheating up to date.",
+                "B": "Reform their exam methods constantly.",
+                "C": "Take advantage of the latest technologies.",
+                "D": "Alert parents to their children's behaviour."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句提到，学校必须制定"
+              },
+              "answer": "A",
+              "analysis": "cheating定位到第四段第一句。 包含技术在内的反作弊政策，而且这些政策必须 持续更新。由此可见，作者认为学校应该更新反 作弊政策，故答案为A)。 【避错】文章第四段有关学校政策的内容中，并未 提及改革考试方法、利用最新的科技以及通知家 长。针对家长的建议是在本段最后一句指出，并 不属于学校的政策，故排除B）、C）和D）。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author suggest teachers do in the classroom?",
+              "stemCn": "【定位】由题干中的author suggest teachers doin",
+              "options": {
+                "A": "Prevent students fromoverusing electronic devices.",
+                "B": "Develop more effective anti-cheating strategies.",
+                "C": "Find more ways to curb students'unethical acts.",
+                "D": "Guard against students 5 misuse of technology. 2022年9月英语四级真题1套第8页共10页 ===== PAGE 9 ====="
+              },
+              "optionCn": {
+                "D": "中的"
+              },
+              "answer": "D",
+              "analysis": "theclassroom定位到最后一段第二句。 【精析】推理判断题。定位句指出，教师必须保持 警惕，了解学生在课堂上的一举一动以及科技如 何在学生学习过程中起负面作用。由此可见，作 misuseoftechnology对应定位句中的playinga negativerole，故答案为D)。 【避错】通过定位句可知，作者建议教师防止学生 错误使用科技，而非防止学生过度使用科技，故排 除A）。本段并未提及教师制定更有效的反作 策略，故排除B）。定位句指出，教师应注意科技 对于学生学习产生的负面作用，而非学生的不道 德行为，故排除C）。 参考译文 学术不端并不是什么新鲜事。只要有作业有考试，就有作弊者。不过，随着时间的推移，作弊的方式 已经有了变化，特别是现在，科技使作弊比以往任何时候都更容易。约瑟夫森伦理研究所做了一项研究， 采访了23,000名高中生，问了他们各种关于学术道德的问题。（46）在接受调查的青少年中，有51%的人 表示自己在某次考试中有意作弊，但他们并没有对这种行为感到不安。（47）通识传媒的一项调查发现， 35%的学生曾用智能手机作弊，这些学生的父母同时也接受了该调查，但他们并不相信自己的孩子曾作 过弊。在许多情况下，学生丝毫没有意识到用智能手机查找答案这样的策略实际上是作弊。 在如今的课堂上，作弊的学生很少会被发现。他们没有把公式写在手心里，没有隔着过道四处张望， 也没有小声告诉同学答案。（48）如今的学生使用智能手机、平板电脑甚至课堂电脑作弊，而且不会留下任 何犯罪痕迹。目前，许多学校并没有明确把利用科技手段作弊列为违反规则的行为，所以学生们并不认 为这种行为不道德。 科技被采用得太快了以至于学区无法完全跟上作政策，甚至也没有开展宣传活动，提醒学生注意 使用科技搜索答案的问题。学生从小就知道，通过搜索引擎和专家网站，答案很快就能搜索出来。 （49）学校必须制定包含技术在内的反作弊政策，而且这些政策必须持续更新。（50）教师必须保持警 惕，了解学生在课堂上的一举一动以及科技如何在学生学习过程中起负面作用。家长也必须与孩子讨论 找到学术答案的适当方法，并提醒他们注意不道德的行为，尽管这些行为在自己看来可能没什么大不了。 Passage Two 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_09_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Remote work is about more than just working from home—it means working differently. Organizations should reconsider the appropriateness of their performance evaluationproceduresinlightoftheshifttoremote work. Thisrequires a fundamental rethinkingofwhatorganizations expect from employee sand what companies would look for in a model employee in a remote work context. It is likely that the“first to arrive and last to leave\"mentalityis no longer relevant, but shouldbereplacedbyaregardfor the quality of an employee's contribution to the organization. This means that work shouldbemeasured in term soft he quality oft he work, not justthequalityoftheprocess. As remote work is largely unobservable to supervisors, employers need to think about how they can objectively measure the quality of work in a way that is consistent foremployees of similar rank. Focusing on output alone can have unintendedconsequences. Employers should think instead about the values and soft skills they want to emphasize in a remote work environment. Qualitieslikeflexibility and the ability to work under minimal supervision might become critical. Muchhasbeenwritenabouttheimportanceoftimelyfeedback. In the context of a global pandemic(大流行病),firms may want to provide additional support to employees by providing morefrequentcommunication. Thisallows managerstoboth keep an eye on struggling employees and provide ongoing feedback on how employees are adapting to their new work environment. Compensation alsoneeds toberevisited. Thepurposeofperformance evaluation is ultimately to determine how torewardemployeesfor their work. This means that pay structures need toad apt to the reality of working from home. However, organizations also need to be honest withemployees about the financial impact ofcoviD-19. Fororganizations thathavestruggledtokeepthe light son due to the pandemic this might mean thinkingofnon-financialways torewardemployees, like unpaid time off or flexible work schedules. Employers can also consider how to bundle differenttypesof compensation to help employees cope with their unique situations.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author say companies should do in the context of remote work?",
+              "stemCn": "【定位】由题干中的companies shoulddointhe",
+              "options": {
+                "A": "Reform performance evaluation.",
+                "B": "Rethinktheorganizationalfundamentals.",
+                "C": "Reexamine its effects on employees'behaviors.",
+                "D": "Reflect on its differences from working in the office."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，鉴于向远程工"
+              },
+              "answer": "A",
+              "analysis": "context ofremotework定位到首段第二句。 作方式转变的趋势，各公司应重新思考其绩效评 估程序是否合适。由此可见，作者认为在远程工 作中公司应改革绩效评估，故答案为A）。 【避错】本段并未提及有关公司基本原则问题，故 排除B）。本段第三句指出，这需要从根本上重新 思考公司对员工的期望，以及公司在远程工作背景 下对模范员工的要求。而非各公司需要重新考虑 “远程工作对于员工行为的影响”或“远程工作与办 公室工作的差异”，C）和D）为无中生有，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What should be prioritized in assessing employees'remote work?",
+              "stemCn": "【定位】由题干中的prioritized inassessing",
+              "options": {
+                "A": "Thequantityoftheiroutput.",
+                "B": "The length oft heir work time. 2022年9月英语四级真题1套 第9页共10页 ===== PAGE 10 =====",
+                "C": "The quality of their contribution.",
+                "D": "The flexibility of their work schedules."
+              },
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "employees’remote work定位到第二段第一句。 心态很可能不再适用了，取而代之的是关注员工对 公司贡献的质量。由此可知，在评估员工远程工作 时应优先考虑员工贡献的质量，故答案为C。 【避错】本段并未提及员工产出的数量，故排除 适用了，由此可见，工作时长在评估员工远程工作 的绩效时，并不是现在应优先考虑的因素，故排除 排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "What quality intheemployees wouldbeofgreatimportance in a remote work context?",
+              "stemCn": "【定位】由题干中的quality intheemployees和",
+              "options": {
+                "A": "The ability to produce quality work.",
+                "B": "The ability to maximize work efficiency.",
+                "C": "The ability tofinishtasks in a timely manner.",
+                "D": "The ability to work with the least supervision."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，雇主应该转而"
+              },
+              "answer": "D",
+              "analysis": "2022.9/21 importance定位到第三段第二、三句。 思考自己在远程工作环境中想强调的价值观和软 技能。灵活处理问题以及在最少的监督下工作的 能力等品质可能变得至关重要。由此可见，在远 程工作环境中，雇员在最少的监督下工作的能力 至关重要，故答案为D）。D）中的theleast supervision与定位句中的minimalsupervision为 同义转换。 【避错】文中未提及“完成高质量工作的能力”“工 作效率最大化的能力”以及“及时完成任务的能 力”，故排除A）、B）和C）。"
+            },
+            {
+              "num": 54,
+              "stem": "Why is it importantforfirms to provide timely feedback during the pandemic?",
+              "stemCn": "【定位】由题干中的provide timelyfeedback定位",
+              "options": {
+                "A": "To evaluate theiremployees of similar rank in a consistent way.",
+                "B": "To keep a watchful eye on those employees who perform poorly.",
+                "C": "To helpemployees in need adapt to the new work environment.",
+                "D": "To maintain connections with theiremployees away from office."
+              },
+              "optionCn": {
+                "C": "。 【避错】",
+                "A": "“以一致的方式衡量相似级别的员工”"
+              },
+              "answer": "C",
+              "analysis": "到第四段。 【精析】推理判断题。第四段第一句提到，很多文 章都论述了及时反馈的重要性，第四段第三句提 到这样主管既能关注到遇到问题的员工，又能对 员工适应新工作环境的情况提供持续的反馈。由 此可知，及时提供反馈可以帮助有需要的员工适 在文章第二段有所提及，但并不能说明公司在新 冠疫情期间及时提供反馈的重要性，故排除。文 章第四段第三句提到，通过提供及时反馈，主管既 能关注到遇到问题的员工，又能对员工适应新工 作环境的情况提供持续的反馈。由此可知，给予 及时反馈并不是为了要盯着表现不佳的员工，也 不是为了要与员工保持联系，而是要使他们适应 新的工作环境，故排除B）和D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What is the author's suggestion to employers who experience the financial impact oft he pandemic?",
+              "stemCn": "【定位】由题干中的author's suggestion和",
+              "options": {
+                "A": "Urging theiremployees toad apt to the new situation.",
+                "B": "Rewarding their employees in unconventional ways.",
+                "C": "Identifyingemployees who make little contribution.",
+                "D": "All owing their employees to look for part-time jobs."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。第六段指出，对于那些因新"
+              },
+              "answer": "B",
+              "analysis": "financial impactofthepandemic定位到第六段。 冠疫情而难以维系的公司来说，这可能意味着要 考虑用非财务的福利来奖励员工，如无薪休假或 参考译文 灵活的工作时间。雇主还可以考虑如何组合不同 类型的补偿，帮助员工应对自己的特殊情况。由 此可见，作者建议财务受到大流行病影响的雇主 以非传统的方式奖励员工。B）中的 unconventionalways对应定位段中的non- financialways，故答案为B)。 【避错】A）“敦促员工适应新环境”C）“找出贡献 率低的员工”和D）“允许员工找兼职工作”在原文 中未提及，因此均可排除。 远程工作不仅仅是在家工作——而是意味着以不同的方式工作。（51）鉴于向远程工作方式转变的趋 势，各公司应重新思考其绩效评估程序是否合适。这需要从根本上重新思考公司对员工的期望，以及公 司在远程工作背景下对模范员工的要求。 （52）“早到晚走”的心态很可能不再适用了，取而代之的是关注员工对公司贡献的质量。这意味着工 作应该以工作的质量来衡量，而不仅仅是过程的质量。在远程工作模式下，主管人员无法观察到员工的 大部分工作状态，因此雇主需要考虑如何客观地衡量员工的工作质量，并且使衡量标准在相似级别员工 中保持一致。 仅仅关注产出可能会产生意料之外的后果。（53）雇主应该转而思考自己在远程工作环境中想强调的 价值观和软技能。灵活处理问题以及在最小的监督下工作的能力等品质可能变得至关重要。 （54-1）很多文章都论述了及时反馈的重要性。在全球大流行病的背景下，公司可能希望通过更频繁 的沟通来为员工提供额外的支持。（54-2）这样主管既能关注到遇到问题的员工，又能对员工适应新工作 环境的情况提供持续的反馈。 薪酬也需要重新考虑。绩效评估的目的最终是为了确定如何奖励员工的工作。这意味着，薪酬结构 需要适应在家工作的现实情况。然而，各公司也需要对员工坦诚地说明新冠疫情对公司财务的影响。 （55）对于那些因新冠疫情而难以维系的公司来说，这可能意味着要考虑用非财务的福利来奖励员工， 如无薪休假或灵活的工作时间。雇主还可以考虑如何组合不同类型的补偿，帮助员工应对自己的特殊 情况。 PartN Translation 参考译文： Taijiquan,stemmingfrom ancientChina,is an importantbranchofChinese martialarts.Originally practicedfor self-defense,now it is an effective exerciseto promotephysicalandmentalhealth.Alotof researches show that this kindofexercise canhelp maintain strength,flexibility andbalance,andreducestress and anxiety.Easy and pleasant to practice,it can aidto calmmoodandclearmindthrough gentle and smooth movements.Today,Taijiquan has spreadalloverthe world,and it is deeply lovedby themajorityofexercisers. 2022.9/22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_09_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "太极拳（Taijiquan）起源于中国古代，是中国武术（martialart）的一个重要分支。练太极 拳最初是为了自卫，现在是促进身心健康的有效锻炼方式。大量研究表明，这种锻炼方式有 助于保持力量、灵活性和平衡力，并减少压力和焦虑。太极拳练习起来既容易又愉快，通过 轻柔、流畅的动作，促使心情平静、头脑清晰。今天，太极拳已经传播到世界各地，深受广 大健身者的喜爱。 2022年9月英语四级真题1套 第10页共10页",
+          "terms": [],
+          "reference": "Taijiquan, stemmingfrom ancient china, is an importantbranchofChinese martialarts. Originally practicedfor self-defense, now it is an effective exercise to promotephysicalandmentalhealth. A lot of researches show that this kind of exercise can help maintain strength, flexibility and balance, and reduce stress and anxiety. Easy and pleasant to practice, it can aid to calmmoodandclearmindthrough gentle and smooth movements. Today, Taijiquan has spread all overt he world, and it is deeply lovedby themajorityofexercisers.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

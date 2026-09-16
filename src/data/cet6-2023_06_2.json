@@ -1,0 +1,570 @@
+{
+  "id": "cet6-2023_06_2",
+  "level": 6,
+  "year": 2023,
+  "month": 6,
+  "setNo": "第2套",
+  "title": "2023年6月六级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthispart,you areallowed 30minutesto write an essay thatbegins with the sentence \"When facedwithdifferingopinions,weshouldtrytoreachagreementthrough friendly discussion andreasonable argument.”You canmakecomments,citeexamplesor use your personal experiencesto develop youressay.You should write at least150 wordsbut no more than 200 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_2-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report One",
+          "intro": "Questions 16 to 18 are based on the recording you have just heard.",
+          "material": "Question 16. What does most cyber-loafing research focus on? Question 17. What was the hypothesis of the speaker's research team? Question 18. On what point do the results of the speaker's study agree with other recent research? According to, when Julius Morton moved to Nebraska City in 1854, he faced a problem shared by many settlers in the territory. It was a treeless plane. That meant no trees for building materials, or for fuel. But Morton was one of the world's first conservationists, stating, for prosperity, we ought plant as many forests as we have exhausted and consumed. So he started planting trees beginning with his own land. By 1860, Morton possessed a forest of more than 300 trees. A few years later, he had more than 1000. As the forest grew, so did Morton's influence in Nebraska. This was largely because Morton founded the Nebraska City News, the state's first newspaper, in which he frequently wrote editorials about the practical and aesthetic benefits of tree planting. He also organized the Nebraska State. The state-guard means society, and served on the Nebraska State Board of Agriculture. While serving on the board, Morton came up with an idea to spread his belief in tree planting statewide. On January 4, 1872, Morton drafted a resolution that April 10th be designated day for the planting of trees in the state of Nebraska. and urge people to go out and plant trees themselves. Morton called the special event, Arbor Day, as Arbor is Latin for Tree. The state government agreed, and on April 10th 1872, the first unofficial Arbor Day was celebrated throughout Nebraska. Prizes were awarded to counties, cities, and individuals, who planted the largest number of trees. That day, an astounding 1 million trees were planted in Nebraska, an average of more than six for every man, woman, and child in the state. Since 1885, Nebraska has planted more than 700,000 acres of trees, earning it the nickname the Tree Planner State. Arbor Day became a legal civic holiday in the state in 1885. It was held on April 22, Julius Morton's birthday. In addition to a parade in Nebraska City, Morton introduced what has since become a long standing Arbor Day tradition. School children went outside and planted trees together. In 1970, nearly a century after Arbor Day was first celebrated, President Richard Nixon declared the last Friday of every April to be observed as National Arbor Day. All 50 states recognize the April observance, although many hold an additional state Arbor Day in a month more suited to local tree planting. Question 19-21, a basin recording you have just heard. Question 19. What does the speakers say about Nebraska City in 1854 when Julius Morton moved there? Question 20. What did Julius Morton do? That increased his influence in Nebraska City. Question 21. What does the speaker say happened on April 10th 1872? According to the law, the law is not a law. Recording 3 Modern humans arose in Africa about 200,000 years ago. They then spread across Europe and Asia sometime after 60,000 years ago. This is the out of Africa model, as it's commonly known. In the 1990s, the hypothesis found widespread acceptance. But this popular idea is in need of revision, particularly given the number of important findings across Asia over the past few decades. For instance, many new human fossils found, particularly in China, are now dated as older than 60,000 years. This calls into question the idea that modern humans migrated out of Africa only 60,000 years ago. Take the recent discovery of two modern human teeth found in the Lunar Cave in China's Guangxi Zhuang or telnomu's region. When my research team and I dated these teeth, we found they were more than 70,000 years old. A situation clearly impossible if modern humans moved out of Africa only 60,000 years ago. So, with such findings, what happened exactly? Where does the most current data suggest we came from? The first question we should ask is, why did modern humans leave Africa to begin with? If a population is perfectly adapted to a particular environment and has access to an abundance of resources, Then there really is no reason to move or change. For instance, some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years, indicating that they found a place that has worked for them. So what happened with humans? Some researchers have suggested that population density increased to the point where small human groups were forced to explore new lands. Other researchers have suggested that due to major environmental events in East Africa, humans were prompted to find greener pastures. Yet another explanation could simply be that early modern human hunters were following the large animals that they relied on. And so they moved out of Africa without realizing that they were actually moving from one continent to another. Humans need daily access to reliable fresh water, which appears to be absent from many coastal areas. This brings us to another question, by which route did modern humans move out of Africa? No clear routes across the Mediterranean from North Africa appear to be present. So the earlier dispersals out of Africa and into Europe and Asia might have across the Arabian Peninsula.",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What does most cyberloafing research focus on?",
+              "stemCn": "",
+              "options": {
+                "A": "How internet monitoring can be implemented.",
+                "B": "How to encourage productive internet surfing.",
+                "C": "How cyberloafing affects overall productivity.",
+                "D": "How to prevent employees from cyberloafing."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。句（16）中提到，大多数关于"
+              },
+              "answer": "D",
+              "analysis": "网络偷懒的研究都集中在通过互联网监控和计算 机使用政策等干预措施来防止员工进行这种行为 的方法上。也就是说，以往的大多数研究重点都 在如何防止员工网络偷懒上。因此答案为D）。"
+            },
+            {
+              "num": 17,
+              "stem": "What was the hypothesis of the speaker's",
+              "stemCn": "",
+              "options": {
+                "A": "Cyberloafing is a sign of workers' laziness.",
+                "B": "Cyberloafing may relieve employees of stress.",
+                "C": "Employee engagement is closely related to job satisfaction.",
+                "D": "Over use of social media may lead to decline in productivity."
+              },
+              "optionCn": {
+                "B": "【精析】细节推断题。句（17)中，讲话者提到，他们"
+              },
+              "answer": "B",
+              "analysis": "research team? 团队的假设就是，网络偷懒可能是一种短暂的休 息，让员工有机会从紧张的工作环境中恢复过来。 也就是说，他们认为网络偷懒可能有助于员工减 轻压力。因此答案为B）。"
+            },
+            {
+              "num": 18,
+              "stem": "On what point do the results of the speaker's",
+              "stemCn": "",
+              "options": {
+                "A": "Taking mini-breaks means better job performance.",
+                "B": "Cyberloafing generally does more harm than good.",
+                "C": "Worker turnover is linked to the time allowed for cyberloafing.",
+                "D": "Employees who indulge in internet surfing are most likely to quit."
+              },
+              "optionCn": {
+                "A": "【精析】细节推断题。句（18）中，讲话者提到，他所"
+              },
+              "answer": "A",
+              "analysis": "study agree with other recent research? 进行的研究与近期的其他研究结果相吻合，都表 明短暂的休息与更高水平的日常工作表现有关。 也就是说，稍事休息可以让员工的工作表现更好。 因此答案为A）。 Questions 19 to 21are basedontherecording youhave just heard. （19)When Julius Morton moved to NebraskaCity in1854,hefaced a problem sharedby many settlers in the territory:It was a treeless plain. That meant no trees for building materials,or for fuel.But Morton was one of the world's first conservationists,stating,\"For prosperity,we ought to plant as many forests as we have exhausted and consumed\".Sohe started planting trees,beginning withhis own land.By186oMorton possessed aforest ofmore than 300 trees.Afew years later,hehadmore than1,000. （20)As theforest grew,so didMorton's influence inNebraska.This waslargely because Morton founded theNebraskaCity News,the state's first newspaper,in whichhe frequently wrote editorials aboutthe practical and aesthetic benefits of tree planting.He also organized theNebraska State Gardening Society and servedon theNebraskaStateBoard ofAgriculture. While serving on the Board,Morton came up with an idea to spreadhis belief in tree planting statewide. On January 4,1872,Morton drafted aresolution that April10be designated day for the planting oftrees inthe State of Nebraska and urged people to go out and plant trees themselves. Morton calledthe specialevent Arbor Day as\"arbor”isLatinfor\"tree\".Thestate governmentagreed. （21)And on April10,1872,the first unofficial Arbor Day was celebrated throughout Nebraska. Prizes were awarded to counties,cities,and individuals who planted the largest number of trees. That day,an astounding one million trees were planted in Nebraska-an average ofmore than six for every man,woman and childin the state. Since 1885,Nebraska has planted more than 700,000 acres of trees,earning it the nickname\"the Tree Planters State\". Arbor Day became a legal,civic holiday in the state in1885. It was heldon April 22-Julius Morton's birthday.In addition to a parade inNebraskaCity,Morton introduced what has since become a long-standing Arbor Daytradition:Schoolchildrenwent outside and plantedtrees together. In1970,nearly a century after Arbor Day wasfirst celebrated,PresidentRichardNixon declared thelast Fridayofevery Aprilto beobservedas NationalArbor Day.All5O states recognize theAprilobservance, althoughmanyhold anadditionalstate Arbor Day in a monthmore suited to local treeplanting."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_06_2-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Two",
+          "intro": "Questions 19 to 21 are based on the recording you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "What does the speaker say about NebraskaCity",
+              "stemCn": "",
+              "options": {
+                "A": "There were no wooden buildings.",
+                "B": "There were environmental problems.",
+                "C": "There were no trees.",
+                "D": "There were few settlers."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句（19）中，讲话者明确提到，"
+              },
+              "answer": "C",
+              "analysis": "in1854 when Julius Morton movedthere? 1854年，当莫顿搬到内布拉斯加市时，他面临着该 地区许多定居者共同面临的问题：那是一片没有 树木的平原。因此答案为C）。 第5页，共15页"
+            },
+            {
+              "num": 20,
+              "stem": "What did Julius Morton do that increased his",
+              "stemCn": "",
+              "options": {
+                "A": "He served as chairman of the Nebraska State Board of Agriculture.",
+                "B": "He urged the state to start the Nebraska State Gardening Society.",
+                "C": "He engaged himself in a large number of aesthetic projects.",
+                "D": "He founded a newspaper and used it to promote his ideas."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。根据句（20）可知，莫顿在内"
+              },
+              "answer": "D",
+              "analysis": "influence inNebraskaCity? 布拉斯加的影响力增长，主要原因在于他创办了 该州的第一家报纸《内布拉斯加城市新闻》，他还 经常在该报纸上撰写关于植树的实用和美学效益 的社论。因此答案为D）。"
+            },
+            {
+              "num": 21,
+              "stem": "What does the speaker say happened on April",
+              "stemCn": "",
+              "options": {
+                "A": "A special prize was awarded to Julius Morton.",
+                "B": "One million trees were plan ted throughout Nebraska.",
+                "C": "The state government declared it the official Arbor Day.",
+                "D": "Nebraska earned the nickname \"the Tree Planters State\"."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。句(21)中，讲话者提到，1872"
+              },
+              "answer": "B",
+              "analysis": "10,1872？ 年4月10日，内布拉斯加各地庆祝了第一个非官 方的植树节。庆祝活动包括向植树最多的县市和 个人颁发奖励。而就在那一天，内布拉斯加州居 然种植了一百万棵树。因此答案为B）。 Questions 22to 25are basedontherecording youhave justheard. （22)Modern humans arose in Africa about20o,000 years ago. They then spread across Europe andAsia sometime after 60,000 years ago. This is the\"Out of Africa\"model,as it's commonly known.In the199Os,the hypothesis found widespread acceptance.But thispopular idea is in need ofrevision,particularly giventhe number of importantfindings across Asia overthe past few decades. For instance,many new human fossils found,particularly inChina,are now dated as older than 60,0o0 years. This calls into question the idea that modern humans migrated outof Africa only 60,000 years ago.（23)Take the recent discovery of two modern human teeth found in the Luna cave in China's Guangxi Zhuang Autonomous Region.When my research team andI dated these teeth,we found they were more than 70,000 years olda situation clearly impossible ifmodern humans moved out of Africa only60,00o years ago. So with such findings,what happened exactly? Where does the most current data suggest we came from? (24)The first question we should ask is why did modern humans leave Africa to begin with? Ifa population is perfectly adapted to a particular environment and has access to an abundance of resources,then there really is no reason to move or change. For instance,some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years,indicating that they found a place that has worked for them. So what happened with humans? Some researchers have suggested that population density increased tothe point where smaller human groups were forced to explore new lands.Otherresearchers have suggested that due to major environmental events in East Africa,humans were prompted to find greener pastures. Yet another explanation couldsimply bethatearlymodern humanhunters were following the large animals that theyrelied on,and so they moved out of Africa withoutrealizing that they were actually moving from one continent to another. Humans need daily access to reliable fresh water,which appears to be absent from many coastal areas. （25)This brings us to another question:by whichroute did modern humans move out of Africa? No clear routes across the Mediterranean fromNorth Africa appear to be present,so the earlier dispersals out ofAfrica and into Europe andAsiamight have been across theArabianPeninsula."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_06_2-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Three",
+          "intro": "Questions 22 to 25 are based on the recording you have just heard.",
+          "material": "Question 22. What do we learn about modern humans according to the hypothesis commonly accepted in the 1990s? Question 23. What has called into question the out of Africa model? Question 24. What does the speaker want to show with the example of some monkeys in Africa? Question 25. What question does this speaker raise close to the end of the talk? That's the end of listening comprehension.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What do we learn about modern humans",
+              "stemCn": "",
+              "options": {
+                "A": "They spread across Europe and Asia in a few decades.",
+                "B": "They lived mostly in Africa for about 200,000 years.",
+                "C": "They prefer red to live in Europe rather than in Asia.",
+                "D": "They moved out of Africa about 60,000 years ago."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。根据句（22）可知，在20世纪"
+              },
+              "answer": "D",
+              "analysis": "according to the hypothesis commonly accepted in the 1990s? 90年代受到普遍认可的假设是“走出非洲”理论， 即认为大约20万年前，现代人类出现在非洲，他 们在大约6万年前走出非洲，进入欧洲和亚洲。 因此答案为D）。"
+            },
+            {
+              "num": 23,
+              "stem": "What has called into question the\"Out of Africa”",
+              "stemCn": "",
+              "options": {
+                "A": "The discovery of two modern human teeth in China.",
+                "B": "The traces of human migration out of Africa to Asia.",
+                "C": "The human fossils discovered most recently in Africa.",
+                "D": "The Luna cave in Guangxi Zhuang Autonomous Region."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。句（23)中，讲话者讲述了最"
+              },
+              "answer": "A",
+              "analysis": "model? 近在中国广西壮族自治区月神洞发现的两颗现代 人类牙齿的事件。根据讲话者团队的研究，确定 这两颗牙齿距今已有7万多年。但是，根据“走出 非洲”理论，现代人类是在6万年前才离开非洲 的，那么在亚洲发现距今7万多年的现代人类牙 齿就成了一件不可能的事情。所以，在中国发现 的现代人类的牙齿使人们质疑“走出非洲”理论。 因此答案为A)。"
+            },
+            {
+              "num": 24,
+              "stem": "What does the speaker want to show with the",
+              "stemCn": "",
+              "options": {
+                "A": "There must have been some reason for human migration.",
+                "B": "There have been changes in animals' living conditions.",
+                "C": "Humans adapted themselves to the environment there.",
+                "D": "Humans had access to abundant food sources there."
+              },
+              "optionCn": {
+                "A": "【精析】细节归纳题。根据句（24)可知，讲话者对"
+              },
+              "answer": "A",
+              "analysis": "example of some monkeys in Africa? 人类离开非洲的原因提出了疑问，他以非洲的一 种猴子为例，说明如果不是因为特殊情况，物种不 会进行迁徙，那些猴子的牙齿在数百万年间一直 没有变化，是因为它们没有变化的理由。也就是 说，讲话者希望通过猴子的例子说明人类的迁徙 应该是有原因的。因此答案为A）。"
+            },
+            {
+              "num": 25,
+              "stem": "What question does the speaker raise close to the",
+              "stemCn": "",
+              "options": {
+                "A": "How humans settled down on the Arabian Peninsula.",
+                "B": "When modern humans star ted to disperse out of Africa.",
+                "C": "What path modern humans to ok to migrate out of Africa.",
+                "D": "Why fresh water is so important for human survival."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句（25)中明确提到，讲话者"
+              },
+              "answer": "C",
+              "analysis": "end of the talk? 提出的另一个问题是：人类是沿着哪条路线走出 非洲的？因此答案为C）。 第6页，共15页"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet6-2023_06_2-A.mp3",
+        "B": "/audio/papers/cet6-2023_06_2-B.mp3",
+        "C": "/audio/papers/cet6-2023_06_2-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "B) Along with other therapists, Pry or, who is now with the Family Institute at North western University,\nC) What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian,\nD) A person living with an other-oriented perfectionist might feel criticized by the perfectionist spouse\nE) Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other\nF) Perfectionism can, of course, be a positive force. Think of professional athletes, who train\nG) Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a\nH) While educators and parents have success fully convinced students of the need to be high performing\nI) Bach, who sees many students from Brown University, says some of them don't even go out on\nJ) The treatment for perfectionism might be as simple as having patients keep logs of things they can be\nK) Brustein likes to get his perfectionist clients to create values that are important to them, then try to",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Socially prescribed perfectionism is described as one's self-esteem depending on other people's",
+              "stemCn": "【定位】由题干中的sociallyprescribedperfect-",
+              "options": {},
+              "optionCn": {
+                "E": "段第一句。"
+              },
+              "answer": "E",
+              "analysis": "会规定型的完美主义描述为“我的自尊心取决于 其他人的想法”。题干中的sociallyprescribed perfectionism和self-esteem直接对应原文内容； 题干中的depending on otherpeople's opinion是 对原文中is contingent on what other people think的同义转述，故答案为E)。"
+            },
+            {
+              "num": 37,
+              "stem": "Jessica Pry or has learned that some graduate students work such long hours in the lab that they have",
+              "stemCn": "【定位】由题干中的JessicaPryor、graduate",
+              "options": {},
+              "optionCn": {
+                "A": "段。"
+              },
+              "answer": "A",
+              "analysis": "发现学生们带着睡袋和咖啡机去图书馆，还听说 研究生在实验室里一次要待12到18个小时，而 且在实验开始有结果之前绝不放纵自己观看网飞 视频。他们每天都很忙碌，久而久之也很少有人 邀请他们参加社交聚会或晚宴，由此可知，题干是 对A）段的归纳概括：这些研究生在实验室工作太 久，以至于没有时间娱乐或社交。题干中的some graduate students work suchlong hours inthelab 对应原文中的graduatestudents spending12to18 hours at a time in the lab;题干中的they have little time forentertainmentor socializing对应原 文中的stop inviting them to social gatheringsor dinner parties，故答案为A)。"
+            },
+            {
+              "num": 38,
+              "stem": "The author believes perfectionism may sometimes be constructive.",
+              "stemCn": "【定位】由题干中的perfectionism和constructive",
+              "options": {},
+              "optionCn": {
+                "F": "段第一句。"
+              },
+              "answer": "F",
+              "analysis": "可以是一种积极的力量。题干中的constructive 对应原文中的positiveforce，后一句又以专业运 动员积极训练去获得更高竞技水平为例，进一步 说明完美主义的积极作用，故答案为F)。"
+            },
+            {
+              "num": 39,
+              "stem": "It is found that perfectionism is getting more and more prevalent among college students.",
+              "stemCn": "【定位】由题干中的perfectionism和college",
+              "options": {},
+              "optionCn": {
+                "C": "段第二句。"
+              },
+              "answer": "C",
+              "analysis": "初，巴斯大学的托马斯·库兰和约克圣约翰大学 的安德鲁·希尔发表了一篇针对数千名美国、加 拿大和英国大学生的研究，他们发现，相比20世 纪90年代或21世纪初，如今大学生中完美主义 者更多，由此可知题干是对C）段定位句的归纳概 括：完美主义在大学生中越来越盛行。题干中的 gettingmore andmore prevalent对应原文中的 today's college students report higher levels of perfectionism than college students did during the1990s or early 2000s，故答案为C)。"
+            },
+            {
+              "num": 40,
+              "stem": "Some experts suggest parents and educators should prepare students for failures.",
+              "stemCn": "【定位】由题干中的parentsandeducators和",
+              "options": {},
+              "optionCn": {
+                "H": "段第"
+              },
+              "answer": "H",
+              "analysis": "一句。 示，虽然教育工作者和家长已经成功说服学生要 表现出色和勤奋，但他们并未使学生为失败的必 然性做好充分的准备。由此可推断，家长和教育 工作者应该让学生学会接受失败。题干中的 parents andeducators对应原文中的educators and parents;题干中的prepare students for failures对应原文中的preparedthemforthe inevitability offailure，故答案为H）。"
+            },
+            {
+              "num": 41,
+              "stem": "Some therapists warn that young adults tend to pursue perfection in their work.",
+              "stemCn": "【定位】由题干中的therapists、youngadults和",
+              "options": {},
+              "optionCn": {
+                "B": "段第"
+              },
+              "answer": "B",
+              "analysis": "一句。 北大学家庭研究所工作的普莱尔正与其他治疗专 家一起，试图对年轻人和大学生在工作中追求完 美的趋势敲响警钟，因为他们在追求完美的过程 中有时不惜一切代价。题干中warn是对原文中 sound the alarm的同义转述;题干中的young adults tend to pursue perfection in their work对 应原文中的a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost，故答案为B)。"
+            },
+            {
+              "num": 42,
+              "stem": "Psychologist A my Bach encourages her students to aim high but be content with something less than",
+              "stemCn": "【定位】由题干中的AmyBach和aimhigh定位",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】同义转述题。"
+              },
+              "answer": "I",
+              "analysis": "到文章I段第二句。 赫告诉她的学生，目标要高，但也要接受足够好的 第9页，共15页 状态。后面也提到，如果学生错失一些奖项，她也 会鼓励他们，让他们明白一次结果并不能作为评 判一个人智力、资格或未来潜力的依据。题干中 的aimhigh直接对应原文内容；题干中的be content with是对原文中get comfortable with的同 义转述;题干中的something less than perfect是 对原文中goodenough的同义转述，故答案为I。"
+            },
+            {
+              "num": 43,
+              "stem": "A clinical psychologist finds perfectionism is widespread among his clients.",
+              "stemCn": "【定位】由题干中的clinical psychologist和clients",
+              "options": {},
+              "optionCn": {
+                "E": "段第七、八句。"
+              },
+              "answer": "E",
+              "analysis": "临床心理学家迈克尔·布鲁斯汀在刚开始执业时 发现他的客户中普遍存在着完美主义，他在企业 家、艺术家和技术人员等客户身上都发现了完美 主义。题干中的perfectionism is widespread among his clients对应原文中的how prevalent perfectionism was among his clients，故答案为E)。"
+            },
+            {
+              "num": 44,
+              "stem": "In trying to overcome perfectionism, some people are still pursuing perfection.",
+              "stemCn": "【定位】由题干中的overcome perfectionism定位",
+              "options": {},
+              "optionCn": {
+                "K": "段最后两句。"
+              },
+              "answer": "K",
+              "analysis": "参考译文 主义者在接受治疗时期望过高，希望将自己从一 个病态的完美主义者一下子转变为一个（仍然是 高成就的）非完美主义者。他们试图“完美”地实 现这一转变。由此可知，题干是对K）段定位句的 归纳概括：有些人在试图克服完美主义的过程中 还是避免不了追求完美的心态和习惯。题干中的 overcomeperfectionism对应原文中的trans- formation;题干中的some people are still pursuingperfection对应原文中的“They trytobe perfect,in other words, at no longer being perfect.”，故答案为K)。"
+            },
+            {
+              "num": 45,
+              "stem": "In pursuing perfection, some perfectionists fail to complete their tasks on time.",
+              "stemCn": "【定位】由题干中的failtocompletetheirtasks定",
+              "options": {},
+              "optionCn": {
+                "G": "段第六句。"
+              },
+              "answer": "G",
+              "analysis": "主义者实际上在工作中处于落后状态，无法完成 任务，除非他们本身是完美的。题干中的falto completetheirtasksontime对应原文中的fall behind on work,unable to complete assignments, 故答案为G)。 追求完美的问题所在 机走进图书馆。她听说研究生在实验室里一次要待12到18个小时。他们的日程安排简直是折磨人 的：如果他们是正在接受培训的科学家，在实验开始产生结果之前，他们不会允许自己看网飞上的视 频。普莱尔告诉我:“人们的关系变得疏远——大家不再邀请他们参加社交聚会或晚宴，这导致他们 花更多时间在实验室。” 作中追求完美的趋势敲响警钟，他们在追求完美的过程中有时不惜一切代价。虽然追求完美经常被 描绘成一种良好的特质，但普莱尔和其他专家表示，极端的完美主义可能导致抑郁、焦虑，甚至自杀。 大学的安德鲁·希尔发表了一篇针对数千名美国、加拿大和英国大学生的研究，他们发现，相比20世 纪90年代或21世纪初，如今大学生中完美主义者更多。他们测试了三种类型的完美主义：自我导向 型，也就是渴望完美；社会规定型，也就是渴望达到他人的期望；以及他人导向型，也就是以不切实际 的标准要求他人。他们发现，从1989年到2016年，自我导向型的完美主义增加了10%，社会规定型 增加了33%，而他人导向型则增加了16%。 追求完美的配偶批评。来自罗得岛州普罗维登斯的心理学家艾米·巴赫说：“如何把碗正确装入洗碗 机是夫妻之间最常争论的事情之一。 么社会规定型完美主义有所上升，但他认为标准化考试和社交媒体的兴起可能起到了一定作用。如 今，当我们的竞争对手获得一份新工作时，职场社交平台“领英”会提醒我们，而“照片墙”可以让我们 知道，与朋友的生活相比，我们的生活有多“受欢迎”。在今年早些时候发表的一篇评论文章中，库兰 和希尔认为，社会竞争也变得更加残酷无情。“在过去的50年里，公共利益和公民责任已被逐步削 弱，”他们写道，“取而代之的是对自我利益的关注和在一个所谓自由和开放市场中的竞争。”我们努力追 求完美，似乎是因为我们觉得为了出人头地而必须这样做。（43）曼哈顿的临床心理学家迈克尔·布鲁 斯汀表示，当他2007年刚开始执业时，他对客户中普遍存在完美主义而感到惊讶，尽管他在研究生培 训中很少关注这一现象。他在企业家、艺术家和技术雇员等客户身上看到了完美主义。“你身处纽约 是因为你有雄心壮志，你有这种奋斗的需要，”他说，“但随后你会整个被包裹在一个目标中。” 第10页，共15页 平。在适当调整的完美主义中，没有获得金牌的人能够忘记挫折，继续前进。同时，在调整不当的完美 主义中，人们将所有的失败都记录在案。他们不断地重温这些档案记录，并且反复思考，正如普莱尔所 说，“我需要让自己感到不适，这样我就不会再这样做了。”然后他们加倍努力，“把期望值的门槛提得更 高，这就增加了失败的可能性，而失败又让你自我批评，所以你把门槛提得更高，更加努力工作。”她说。 接下来是失败、羞愧，以及更加努力地朝着更高和更不可能实现的目标推进。实现这些目标成为一个 “不成功便成仁”的前提。普莱尔举了这样一个例子:“即便我是一名优秀的律师，如果我不能像一位同 事那样以同样的速度成为合伙人，显然这意味着我是一个失败者。” 的时间，就好像油箱上有一个洞似的。如果老板说你做得很好，那是因为他什么都不知道。如果观众 喜欢你的作品，那是因为他们太愚蠢了，根本不懂什么是真正的好艺术。但是，治疗专家说，完美主义 也有不同的表现方式。有些完美主义者总是在推动自己前进。（45）但其他人实际上在工作中处于落 后状态，无法完成任务，除非他们本身是完美的。或者他们可能提前给自己的表现打折扣。他们是那 些在期末考试前夜狂欢到凌晨两点的人，这样拿到C等成绩时，就有了一个现成的借口。 失败的必然性做好充分的准备。普莱尔说，家长和教育工作者不应该发出“你真聪明”这样的赞美，而应 该说“你真的坚持下来了”这样的话，以强调毅力比内在天赋更有价值。普莱尔指出，她的许多客户都担 心她会“把他们变成一些整日颓废、无所事事的人，并教他们接受这个事实”。相反，她试图帮助他们思考 他们的完美主义中有哪些部分是他们想要保留的，而丢弃那些正在毁掉他们生活的部分。 （42）她告诉他们，“目标要高，但也要接受足够好的状态”。当他们错失一些奖项时，她鼓励他们记住， “一次结果无法提供对这个人的智力、资格或未来潜力得出广泛结论的依据。” 完美，只是为了看看他们感觉如何。多伦多瑞尔森大学心理学系教授马丁·安东尼说:“我们可能会让 他们把毛巾挂歪，或者把一些衣服穿反。” 按照这些价值观生活，而不是实现具体目标。这是对给孩子们说的那句“你真的坚持下来了”这一信息的 强调。换句话说，这不是关于在瑜伽课上做倒立；而是关于首先要去上瑜伽课，因为你喜欢成为那种照顾 自己的人。（44）但他警告说，有些人在接受治疗时期望过高，希望将自己从一个病态的完美主义者一下 子转变为一个（仍然是高成就的）非完美主义者。他们试图完美地，换句话说，变得不再完美。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_06_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "How on earth did we come to this? We protect our children obsessively from every harm; we scrutinize every carer, teacher or doctor with whom they come into contact. Yet despite all this, one group, which in no way has their best interests at heart, has almost unconstrained access. We seem to take it for granted that advertisers and marketers are allowed to condition even the youngest children. Before children have even developed a proper sense of their own identity, or learned to handle money, they're encouraged to associate status and self-worth with stuff, and to look to external things such as fame and wealth for validation. We're turning out litle consumers rather than young citizens who will value themselves for what they contribute to the society in which they live. We've reached this point so gradually that many of us have never questioned it. It's crept up on us in the 60 years since advertisers star ted to target the young and found that they could recruit them to a commercial assault on their parents. We've come to know it as \"pester power\" or the ability of children to pressure parents to make certain purchases. Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness. Not all psychologists agree. There're plenty working hand in glove with a £12bn-a-year industry that has turned the manipulation of adult emotions and desires into an art form—often literally. It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements' viral effect they only need to infect a few to reach the many. Advert i sing and marketing can serve a useful. purpose for children. Marketing may help socialize children as consumers, inform them about products, and help them carve out unique identities as they reach adulthood. Then, should we ban all advert i sing aimed at young children? I say yes. Of course there'll be plenty of objections to an outright ban on advert i sing to the under-1ls. There'll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brain wash little children into demanding their products. Most parents hate what advert i sing does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions. And though advert i sing is only part of an all-pervasive(无处不在的) marketing culture we need to make a start somewhere. Let's ban all advert i sing targeting children of primary school age and younger now.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "Which group of people does the author say has almost unrestricted access to children?",
+              "stemCn": "【定位】由题干中的unrestrictedaccess to children A)【精析】事实细节题。定位句指出，有一个在任何",
+              "options": {
+                "A": "Advertisers.",
+                "B": "Carers.",
+                "C": "Teachers.",
+                "D": "Doctors."
+              },
+              "optionCn": {
+                "A": "。"
+              },
+              "answer": "A",
+              "analysis": "定位到首段最后一句。 情况下都不以孩子们的最大利益为中心的群体， 第11页，共15页 几乎可以不受限制地接近他们，本句并没有点明 这是哪一个群体，而随后一段开头就提到了广告 商和营销人员，且此后文章都是围绕广告对孩子 的影响展开论述的，可知作者所说的可以不受限 【避错】首段第二句提到，我们对护理员、教师和医 生接近孩子都是进行仔细检查的，可知他们均不 属于可以不受限制地接近孩子的群体，故排除"
+            },
+            {
+              "num": 47,
+              "stem": "What kind of people should we enable children to become according to the author?",
+              "stemCn": "【定位】由题干中的enablechildren tobecome定",
+              "options": {
+                "A": "Those who look to fame and wealth for external and ultimate validation.",
+                "B": "Those who value themselves because of their contribution to society. 2023-06-CET6(第2套)-7 ===== PAGE 8 =====",
+                "C": "Those who associate self worth with the ability to handle money.",
+                "D": "Those who have developed a proper sense of their own identity."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句提到，我们培养的是"
+              },
+              "answer": "B",
+              "analysis": "位到第二段最后一句。 小消费者，而不是以对其所在的社会的贡献来评 估自我价值的年轻公民。根据上下文可推知，作 者对“小消费者”持否定态度，那么我们应该培养 出的就是本句后半部分所说的，以对社会的贡献 来评估自我价值的年轻公民，故答案为B）。 【避错】其余三项都是根据定位段第二句设置的干 扰项：该句分析针对儿童的广告对他们的负面影 响，可知作者不认同寻求名声和财富来获得外部 和最终认可的人，故排除A）项；作者提到未具备 理财能力和未形成对自我身份的认知，主要是指 儿童所处的发展阶段，并不是我们对孩子最终的 培养目标，故排除C）项和D）项。"
+            },
+            {
+              "num": 48,
+              "stem": "Many child development experts and educators call a tent ion to research that suggests",
+              "stemCn": "【定位】由题干中的childdevelopmentexperts",
+              "options": {
+                "A": "life-long consumerism is causing more and more cases of psychological problems",
+                "B": "increasing commercialization of education is eroding many children's self-esteem",
+                "C": "the growing desire for wealth is contributing to a rising rate of depression",
+                "D": "the craving for purchasing material things is nurtured throughout one's life"
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。定位段指出，许多心理学家、"
+              },
+              "answer": "A",
+              "analysis": "andeducators定位到第四段。 儿童发展专家和教育工作者提到的研究表明，这 种从摇篮延续至坟墓的消费主义正在导致自卑、 抑郁和其他形式的精神疾病的发病率不断上升。 由此可知，终生消费主义会导致越来越多的心理 问题案例，故答案为A)。 【避错】B）项所说的教育商业化与本文的主题无 参考译文 关，故排除；定位句虽然提到抑郁症的发病率上 升，但并未说其诱因是对财富的渴望不断增长，故 排除C）项；D)项中的throughoutone'slife虽能 与原文中的cradle-to-grave对应，但研究的主题 是消费主义对心理的影响，而非消费渴望是否延 续一生，故排除D）。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the author imply about the impact of advert i sing?",
+              "stemCn": "【定位】由题干中的impactofadvertising定位到",
+              "options": {
+                "A": "It is actually infectious to many rather than a few.",
+                "B": "It is rooted in our desire for material possessions.",
+                "C": "It is comparable to that of virus.",
+                "D": "It is literally limited to children."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句后半部分提到，由于"
+              },
+              "answer": "A",
+              "analysis": "第五段第三句。 广告的病毒般的效应，它们只需要感染少数人就 可以触动大多数人，可见作者暗示，广告的影响可 以由少数而推及大众，A）项是对定位句的转述，故 为答案。 【避错】本文并未提及广告影响力的根源是什么： 故排除B）项；定位句确实提到了病毒，但C）项表 述似是而非，原文并非点明广告的影响在哪个方 面与病毒可相比拟，故排除该项；D）项显然与定位 段第二句相悖，该句明确说广告是可以操纵成年 人的情绪和欲望的，即可以影响到成年人，并非仅 限于儿童，故也排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What is the opponents' argument against a complete ban on advert i sing to young children?",
+              "stemCn": "【定位】由题干中的opponents和completeban",
+              "options": {
+                "A": "It would deprive them of the chance to learn about products.",
+                "B": "It would render them unable to carve out unique identities.",
+                "C": "It would breach their freedom as would-be consumers.",
+                "D": "It would violate the rights endowed upon advertisers."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。定位段指出，会有很多人反"
+              },
+              "answer": "D",
+              "analysis": "on advertising定位到倒数第二段。 对彻底禁止针对11岁以下的儿童做广告。随后 引用了他们的观点，认为这侵犯了言论自由，或是 侵犯了企业对儿童进行洗脑的权利，D）项所述可 与该段第二句的后半部分相对应，故答案为D）。 【避错】干扰项均是根据第五段最后一句设置的。 该句提到了帮助儿童作为消费者适应社会，向他 们提供产品信息，并帮助塑造他们在成年后独特 的身份，这些可能是广告的益处，但根据上下文语 境，这些均不是反对禁止儿童广告的理据，属于答 非所问，故排除A）、B）和C）三项。 我们到底是怎么做到这个地步的？我们过分地保护我们的孩子不受任何伤害;我们仔细检查他们接 触过的每一位护理员、教师或医生。（46-1）然而，尽管如此，有一个在任何情况下都不以孩子们的最大利 益为中心的群体，几乎可以不受限制地接近他们。 （46-2）我们似乎理所当然地认为，广告商和营销人员可以对哪怕是最小的孩子施以影响。在孩子们 对自己的身份有了正确的认识或学会理财之前，他们就被怂着将地位和自我价值与物质相联系，并寻求 诸如名声和财富等外部事物的认可。（47）我们培养的是小消费者，而不是以对其所在的社会的贡献来评 估自我价值的年轻公民。 我们是逐渐走到这一步的，以至于我们中的许多人从未对此有过质疑。自从60年前广告商开始瞄准 小孩子，并发现可以将他们拉过来对其父母进行商业攻击以来，这种威压悄悄地向我们逼近。我们已经知 道它被称为“缠磨力”，即孩子向父母施压要求其购买某种东西的能力。 （48）许多心理学家、儿童发展专家和教育工作者指出，研究表明，这种从摇篮延续至坟墓的消费主义 正在导致自卑、抑郁和其他形式的精神疾病的发病率不断上升。 并非所有心理学家都同意这一观点。有很多人与一个年产值120亿英镑的行业携手合作，而这个行 业已经将操纵成年人的情绪和欲望变成了一种艺术形式——通常是字面意思。这个行业一直都在开发新 方法来说服我们的孩子渴望物质财富，（49）由于广告的病毒般的效应，它们只需要感染少数人就可以触动 大多数人。广告和营销也可以对儿童有益。营销可以帮助儿童作为消费者适应社会，向他们提供产品信 息，并帮助塑造他们在成年后独特的身份。 第12页，共15页 那么，我们应该禁止所有针对儿童的广告吗？我的回答是肯定的。 （50）当然，会有很多人反对彻底禁止针对11岁以下的儿童做广告。会有人认为这侵犯了言论自由， 侵犯了企业对儿童进行洗脑，让他们要求购买其产品的权利。 大多数父母厌恶广告对其孩子的所作所为，但我们其实有能力让它终止，让我们的孩子在成长过程中 免受消费主义的压力，直至他们成长到可以自主做出决定的年龄。尽管广告只是无处不在的营销文化的 一部分，我们还是需要从某处开始做起。让我们现在就禁止所有针对小学阶段及更加幼小的儿童的广告。 Passage Two 【文章来源】本文选自www.bbc.com网站上一篇标题为“HowDoesItFeeltoBeWatchedatWorkAllthe Time?”（《在工作中一直被监视是什么感觉？》）的文章。 【结构框图】 第1段引出话题，指出工作场所监控越来越普遍。 第2、3段阐述监控员工表现的优点以及数据分析带来的意外结果。 文章主要讨论了工作 第4、5段介绍了植入微型芯片这种极端举措。 场所监控的利。 第6段指出，有效沟通和开放态度能改善员工对监控计划的接受度，但仍有员工 担心公民自由受侵害。 第7段总结指出，工作场所监控可以增强员工能力并对公司利益有益，但实施方 式不当可能适得其反，成为不受欢迎的压迫工具。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_06_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relent less pressure it brings. But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750m in annual revenue used \"non-traditional\" monitoring techniques on staff last year. Monitoring employee performance gives firms the ability to assess how their staff are performing and inter acting, which can be good for both the firm and employees themselves. A growing number of analytics companies offer this service. They gather \"data exhaust\" left by employees' email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking, your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment. Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis. Over the last few years a Stock holm co-working space called Epic enter has gone much further and holds Popular \"chipping parties\", where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices. As long as such schemes are voluntary, there will probably be a growing number of convenience oriented uses so that a substantial number of workers would opt to have a chip inserted. But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if surveillance tools take away autonomy, that's when they prove most unpopular. A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged. If bosses don't communicate effectively, employees assume the worst. But if they're open about the 2023-06-CET6(第2套)-8 ===== PAGE 9 ===== information they'recollectingandwhatthey'redoingwithit, researchsuggests 46%ofemployeesare generally okay with it. Althoughmanysuchmonitoring schemesuseanonymizeddata and participation is voluntary, manystaffersremainskepticalandfearanerosionoftheircivil liberties. So workplace surveillancecouldbeempoweringfor staff and useful for companieslookingto become more efficient and profitable. Butimplementedinthe wrong way, it could also become an unpopular tool of oppress ion that proves counter productive.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "Why are many people opposed to monitoring employee performance?",
+              "stemCn": "【定位】由题干中的opposed以及monitoring",
+              "options": {
+                "A": "It puts workers under constant pressure.",
+                "B": "It is universally deemedanti-human by nature.",
+                "C": "It does both mental and physical harm to employeesmonitored.",
+                "D": "Itenables firms to squeeze maximal productivity from employees."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章第一段第一句提到许多"
+              },
+              "answer": "A",
+              "analysis": "employeeperformance定位到第一段第一句。 人反对工作场所监控，因为这种做法本身就带有 使人丧失人性的效果，同时，还会带来无尽的压 力。文中的relentlesspressure对应A）项中的 constantpressure，因此答案为A)项。 【避错】文中第一段第一句提到许多人反对工作场 所监控，因为这种做法本身就带有使人丧失人性 的效果，但没有提到universally（普遍地），并未提 到每个人都持有这种看法，这属于主观臆断，故排 除B）项。文中虽然提到工作场所监控会带来无 尽的压力，但还没有到对身体和精神造成伤害的 地步，这属于过度推断，因此排除C）项。文中提 到企业力图通过榨取员工更多的生产力来提高效 率，与D）项语义相同，但是它是全球范围内工作 场所内的监控越来越普遍的原因，不是很多人反 对监控员工表现的原因，这属于偷换概念，因此排 除D）项。"
+            },
+            {
+              "num": 52,
+              "stem": "What is thesupporters' argument for workplace surveillance?",
+              "stemCn": "【定位】由题干中的supporters’argument定位到",
+              "options": {
+                "A": "It enablesemployees to refrainfromdominating conversations.",
+                "B": "It enhances employees'identification withfirms they work in.",
+                "C": "It can alert employees to intrusion into their privacy.",
+                "D": "It can protectemployees against aggressive behavior."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。文中第二段最后一句提到支"
+              },
+              "answer": "D",
+              "analysis": "第二段最后一句。 持者认为这可以保护员工免受欺凌和性骚扰，欺 凌和性骚扰都是侵犯性的行为，因此工作场所监 控可以保护员工免受攻击性行为的侵害，所以答 案为D）项。 【避错】第二段第四句提到，甚至在你不是对话的 主要讲话者时，这些设备也可以检测你谈话的时 间、音量和语调，并没有提到它可以使员工避免主 导性的谈话，因此排除A）项。第二段第三句提 到，公司收集员工的电子邮件和即时消息应用留 下的“数据残留”，并使用配备无线射频识别设备 和麦克风的姓名牌，这都是令员工反感的事情，不 可能增强员工对所在公司的认同感，因此排除B） 项。第二段最后一句提到，这听起来可能有些冒 犯，说的是前面提到的公司的监控行为有些冒犯， 而非指这些行为可提醒员工隐私受到侵犯，C）项 属于曲解文意，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What does the author want to showbytheexampleofdifferentnumbersofpeople inter acting at lunch tables?",
+              "stemCn": "【定位】由题干中的differentnumbers ofpeople",
+              "options": {
+                "A": "Data analysis is key to the successful implementation of workplace surveillance.",
+                "B": "Analyzing data gatheredfrom workers can yield something unexpected.",
+                "C": "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+                "D": "It is hard to decideonhowmanypeopleto sit at a lunch table without data analysis."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。文章第三段第二句举了一个"
+              },
+              "answer": "B",
+              "analysis": "interactingatlunchtables定位到第三段第二句。 例子：人们发现，与经常坐在四人桌旁的人相比， 坐在12人用餐桌旁的人更愿意互动、分享更多的 想法，并且表现得更好。文中的例子都是为了支 持某个论点服务的，也就是为本段第一句服务的。 第一句提到某些数据分析可能会产生意想不到的 结果，因此，不同数量的人在午餐桌上互动的例子 是为了证明分析从员工那儿收集到的数据可以得 第13页，共15页 到让人意想不到的结果，因此答案为B）项。 【避错】文中数据的分析是为了说明分析数据后可 以得到的意外结果，而非说明数据分析是成功实 施工作场所监控的关键，A）项属于主观臆断，故排 除。文中的例子的确表明更多的同事坐在餐桌旁 有助于互动和分享想法，但这是例子本身的内容， 要注意例子是为了文章服务，不是为了说例子本 身，因此排除C）项。文中餐桌上坐多少人是先发 生的，之后再收集所需的数据，而不是数据分析决 定午餐桌上坐多少人，因此排除D）项。 C)"
+            },
+            {
+              "num": 54,
+              "stem": "What does much of the positive effect of monitoring initiatives depend on?",
+              "stemCn": "【定位】由题干中的monitoringinitiatives定位到",
+              "options": {
+                "A": "How frequently employeesare to bemonitored.",
+                "B": "What specific personal information is being excluded.",
+                "C": "What steps aretaken to minimize their detrimental impact.",
+                "D": "How wellbosses makeknown their purpose ofmonitoring."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。文中第五段最后一句指出，"
+              },
+              "answer": "D",
+              "analysis": "第五段最后一句。 监控举措要想有积极效果，很大程度上取决于如 何传达此类监控措施。第六段第一、二句提到，如 果老板不能与员工进行有效沟通，员工会把事情 想得很糟糕。但是，如果他们对正在收集的信息 以及对这些信息的处理持开放态度，研究表明， 46%的员工通常都是能接受的。因此老板们表明 他们的监控目的很重要，故答案为D）项。 【避错】文中第五段提到，如果植入的芯片被用来 减少空闲时间或休息时间，这可能是有害的，但文 章并未涉及被监控的频率，因此排除A）项。第六 段第二句提到，如果老板们对还在收集的信息以 参考译文 及对这些信息的处理持开放态度，员工通常都是 能接受的，这是在强调对所收集信息的处理态度， 而不是收集信息的内容，因此排除B）项。文中第 五段第二句提到，如果植入的芯片被用来减少空闲 时间或休息时间，这可能是有害的（detrimental）， 但并未提及将其有害影响降至最低的步骤，因此 排除C）项。"
+            },
+            {
+              "num": 55,
+              "stem": "What concern do monitoring initiatives cause among many staffers?",
+              "stemCn": "【定位】由题干中的staffers定位到第六段最后",
+              "options": {
+                "A": "They may empower employers excessively.",
+                "B": "They may erode the workplace environment.",
+                "C": "They may infringe upon staffers'entitledfreedom.",
+                "D": "They may become counter productive in the long run."
+              },
+              "optionCn": {
+                "C": "项中 的freedom，故答案为"
+              },
+              "answer": "C",
+              "analysis": "一句。 【精析】推理判断题。第六段最后一句提到尽管许 多此类监控计划使用匿名数据，而且是自愿参与 的，许多员工仍然持怀疑态度，担心他们的公民自 由会受到侵害，由此可见员工担忧监控举措会侵 【避错】最后一段第一句提到，工作场所监控可以 增强员工自主权，而A）项中的excessively“过度 地，过分地”夸大了原文意思，因此排除A）项。文 中说的是员工担心公民自由会受到侵害 （erosion），而不是工作环境受到侵害（erode），因 此排除B）项。文中提到，如果以错误的方式实 施，工作场所监控也可能成为一种不受欢迎的压 迫工具，结果适得其反，而非从长远来看，监控举 措会适得其反，因此排除D）项。 （51）许多人反对工作场所监控，因为这种做法本身就带有使人丧失人性的效果，同时，还会带来无尽 的压力。但全球范围内工作场所内的监控越来越普遍，因为企业力图通过榨取员工更多的生产力来提高 效率。去年，年收入7.5亿美元以上的公司中，半数以上的公司采用了“非传统”的员工监控技术。 监控员工表现使企业能够评估员工的表现和互动情况，这对企业和员工本身都有好处。越来越多的 分析公司提供此类服务。这些分析公司会收集员工的电子邮件和即时消息应用留下的“数据残留”，并使 用配备无线射频识别设备和麦克风的姓名牌。甚至在你不是对话的主要讲话者时，这些设备也可以检测 你谈话的时间、音量和语调。（52）虽然这听起来可能有些冒犯，但支持者认为这也可以保护员工免受欺凌 和性骚扰。 (53）某些数据分析可能会产生意想不到的结果。例如，人们发现，与经常坐在四人桌旁的人相比，坐 在12人用餐桌旁的人更愿意互动、分享更多的想法，并且表现得更好。没有这样的数据分析，这个事实可 能会被忽视。 在过去几年里，一个名为Epicenter的斯德哥尔摩共享办公空间更进一步，举办了广受欢迎的“植入 芯片派对”，人们可以在手中植人微型芯片。他们可以使用这些植入物来打开电子控制门，或者监测打字 速度与心率的相关性。植入芯片可能听起来很极端，但从身份证和生物识别到这样的设备只是一个相对 较小的步骤。 只要这些计划是自愿的，就可能会有越来越多以便利为导向的用途，从而相当多的员工会选择植入芯 片。但是，如果植入的芯片被用来减少空闲时间或休息时间，这可能是有害的。如果监控工具剥夺了自主 权，这是它们最不受欢迎的时候。（54）这在很大程度上取决于如何传达此类监测举措，从而可以防止可能 发生的反抗。 如果老板不能与员工有效进行沟通，员工会把事情想得很糟糕。但是，如果他们对正在收集的信息以 及对这些信息的处理持开放态度，研究表明，46%的员工通常都是能接受的。尽管许多此类监控计划使用 匿名数据，而且是自愿参与的，（55）许多员工仍然持怀疑态度，担心他们的公民自由会受到侵害。 因此，工作场所监控可以增强员工自主权，而且对希望提高效率和利润的公司也很有用。但如果以错 误的方式实施，它也可能成为一种不受欢迎的压迫工具，结果适得其反。 第14页，共15页 PartN Translation 参考译文与难点注释 Withtherapid developmentofChina's|1.翻译第一句时可以将第二个分句译为主句，“随着中国经 economy and the steady improvement of people's living standards, urban residents have increasinglyhigher demandsfortheenvironment and quality oflife.Localgovernments in China are placing greater emphasis on constructing and enhancing public facilities to better meet the needs of the people. By building new squares, parks,and public green spaces or transforming existing public areas, many cities provide residents with more recreational and social spaces. Nowadays, government-funded fitness equipment and paved fitness trails can be seen everywhere in many cities, which not only greatly enhances the conditions of outdoor activities oftheresidents but also makes thecity more beautiful. 济的快速发展和人们生活水平的稳步提高”可以像参考 译文那样，译为with引导的伴随状语，也可以译为as引 导的状语从句，即asChina's economyrapidly develops and people's living standards steadily improve。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_06_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "随着中国经济的快速发展和人们生活水平的稳步提高，城市居民对环境和生活品质的要求越 来越高。中国地方政府更加注重公共设施的建设和改进，以更好地满足人们的需求。通过兴建新 的广场、公园和公共绿地或对原有公共场地重新加以规划改造，许多城市为市民提供了更多休闲 和社交的场所。如今，政府出资购置的健身器械和铺设的健身步道在不少城市随处可见，既明显 改善了市民户外活动的条件，又使城市更加美丽。 2023-06-CET6(第2套)-9 ===== PAGE 10 ===== Suggested Version",
+          "terms": [],
+          "reference": "With the rapid development of china's|1.翻译第一句时可以将第二个分句译为主句，“随着中国经 economy and the steady improvement of people's living standards, urban residents have increasinglyhigher demandsfortheenvironment and quality of life. Localgovernments in China are placing greater emphasis on constructing and enhancing public facilities to better meet the needs of the people. By building new squares, parks, and public green spaces or transforming existing public are as, many cities provide residents with more recreational and social spaces. Nowadays, government-funded fitness equipment and paved fitness trails can be seen everywhere in many cities, which not only greatly enhances the conditions of outdoor activities oftheresidents but also makes the city more beautiful.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

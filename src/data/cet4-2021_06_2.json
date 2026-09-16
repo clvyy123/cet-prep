@@ -1,0 +1,980 @@
+{
+  "id": "cet4-2021_06_2",
+  "level": 4,
+  "year": 2021,
+  "month": 6,
+  "setNo": "第2套",
+  "title": "2021年6月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:For this part, you are allowed 80 minutes to write an essay titled \"Is technology making people lazy?\".The statement given below is for your reference. You should write at least words but no more than 180words. Many studies claimthat computers distract people, make them lazy tmnkers and even lower their work efficiency.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_2-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1 and 2 are based on the news report you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What did the old age pensioner plan to do?",
+              "stemCn": "",
+              "options": {
+                "A": "See the Pope.",
+                "B": "Go to New castle.",
+                "C": "Travel to Germany.",
+                "D": "Tour an Italian city."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。新闻开头指出，一名81岁的"
+              },
+              "answer": "A",
+              "analysis": "老人试图从英国纽卡斯尔去意大利罗马，他是为了 去见天主教会的教皇。因此，答案为A)。"
+            },
+            {
+              "num": 2,
+              "stem": "What finally happened to the old man?",
+              "stemCn": "",
+              "options": {
+                "A": "He was taken to hospital in an ambulance.",
+                "B": "His car hit a sign and was badly damaged. -8)-His-GPS-system-went out of-order;--",
+                "D": "He ended up in the wrong place."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。新闻开头提到，老人试图从"
+              },
+              "answer": "D",
+              "analysis": "英国纽卡斯尔去意大利罗马，却最终意外地到了德 国。由此可知，他最终到错了地方，故答案为D)。 Questions 3 and 4 are based on the news report you have just heard. (3)Glasgow has pledged to become the first carbon neutral city in the UK. The city's council and ScottishPower have announced a range of strategies in an attempt to reduce carbon emissions ahead of the new national target of 2045. First Minister Nicola Sturgeon welcomed the pledge and said: \"Today's announcement between ScottishPower and Glasgow City Council—to make Glasgow the UK's first net-zero cityis a very welcome step. Reaching our goals will need exactly this kind of partnership approachwith government,business, local authorities and citizens all playing their part.\" (4)Speaking ahead of the All Energy Conference being held in Glasgow,ScottishPower chief executive Keith Anderson said:\"We have a large supply of renewable energy on our doorstep and one of the only two low emission zones in action across the UK. Now,we need to invest in the technologies and programmes that transform the rest of Glasgow's economy and make us net zero before anyone else.\""
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 3 and 4 are based on the news report you have just heard.",
+          "material": "What do we learn from the news report? Question 4. What did Scottish powers chief executive say ahead of the all-energy conference? News Report 3. A Japanese IT firm has officially introduced an office cat policy to combat the stressful environment of the workplace. A total of nine furry friends freely wander around in the office and do whatever their little hearts desire. He did no boo Fukata, who heads the firm, introduced the pet policy upon request from one of his employees, allowing staff to bring their own cats to work. Employee Eriito is grateful for the animal's comforting ways. Cats are sleeping just beside us. It's healing, she said. Not only does Fukuda encourage bringing cats to the job, but he also encourages his employees to rescue cats from overpopulated shelters or streets. He gives 5,000 yen about 45 US dollars a month to those who rescue a cat. While the positives are many, there's still some obstacles. Sometimes a cat will walk on a phone and cut off the call, or they shut down the computers by walking onto the off switch, ethoses. Still, cats in the workplace have been a tremendous success for the company. The policy has led to various other companies doing the same.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What do we learn from the news report?",
+              "stemCn": "",
+              "options": {
+                "A": "Scotland will reach the national target in carbon emissions reduction ahead of schedule.",
+                "B": "Glasgow City Council has made a deal with Scottish power on carbon emissions.",
+                "C": "Glasgow has pledged to take the lead in reducing carbon emissions in the UK.",
+                "D": "First Minister Nicola Sturgeon urged Scottish power to reduce carbon emissions."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。新闻开头提到，格拉斯哥承"
+              },
+              "answer": "C",
+              "analysis": "诺要成为英国第一个碳中和城市，并通过一系列的 措施减少碳排放。因此，答案为C)。"
+            },
+            {
+              "num": 4,
+              "stem": "What did Scottish power's chief executive say",
+              "stemCn": "",
+              "options": {
+                "A": "Glasgow needs to invest in new technologies to reach its goal.",
+                "B": "Glasgow is going to explore new sources of renewable energy.",
+                "C": "Stricter regulation is needed in transforming Glasgow's economy.",
+                "D": "It's necessary to create more low-emission zones as soon as possible."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。新闻中提到，苏格兰电力公"
+              },
+              "answer": "A",
+              "analysis": "ahead of the All Energy Conference? 司的首席执行官在能源大会之前提出他们需要投 资技术和项目来实现格拉斯哥其他地区的经济转 型。因此，答案为A)。 Questions 5 to 7 are based on the news report you have just heard. (5-1)A Japanese IT firm has officially introduced an \"office cat\" policy to combat the stressful environment of the workplace. A total of nine furry friends freely wander around in the office and do whatever their little hearts desire. (5-2)Hidenobu Fukuda,who heads the firm,introduced the pet policy,upon request fromi one of his employees,allowing staff to bring their own cats to work. Employee Eri Ito is grateful for their animals'comforting ways. \"Cats are sleeping just beside us. It's healing.\" she said.(6)Not only does Fukuda encourage bringing cats to: the job,but he also encourages his employees to rescue cats from overpopulated shelters or streets. He gives 5,000 yen,about 45 US dollars a month to those who rescue a cat. While the positives are many,there are still some obstacles. \"Sometimes a cat will walk on a phone and cut off the call,or they shut down the computers by walking onto the off switch.\" Ito says. (7)Still,cats in the workplace have been a tremendous success for the company. The policy has led to various other companies doinig the same."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Three",
+          "intro": "Questions 5 to 7 are based on the news report you have just heard.",
+          "material": "Question 5. What do we learn from the news report about the Japanese IT firm? Question 6. What does Fukuda encourage his employees to do? Question 7. What does the news reports say about the firm's policy?",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What do we learn from the news report about the",
+              "stemCn": "",
+              "options": {
+                "A": "It donates money to overpopulated animal shelters.",
+                "B": "It perm its employees to bring cats into their office.",
+                "C": "It gives 5,000 yen to employees who keep pet cats.",
+                "D": "It allows workers to do whatever their hearts desire. fill 2021 &f 6A 24 ===== PAGE 2 ====="
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。新闻开头提到，日本一家IT"
+              },
+              "answer": "B",
+              "analysis": "Japanese IT firm? 公司正式推出了一项“办公室猫”政策，以改善紧张 的工作环境。根据这一政策，这家公司允许员工把 自己的猫带进办公室，因此答案为B)。"
+            },
+            {
+              "num": 6,
+              "stem": "What does Fukuda encourage his employees",
+              "stemCn": "",
+              "options": {
+                "A": "Keep cats off the street.",
+                "B": "Rescue homeless cats.",
+                "C": "Volunteer to help in animal shelters.",
+                "D": "Contribute to a fund for cat protection."
+              },
+              "optionCn": {
+                "B": "【精析】细节推断题。新闻中提到福田不仅鼓励员"
+              },
+              "answer": "B",
+              "analysis": "to do? Section B 工带着猫工作，还鼓励员工从动物数量过多的动物 收容所或大街上救助猫。此处在收容所和大街上 的猫都可以理解为无家可归的猫，因此答案为B)。"
+            },
+            {
+              "num": 7,
+              "stem": "What does the news report say about the firm's",
+              "stemCn": "",
+              "options": {
+                "A": "It has contributed tremendously to the firm's fame.",
+                "B": "It has helped a lot to improve animals' well-being.",
+                "C": "It has led some other companies to follow suit.",
+                "D": "It has resulted in damage to office equipment. Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions wili be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。新闻最后肯定了“办公室猫”"
+              },
+              "answer": "C",
+              "analysis": "policy? 政策的积极影响，认为带猫上班对于公司来说是一 项巨大的成功，其他公司也纷纷效仿这一政策，因 此答案为C)。 Questions 8 to 11 are based on the conversation you have just heard. M：(8-1)Has Jimmy been coming in lately? W: No, I haven't seen him around. Why? Has he been causing any trouble? M:Not that I know of.(8-2)But I need to see him,because my friends and I lent him some money last month. We haven't heard from him since, I heard he comes here a lot,so I thought I'd come in and check with you. W:Well,that's funny. Some other fellow came in asking for Jimmy just yesterday,(9)a real nervous,pushy type of fellow,saying he needed Jimmy for some study project they were working on. But I can't quite remember what it was all about. Is this a lot of money we're talking about here? M: No, just 60 pounds between the three of us,but still a bit too much to just let go.(10)He told us he'd got into an accident. Nothing serious,mind you,but he damaged someone's car and wanted to get some money together to make up for the damage he'd caused. W:Hmm,isn't that sort of thing usually.covered by insurance? And then,if you stll wanted to give money as some sort of apology or something, he probably shouldn't have to go around borrowing it from people. M:You think Jimmy's just making it all up? See,I did think it was a bit weird for him to be'asking for money for that sort of thing. And his story was a bit vague to begin with.(11)But I thought maybe he doesn't want his parents to know about what happened. So he'd rather come to us and keep things quiet. Anyway, Jimmy is a good guy. So we didn't make a fuss about it."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L8",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation One",
+          "intro": "Questions 8 to 11 are based on the conversation you have just heard.",
+          "material": "What does the man want to do? Question 9. What do we learn about the man who came to see the woman yesterday? Question 10. What did Jimmy say happened to him one day? Question 11. Why did Jimmy borrow money according to the man? I've never done it before and I know that you've been doing it for ages. Sure, I love getting my shopping delivered. It makes life so much simpler. No carrying heavy shopping bags in the rain or trying to park the car in those huge supermarket car parks. Then not being able to find it again after you come out of the shops. But there must be some problems. I mean, how do you know that you won't get bad fruit? Or that the eggs won't be broken? Oh, come on. The food is exactly the same as the stuff you buy in a conventional shop. They aren't going to deliver you food that is out of date. And, if you get a broken egg, well, that could happen in a conventional shop too. If anything, it's really wrong. You can just take photographs of the damage and they will give you the money back or replace the item. How about delivery fees? Is it not more expensive to get everything delivered? I actually found that it was cheaper for me as I live quite far away from my local supermarket, so with the deliveries I'm actually saving on petrol. I never thought of that. If you aren't driving your own car, then you are saving on fuel. Right, you've convinced me. I'm going to go on the computer now and give it a try. So which supermarket do you think is the best to order from? Oh no, that's definitely up to you. Otherwise, will the hero day?",
+          "questions": [
+            {
+              "num": 8,
+              "stem": "What does the man want to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Find out where Jimmy is.",
+                "B": "Borrow money from Jimmy.",
+                "C": "Make friends with Jimmy.",
+                "D": "Ask Jimmy what is to be done."
+              },
+              "optionCn": {
+                "A": "【精析】细节推断题。对话开头，男士向女士询问"
+              },
+              "answer": "A",
+              "analysis": "吉米的下落，并向女士解释自己和朋友借给吉米一 些钱，但是已经一个月没有他的消息了。由此可 知，男士是在找吉米，因此答案为A)。"
+            },
+            {
+              "num": 9,
+              "stem": "What do we learn about the man who came to see",
+              "stemCn": "",
+              "options": {
+                "A": "He was unsure what kind of fellow Jimmy was.",
+                "B": "He was working on a study project with Jimmy.",
+                "C": "He wan ted to make a sincere apology to Jimmy.",
+                "D": "He wan ted to invite her to join in a study project."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。对话中，女士了解男士的来"
+              },
+              "answer": "B",
+              "analysis": "the woman yesterday? 意后，向他提起昨天也有人来找吉米，那个人和吉 米正在做一个研究项目，因此答案为B)。"
+            },
+            {
+              "num": 10,
+              "stem": "What did Jimmy say happen to him one day?",
+              "stemCn": "",
+              "options": {
+                "A": "He got a ticket for speeding.",
+                "B": "He got his car badly damaged.",
+                "C": "He was involved in a traffic accident.",
+                "D": "He had an operation for his injury."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。对话中，男士提及吉米曾告 诉他自己出了车祸，"
+              },
+              "answer": "C",
+              "analysis": "有“卷入，涉及”之意，和原文表达相符，因此答案 为C)。"
+            },
+            {
+              "num": 11,
+              "stem": "Why did Jimmy borrow money according to",
+              "stemCn": "",
+              "options": {
+                "A": "He needed to make some donation to charity.",
+                "B": "He found the 60 pounds in his pocket missing.",
+                "C": "He wan ted to buy a gift for his mother's birthday.",
+                "D": "He wan ted to conceal something from his parents."
+              },
+              "optionCn": {
+                "D": "选项中的"
+              },
+              "answer": "D",
+              "analysis": "the man? 借钱的原因，虽然有点奇怪，但是他认为吉米是不 conceal表示“隐瞒”，和原文表达相符，因此答案 为D)。 Questions 12 to 15 are based on the conversation you have just heard. W: Hi,Max. How are you? Listen. (12)I wanted to ask you about ordering shopping online. I've never done it before and I know that you've been doing it for ages. M:Sure. I love getting my shopping delivered. It makes life so much simpler(13)no carrying heavy shopping bags in the rain,or trying to park the car on those huge supermarket car parks then not being able to find it again after you come out of the shops. W:(14)But there must be some problems. I mean, how do you know that you won't get bad fruit,or that the eggs won't be broken? M:Oh,come on. The food is exactly the same as the stuff you buy in a conventional shop. They aren't going to deliver you food that is out of date. And if you get a broken egg, well,that could happen in a conventional shop,too. If anything is really wrong,you can just take photographs of the damage,and they will give you the money back or replace the item. W:How about delivery fees? Is it not more expensive to get everything delivered? M:(15)I actually found that it was cheaper for me, as I live quite far away from my local supermarket. So with the deliveries, I'm actually saving on petrol. W: I've never thought of that. If you aren't driving your own car, then you are saving on fuel. Right, you've convinced me. I'm going to go on the computer now and give it a try. So,which supermarket do you think is the best to order from? M:Oh, no. That's definitely up to you. Otherwise,we'll be here all day."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L12",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation Two",
+          "intro": "Questions 12 to 15 are based on the conversation you have just heard.",
+          "material": "Question 12- What did the woman want to ask Max about? Question 13. What does the man think is a problem with shopping and supermarkets? Question 14. What is the woman's concern about shopping online? Question 15. What does the man find about",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "What did the woman want to ask Max about?",
+              "stemCn": "",
+              "options": {
+                "A": "Shopping delivery.",
+                "B": "Shopping online.",
+                "C": "Where he goes shopping.",
+                "D": "How often he does shopping."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。对话开头女士开门见山，直"
+              },
+              "answer": "B",
+              "analysis": "接表明自己想咨询网上购物的相关问题，因此答 案为B)。"
+            },
+            {
+              "num": 13,
+              "stem": "What does the man think is a problem with",
+              "stemCn": "",
+              "options": {
+                "A": "Searching in the aisles.",
+                "B": "Dealing with the traffic.",
+                "C": "Driving too long a distance.",
+                "D": "Getting one's car parked."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。对话中男士向女士介绍网上"
+              },
+              "answer": "D",
+              "analysis": "shopping in supermarkets? ：购物使自己的生活变得简单，不需要在雨中提沉 重的购物袋，也不用面对费力把车停到大超市停 车场后，购物出来找不到车的窘境，对比四个选 项，D)选项符合原文的表达，因此答案为D)。 Section C"
+            },
+            {
+              "num": 14,
+              "stem": "What is the woman's concern about shopping",
+              "stemCn": "",
+              "options": {
+                "A": "The after-sales service.",
+                "B": "The replacement policy.",
+                "C": "The quality of food products.",
+                "D": "The damage to the packaging."
+              },
+              "optionCn": {
+                "C": "【精析】细节推断题。对话中，女士认为网上购物"
+              },
+              "answer": "C",
+              "analysis": "online? 会有一些问题，询问男士怎么知道自己不会收到 坏水果或者收到碎鸡蛋。由此可知，女士担心网 上购物会出现食品质量问题，因此答案为C)。"
+            },
+            {
+              "num": 15,
+              "stem": "What does the man find about shopping online?",
+              "stemCn": "",
+              "options": {
+                "A": "Itsaves money.",
+                "B": "Itoffers more choice. Section C Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question ,you must choose the best answer from the four choices marked A ) ,",
+                "C": "Itincreases the joy of shopping.",
+                "D": "It is less time-consuming."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。对话末尾，女士询问男士快"
+              },
+              "answer": "A",
+              "analysis": "递费用，担心网上购物花费高。男士表示网上购 物对他来说更便宜，因为他住得离超市比较远，用 快递的方式可以省下油费，因此答案为A)。 Questions 16 to 18 are based on the passage you have just heard. (16)A recent study found that 10 percent of British children suffer from math anxiety. This means they have overwhelming negative emotions towards the subject, ranging from rage to despair. Other emotions triggered by math include feelings of tension and frustration. Physical symptoms include a racing heart or struggling to catch breath. The phenomenon of math anxiety is characterized as a general sense of feeling that the subject is hard compared with other subjects leading to a subsequent lack or loss of confidence. Researchers said they investigated individuals'attitudes towards mathematics because of what could be referred to as a mathematics crisis in the UK.(17)There's a widespread misunderstanding that only low performing children suffer from math anxiety. People automatically assume children are anxious about math because they are poor achievers. In fact, more than three quarters of children with high levels of math anxiety are normal to high achievers. Probably their math anxiety will go unnoticed because their performance is good. But in the long term their performance is negatively affected. So the real danger here is that children who will completely able to do math at a normal level may keep away from it because they feel anxious. Math anxiety can severely disrupt students'performance in the subject in both primary and secondary school. (18)But importantly—and surprisingly—this new study suggests that the majority of students experiencing math anxiety have normal to high math. ability."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage One",
+          "intro": "Questions 16 to 18 are based on the passage you have just heard.",
+          "material": "Question 16 What did a recent study find about some British children? Question 17 What is the widespread misunderstanding about math anxiety? Question 18 What does the passage say about British students with math anxiety? Passage 2 People spend a lot of time using phones and computers. Much of that time is devoted to text messages and social media. But many people choose to spend their time playing computer games. For years, parents and teachers have worried that these games might be addictive. And now, the World Health Organization has recognized addiction to computer games as a disease. The organization explains that this decision reflects general agreement among experts around the world that some people have a problem with these games. They show a pattern of behavior characterized by a lack of control. Such people make computer games a priority over their responsibilities. They may play games instead of attending school or work or socializing. According to the World Health Organization experts, people's use of computer games is different from their use of the internet, social media, and online shopping. These experts claim there is not sufficient data to indicate that people's reliance on those other activities is an addiction. But they argue that playing computer games to access is different. This behavior can become a disorder. To meet the new definition for addiction, the behavior must damage a person's relationships or performance at school or work. And this must last for at least a year. Still, not all behavior experts agree. Some argue that there is not enough research on the subject. Thus, they claim it is too early to call computer game addiction a disorder.",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What did a recent study find about some British",
+              "stemCn": "",
+              "options": {
+                "A": "They have little talent for learning math.",
+                "B": "They need_«!dical help f math anxiety. __",
+                "C": "They need extra help to catch up in the math class.",
+                "D": "They have strong negative emotions towards math. fill 2021 &p 6 JJ25 ===== PAGE 3 ====="
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。短文开头指出，最近的一项"
+              },
+              "answer": "D",
+              "analysis": "children? 研究发现，10%的英国儿童患有数学焦虑。这意味 着他们对这门学科有着从愤怒到绝望的强烈的消 极情绪，由数学触发的情绪还包括紧张和沮丧，体 征表现为心跳加速或呼吸困难。因此，答案为D)。"
+            },
+            {
+              "num": 17,
+              "stem": "What is the widespread misunderstanding about",
+              "stemCn": "",
+              "options": {
+                "A": "It will gradually pass away without teachers' help.",
+                "B": "It affects low performing children only.",
+                "C": "It is related to a child's low intelligence.",
+                "D": "It exists mostly among children from poor families."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。短文中提到，有一种普遍的"
+              },
+              "answer": "B",
+              "analysis": "math anxiety? Questions 19 to 21 are based on the passage you have just heard. 误解认为只有表现不佳的儿童才会患上数学焦 虑，因此答案为B)。"
+            },
+            {
+              "num": 18,
+              "stem": "What does the passage say about British students",
+              "stemCn": "",
+              "options": {
+                "A": "Most of them have average to strong math ability.",
+                "B": "Most of them get timely help from their teachers.",
+                "C": "They will regain confidence with counsel ling.",
+                "D": "They are mostly secondary school students."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。短文最后提到，一项新研究"
+              },
+              "answer": "A",
+              "analysis": "with math anxiety? 表明，大多数经历数学焦虑的学生，其数学能力正 常或高于正常水平，即大多数有数学焦虑的学生 有较强的数学能力，因此答案为A)。 People spend a lot of time using phones and computers. Much of that time is devoted to text messages and social media. But many people choose to spend their time playing computer games. For years, parents and teachers have worried that these games might be addictive.(19)And now,the World Health Organization has recognized addiction to computer games as a disease. The organization explains that this decision reflects general agreement among experts around the world that some people have a problem with these games. They show a pattern of behavior characterized by a lack of control. (2o)Such people make computer games a priority over their responsibilities. They may play games instead of attending school,or work,or socializing. According to the World Health Organization experts, people's use of computer games is different from their use of the Internet, social media and online shopping. These experts claim there is not sufficient data to indicate that people's reliance on those other activities is an addiction. But they argue that playing computer games to access is different. This behavior can become a disorder. To meet the new definition for addiction, the behavior must damage a person's relationships or performance at school or work,and this must last for at least a year. (21)Still not all behavior experts agree. Some argue that there's not enough research on the subject. Thus,they claim it is too early to call computer game addiction a disorder."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Two",
+          "intro": "Questions 19 to 21 are based on the passage you have just heard.",
+          "material": "Question 19. What conclusion has the world health organization come to recently? Question 20. What is said of people with addictive behavior? Question 21. What do some behaviour experts think of addiction to computer games? Passage 3 Maybe you carry the most powerful passport in the world, or perhaps the rarest passport. Whatever the case, your passport will likely be one of four colours. Red, blue, green, or black. Although there are slight variations. Switzerland's passport is dark red, for example. While most European countries prefer a shade of red that's almost brown, there are no official rules regarding passport colours. But countries follow a certain set of norms when designing them. The International Civil Aviation Organization, which works to define the principles of air travel, suggests that countries use a suitable type, size and style for official documents like passports. There are also a few compulsory aspects of passports. They must be made from a material that bends. They should be able to be read by machine at temperatures ranging from 10 degrees Celsius to 50 degrees Celsius and conditions where the air can be extremely dry or moist. Despite these existing recommendations, there is nothing regarding the cover colour. Why? Simply put, countries stick to darker and more conservative colours because they appear more official. and they can also hide dirt and wear. While there's little innovation when it comes to passport cover colour, the saying cannot be said for the pages. The passports of many countries contain images of their well-known geographical features and wildlife, which also function as security features, as some are only visible under a special light.",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "What conclusion has the World Health",
+              "stemCn": "",
+              "options": {
+                "A": "Social media addiction is a threat to our health.",
+                "B": "Too many people are addicted to smartphones.",
+                "C": "Addiction to computer games is a disease.",
+                "D": "Computer games can be rather addictive."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。短文开头指出，人们花大量"
+              },
+              "answer": "C",
+              "analysis": "Organization come to recently? 时间玩手机和电脑游戏，家长和老师担心这些游 戏会使人上瘾；接着指出，世界卫生组织已经认定 电脑游戏成瘾是一种疾病。因此答案为C)。"
+            },
+            {
+              "num": 20,
+              "stem": "What is said of people with addictive behavior?",
+              "stemCn": "",
+              "options": {
+                "A": "They prioritize their favored activity over what they should do.",
+                "B": "They do their favored activity whenever and wherever possible.",
+                "C": "They are unaware of the damage their behavior is doing to them.",
+                "D": "They are unable to get rid of their addiction without professional help."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。短文提到，世界卫生组织指"
+              },
+              "answer": "A",
+              "analysis": "出，世界各地专家普遍认为有些人对于玩游戏会 表现出一种缺乏控制的行为模式，他们把电脑游 戏置于自己的责任之上，他们可能只玩游戏，而不 去上学、工作或社交。A)选项中的favored activity对应文中的computer games，选项中 what they should do 则对应 their responsibilities, 因此答案为A)。"
+            },
+            {
+              "num": 21,
+              "stem": "What do some behavior experts think of",
+              "stemCn": "",
+              "options": {
+                "A": "It may be less damaging than previously believed.",
+                "B": "There will never be agreement on its harm to people.",
+                "C": "It may prove to be beneficial to developing creativity.",
+                "D": "There is not enough evidence to classify it as a disease."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。短文最后指出，并非所有行"
+              },
+              "answer": "D",
+              "analysis": "addiction to computer games? 为专家都同意电脑游戏成瘾是种疾病的说法，有 些人认为这方面的研究还不够，他们认为将电脑 Questions 22 to 25 are based on the passage you have just heard. 游戏成瘾称为一种疾病还为时过早。因此答案 为D)。 Maybe you carry the most powerful passport in the world,or perhaps the rarest passport. Whatever the case, your passport will likely be one of four colors: red,blue,green or black,although there are slight variations. Switzerland's passport is dark red,for example,(22)while most European countries prefer a shade of red. That's almost brown. (23)There are no official rules regarding passport colors,but countries follow a certain set of norms when designing them. The International Civil Aviation Organization,which works to define the principles of air travel,suggests that countries use a suitable type,size and style for official documents like passports. There are also a few compulsory aspects of passports. They must be made from a material that bends. They should be able to be read by a machine at temperatures ranging from 10 degrees Celsius to 50 degrees Celsius, under the conditions where the air can be extremely dry or moist. Despite these existing recommendations,there is nothing regarding the cover color. Why? (24)Simply put,countries stick to darker and more conservative colors because they appear more official. And they can also hide dirt and wear. While there's little innovation when it comes to passport cover color,the same cannot be said for the pages. (25)The passports of many countries can take images of their well-known geographical features and wildlife, which also function as security features as some are only visible under a special light."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Three",
+          "intro": "Questions 22 to 25 are based on the passage you have just heard.",
+          "material": "Question 22. What do we learn about most European passports? Question 23. What does the passage say about the design of passports? Question 24. Why are dark colors chosen for passport covers? Question 25. What is one special function of the images inside many passports? That's the end of listening comprehension.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What do we learn about most European",
+              "stemCn": "",
+              "options": {
+                "A": "They are relatively uniform in color and design.",
+                "B": "They appear more formal than other passports.",
+                "C": "They are a shade of red bordering on brown.",
+                "D": "They vary in color from country to country."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。短文开头提到，各国护照以"
+              },
+              "answer": "C",
+              "analysis": "passports? 红色、蓝色、绿色或黑色为主，接着举例指出多数 欧洲国家的护照更喜欢使用近似棕色的红色，因 此答案为C)。"
+            },
+            {
+              "num": 23,
+              "stem": "What does the passage say about the design of",
+              "stemCn": "",
+              "options": {
+                "A": "They must endure wear and tear.",
+                "B": "They must be of the same size.",
+                "C": "They must be made from a rare material.",
+                "D": "They must follow some common standards. - - - - 24 -A7 -'Fhey- look-more-traditional- - - - - - - - - - - - -- C-) They are favored -by- airlines-; - - - - - - - - - --;-"
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。短文提到，对于护照的颜色"
+              },
+              "answer": "D",
+              "analysis": "passports? 没有官方规定，但是各国在设计护照时会遵循一 定的标准，因此答案为D)。"
+            },
+            {
+              "num": 25,
+              "stem": "What is one special function of the images inside many passports?",
+              "stemCn": "",
+              "options": {
+                "A": "For beauty.",
+                "B": "For variety.",
+                "C": "For visibility.",
+                "D": "For security."
+              },
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "原文：The passports of many countries contain images... which also function as security features, as some are only visible under a special light.\n翻译：许多国家的护照内部包含图片...这些图片也充当安全特征，因为有些图片只能在特殊光线下看到。\n解释：原文明确说明护照内部的图片“also function as security features”，即具有安全功能，选项D正确。原文提到某些图片只有在特殊光下可见，这与可见性（visibility）相反。"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2021_06_2-A.mp3",
+        "B": "/audio/papers/cet4-2021_06_2-B.mp3",
+        "C": "/audio/papers/cet4-2021_06_2-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_2-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. &eh choice in the bank is identified by a letter. Please mark the corresponding letter for each item on answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Social isolation poses more health risks than obesity or smoking 15 cigarettes a day, according to research published by Brigham Young University. The� is that loneliness is a huge, if silent, risk factor. Loneliness affects physical health in two ways. First, it produces stress hormones that can lead to many health problems. Second, people who live alone are less likely to go to the doctor _E_, to [9� 20211¥- 6 fa.I26 ===== PAGE 4 ===== exercise or to eat a healthy diet. Public health experts in many countries are � how to address widespread loneliness in our society. Last year Britain even appointed a minister for loneliness. \"Loneliness � almost every one of us at some point,\" its minister for loneliness Baroness Barran said. \"It can lead to very serious health 30 for individuals who become isolated and disconnected. \" Barran star ted a \"Let's Talk Loneliness\" campaign that ___l!_ difficult conversations across Britain. He is now supporting \"_;g_ benches,\" which are public seating are as where people are encouraged to go and chat with one another. The minister is also _lL to stop public transportation from being cut in ways that leave people isolated. More than one-fifth of adults in both the Un i ted States and Britain said in a 2018 ____M_ that they often or always feel lonely. More than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are � strained. A quarter of Americans now live alone, and as the song says, one is the loneliest number.",
+          "wordBank": {
+            "A": "abruptly",
+            "B": "appointments",
+            "C": "consequences",
+            "D": "debating",
+            "E": "dimensions",
+            "F": "friendly",
+            "G": "hindered",
+            "H": "idiom",
+            "I": "implication",
+            "J": "pushing",
+            "K": "severely",
+            "L": "sparked",
+            "M": "splitting",
+            "N": "survey",
+            "O": "touches"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "【语法判断】空格位于定冠词 The之后，因此空格"
+              },
+              "answer": "I",
+              "analysis": "处需要填入名词。因为空格后的系动词is是单数， 因此本空应填入不可数名词或可数名词单数形式。 【语义判断】本句意为： 孤独是一个巨大 的风险因素，尽管它是无声的。由上一句可知，与 社会隔绝带来的健康风险比肥胖或每天吸15支 烟更大，这说明孤独是一个巨大的风险因素，因此 V 空格处应填人含有“说明，表明”意义的名词，故本 题答案为I)implication。在备选项中，H)idiom 和N)survey不符合语义，因此排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格位于the doctor之后，推测空格"
+              },
+              "answer": "B",
+              "analysis": "所填词应为名词，且与thedoctor构成名词词组。 【语义判断】本句意为：独居的人不太可能去医生 。由句意可知，独居的人不太可能去看 医生。thedoctor appointments意为“就诊预约”， 而go to the doctor appointments 是固定表达，意 为“去看医生”，故本题答案为B)appointments。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】分析句子结构可知，空格位于are之"
+              },
+              "answer": "D",
+              "analysis": "后，空格后面为“how+不定式”结构，相当于名词 性从句，因此空格处需要填入动词的分词形式，与 are共同构成句子的谓语。 【语义判断】本句意为：许多国家的公共卫生专家 正在_ ，如何解决社会中普遍存在的孤独问 题。由前两段可知，孤独带来很多危害，那么专家 们需要研究如何解决这一问题，因此空格处应填 人含有或接近“研究”意义的动词。备选词中只有"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "【语法判断】空格位于名词Loneliness之后，而且"
+              },
+              "answer": "O",
+              "analysis": "本句缺少谓语动词，因此空格处需要填入动词的 第三人称单数形式。 【语义判断】备选词中只有O)touches符合语法 要求，将它代人句中，则句意为“几乎每个人在某 个时刻都会感到孤独”，符合文义，因此本题答案 为O)touches。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】分析句子结构可知，句子主干为主谓"
+              },
+              "answer": "C",
+              "analysis": "宾结构，且宾语不完整。health与空格所填词构 成名词词组，作句子的宾语。health是名词作定 语，空格处所填词作为宾语中心词也应该是名词。 【语义判断】本句意为：对于变得孤立和与世隔绝 的人来说，它会导致非常严重的健康 由第一段可知，孤独带来很大的健康风险，那么自 然会引起严重的健康后果，因此空格处应填入含 有“结果，后果”意义的名词，故本题答案 为C)consequences。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】分析句子结构可知，空格所在的定语"
+              },
+              "answer": "L",
+              "analysis": "从句缺少谓语，因此空格处需要填入动词。主句 是一般过去时，所以从句也应该为过去时。 【语义判断】本句意为：巴伦发起了一个名为“让我 们谈谈孤独”的活动，在全英国 艰难的对 话。由句意可知，该活动让人们开始谈论孤独，也 就是所谓的“艰难的对话”，因此空格处应填入含 有“引起，激起”意义的词，故本题答案 为L) sparked。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】分析句子结构可知，本句成分完整，空"
+              },
+              "answer": "F",
+              "analysis": "格位于名词benches之前，因此空格处需要填人 形容词。 【语义判断】分析句意可知，所谓的“ benches”就是人们可以互相聊天的公共座位区 域，因此空格处应填入含有积极意义的形容词，以 体现出benches的积极作用，故本题答案为 由此确定答案。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】空格位于is之后，因此空格处需要填"
+              },
+              "answer": "J",
+              "analysis": "入形容词或动词的分词形式。 【语义判断】本句意为：这位部长还 阻止 公共交通中断，以免人们被孤立。本句中的The minister指的就是英国负责孤独问题的部长，这是 他为了减少孤独而采取的另外一项措施，因此空 格处应填入含有或接近“试图，努力”意义的词，故 本题答案为J) pushing。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格位于a2018之后，因此空格处需"
+              },
+              "answer": "N",
+              "analysis": "要填人可数名词的单数形式。 【语义判断】本句意为：在2018年的一项 中，美国和英国超过五分之一的成年人表示，他们 经常或总是感到孤独。由句意可知，空格处应填 人含有“研究，调查”意义的名词，故本题答案为 参考译文"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格位于系动词are和形容词"
+              },
+              "answer": "K",
+              "analysis": "strained之间，且句子成分完整，因此需要填人 副词。 【语义判断】本句意为：即使是那些已婚人士，也有 30%的人关系 紧张。由句意可知，空格 处应填人表示程度的副词，故本题答案为 能表示程度，因此排除。 杨百翰大学公布的一项研究显示，与社会隔绝带来的健康风险比肥胖或每天吸15支烟更大。这意味 着孤独是一个巨大的风险因素，尽管它是无声的。 孤独从两个方面影响身体健康。第一，它会产生能导致许多健康问题的压力荷尔蒙。第二，独居的人 不太可能去看医生，不太可能去锻炼，也不太可能有健康的饮食。 许多国家的公共卫生专家正在讨论如何解决社会中普遍存在的孤独问题。去年，英国甚至任命了一 位部长负责孤独问题。“几乎每个人在某个时刻都会感到孤独。”英国负责孤独问题的部长 巴隆尼斯·巴伦说，“对于变得孤立和与世隔绝的人来说，它会导致非常严重的健康后果。” 巴伦发起了一个名为“让我们谈谈孤独”的活动，在全英国引发了艰难的对话。他现在支持“友好长 椅”，这是一种公共座位区，鼓励人们去那里互相聊天。这位部长还在努力阻止公共交通中断，以免人们被 孤立。 在2018年的一项调查中，美国和英国超过五分之一的成年人表示，他们经常或总是感到孤独。超过 一半的美国成年人是未婚的，研究人员发现，即使是那些已婚人士，也有30%的人关系非常紧张。现在有 四分之一的美国人是独居的，正如那首歌里唱的那样，一是最孤独的数字。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Numbers do not exist in all cultures. There are number less hunter-gatherers in Amazonia, living along\nB) But, in a historical sense, number-conscious people like us are the unusual ones. For the bulk of our\nC) Speakers of a numeric, or number less, languages offer a window into how the invention of numbers\nD) This and many otherexiteriments hav-e led to�a simple�conclusion�J\\lhe�peopl�dQD.QtJ1av-e�umber\nE) It is worth stressing that these a numeric people arecognitively (,1£ R� -jj\" i:1) normal, well-adapted to\nF) This conclusion is echoed by work with a numeric children in industrialized societies. Prior to being\nG) None of us, then, is really a\"numbers person.\" We are not born to handle quantitative distinctions\nH) Compared with other mammals, our numerical instincts are not as remarkable as many assume. We\nI) So, how did we ever invent\"unnatural\" numbers in the first place? The answer is, literally, at your\nJ) Cultures without numbers also offer insight into the cognitive influence of particular numeric\nK) Research on the language of numbers shows, more and more, that one of our species' key\nA) They raised public awareness of the possible causes of heart disease.\nB) They turned public attention away from the health risks of sugar to fat.\nC) They placed the sugar industry in the spotlight with their new findings.\nD) They conducted large-scale research on the role of sugar in people's health.\nA) They to ok her a full year to track and analyze.\nB) Most of them are based on systematic reviews.\nC) They depend on funding from the food industries.\nD) Nearly all of them serve the purpose of the funders.\nA) Exercise is more important to good health than diet.\nB) Choosing what to eat and drink is key to weight control.\nC) Dr in king Coca-Cola does not contribute to weight gain.\nD) The food industry plays a major role in fighting obesity.\nA) It simply focuses on nutrition and health.\nC) It rarely results in objective findings.\nA) Follow their intuition in deciding what to eat.\nB) Be doubtful of diet experts' recommendations.\nC) Ignore irrelevant information on their news feed.\nD) Think twice about new nutrition research findings.\nA) How long people to ok to reach the top of their career.\nB) How people accumulated wealth in his father's time.\nC) How people vie wed success in his father's time.\nD) How long people usually stayed in a company.\nA) It was con side red a fashion at that time.\nB) It was a way to advance in their career.\nC) It was a response to the changing job market.\nD) It was difficult to keep a job for long.\nA) They are often regarded as most treasured talents.\nB) They are able to bring their potential into fuller play.\nC) They have control over their life and work schedules.\nD) They feel proud of being outstanding problem solver.\nA) Who is capable of solving problems with ease.\nB) How people can be more focused and productive.\nC) What kind of people can contribute more to them.\nD) Why some people are more passionate about work.\nA) It may force companies to reform their business practice.\nB) It may soon replace the traditional economic model.\nC) It will drive technological progress on a global scale.\nD) It will bring about radical economic and social changes.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "It is difficult for a numeric people to keep track of the change in numbers even when the total is very small.",
+              "stemCn": "【定位】由题干中的 anumeric people 和 keep",
+              "options": {},
+              "optionCn": {
+                "C": "段最后一句。"
+              },
+              "answer": "",
+              "analysis": "明，没有数字概念的人很难记住罐子中还有多少 坚果，尽管总数只有四个或五个。题干中的 anumeric people 和 keep track of 和原文表达方 式完全一致，且题干中的change innumbers对应 原文中的 how many nuts remain in the can,故答 案为C)。"
+            },
+            {
+              "num": 37,
+              "stem": "Human numerical instincts are not so superior to those of other mammals as is generally believed.",
+              "stemCn": "【定位】由题干中的Human numerical instincts和",
+              "options": {},
+              "optionCn": {
+                "H": "段第一句。"
+              },
+              "answer": "H",
+              "analysis": "物相比，我们的数字本能并不像很多人想象的那 样非凡。题干中的 Human numerical instincts和 othermammals和文中所述一致，且题干中的 superior to对应原文中的remarkable，题干中的 as is generally believed 对应原文中的 as many assume，故答案为H)。"
+            },
+            {
+              "num": 38,
+              "stem": "The author emphasizes being a numeric does not affect one's cognitive ability.",
+              "stemCn": "【定位】由题干中的 anumeric 和cognitive ability",
+              "options": {},
+              "optionCn": {
+                "E": "段第一句。"
+              },
+              "answer": "E",
+              "analysis": "这些不懂数字的人在认知方面是正常的，很好地 适应了他们统治了几个世纪的环境。题干中的 not affect one's cognitive ability 对应原文中的 cognitively normal，故答案为E)。"
+            },
+            {
+              "num": 39,
+              "stem": "In the long history of mankind, humans who use numbers are a very small minority.",
+              "stemCn": "【定位】由题干中的Inthelonghistoryof",
+              "options": {},
+              "optionCn": {
+                "B": "段第一句。"
+              },
+              "answer": "B",
+              "analysis": "看，像我们这样对数字有意识的人类是不寻常的。 题干中的 In the long history of mankind 对应原 文中的 in a historical sense,题干中的 a very small minority 对应原文中的 the unusual ones。 故答案为B)。"
+            },
+            {
+              "num": 40,
+              "stem": "An in-depth study of differences between human languages contributes to a true understanding of",
+              "stemCn": "【定位】由题干中的 differences between human",
+              "options": {},
+              "optionCn": {
+                "I": "cultures定位到文章",
+                "K": "段最后一句。"
+              },
+              "answer": "K",
+              "analysis": "正理解我们的认知生活在不同文化中有多么不 同，我们就必须持续地探索人类语言多样性的深 度。题干中的 differences between human languages 对应原文中的 our species' linguistic diversity,题干中的 cognitive differences between cultures 对应原文中的 how much our cognitive lives differ cross-culturally,故答案为K)。"
+            },
+            {
+              "num": 41,
+              "stem": "A conclusion has been drawn from many experiments that a numeric people have a hard time",
+              "stemCn": "【定位】由题干中的many experiments 和 a hard",
+              "options": {},
+              "optionCn": {
+                "D": "段第"
+              },
+              "answer": "",
+              "analysis": "一句。 多其他的实验得出了一个简单的结论:当人们没 有数字词汇时，他们很难进行数量上的区分，尽管 这些对于你我这样的人而言是非常自然的事情。 题干中的 experiments 和 conclusion均和原文一 致。题干中的anumeric people对应原文中的 people do not have number words,题干中的 have a hard time distinguishing quantities 对应原文中 的 struggle to make quantitative distinctions,故答 案为D)。"
+            },
+            {
+              "num": 42,
+              "stem": "Making quantitative distinctions is not an inborn skill.",
+              "stemCn": "【定位】由题干中的Making quantitative",
+              "options": {},
+              "optionCn": {
+                "G": "段第二句。"
+              },
+              "answer": "G",
+              "analysis": "distinctions 和 not an inborn skill定位到文章 就能够熟练地进行定量区分。题干中的Making quantitative distinctions 对应原文中的 handle quantitative distinctions,题干中的 not an inborn skill对应原文中的are notbornto，故答案为G)。"
+            },
+            {
+              "num": 43,
+              "stem": "Every aspect of our lives is affected by numbers.",
+              "stemCn": "【定位】由题干中的 Every aspect of our lives 和",
+              "options": {},
+              "optionCn": {
+                "A": "段最后三句。"
+              },
+              "answer": "A",
+              "analysis": "被数字支配的。就在你读这篇文章的时候，你很 可能知道现在是几点了，你多大了，你的支票账户 余额，你的体重等等。我们思考所用的确切的数 字影响着我们生活中的一切。题干中的every aspect of our lives 对应原文中的 everything in our lives，故答案为A)。"
+            },
+            {
+              "num": 44,
+              "stem": "Larger numbers are said to be built upon smaller numbers.",
+              "stemCn": "【定位】由题干中的Larger numbers 和 smaller",
+              "options": {},
+              "optionCn": {
+                "I": "。"
+              },
+              "answer": "",
+              "analysis": "numbers定位到文章ID段第四句。 【精析】同义转述题。定位句提到，这些小一些的 数字是大一些的数字的基础。题干中的Larger numbers和 smaller numbers均和原文一致，题干 中的to be built upon 对应原文中的 are the basis"
+            },
+            {
+              "num": 45,
+              "stem": "It takes great efforts for children to grasp the concept of number words.",
+              "stemCn": "【定位】由题干中的 takes great efforts for",
+              "options": {},
+              "optionCn": {
+                "F": "段最后一句。"
+              },
+              "answer": "F",
+              "analysis": "children 和 grasp the concept of number words 定 理”是我们数字认知的基础之一，但是需要大量的 练习去理解。题干中的takes greatefforts对应原 文中的 requires extensive practice,题干中的 the 参考译文 concept of number words对应原文中的the foundation of our numerical cognition,故答案 为F)。 当一种语言没有数字词汇时会发生什么? 的河流的支流生活。这些人不使用精确的数量词语，而只使用类似“少量”或“一些”这样的词汇。 (43)相比之下，我们自己的生活是被数字支配的。就在你读这篇文章的时候，你很可能知道现在是几 点了，你多大了，你的支票账户余额，你的体重等等。我们思考所用的确切的数字影响着我们生活中 的一切。 ）(39)但是，从历史意义来看，像我们这样有数字意识的人类是不寻常的。在人类大约20万年的生命 中，我们大部分时间没有办法精确地表示数量。而且，在目前现存的大约7，000种语言中，如何使用 数字也存在巨大差异。 的。那些没有数字的文化，或是仅有一两个精确数字的文化，包括亚马孙流域的蒙杜鲁库和皮拉哈。 研究人员还研究了尼加拉瓜一些从未学过数字单词的成年人。在没有数字的情况下，健康的成年人 很难精确区分和回忆低至4的数量。在一项实验中，研究人员一次一个地把坚果放进罐子里，然后一 个一个地把它们取出来。当所有的坚果都被取出后，观看的人被要求发出信号。（36)他们的反应表 明，没有数字概念的人很难记住罐子里还有多少坚果，尽管总数只有四个或五个。 上的区分，尽管这些对于你我这样的人而言是非常自然的事情。虽然世界上只有一小部分语言是没 有数字或接近没有数字的，但它们证明了数字词汇不是人类的通用词汇。 境。当我还是孩子的时候，我和不懂数字的人共同生活过一段时间，他们是居住在黑色迈西河两岸的 皮拉哈人。像其他外来者一样，我不断被他们对于我们共同的生态环境的强大理解力所折服。然而 不懂数字的人在需要精确区分数量的任务前苦苦挣扎。或许这并不令人惊讶。毕竟，如果不数数，有 谁能说出树上到底有七个还是八个椰子呢？这些看似非常简单的区别在不懂数字的人眼里是很难辨 别的。 这一结论得到了对工业化社会中的无数字概念的儿童的研究的响应。在被填鸭式教授数字之前，孩 子们只能大致区分超过3的数量。我们必须掌握数字的认知工具，才能持续且容易地辨认出更大的 数量。事实上，习得数字单词的确切含义是一个艰苦的过程，需要花费孩子们很多年的时间。最初的 时候，孩子们学习数字就像他们学习字母一样。他们意识到数字是按照顺序排列的，但是却对每个单 独数字的含义毫无意识。随着时间的推移，他们开始理解一个给定的数字代表的数量比前面那个数 字大1。(45)这种“顺序原理”是我们数字认知的基础的一部分，但是需要大量的练习去理解。 期就灌输数字概念的文化传统，我们都要为甚至基本的数量区分而挣扎。当数字词汇和它们的书面 形式被我们的父母、同龄人和学校老师引人我们的认知经验时，它们改变了我们对数量的推理。这个 过程是如此寻常，以至于我们有时候认为这就是成长中一个很自然的部分，但事实并非如此。人类的 大脑天生具备某种定量本能，随着年龄的增长会不断完善，但是这种本能是有限的。 乳动物远亲共享一些基本的定量推理本能。事实上，对一些其他物种的研究表明，如果引人我们称之 为数字的认知能力工具，它们也能够完善它们的量化思维。 大部分语言使用以10、20或5为基数的数字系统。(44)也就是说，这些小一些的数字是大一些的数 字的基础。英语就是以10为基数或者说是十进制的一种语言，如14(4+10)和31(3×10+1)就是很 好的证明。我们说十进制的语言，因为我们祖先的语言——原始印欧语系，是以十进制为基础的。原 始印欧语系是十进制的原因是，在很多文化中，我们祖先的手作为一种途径，让人们理解了“一只手上 的五根手指和另一只手上的五根手指是等量的”。这种瞬间的想法被用语言表达出来并代代相传。这 就是为什么在很多种语言中,数字“5”都来源于“手”这个词。因此，很多的数字系统都是两个重要因素 的副产品：人类的语言能力和我们关注于自己的手和手指的倾向。这种对手工的依赖——作为人类用 两条腿直立行走的间接副产物——在大多数的文化中帮助产生了数字，但并非所有的文化都是如此。 是被分分秒支配的，但是这些概念在任何物理意义上并不存在，同时对于不懂数字的人来说也并不存 在。分和秒是古代美索不达米亚使用的一种罕见的以60为基数的数字系统的口头和书面的表达方 式。它们存在于我们的头脑中，并不是所有人都能从概念上继承的数字人工制品。 (40)如果我们想真正理解我们的认知生活在不同文化中有多么不同，我们就必须持续地探索人类语 言多样性的深度。 星火英语App Section C P 扫码看视频 Passage One ■ 【文章来源】本文选自2016年9月14日发表在www.npr.org(美国国家公共电台官网)上一篇标题为“Sugar Shocked? The Rest Of Food Industry Pays For Lots Of Research，Too\"(《糖震惊？其他食品行业也在为大量研 究买单》)的文章。 【结构框图】 第1段指出“糖震惊”一词的来源，即制糖业资助哈佛大学科学家将研究重心 从糖在心脏病中的影响，转移到了膳食脂肪。该新闻曝光后，民众大为震惊。 第2段具体论述了现在有很多营养研究是由食品工业资助的。 本文主要介绍了美国食 第3、4段分别用韦尔奇食品公司和可口可乐公司资助食品研究的例子论证第 品行业资助食品研究， 2段的观点。 左右研究方向和结果。 → 第5段分析了营养研究由食品工业资助引发的问题。 第6、7段指出专家对大众的建议，即对于最新的营养科学的研究发现不要照 单全收，同时注意膳食均衡。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from 1sugar's role in heart disease-and put the spotlight 0.i 1;€r?4'\\>') squarely on dietary fat. What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry. Nutrition scholar Mar ion Nestle of New York University spent a year inform ally tracking industry-funded studies on food. \"Roughly 90% of nearly 170 studies favored the sponsor's interest,\" Nestle tells us. Other systematic reviews support her conclusions. For instance, studies funded by Welch Foods-the brand behind Welch's 100% Grape Juice-found that dr in king Concord grape juice daily may boost brain function. Another, funded by Quaker Oats, concluded, as a daily Mail story put it, that \"hot oat meal (� !: �) breakfast keeps you full for longer.\" Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink. Coca-Cola also released data detailing its funding of several medical institutions and associations between 2010 and 2015. \"It's certainly a problem that so much research in nutrition and health is funded by industry,\" says Bonnie Liebman, director of nutrition at the Center for Science in the Public Interest. \"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding. _Giveathis�env ironment,_consumeruhould-be skeptical(�/$-�AfJ-}-when-reading-the-latest-finding in nutrition science and ignore the latest study that pops up on your news feed. \"Rely on health experts who've reviewed all the evidence,\" Liebman says, pointing to the official government Dietary Guidelines, fill� 20216 Jj 29 ===== PAGE 7 ===== which are based on reviews of hundreds of studies. \"And that expert advice remains pretty simple,\" says Nestle. \"We know what healthy diets are--lots of vegetables, not too much junk food, balanced calories. Everything else is really difficult to do experimentally. \"",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What did Harvard scientists do 50 years ago?",
+              "stemCn": "【定位】由题干中的Harvard scientists 和50 years ago定位到首段第二句。",
+              "options": {
+                "A": "They raised public awareness of the possible causes of heart disease.",
+                "B": "They turned public attention away from the health risks of sugar to fat.",
+                "C": "They placed the sugar industry in the spotlight with their new findings.",
+                "D": "They conducted large-scale research on the role of sugar in people's health."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句指出，50年前，制糖"
+              },
+              "answer": "B",
+              "analysis": "业资助哈佛大学科学家将研究重心从糖在心脏病 中的影响，转移到了膳食脂肪。由此可见，他们把 公众的注意力从糖的健康风险转移到脂肪上，故 答案为B)。 【避错】文中并未提到50年前，科学家的研究提高 了公众对心脏病可能病因的认识，故排除A)。根 据定位句可知，他们的发现使人们关注了膳食脂 肪，而非制糖业；故排除C)。文中未提到哈佛大 学科学家对糖在心脏病中的影响的研究程度和规 模，故排除D)。"
+            },
+            {
+              "num": 47,
+              "stem": "What does Mar ion Nestle say about present-day nutrition studies?",
+              "stemCn": "【定位】由题干中的Marion Nestle和 present-day",
+              "options": {
+                "A": "They to ok her a full year to track and analyze.",
+                "B": "Most of them are based on systematic reviews.",
+                "C": "They depend on funding from the food industries.",
+                "D": "Nearly all of them serve the purpose of the funders."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位段第二、三句提到，纽约"
+              },
+              "answer": "D",
+              "analysis": "nutritionstudies定位到第二段。 大学的营养学家玛丽恩·内斯特尔花了一年的时 间非正式地跟踪了各种工业资助的食品研究。她 指出，在将近170项研究中，大约有90%的研究都 会偏袒赞助商的利益。其他系统的研究综述也支 持她的结论。由此可知，几乎所有的营养研究都 是为资助者服务的，D)中的Nearlyall of them对 应原文中的 Roughly 90% of nearly 170 studies, 故答案为D)。 【避错】文章第二段第二句提到，玛丽恩·内斯特 尔花了一年的时间跟踪了各种工业资助的食品研 究。但是并没有提到是否进行了分析，故排除 支持内斯特尔的结论。而非当今的营养研究是基 于系统综述，故排除B)。第二段第一句提到，令 消费者惊讶的是，现在有很多营养研究仍是由食 品工业资助的。而非当今的营养研究必须依赖食 品工业资助，C)项为过度推断，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What did Coca-Cola-funded studies claim?",
+              "stemCn": "【定位】由题干中的Coca-Cola-funded studies定",
+              "options": {
+                "A": "Exercise is more important to good health than diet.",
+                "B": "Choosing what to eat and drink is key to weight control.",
+                "C": "Dr in king Coca-Cola does not contribute to weight gain.",
+                "D": "The food industry plays a major role in fighting obesity."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，去年，《纽约时"
+              },
+              "answer": "A",
+              "analysis": "位到第四段第一句。 报》披露了可口可乐公司资助知名科学家以及组 织来宣传一个信息，在对抗增重的斗争中，人们应 该更加注意锻炼，少关注饮食。由此可见，由可口 参考译文 可乐公司资助的研究声称锻炼对于身体健康比饮 食更重要，故答案为A)。 【避错】定位句指出，研究声称锻炼比饮食更重要。 喝可口可乐不会增加体重，故排除C)。文章未提 及食品工业在对抗肥胖方面起着重要作用，故 排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What does Liebman say about industry-funded research?",
+              "stemCn": "【定位】由题干中的Liebman和industry-fundd",
+              "options": {
+                "A": "It simply focuses on nutrition and health.",
+                "B": "Itcauses confusion among consumers.",
+                "C": "It rarely results in objective findings.",
+                "D": "It runs counter to the public interest."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。第五段第二、三句提到，利伯"
+              },
+              "answer": "C",
+              "analysis": "research定位到第五段。 曼认为“食品工业为研究提供资金时，通常会得到 相应的回报。”他们所支付的往往是一个利于推动 该行业的发展的发现。由此可见，由食品工业资 助的研究，其结果并不客观，故答案为C)。 【避错】文中并没有提及这些研究只关注营养和健 康，A)为无中生有，故排除。定位段指出，这些研 究的结果大多有利于推动该行业的发展，而非这 些结果会对大众造成混乱，B)为过度推断，故排 除。文章并未提及利伯曼认为这些研究结果会损 害公众利益，故排除D)。"
+            },
+            {
+              "num": 50,
+              "stem": "What is the author's advice to consumers?",
+              "stemCn": "【定位】由题干中的 author's advice to consumers",
+              "options": {
+                "A": "Follow their intuition in deciding what to eat.",
+                "B": "Be doubtful of diet experts' recommendations.",
+                "C": "Ignore irrelevant information on their news feed. - ------",
+                "D": "Think twice about new nutrition research findings."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，鉴于这种环境，"
+              },
+              "answer": "D",
+              "analysis": "定位到第六段第一句。 消费者在阅读营养科学的最新发现时应持怀疑态 度，并且忽略新闻推送上弹出的最新研究。由此 可见，作者的建议是对新的营养研究成果三思而 后行，D）中的Thinktwice对应原文中的 skeptical，故答案为D)。 【避错】文章末段最后两句提到，我们知道什么是 健康饮食——多吃蔬菜，少吃垃圾食品，平衡热 量。其他一切都很难通过实验来完成。这句话的 意思是其他应该怎么做其实很难通过实验的方式 验证，而非建议读者要靠直觉，A)为过度推断，故 排除。定位句指出，要对新的研究结果持怀疑的 态度，而非对饮食专家的建议持怀疑态度，故排除 研究，而非忽略无关信息，故排除C)。 糖震惊。(46)这描述了本周许多美国人对于下面这个被揭露的真相的反应:50年前，制糖业资助哈 佛大学科学家将研究重心从糖在心脏病中的影响，完全转移到了膳食脂肪。 (47)令消费者惊讶的是，现在有多少营养研究仍是由食品工业资助的。纽约大学的营养学家玛丽 恩·内斯特尔花了一年的时间非正式地跟踪了各种工业资助的食品研究。内斯特尔告诉我们:“在将近 170项研究中，大约有90%的研究会偏袒赞助商的利益。”其他系统的研究综述也支持她的结论。 例如，韦尔奇食品公司——韦尔奇百分百葡萄汁背后的品牌——资助的研究发现，每天喝康科德葡 萄汁有助于增强大脑功能。另一家由桂格燕麦公司资助的研究总结道，正如《每日邮报》的故事所说，“早 餐吃热燕麦粥能让你保持更长时间的饱腹感。” (48)去年，《纽约时报》披露了可口可乐公司资助知名科学家以及组织来宣传一个信息，在对抗增重的 斗争中，人们应该更加注意锻炼，少关注饮食。可口可乐公司还公布了2010年至2015年期间，资助数家 医疗机构和协会的详细数据。 (49)“如此多的营养和健康研究都是由工业界资助的，这当然是个问题，”公共利益科学中心的营养主任邦 妮·利伯曼说。“食品工业为研究提供资金时，通常会得到相应的回报。”他们所支付的往往是一个利于推动该 行业发展的发现。 (50)鉴于这种环境，消费者在阅读营养科学的最新发现时应持怀疑态度，并且忽略新闻推送上弹出的 最新研究。“信赖那些已经审阅了所有证据的健康专家，”利伯曼如是说，她指的是政府官方的饮食指南， 该指南是基于对数百项研究的回顾。 “专家的建议仍然很简单，”内斯特尔说，“我们知道什么是健康饮食 衡热量。其他一切都很难通过实验来完成。 Passage Two 多吃蔬菜，少吃垃圾食品，平 【文章来源】本文选自2013年9月发表在www.wired.com(连线杂志官网)上的一篇标题为“The Gig Economy: The Force That Could Save the American Worker?”(《零工经济:拯救美国工人的力量?》)的文章。 【结构框图】 第1—3段作者通过对比其父辈和自己的经历，以及过去和现在对“自由职业 者”的看法，介绍了不同年代对职业成功定义的不同。 本文主要介绍了不同年 代定义职业成功的标准， ：第4段具体描述了“自由职业者”具备的特殊品质以及其被企业青映的原因。 并着重阐述了如今被视 为成功典范的“零工经 济”的衍生和发展，以 第5段提出为“自由职业者”和企业搭建一个平台的必要性。 及其对社会和经济变革 所起到的重大作用。 ！第6段指出零工经济对未来社会和经济变革起到的重大作用。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Success was once defined as being able to stay at a company for a long time and move up the corporate ladder. The goal was to reach the top, accumulate wealth and retire to a life of ease. My father is a successful senior executive. In 35 years, he worked for only three companies. When I star ted my career, things were already different. If you weren't changing companies every three or four years, you simply weren't getting ahead in your career. But back then, if you were a consultant orfreelancer ( ro lb JfR 3k *) , people would wonder what was wrong with you. They would assume you had problems getting a job. Today, consulting or freelancing for five businesses at the same time is a badge of honor. It·shows how valuable an individual is. Many companies now look to these \"ultimate professionals\" to solve problems their full-time teams can't. Or they save money by hi ring\"top-tier c-m ��) experts\" only for particular projects. Working at home or in cafes, starting businesses of their own, and even launching business ventures that eventually may fail, all indicate \"initiative,\" \"creativity,\" and \"adaptability,\" which are desirable qualities in today's workplace. Most important, there is a growing recognition that people who balance lm#i 2021!if:: 6 A 30 ===== PAGE 8 ===== work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients. Who are these people? They are artists, writers, programmers, providers of office services and career advice. What's needed now is a marketplace platform specifically designed to bring freelancers and clients together. Such platforms then become a place to feature the most experienced, professional, and creative talent. This is where they conduct business, where a sense of community reinforces the culture and values of thegig economy (-* .:c. � *\"), and where success is rewarded with good reviews that encourage more business. Slowly but surely, these platforms create a bridge between traditional enterprises and this emerging economy. Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author use the example of his father·to illustrate?",
+              "stemCn": "【定位】由题干中的 the example of his father 定",
+              "options": {
+                "A": "How long people to ok to reach the top of their career.",
+                "B": "How people accumulated wealth in his father's time.",
+                "C": "How people vie wed success in his father's time.",
+                "D": "How long people usually stayed in a company."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位段指出，成功曾经被定"
+              },
+              "answer": "C",
+              "analysis": "位到第一段。 义为能在一家公司任职很长时间并获得晋升。目 的是到达高位，积累财富，退休后安度晚年。第 三、四句提到了作者父亲的亲身经历，用以说明该 段前两句的内容，即在其父辈的年代，人们对于成 功的定义是怎样的，故答案为C)。 【避错】文章首段虽然提及了在作者父辈的年代， 人们会在一家公司中努力晋升并积累财富，但并 未提及晋升的年限问题以及积累财富的方式，故 排除A)和B)。该段虽然提到了作者父亲任职的 时间，但是并不能代表所有人的情况，故排除D)。"
+            },
+            {
+              "num": 52,
+              "stem": "Why did people often change jobs when the author star ted his career?",
+              "stemCn": "【定位】由题干中的often change jobs 和the author",
+              "options": {
+                "A": "It was con side red a fashion at that time.",
+                "B": "It was a way to advance in their career.",
+                "C": "It was a response to the changing job market.",
+                "D": "It was difficult to keep a job for long."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句提到，当作者开始他"
+              },
+              "answer": "B",
+              "analysis": "startedhis career定位到第二段第一、二句。 的职业生涯时，事情已经不同了。如果你不是每 三四年就换一家公司，那么就说明你并未在职业 生涯中前进。由此可知，人们频繁换工作是为了 促进职业发展，故答案为B)。 【避错】A)项提及的时尚问题，在定位段中并无体 现，故排除。C)项提及不断变化的就业市场，同样 在第二段中没有涉及，故排除。D）项指出长久地 坚持一份工作很难，文中无此类表述，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What does the author say about people now working for several businesses at the same time?",
+              "stemCn": "【定位】由题干中的working for several businesses",
+              "options": {
+                "A": "They are often regarded as most treasured talents.",
+                "B": "They are able to bring their potential into fuller play.",
+                "C": "They have control over their life and work schedules.",
+                "D": "They feel proud of being outstanding problem solver."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，现如今，能够同"
+              },
+              "answer": "A",
+              "analysis": "at the same time 定位到第三段第一句。 时为五家企业工作是荣耀的象征。接下来的一句 指出这能说明一个人的价值所在。也就是说，能 同时为多家企业工作的人通常是有价值的人才， 故答案为A)。 【避错】第三段并未提及能同时为多家企业工作的 人是否充分发挥了他们的潜力，故排除B)。第四 段虽然提到了能够平衡工作和娱乐的人，但我们 无法得知这些人是不是同时为多家企业工作的 人，故排除C)。文中并未提及人们是否为自己能 出色地解决问题而自豪，故排除D)。"
+            },
+            {
+              "num": 54,
+              "stem": "What have businesses come to recognize now?",
+              "stemCn": "【定位】由题干中的 businesses 和recognize定位",
+              "options": {
+                "A": "Who is capable of solving problems with ease.",
+                "B": "How people can be more focused and productive.",
+                "C": "What kind of people can contribute more to them.",
+                "D": "Why some people are more passionate about work."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句提到，越来越多的人"
+              },
+              "answer": "C",
+              "analysis": "到第四段第二句。 参考译文 意识到那些能够平衡工作和娱乐的人，以及做自 己喜爱的工作的人，会更加专注和高效，从而为他 们的客户提供更大的价值，故答案为C）。 【避错】文中未提及A)谁能够轻松解决问题，故排 除。定位句虽然提到了能够平衡工作和娱乐的人 会更加专注和高效，但强调的是这类人能够为企 业带来价值，而不是人们如何更加专注和高效，故 排除B)。文中并未提及为什么有些人对工作更 热情，故排除D)。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author say about the gig economy?",
+              "stemCn": "【定位】根据选项内容和题文同序原则定位到最后",
+              "options": {
+                "A": "It may force companies to reform their business practice.",
+                "B": "It may soon replace the traditional economic model.",
+                "C": "It will drive technological progress on a global scale.",
+                "D": "It will bring about radical economic and social changes."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，或许更重要的"
+              },
+              "answer": "D",
+              "analysis": "一段末句。 是，随着全球经济持续受到科技和其他重大改变 的干扰，零工经济本身将会成为经济和社会转型 的引擎，故答案为D)。 【避错】文中没有提及它可能迫使公司改变运营方 式，故排除A)。结合文章大意，零工经济仍在发 展阶段，并不会很快替代传统经济，故排除B)。 文中只提及了零工经济对经济和社会的影响，未 提及其对技术的影响，故排除C)。 (51)成功曾经被定义为能在一家公司任职很长时间并获得晋升。目的是到达高位，积累财富，退休后 安度晚年。我的父亲就是一名成功的高管。35年来，他只在三家公司任职。 (52)当我开始我的职业生涯时，事情已经不同了。如果你不是每三四年就换一家公司，那么就说明你 并未在职业生涯中前进。但是在那个时候，如果你是一名顾问或自由职业者，人们就会认为你有问题。他 们会认为你在找工作方面有困难。 (53)现如今，能够同时为五家企业做咨询或做自由职业者是荣耀的象征。这能说明一个人的价值所 在。很多公司如今都指望这些“最出色的专业人士”来解决他们全职团队无法解决的问题。或者他们通过 仅为特殊项目雇用“顶尖专家”来节省资金。 在家或是在咖啡厅工作，自己创业，甚至发起最终可能会失败的商业风投，都表明了“主动性”“创造力” 和“适应性”，这些都是现如今的职场非常需要的品质。(54)最重要的是，越来越多的人意识到那些能够平 衡工作和娱乐的人，以及做自己喜爱的工作的人，会更加专注和高效，从而为他们的客户提供更大的价值。 这些人是谁呢？他们是艺术家、作家、程序员、提供办公服务和职业建议的人。目前需要的是一个专 门为集合自由职业者和客户而搭建的职场平台。这样的平台将成为最具经验、最专业和最有创造力的人 才的聚集地。这就是他们经营业务的地方，在这里，社区意识会强化这种零工经济的文化和价值，在这里， 成功会得到良好的评价，从而催生更多的业务。 虽然漫长但非常确定的是，这些平台在传统企业和这一新兴经济之间架起了一座桥梁。(55)或许更重要 的是，随着全球经济持续受到科技和其他重大改变的干扰，零工经济本身将会成为经济和社会转型的引擎。 Part Translation Pu'er tea is hugely popular among Chinese, the best of which is native to Xishuangbanna, Yunnan Province, where climate and environment are the best for the growth of Pu'er tea trees. The tea takes on a darker color and a markedly flavor different from many other types of tea. The longer the tea is brewed,the better it tastes. Its unique aroma and taste are especially adored by its lovers. With numerous elements that promote good health,the tea helps regular drinkers with weight loss, recovery from fatigue and digestion,as well as protection of the heart and blood vessels. dark tea 黑茶 raw Pu'er 生普洱 ripened/cooked Pu'er熟普洱 compressed tea 紧压茶 tea brick 茶砖 星火英语App 扫码看视频 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "should write your answer onAnswer Sheet 2. {tμf-(Pu'er)-l=-*1= 1f@lA...g-o il-M-{tlf--l=-;,: m 1*J 5<5t..Jf.i..#J (Xishuangbanna), .:f. q_. {il {t-l=-±*Jil**o f\"-l=-'il*J-l=-o 11 o o {tlf--l=--* j :# l=-t (brew) at Ii]*11il- Oit$ 11-l=-A..JG$>tk.Mt ,ffi-JC$, 't1kf--l=-Jl.h-f\"1;fr ' JJLi:fP k;f, :i£Jle. .. m F.t.:llli!.m 1-t -!IJo 12!1 2021 &:p 6 Jj31",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

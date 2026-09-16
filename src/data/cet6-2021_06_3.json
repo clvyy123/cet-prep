@@ -1,0 +1,494 @@
+{
+  "id": "cet6-2021_06_3",
+  "level": 6,
+  "year": 2021,
+  "month": 6,
+  "setNo": "第3套",
+  "title": "2021年6月六级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: For this part,you are allowed 30 minutes to write an essay based on the chart below. You 0 should start your essay with a brief description of the chart and comment on China's achievements in poverty alleviation. You should write at least 150 words but no more than 20o words. Rural population in poverty poverty headcount ratio (Million people) (%of rural population) 100 75 50 25 0 2012 2013 201420152016201720182019 12 9 6 3 2020 Sources:China’s NationalBureauofStatisticsChina’sState Council Leading GroupOficeof Poverty Alleviation and Development",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "(40 minutes) blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making yourchoices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. At 43,I've reached the stage where women are warned to watch out for the creeping sadness of middle age. We're served up an endless stream of advice on\"how to survive your 40s, as if we're in the endurance stage of a slow limp toward 26 .This is the age women start to become “invisible—our value, attractiveness and power supposedly 27 by the vanishing of youth. But i don't feel like i'm fading into 28.If eel more seen than I ever have, and for.the first time in my life, I have a clear-eyed view of myself that is 29 ,compassionate and accepting. When I look in the mirror, Im proud of who I am-even those“broken”parts that for so long seemed impossible to love. So when advertisers try to sell me ways to“turn back the clock”,I have to 30 a laugh.I wouldn't go back to the crippling self-consciousness of my youth if you paid me. This hard-won sense of self-acceptance is one of the joysof being anolder woman. But it's a narrative often 31 out by the shame that marketers rely on to peddle us their diet pills, miracle face creams and breath able yoga pants—as if self-love is a 32 commodity. 六级2021年6月47 ===== PAGE 2 ===== For some women I know, this sense of trust and self-belief later in life gave them the courage to leave dysfunctionalrelationships or 33 company, of growth through 34 on new career paths. Others talked about enjoying their own ,deepening bonds of friendships, the ability to be more compassionate, less judgmental and to listen more and appreciate the smallpleasures. Life past 40 is far from smooth sailing, but its so much more than the reductive 35 we see in women's magazines and on the Hollywood big screen.",
+          "wordBank": {
+            "A": "adversity",
+            "B": "authentic",
+            "C": "convey",
+            "D": "depictions",
+            "E": "diminished"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格前面是介词toward，因此空格处"
+              },
+              "answer": "",
+              "analysis": "需要填人名词作介词的宾语。 【语义判断】由主句中的关于“如何挺过40多岁” 的建议以及空格前的aslowlimp可知，空格处填 人的名词应关于衰老或身体状况不佳，H）fragillity “虚弱；脆弱”符合句意，故应选H）。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前面是名词短语ourvalue，"
+              },
+              "answer": "",
+              "analysis": "attractiveness and power以及副词 supposedly，空 格后面是by the vanishing of youth，因此空格处 需要填人动词的过去分词形式，作后置定语修饰 our value,attractiveness and power。 【语义判断】破折号前面的主句表明40多岁是女 性开始变得“隐形”的年龄，而破折号后面的部分 是对“变得隐形”进行解释说明，由此可知，青春的 消逝会减弱我们的价值、吸引力和能力，所以空格 处填人的动词应与“减弱”有关，故答案为"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】空格前面是动词短语fading into，因"
+              },
+              "answer": "",
+              "analysis": "此空格处需要填人名词作其宾语。 【语义判断】由后一句“我觉得自己比以往任何时 候都更受关注”可知，空格处所在句表示类似的意 思，即“我”觉得自己并未变得默默无闻。因此空 格处填人的名词应与“默默无闻，无名”有关，故答 案为J)obscurity。."
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格前面是be动词is，空格后面是形"
+              },
+              "answer": "B",
+              "analysis": "容词compassionate和 accepting，因此空格处需 要填人形容词，与compassionate和accepting并 列作表语。 【语义判断】由空格后的两个形容词“富有同情心 的”和“乐于接受的”可知，空格处填人的形容词应为 褒义，并用来形容人的品质，故答案为B）authentic。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "suppress。"
+              },
+              "answer": "",
+              "analysis": "0)【语法判断】空格前面是半情态动词have to，空格 后面为名词短语alaugh，因此空格处需要填人动 词原形，与have to一起构成谓语。 【语义判断】由空格所在句的上一句和下一句可 知，作者对自己的现状感到骄傲，也不想重回年轻 时候，因此广告商试图向她推销“时光逆转”之法 时，她不得不忍住大笑。所以空格处填人的动词"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格处所在句已是完整的主系表结"
+              },
+              "answer": "F",
+              "analysis": "构，空格前面的名词短语anarrative是句子的表 语，空格后面是副词out和介词短语by the shame， 因此空格处需要填人动词的过去分词形式，与out by the shame一起作后置定语，修饰a narrative。 【语义判断】上一句提到“这种来之不易的自我接 纳感是身为年长女性的一种乐趣”，而空格处所在 句句首的but表明，这种情况常常被我们的羞耻 心所掩盖，因此空格处填入的名词应与“掩盖”有 关，故答案为F）drowned。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格前面是冠词a，空格后面是名词"
+              },
+              "answer": "M",
+              "analysis": "commodity，因此空格处很可能需要填入形容词或 名词，作定语修饰commodity。 【语义判断】由空格前的“营销人员依赖这种羞耻 心来向我们兜售减肥药、神奇面霜和透气瑜伽裤” 可知，空格处填入的形容词应表示自爱像商品一 样是“可购买的”，故答案为M）purchasable。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前面是不定式短语toleave"
+              },
+              "answer": "G",
+              "analysis": "dysfunctional relationships和并列连词or，后面 参考译文 为on new career paths，因此空格处应填人动词原 形，和on new career paths构成动词短语，并与to leave dysfunctional relationships并列。 【语义判断】由 gave them the courage to leave dysfunctionalrelationships可知，空格处填入的动 词应和“离开不正常的人际关系”一样表示积极正 面的改变，而embarkon表示“开始从事”，可与 new career paths搭配，故答案为G）embark。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前面是介词through，因此空格"
+              },
+              "answer": "A",
+              "analysis": "处需要填入名词作其宾语。 【语义判断】由该句中讨论的其他内容可知，这些 女性讨论的都是积极正面的内容，而空格处所在 短语表示“通过……而成长”，所以空格处填入的名 词应与“逆境，困境”有关，故答案为A)adversity。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前面是冠词the和形容词"
+              },
+              "answer": "D",
+              "analysis": "reductive，因此空格处需要填入名词作than的 宾语。 【语义判断】由空格后面的定语从句“我们在女性 杂志和好莱坞大银幕上看到的”可知，空格处填人 的名词应与“描述”有关，故答案为D）dcpictions。 43岁时，我已走到人生的这样一个阶段，在这个阶段，女性会被警告要提防中年悄然袭来的悲伤情 绪。我们收到了源源不断的关于“如何挺过40多岁”的建议，就好像我们正处于步履蹒跚地迈向虚弱的忍 耐阶段。这是女性开始变得“隐形”的年龄——我们的价值、吸引力和能力据说会因青春的消逝而减弱。 但我觉得自己并未日渐湮没无闻。我觉得自己比以往任何时候都更受关注，并且人生中首次我对自己有 了一个清晰的认识：真实、富有同情心和乐于接受。 当我照镜子时，我为自己感到骄傲——即使是那些长久以来似乎无法被人喜爱的苍老部位。因此，当 广告商试图向我推销“时光逆转”之法时，我不得不忍住大笑。即便你付钱给我，我也不会重回自己年轻时 缺失自我意识的状态中。这种来之不易的自我接纳感是身为年长女性的一种乐趣。但这种说法常常被我 们的羞耻心所淹没，营销人员利用这种羞耻心来向我们兜售减肥药、神奇面霜和透气瑜伽裤——仿佛自爱 是一种可购买的商品。 对于我认识的一些女性而言，中年时的这种信任感和自信赋予了她们勇气去离开不正常的人际关系 或开始新的职业道路。其他的女性则谈到了她们会享受独处，在逆境中成长，加深友谊的纽带，变得更有 同情心、减少品头论足、多倾听别人以及享受小乐趣。年过四十之后的生活远非一帆风顺，但它比我们在 女性杂志和好莱坞大银幕上看到的简化描述要丰富得多。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "H) Are creation, however lifelike, will never be in distinguishable from a real actor, says Webber.\"When\nI) As it becomes easierto digitallyrecreatecelebritiesandtoentirelymanufactureon-screenidentities,\nJ) This refers to the idea that when objects trying to resemble humans aren't quite perfect, they can make\nK) An unfamiliar digital human that has been createdthroughCGI will also face the same challenge as an\nL) Webber expects that we will see more digital humans on screen.“It’s happening because it can\nA) It develops best when people are spiritually prepared.\nB) It is most often wielded by scientists and entrepreneurs.\nC) It is founded on scientific knowledge and analytical skills.\nD) It contributes to intellectual growth but can easily bekilled.\nA) Natural sciences should be learned the way humanities courses ae.\nB) Cultivation of creativity should permeate the entire school curriculum.\nC) Art courses should be made compulsory for all students.\nD) Students should learn more obviously creative subjects.\nA) Alleviation of pressure. C) Test-oriented teaching.\nB) Teacher-led school activities. D) Independent learning.\nA) They encourage extracurricular activities.\nB) They attach great importance to arts education.\nC) They prioritize arts subjects over maths and sciences.\nD) They cater to students from different family backgrounds.\nA) Increasing government investment in school education.\nB) Narrowing the existing gap between the rich and the poor.\nC) Providing all children with equal access to arts education.\nD) Focusing on meeting the needs of under-privileged students.\nA) Repeat what their partners say one way or another.\nB) Focus as much as possible on topics of mutual interest.\nC) Imitate their partners’ gestures without their knowing it.\nD) Observe care fully how their partners make use of gestures.\nA) When both sides are sympathetic with each other.\nB) When both sides have a lot of things in common.\nC) When both sides make interesting contributions.\nD) When both sides try to seek common ground.\nA) It encourages people to imitate. C) It acquaints young people with their idols.\nB) It appeals mostly to big names. D) It can change people's mode of cognition.\nA) It facilitates the creation of one's own writing style.\nB) It helps to protect_one's intellectual property rights.\nC) It fosters correct interpretation of professional writing.\nD) It enables one to write intriguing sequels to famous stories.\nA) It is liable to different interpretations. C) It can give rise to endless disputes.\nB) It is by and large a necessary evil. D) It may do harm as well as good.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "There is an ongoing debate among the public as to whether the images of deceased celebrities should be",
+              "stemCn": "【定位】由题干中的ongoing debate、public和the",
+              "options": {},
+              "optionCn": {
+                "G": "段"
+              },
+              "answer": "G",
+              "analysis": "第四、五句。 进行一场社会辩论，主要围绕此话题展开：是否应 该允许公众使用或复制名人的肖像？题干中的 ongoing debate对应原文中的 a societal debate going on，题干中的celebrities是对原文中famous people的同义转述，题干中的recreated是原文中 F) reproduce的同义词，故答案为G)。"
+            },
+            {
+              "num": 37,
+              "stem": "The CGItechnology allows the image of the deceased James Dean to be presented to young people in",
+              "stemCn": "【定位】由题干中的James Dean和young peoplc",
+              "options": {},
+              "optionCn": {
+                "C": "段第一句。"
+              },
+              "answer": "C",
+              "analysis": "斯·迪恩电影是一种让年轻一代了解该演员的形 象的方式，说明CGI技术能够将詹姆斯·迪恩的 形象置于当代的新场景中，题干是对该内容的理 解和推断，故答案为C）。"
+            },
+            {
+              "num": 38,
+              "stem": "It is very likely that the CGI-recreated image of a deceased celebrity will fail to match the real actor",
+              "stemCn": "【定位】由题干中的match thereal actor和facial",
+              "options": {},
+              "optionCn": {
+                "J": "段。 J 【精析】细节归纳题。"
+              },
+              "answer": "J",
+              "analysis": "利用CGI技术，使“重生”后的对象尽可能与人类 相像，但效果并非那么完美。之后由第三句可知， 计算机生成的面部表情经常可能出错。后文又提 到在眼睛或嘴巴周围也容易出现问题。综合可 知，题干中的failto match the real actor especiallyin facialexpressions是对本段的归纳概 括，故答案为J）。"
+            },
+            {
+              "num": 39,
+              "stem": "The use of digital technology can bring images of deceased celebrities back to the screen.",
+              "stemCn": "【定位】由题干中的digitaltechnology、deceased",
+              "options": {},
+              "optionCn": {
+                "A": "段第二句。 A"
+              },
+              "answer": "A",
+              "analysis": "celebrities和“bring...back to the screen”定位到 CGI技术，能够使那些已经去世几十年的演员再 度出现在银幕之上。题干中的digital technology 对应原文中的computer-generated imagery （CGI），题干中的deceasedcelebrities对应原文中 的actors who have been dead for decades,题干 中的“bring....back to the screen”是对原文中 recreate people on screen的同义转述，故答案 为A)。"
+            },
+            {
+              "num": 40,
+              "stem": "Recreating a deceased famous actor or actress may violate their legitimate rights.",
+              "stemCn": "【定位】由题干中的a deceased famous actoror",
+              "options": {},
+              "optionCn": {
+                "F": "段第"
+              },
+              "answer": "F",
+              "analysis": "一句。 【精析】同义转述题。F）段定位句提到，数字化再 现已故名人的一个隐患是有可能损坏他们的遗 产。题干中的famous actor or actress对应原文中 的celebrity，题干中的violate their legitimate rights是原文中damaging their legacy的同义表 达，故答案为F）。"
+            },
+            {
+              "num": 41,
+              "stem": "More CGI-recreated images of deceased celebrities are expected to appear on screen.",
+              "stemCn": "【定位】由题干中的more CGI-recreatedimages",
+              "options": {},
+              "optionCn": {
+                "L": "段第一句。"
+              },
+              "answer": "L",
+              "analysis": "们将在银幕上看到更多的数字人物。题干中的 CGI-recreatedimages对应原文中的digital humans，题干中的“More...are expectedto appear on screen.”是对原文中“expects that we will see more...on screen”的同义转述，故答案 为L）。"
+            },
+            {
+              "num": 42,
+              "stem": "The image of James Dean will be recreated on screen with his voice dub bed by someone else.",
+              "stemCn": "【定位】由题干中的James Dean、recreatedon",
+              "options": {},
+              "optionCn": {
+                "B": "段第二句。"
+              },
+              "answer": "B",
+              "analysis": "《寻找杰克》中，技术人员将依据迪恩生前的影像 资料，利用CGI技术使他重返大银幕，同时让另一 位演员来为其配音。题干的主句部分和原文内容 基本相同，题干中的withhis voice dubbedby someone else 是对原文中with another actor voicinghim的同义转述，故答案为B)。"
+            },
+            {
+              "num": 43,
+              "stem": "However advanced the CGI technology is, the recreated image will differ in a way from the real",
+              "stemCn": "【定位】由题干中的differ in a way from thereal",
+              "options": {},
+              "optionCn": {
+                "H": "段第一句。"
+              },
+              "answer": "H",
+              "analysis": "的人无论多么逼真，也做不到与真实演员难以区 分。题干中的however advanced对应原文中的 however lifelike，题干中的 will differ in a way from是对原文中willnever be indistinguishable from的同义转述，故答案为H）。"
+            },
+            {
+              "num": 44,
+              "stem": "A lot of actors today are likely to make use of the CGI technology to have their images stored for the",
+              "stemCn": "【定位】由题干中的have their images storedfor",
+              "options": {},
+              "optionCn": {
+                "E": "段最"
+              },
+              "answer": "E",
+              "analysis": "后两句。 很多演员想利用这项技术获得并保留他们的肖 像，以备之后使用。他们预见到这样有助于增加 参考译文 资产，也可以让他们的家人在其去世后凭借此肖 像获得收人。题干中的have their images stored for the benefit of their families是对原文中这两 句话的归纳概括，故答案为E）。"
+            },
+            {
+              "num": 45,
+              "stem": "Some actors are concerned that they may lose jobs because of the CGItechnology.",
+              "stemCn": "【定位】由题干中的losejobs定位到文章I段第",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】细节归纳题。"
+              },
+              "answer": "I",
+              "analysis": "一、二句。 术发展是否会导致演员失业的问题，爱德华兹认 为演员们对此很担忧，说明一些演员认为自己可 能会因该技术的发展而失去工作。题干是对本段 前两句的归纳概括，故答案为I）。 CGI演员的伦理问题是什么——他们会取代真实演员吗？ 越先进，目前，电影行业能够令人信服地在银幕上再现人类——甚至是那些已经去世几十年的演员。 该项技术能够使名人在去世后还能有效地再现，这引发了关于公共遗产和肖像权方面的问题。 2019年年底，据宣布，已于1955年去世的美国演员詹姆斯·迪恩将在一部越战题材的电影中担任主 角，该电影计划在今年晚些时候上映。（42）在这部将被命名为《寻找杰克》的电影中，将会依据迪恩生 前的影像资料，利用CGI技术使他重返大银幕，同时让另一位演员来为其配音。这一消息使那些渴 望看到迪恩在其第四部电影中通过数字技术实现重生的人兴奋不已，但这同时也引发了尖锐的批评。 “这是一种操纵行为，仅仅是为了利用死者的名声而已，”女演员泽尔姐·威廉姆斯在推特上写道。 “这为以后的表演开了一个糟糕的先例。”她的父亲罗宾·威廉姆斯于2014年去世，他很想逃离同样 的命运。去世前，他提交了一份契约，以保护自己的肖像在2039年之前不被使用，防止人们利用CGI 技术使他在电影、电视节目或全息影像中获得“重生”。 （37）CMG环球公司代理迪恩的遗产事宜，该公司的马克·罗斯勒表示，这部詹姆斯·迪恩电影是一 种让年轻一代了解该演员的形象的方式。WorldwideXR是通过数字技术使迪恩“重生”的幕后公司 之一，该公司的首席执行官特拉维斯·克罗伊德说：“我认为这是整个CGI技术浪潮的开始。未来我 们希望能够使詹姆斯·迪恩重现在不同的游戏环境、虚拟现实环境或增强现实环境中。 其他演员也曾因广告宣传的目的，在得到使用其遗产的准许后，获得重生：比如，迪奥2011年的一个 广告的主角就是当代女演员查理兹·塞隆以及20世纪的几位偶像明星玛丽莲·梦露、格蕾丝·凯利 以及玛琳·迪特里希。之后在2013年，人们利用数字化手段使奥黛丽·赫本再现于一个巧克力广告 中。同年，一个通过CGI技术重生的李小龙出现在一个威士忌品牌的中文广告中，这冒犯了很多粉 丝，因为众所周知，李小龙根本不喝酒。Framestore是一家英国视觉效果公司，是制作赫本的巧克力 广告的幕后公司。该公司的蒂姆·韦伯表示：“在过去五年里，CGI技术成本越来越低，也更容易运用 于整部电影的创作中。”Framestore团队将与赫本面部结构和身体形状相似的替身作为手工动画的框 架。韦伯表示，这个过程非常困难，且花费巨大，但技术已经在不断进步。 非常仔细地分析他们身体的每一个细节，这样操作更加容易，而根据现有的照片来制作则比较麻烦，” 韦伯说。他因在2013年电影《地心引力》中呈现的视觉效果而获得奥斯卡奖。（44）“我也看到现在有 很多演员想利用这项技术获得并保留他们的肖像，以备之后使用，”克罗伊德说。“他们预见到这样有 助于增加资产，也可以让他们的家人在其去世后利用这个肖像获得收人。 （40）数字化再现已故名人的一个隐患是有可能损坏他们的遗产。“我们必须尊重权利人的安全性和 完整性，”数据领域公司的约翰·坎宁说。数据领域公司是一家美国公司，制作了说唱歌手图派 克·夏库的全息影像。在去世15周年之际，夏库又出现在了2012年的科切拉音乐节上。 例如，在美国部分州，此项权利的处置类似于财产权，可以转让给继承人。在加利福尼亚，根据《名人 权利法案》，名人去世后，其人格权的保护年限可达70年。（36）英国纽卡斯尔大学的莉莲·爱德华兹 说:“我们正在进行一场社会辩论，辩论的主题是公共资源的获取，比如名人面孔就属于这种资源。”她 提到，鉴于名人的代表性，是否应该允许公众使用或复制他们的肖像？死者能在遗产中获取的最大利 益，可能与他们的家人或公众的愿望相冲突。 “重生’，使其代表那个已经不存在的他/她，我们所做的也只是极其复杂的数字化化妆’，”他讲道， “表演远不只是外表相似这么简单。” “我认为演员们很担忧这个问题，”爱德华兹说，“但我认为这还需要很长的时间。”部分原因在于，存在 观众会害怕这些虚拟人物的风险。爱德华兹提到，通过数字化技术，卡莉·费舍尔在电影（侠盗一号》 中“重生”，扮演年轻的莱娅公主，这引起社会上广泛的抵制，这一技巧之后在最近的《星球大战：天行 者崛起》中再一次被用到，而该片是在费舍尔2016年去世后拍摄的。“人们并不喜欢，”她说。“他们 发现这其中存在着诡异谷效应。 众感到不适，因为这些“重生”的“人”既不是显而易见的非人类，也不是真正的人类，只是介于两者之 间罢了。“做任何人类或仿人类的事情总是有风险的，”韦伯说。“计算机生成的面部表情有一千种可 能出错的情况，其中任何一种都可能导致诡异谷效应，”他说。“你的大脑能够感知到似乎哪里出了问 题。”他提到，往往在眼睛或嘴巴周围容易出现这个问题。“因为这是你与人交谈时注视的区域。” 们没有已经成名的人那样的吸引力。克洛伊德说：“你必须投人大量资金来让该肖像产生认知度，确 保大家熟悉他们是谁。”这一点已经在实现中了。“在海外市场预售电影的方式依赖于有知名度的数 字人物，”他说。“我认为目前我们还远远没有制作出有能力来预售内容的虚拟形象。” 在提及《侏罗纪公园》中的一句话时，他补充说：“人们太忙于思考他们能做什么，以至于没空考虑他们 是否应该这样做。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "You can't see it, smell it, or hear it, and people disagree on how precisely to define it, or where exactly it comes from. It isn't a school subject or an academic discipline, but it can be learned. It is a quality that is requiredof artists, but it is also present in the livesof scientists and entrepreneurs. All of us benefit from it and we thrive mentally and spiritually when we are able to wield it. It is a delicate thing, easily stampedout; in fact, itflourishes most fully when people are playful and child like. Meanwhile, it works best in conjunction with deep knowledge and expertise. This mysterious-but teach able quality is creativity, the subject of a recently-published report by Durham Commission on Creativity and Education: The report concludes that creativity should not in ha it the school curriculum only as it relates to drama, music, art and other obviously creative subjects, but that creative thinking ought to run through all of school life, infusing（充满) the way humanities and natural sciences are learned. The authors, who focus on education in England, offer a number of sensible recommendations, some of which are an attempt to alleviate the un inspiring and fact-basedapproach to education that hascrept into policy in recent years. When children are regarded as vessels to be filled with facts, creativity does not prosper; nor does it when teacherssoleobjective is coaching children towards exams. One suggestion from the commission is a network of teacher-led“creativity collaboratives”，along the linesof existing maths hubs（中心),with the aim of supporting teaching for creativity through the school curriculum. Nevertheless, it is arts subjects through which creativity can most obviously be fostered. The value placed on them by the independent education sector is clear. One only has to look at the remarkable arts facilities at Britain's top private schools to comprehend this. But in the state sector the excessive focus on English, maths and science threatens to crush arts subjects; meanwhile, reduced schoolbudgets mean diminishing extracurricularactivities. There has been a 28.1% decline in students taking creative subjects at high schools since 2014,though happily, art and design have seen a recent increase. This discrepancy between state and private education is a materof social justice. It is simply wrong and unfair that most children have a fraction of the access to choirs, orchestras, art studios and drama that 六级2021年6月50 ===== PAGE 5 ===== their more privileged peers enjoy. As lives are affected by any number of looming challenges-climate crisis, automation in the workplace-humans are going to need creative thinking more than ever. For all of our sakes, creativity in education, and for all, must become a priority.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do we learn from the passage about creativity?",
+              "stemCn": "【定位】由选项中的spiritually、scientists、",
+              "options": {
+                "A": "It develops best when people are spiritually prepared.",
+                "B": "It is most often wielded by scientists and entrepreneurs.",
+                "C": "It is founded on scientific knowledge and analytical skills.",
+                "D": "It contributes to intellectual growth but can easily bekilled."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。文章首段第四句指出，当我"
+              },
+              "answer": "D",
+              "analysis": "entrepreneurs等词以及题文同序原则初步定位 到首段。 们能够拥有并运用创造力时，我们的心智和精神 都会茁壮成长，由mentally“智力地”一词可知，创 造力有助于智力的增长。该段第五句指出，创造 力非常娇弱，很容易被扼杀。句中的stampedout 意为“扼杀，消除”，与D）项中的killed同义。综 合可知，答案为D）。 【避错】本段第五句的后半句指出，当人们像孩童 般活泼时，创造力能得到最充分的发展，选项A) 与文章意思不一致，故排除；本段第三句指出，创 B） 造力也存在于科学家和企业家的生活中，B）项扩 大了原文意思，故排除；本段最后一句提到了 knowledge，但指的是创造力与深层知识和专业 特长共同作用时，能得到最好的发挥，并未提及 创造力建立的基础，故排除C）。"
+            },
+            {
+              "num": 47,
+              "stem": "What is the conclusion of a recently-published report?",
+              "stemCn": "【定位】由题干中的conclusion和arecently-",
+              "options": {
+                "A": "Natural sciences should be learned the way humanities courses ae.",
+                "B": "Cultivation of creativity should permeate the entire school curriculum.",
+                "C": "Art courses should be made compulsory for all students.",
+                "D": "Students should learn more obviously creative subjects."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章第二段第一句提到了a"
+              },
+              "answer": "B",
+              "analysis": "publishedreport定位到第二段第一、二句。 recently-publishedreport，接着第二句提到，创造 力不应该只存在于与戏剧、音乐、艺术和其他明 显具有创造性的学科有关的学校课程中，创造性 思维应该贯穿于整个学校生活，渗透到人文和自 然科学的学习方法中。由此可知，培养创造力应 该使其渗透到整个学校课程中去，故答案为B。 【避错】第二段第二句提到人文和自然科学的学 C) 习也应该包含创造力的培养，而并没有提到自然 科学应该像人文学科一样学习，A）项混淆概念， 故排除；该段提到现在创造力体现在学校的艺术 课程中，但没有呼吁将艺术课程列为必修课，因 此排除C）项；第二段第二句提到obviously creative subjects，但文章指的是创造力不应该只 存在于与明显具有创造性的学科有关的学校课 程中，说明学生已经在学习明显具有创造性的学 科，D）项与文章意思不符，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the report say is detrimental to the fostering of creativity?",
+              "stemCn": "【定位】由题于中的the fostering of creativity及",
+              "options": {
+                "A": "Alleviation of pressure.",
+                "B": "Teacher-led school activities.",
+                "C": "Test-oriented teaching.",
+                "D": "Independent learning."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。文章第三段第二句后半句"
+              },
+              "answer": "C",
+              "analysis": "题文同序原则定位到第三段。 指出，当教师的唯一目标是指导孩子们应付考试 时，创造力也不会发展。由此可知，以考试为导向 的教学不利于创造力的培养，故答案为C）。 【避错】第三段第一句提到alleviatethe uninspiring and fact-based approach to education，指的是“弱化无法引起学生兴趣且只 基于事实的教育方法”，并未提到关于减轻压力 的问题，故排除A）；杜伦创意与教育委员会提出 的建议是建立一个由教师主导的“创造力合作” 网络，这是有利于创造力培养的，而题干中问的 是不利于创造力培养的方面，故排除B）；文章只 在第四段提到了independent education sector “私立教育部门”，并未提及independentlearning “自主学习”，故排除D）。"
+            },
+            {
+              "num": 49,
+              "stem": "What do we learn about the private schools in the UK?",
+              "stemCn": "【定位】由题干中的private schools定位到第四",
+              "options": {
+                "A": "They encourage extracurricular activities.",
+                "B": "They attach great importance to arts education.",
+                "C": "They prioritize arts subjects over maths and sciences.",
+                "D": "They cater to students from different family backgrounds."
+              },
+              "optionCn": {
+                "B": "。"
+              },
+              "answer": "",
+              "analysis": "段第二、三句。 【精析】事实细节题。第四段第一至三句提到，最 能明显地促进创造力的是艺术学科，私立教育部 门对它的重视是显而易见的，我们只需看看英国 顶级私立学校非凡的艺术设施就能明白这一点。 由此可见，英国私立学校非常重视学校艺术教 【避错】第四段第四句的后半部分提到，公立学校 预算的减少意味着课外活动的减少，并未提及私 立学校课外活动的安排，故排除A）；由第四段第 四句的前半部分可知，公立学校对数学和科学比 对艺术学科的重视程度更高，但文章并未提及私 立学校对这些学科的关注程度，故排除C）；D）项 在文章中并未提及，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What should be done to meet the future challenges?",
+              "stemCn": "【定位】由题干中的futurechallenges定位到最后",
+              "options": {
+                "A": "Increasing government investment in school education.",
+                "B": "Narrowing the existing gap between the rich and the poor.",
+                "C": "Providing all children with equal access to arts education.",
+                "D": "Focusing on meeting the needs of under-privileged students."
+              },
+              "optionCn": {
+                "C": "。"
+              },
+              "answer": "",
+              "analysis": "一段倒数第二句。 【精析】推理判断题。最后一段前几句指出公立 和私立教育之间在艺术教育方面的差异及不平等 现象。倒数第二句指出，人类生活受到各种挑战， 比以往任何时候都更需要创造性思维。最后一句 就此给出了作者的建议：为了我们所有人的利益， 必须优先考虑教育中的创造力，以及所有人的创 造力。综合推断可知，作者是在呼吁为所有的孩 子提供接受艺术教育的平等机会，培养他们的创 【避错】文章中并没有提及政府应该加大对学校 教育的投资，故排除A）；原文主要讲的是公立学 校与私立学校在艺术教育上的差距，而不是宽泛 的贫富差距问题，选项B）意思与原文不符，故排 除；文中提到的主要是上公立学校与私立学校的 学生间的差异，提出的是创造平等的机会，D）项 表述与文章意思不符，故排除。 参考译文 你看不到它，闻不到它，也听不到它，人们对如何精确地定义它或它到底来自哪里意见不一。它不是 一门学校科目或学术学科，但却可以被学习。它是艺术家必备的一种品质，但也存在于科学家和企业家的 生活中。（46）我们所有人都受益于它，当我们能够拥有并运用它时，我们的心智和精神都会苗壮成长。它 非常娇弱，很容易被扼杀；事实上，当人们像孩童般活泼时，它能得到最充分的发展。与此同时，在与深层 知识和专业特长共同作用时，它能得到最好的发挥。 （47）这种神秘但可教的品质就是创造力，它也是杜伦创意与教育委员会最近发表的一份报告的主题。 该报告总结道，创造力不应该只存在于与戏剧、音乐、艺术和其他明显具有创造性的学科有关的学校课程 中，创造性思维应该贯穿于整个学校生活，渗透到人文和自然科学的学习方法中。 作者以英格兰的教育为重点，提出了一些合理的建议。其中，部分建议试图弱化近年来逐渐渗透到教 育政策中的一些无法引起学生兴趣且只基于事实的教育方法。（48）当孩子们被当作用来装满事实真相的 容器时，创造力就不会蓬勃发展；当教师的唯一目标是指导孩子们应付考试时，创造力也不会发展。该委 员会的一项建议是按照现有的数学中心的模式，建立一个由教师主导的“创造力合作”网络，目的是通过学 校课程支持创造力教学。 （49）然而，最能明显地促进创造力的是艺术学科。私立教育部门对它的重视是显而易见的。我们只 需看看英国顶级私立学校非凡的艺术设施就能明白这一点。但在公立学校中，对英语、数学和科学的过度 关注有可能压制艺术学科发展；同时，学校预算的减少意味着课外活动的减少。最近学习艺术和设计的学 生人数有所增长，这点令人高兴，但是自2014年以来，在高中学习创造性科目的学生数量下降了28.1%。 公立和私立教育之间的这种差异是一个社会公平性的问题。大多数孩子进人合唱团、管弦乐队、艺术 工作室和戏剧表演的机会非常少，而比他们更有特权的同龄人却享有这些机会，这简直大错特错、太不公平 了。（50）随着人类生活受到的挑战迫在眉睫——气候危机、工作场所的自动化——人类将比以往任何时候 都更需要创造性思维。为了我们所有人的利益，必须优先考虑教育中的创造力，以及所有人的创造力。 Passage Two 【文章来源】本文选自2017年8月31日刊登在medium.com上一篇标题为“TheSurprising TruthAboutWhy WeTendtoImitateOthers（《关于我们为什么倾向于模仿他人的惊人事实》)的文章。 【结构框图】 第-1、2段介绍了“镜像”现象，并说明了模仿他人这种行为出现的原因。 → 文章主要分析了模仿他 第3一6段转而分析模仿他人所带来的益处，同时也分析了可能带来的社 人这种人类常见行为的 背后原因及其可能带来 会问题，例如抄袭，并介绍了抄袭甄别技术的发展情况。 的问题。 第7一9段提出建议，说明如何正确地模仿，并避免抄袭。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Emulating your conversation partner's actions is a common human behavior classified as\"mirroring” and has been known and studied by psychologists for years. We all tend to subconsciously copy gesturesof people we like. But why do we act like this? As a rule, mirroring means that conversationalists enjoy their communication and that there's a certain level of agreement between them. The topic of discussion is equally interesting for both and they know their interests meet. Repeating someone's behavior is typical of talented communicators, not always because the person is sympathetic, but because there is a goal to be achieved. This way new idols have been brought to the stage: politicians, celebrities, and other big names. Popular culture makes people want to look popular, and act and speak like popular people. 由 T Nowadays celebrities steallyrics from each other and struggle with copyright violation accusations or straightforwardly claim themselves to be the authors, even though all the work was done by other people. Among celebrities, it’s trendy nowadays to use their own speech writers as politicians do. The so- called\"ghost writing”can take variousforms: books, articles, autobiographies, and even social media posts. Who is a true copy cat（抄袭者） and who gets copy cat ted? Sometimes, it is a hard nut to crack without an expert's help. But new author ship defending methods based on identifying individual writing patterns are already here. Their aim is to protect intellectual property. Using scientific methods, some of them can 六级2021年6月51 ===== PAGE 6 ===== define author ship with 85% accuracy. Writing is not an easy craft to master. If you want to write like a professional without plagiarism（抄 袭），there are a few lessons to learn and the first one is:“Copy from one, it's plagiarism；copy from two, it's research.” The correct interpretation of this statement is not about copying, but rather about creating your own style. When you study an author's writing style, don't stop on a single one, but explore numerous styles instead. Examine types of sentences they use, pay attention to their metaphors, and focus on stories you feel you could write a pretty cool sequel（续篇) to. Imitation is rather paradoxical. As an integral part of learning, it brings about positive changes, making people develop and grow. However, it may do a lot of harm. Copying someone's thoughts, ideas or inventions is completely unacceptable. It infringes on intellectual propertyrights of others. Still, many things we do are about copying others one way or another. So if you want to compliment someone on the work they have done and imitate it, just make sure you do it the right way to avoid committing plagiarism. ;",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do people tend to do while engaging in a conversation?",
+              "stemCn": "【定位】由题干中的tend to和conversation定位",
+              "options": {
+                "A": "Repeat what their partners say one way or another.",
+                "B": "Focus as much as possible on topics of mutual interest.",
+                "C": "Imitate their partners’ gestures without their knowing it.",
+                "D": "Observe care fully how their partners make use of gestures."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第一段第一句指出，所谓的"
+              },
+              "answer": "",
+              "analysis": "到第一段第一、二句。 “镜像”，就是模仿谈话对象行为的一种常见的人 类行为，随后的第二句进一步明确指出，这是指我 们下意识地模仿我们所喜欢的人的手势，可见选 项C）是对该句的同义转述，故为答案。 【避错】原文只提到了模仿，尤其是模仿手势，而不 是重复话语，故排除选项A）；根据第二段，选项B） 所述的情况发生在产生镜像现象时，而不是指所 有的交谈状况，故排除；D）项是根据第一段第二句 设置的干扰，但原文所说的是模仿，而不是观察。"
+            },
+            {
+              "num": 52,
+              "stem": "When does mirroring usually take place in a conversation?",
+              "stemCn": "【定位】由题干中的mirroring和conversation定",
+              "options": {
+                "A": "When both sides are sympathetic with each other.",
+                "B": "When both sides have a lot of things in common.",
+                "C": "When both sides make interesting contributions.",
+                "D": "When both sides try to seek common ground."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。第二段指出，镜像意味着交"
+              },
+              "answer": "B",
+              "analysis": "位到第二段。 谈者喜欢他们的沟通，并且他们之间达成了一定 程度的共识。双方都觉得讨论的话题有趣，而且 他们知道彼此兴趣相投。概括可知，当交谈双方 共同点较多时会发生镜像现象，故答案为B）。 【避错】第三段第一句提到，镜像不是因为怀有同 情心，故排除A）；C）是对第二段第二句的曲解，原 文的意思是交谈双方对讨论的话题均有同样的兴 趣，故排除C）；第二段第一句提到发生镜像时，交 谈双方之间达成了一定程度的共识，而并未提到 这种共识需要双方去寻求，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "What do we learn about popular culture?",
+              "stemCn": "【定位】由题干中的popular culture定位到第三段",
+              "options": {
+                "A": "It encourages people to imitate.",
+                "B": "It appeals mostly to big names.",
+                "C": "It acquaints young people with their idols.",
+                "D": "It can change people's mode of cognition."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第三段第三句提到，流行文"
+              },
+              "answer": "A",
+              "analysis": "第三句。 化使人们想看起来受欢迎，并像受欢迎的人一样 说话做事，由此可知，这种文化鼓励人们去模仿， 故答案为A）。 【避错】B）和C）是根据第三段第二句中的big names和idols设置的干扰项，而该句提到这两类 人想要表述的意思是这种天才沟通者具有重复别 人行为的天分，故排除这两项；由后文可知，对认 知方式有影响的是模仿，而不是流行文化，D）项混 淆了对象，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "Why is the saying\"copy from two, it's research”a lesson to learn?",
+              "stemCn": "【定位】由题干中的copy from two，its research",
+              "options": {
+                "A": "It facilitates the creation of one's own writing style.",
+                "B": "It helps to protect_one's intellectual property rights.",
+                "C": "It fosters correct interpretation of professional writing.",
+                "D": "It enables one to write intriguing sequels to famous stories."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第七段第二句指出，避免抄"
+              },
+              "answer": "",
+              "analysis": "定位到第七段第二、三句。 袭的第一条经验就是：“复制一个人的作品，是剽 窃；复制两个人的作品，那是研究。”随后进一步说 明，对这句话的正确解释是，写作不在于复制，而 参考译文 在于创造出你自己的风格，选项A）的意思与此一 致，故为本题答案。 【避错】根据第六段，有助于保护知识产权的是研 究识别个人写作模式并确定作者的新方法，故排 除B）；C）是根据第七段开头的writing和 professional设置的干扰，但该项与对文章的理解 无关，故排除；第七段最后一句提到了给故事写续 集，但原文是介绍研究专业人士写作，创造出自己 风格的一种方法，而不是其结果，故排除D)。"
+            },
+            {
+              "num": 55,
+              "stem": "Why does the author say imitation is rather paradoxical?",
+              "stemCn": "【定位】由题干中的imitation和paradoxical定位",
+              "options": {
+                "A": "It is liable to different interpretations.",
+                "B": "It is by and large a necessary evil.",
+                "C": "It can give rise to endless disputes.",
+                "D": "It may do harm as well as good."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句提到，模仿是相当矛"
+              },
+              "answer": "D",
+              "analysis": "到文章第八段第一句。 盾的。随后两句解释说，作为学习的一个组成部 分，它带来积极的变化，使人发展和成长，但另一 方面，它也可能会造成很多伤害，故答案为D。 【避错】选项A）是利用原文中的interpretation设 置的干扰，但与此词有关的原文只是在探讨对“复 制一个人的作品，是剽窃；复制两个人的作品，那 是研究”这条经验的解释，与模仿是否矛盾无关， 故排除；根据定位段，模仿未必一定是坏事，因此 也谈不上是anecessary evil（难免的坏事），故排除 不同于抄袭，故排除C）。 （51）模仿谈话对象的行为是一种常见的人类行为，被归类为“镜像”，心理学家已经了解并对其研究了 多年。我们都会下意识地模仿我们所喜欢的人的手势。但我们为什么会有这样的举动呢？ （52）通常，镜像意味着交谈者喜欢他们的沟通，并且他们之间达成了一定程度的共识。双方都觉得讨 论的话题有趣，而且他们知道彼此兴趣相投。 重复别人的行为是天才沟通者典型的特征，这不总是因为这个人有同情心，而是因为他要实现某个目 标。通过这种方式，新的偶像被带到了舞台上：政治家、名人和其他成功人士。（53）流行文化使人们想看 起来受欢迎，像受欢迎的人一样说话做事。 如今，明星们互相窃取歌词，与侵犯版权的指控作斗争，或者直接声称自己是作者，尽管所有的作品都 是别人做的。 在明星中，像政治家一样使用自己的演讲稿作者是时下的潮流。所谓的“幽灵写作”可以采取各种形 式：书籍、文章、自传，甚至社交媒体帖子。 谁是真正的抄袭者，而谁是被抄袭的？有时，没有专家的帮助是很难确定的。但是，基于识别个人写 作模式而保护作者的新方法已经出现了。其目的在于保护知识产权。一些科学的方法，确定作者的准确 率能达到85%。 写作不是一门容易掌握的技艺。（54）如果你想像专业人士一样写作而不抄袭，要借鉴几条经验。第 一条:“复制一个人的作品，是剩窃；复制两个人的作品，那是研究。”对这句话的正确解释是，写作不在于复 制，而在于创造出你自己的风格。当你研究作家的写作风格时，不要只停留在一种风格上，而要探索多种 风格。研究他们使用的句子类型，注意他们的隐喻，多留意那些你觉得可以写出很酷的续集的故事上。 （55）模仿是相当矛盾的。作为学习的一个组成部分，它带来积极的变化，会使人发展和成长。然而， 它可能会造成很多伤害。抄袭某人的思维、观点或发明是完全不能接受的，这侵犯了他人的知识产权。 尽管如此，我们做的很多事情都是以这样或那样的方式复制他人。因此，如果你想称赞某人所做的工 作并加以模仿，只要确保你做的方式正确以避免抄袭即可。 PartI Translation 参考译文与难点注释 Yunnanisaprovincelocated1.翻译第一句时，“位于”可以直接用介词短语翻译，所以第一个分句可译 in the southwest of China with an average altitude of 1,500 meters. Yunnan has a long history, beautiful scenery and pleasant climate. Endowed with a superior 2. ecological environment and a wide variety of living creatures,Yunnan is known as a paradise for wild animals and plants. Yunnan also has a variety of mineral resources and adequate water resources, which provide favorable conditions for the sustainable development of the whole province's economy. Yunnan is inhabited by 25 ethnic minorities, most of whom have their own languages, customs and religions. With unique natural scenery and rich ethnic culture, Yunnan has been made into one of the most popular tourist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "云南是位于中国西南的一个省份，平均海拔1500米。云南历史悠久，风景秀丽，气候宜人。云南生态 环境优越，生物多种多样，被誉为野生动植物的天堂。云南还有多种矿藏和充足的水资源，为全省经济的 可持续发展提供了有利条件。 云南居住着25个少数民族，他们大多有自己的语言、习俗和宗教。云南独特的自然景色和丰富的民 族文化使其成为中国最受欢迎的旅游目的地之一，每年都吸引着大批国内外游客前往观光旅游。",
+          "terms": [],
+          "reference": "Yunnanisaprovincelocated 1.翻译第一句时，“位于”可以直接用介词短语翻译，所以第一个分句可译 in the southwest of China with an average altitude of 1,500 meters. Yunnan has a long history, beautiful scenery and pleasant climate. Endowed with a superior 2. ecological environment and a wide variety of living creatures, Yunnan is known as a paradise for wild animals and plants. Yunnan also has a variety of mineral resources and adequate water resources, which provide favorable conditions for the sustainable development of the whole province's economy. Yunnan is inhabited by 25 ethnic minorities, most of whom have their own languages, customs and religions. With unique natural scenery and rich ethnic culture, Yunnan has been made into one of the most popular tourist",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

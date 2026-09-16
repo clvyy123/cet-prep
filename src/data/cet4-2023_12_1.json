@@ -1,0 +1,739 @@
+{
+  "id": "cet4-2023_12_1",
+  "level": 4,
+  "year": 2023,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2023年12月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose the university newspaper is inviting submissions from the students for its comingeditionon a campus event that has impressed them most. You are now to write an essay for submission. You will have30 minutes to writethe essay.You should write at least120words but no more than180 words. (25 minutes)",
+          "review": "第一套 本作文的要求是，假设校报正在为其下一期内容征稿，征稿主题是“最令人印象深刻的校园活动”，考 生需要围绕这一主题进行投稿。写作时应展开介绍，着力从活动的具体内容、意义等方面进行陈述。此外，应 注意写作句式和用语的多样性，使文章更有层次，表达更丰富。",
+          "sample": "Among a variety of campus events, the new year's EveGala stands out as a remarkableoccasionthathasleftanenduring mark on my university experience.1 This celebration captured the essence of cultural richness and community spirit, bringing together students from various backgrounds in an atmosphere of shared joy.2 The gala beg an with traditionalperformances, showing the diversity of Chinese culture. From fascinating dances, such as the elegant movements of classical chinese dance, to wonderful musical performances featuring traditional instruments likeGuzhengandPipa, the event became akaleidoscope of artistic expressions.4 As students participated in interactive activitieslike group performances and fun party games, the enthusiasm of everyone on site was mobilized, and the party reached its climax. In conclusion, the New Year's Eve Gala goes beyond mere entertainment; it serves as a powerful symbol of cultural diversity on our campus. Reflecting on this event, I'm reminded of the harmonious blend oftraditions and modernity that defines our university experience.6",
+          "sampleNote": "1紧扣征稿主题，引出最令人印 象深刻的校园活动——元旦联 欢晚会。 2进一步说明为何这一活动令人 印象深刻——抓住了文化丰富 性和社区精神的精髓，让学生 欢聚一堂。 3介绍元旦联欢晚会如何开 启——以传统表演拉开帷幕， 展示了中国文化的多样性。 用具体例子展示晚会节目的 文化特色。 总结这次活动的意义——不仅 仅是娱乐活动，更是文化多样 性的展示。 6对这次活动的意义进行延 伸——传统与现代的和谐融 合，定义大学体验。",
+          "sampleCn": "在各种各样的校园活动中，“元旦联欢晚会”是一场引人注目的盛会，给我的大学经历留下了不可磨 灭的印记。这一庆祝活动抓住了文化丰富性和社区精神的精髓，将来自不同背景的学生聚集在一个共享欢 乐的氛围中。 元旦联欢晚会以传统表演拉开帷幕，展示了中国文化的多样性。从迷人的舞蹈，如中国古典舞的优雅 动作，到以古筝和琵琶等传统乐器为特色的精彩的音乐表演，这场活动成为艺术表达的万花筒。当学生们 参加集体表演和趣味派对游戏等互动环节时，现场所有人的积极性都被调动起来，晚会达到了高潮。 总之，元旦联欢晚会不仅仅是娱乐活动，它也是我们校园文化多样性的有力象征。回想这一活动，我 便会想起传统与现代的和谐融合，这定义了我们的大学体验。",
+          "vocab": [
+            "a variety of各种各样的",
+            "stand out脱颖而出",
+            "老师说",
+            "remarkable引人注目的",
+            "本套讲解视频中，老师教你紧扣主题、拓展延伸的写作技巧，讲解把握新闻主旨、对话要点的答题技巧，带你学习四级",
+            "阅读三种题型的解题要点，突破长难句，帮你培养中译英思维转换的翻译技巧，快来扫描二维码观看，目睹新东方老师的风采吧！",
+            "cultural richness文化丰富性",
+            "climax高潮",
+            "leave an enduring mark on",
+            "在……留下永久的印记",
+            "fascinating令人着迷的",
+            "go beyond超出",
+            "kaleidoscope万花筒",
+            "culturaldiversity文化多样性",
+            "essence精髓"
+          ],
+          "patterns": [
+            "1.Among a variety of campus events,.…standsout as a remarkableoccasion that has left an enduring mark",
+            "on...",
+            "句型意为“在各种各样的校园活动中，……是一场引人注目的盛会，给……留下了不可磨灭的印记”，该",
+            "句型是用来引出要介绍的重要或有意义的活动的常用句式。",
+            "2.Reflecting on...I'm reminded of...that defines...",
+            "句型意为“回想……我想起了……这定义了……”，是用于表达某事令你难忘，回顾某种难忘经历的常用",
+            "句式。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_1-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 3 and4 are based on the news report you have just heard.",
+          "material": "Twomen who have beenbestfriendsfor 60years have justrealized they areactuallybrothers. It's reported that AlanRobinsonandWalterMacDonaldmetinthe 6th grade at a school in hawaii. They have been bestfriends ever since. Alan was given away for adoption soon after he was born, and Walter never knew his father.[3] So recently, theymade separate attemptsonDNAmatching websites to discover more about their ancestry. Walter was as ton i shed to find that he matched with website user rob i 737.Heknewimmediately that this was his best friend Alan, whose friendscallhimRobiandflew 737airplanes when he was a pilot.[4] The pair were born to the same mother 15 months apart.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What didbothAlanRobinsonand Walter Macdonald attempt to do on DNAmatching websites?",
+              "stemCn": "",
+              "options": {
+                "A": "Search for their half-brothers.",
+                "B": "Identify their biological fat hers."
+              },
+              "optionCn": {
+                "A": "寻找他们同母异父或同父异母的兄弟。",
+                "C": "寻找更多关于他们家世的信息。",
+                "B": "确认他们的生父。",
+                "D": "弄清他们实际上是否有关系。"
+              },
+              "answer": "C",
+              "analysis": "艾伦·罗宾逊和沃尔特·麦克唐纳两个人在DNA匹配网站都尝试做了什么？ 新闻中提到，艾伦·罗宾逊和沃尔特·麦克唐纳最近分别在DNA匹配网站上做了匹配，希望能发现更多 关于他们家世的信息，故C项为正确答案。其余三个选项新闻并未提及，可排除。"
+            },
+            {
+              "num": 4,
+              "stem": "What did the news report say aboutAlanRobinsonandWalter MacDonald?",
+              "stemCn": "",
+              "options": {
+                "A": "They were both given up for adoption.",
+                "B": "They were born to the same mother.",
+                "C": "Find out more about their ancestry.",
+                "D": "See whether they are actually related."
+              },
+              "optionCn": {
+                "A": "他们都是被送人收养的。",
+                "C": "他们都是737飞机的飞行员。",
+                "B": "他们是同一个母亲所生。",
+                "D": "他们都是60岁。"
+              },
+              "answer": "B",
+              "analysis": "关于艾伦·罗宾逊和沃尔特·麦克唐纳，新闻报道说了什么？ 新闻末尾提到，艾伦·罗宾逊和沃尔特·麦克唐纳是同一个母亲所生，年龄相差15个月，故B项为正确答 案。新闻中提到，艾伦出生后不久就被送人收养，并没有提到沃尔特也是被送人收养，故A项错误。新闻 中提到，艾伦曾是737飞机的飞行员，并没有说艾伦和沃尔特都是该飞机的飞行员，故C项错误。新闻开 头提到，艾伦·罗宾逊和沃尔特·麦克唐纳在上六年级时认识并成为好朋友，相交60年，并不是说他们俩 的年龄是60岁，故D项错误。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_1-L12",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "News Report Two",
+          "intro": "Questions 12 to15 are based on the conversation you have just heard.",
+          "material": "W:Our guest onto day'sBookTalkis JohnBlack, the author of the new best seller, Retire Early. M:Thanks for having me on the show, Lisa. W:[12] John, your book is gettinga lot of attention, partly because you write that most people can retire by 40.Is that realistic? M:Definitely. Whenresearching this book, I inter vie wed hundreds of people whoretired by 40. W:Okay, buthowmuchmoneydoesapersonneedtoretire?13] I'vereadarticles recommendingonemilliondollars as a good figure for retirement. M:While most financial planners do give numbers, I don'tthink that's useful, as people are living in different are as with different costs of living, and have different needs and wants, which is why I suggest that people aim for financial independence. W:What do you mean by financial independence? M:Having investment income that’s greater than monthly expenses. W:That soundsrisky to me. What if an accident happens or you get ill and need medical treatment? Shouldn't people have extra cash for emergencies? M:Too many people spend their lives working on jobs they hate because they're afraid, so I counsel people to take risks.[14] Retirement doesn't have to be permanent, and if people need to, they can go back to work. W:But it's not always easy to get back into the workforce after an extended absence. M:True, but if you keep current with your skills, you will be attractedto employers. W:Maybe, but how can anyone save enough to retire by 40 when most people can'tretire at 60? M:Simple, by cutting housing, food, and transportexpenses,[15] and investing half your monthly income. W:That sounds impossible. M:I admit it's difficult, but it has workedfor thousands.",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "What do we learn about them an'sbookpublishedrecently？",
+              "stemCn": "关于男士最近出版的书，我们了解到什么？",
+              "options": {
+                "A": "It is being debated byhundreds ofretirees.",
+                "B": "It is attracting many people's attention."
+              },
+              "optionCn": {
+                "A": "数百位退休人员正在讨论它。",
+                "B": "它吸引了许多人的关注。",
+                "C": "它部分记录了他自己的经历。",
+                "D": "它主张延迟退休。"
+              },
+              "answer": "B",
+              "analysis": "在访谈一开始，女士提到男士的书当下受到很多人的关注，所以答案为B项。访谈中男士提到在为这本书 做调研时，他采访了数百位在40岁之前退休的人，A项与此信息不符，故排除；女士提到男士的书中写道 大多数人都可以在40岁之前退休，所以书中主张的是提前退休，而不是延迟退休，故排除D项；C项在访 谈中没有相关信息，故也排除。"
+            },
+            {
+              "num": 13,
+              "stem": "What do thearticles the woman read recommend?",
+              "stemCn": "女士读过的文章提供了什么建议?",
+              "options": {
+                "A": "One should foresee a financial crisis.",
+                "B": "One should trust financial planners'figures."
+              },
+              "optionCn": {
+                "A": "人们应该预见到金融危机。",
+                "B": "人们应该相信理财规划师的数据。"
+              },
+              "answer": "C",
+              "analysis": "C人们应该有一百万美元才能退休。 在访谈中，女士提了一个问题，即一个人需要多少钱才能退休，然后她说自己读过一些文章，建议将 一百万美元作为退休的理想数字，也就是说，一个人应该有一百万美元才能退休，所以正确答案是C项。 虽然访谈中男士提到大多数理财规划师都会给出数字，即退休储备金额，但女士读的文章并没有建议应该 相信理财规划师的数据，故排除B项；虽然女士提到人们应该有额外的现金以备不时之需，但没有提到尽 早开始储蓄，这也不是女士读的文章提供的建议，故排除D项；选项A在访谈中没有相关信息，故也排除。"
+            },
+            {
+              "num": 14,
+              "stem": "What does them an say about retirement?",
+              "stemCn": "关于退休，男士说了什么？",
+              "options": {
+                "A": "It doesn't need to be permanent.",
+                "B": "It shouldn't be con side red risky."
+              },
+              "optionCn": {
+                "A": "它无需是永久性的。",
+                "B": "不应该认为它是有风险的。",
+                "C": "它有助于减少旅行支出。",
+                "D": "它是辞去讨厌的工作的方式。"
+              },
+              "answer": "A",
+              "analysis": "在访谈中，男士提到有太多人因为害怕而终其一生都在从事自己讨厌的工作，所以他建议人们去冒险，而 且他补充说退休不一定是永久性的，如果人们需要，他们可以回去工作，所以正确答案是A项。男士提到 他建议人们去冒险，即辞去工作，早点退休，但男士并未提及退休是否有风险，故排除B项；男士提到有 太多人因为害怕而终其一生都在从事自己讨厌的工作，但并非是说，退休是辞去讨厌的工作的方式，故排 除D项；C项在访谈中没有相关信息，故也排除。"
+            },
+            {
+              "num": 15,
+              "stem": "How does the man say his proposal about retirement can be carried out?",
+              "stemCn": "",
+              "options": {
+                "A": "Bykeeping close contact with one's employers.",
+                "B": "Byretiring when one reaches sixty years old. SectionC",
+                "C": "It partly records his own experience.",
+                "D": "It argues forpostponing retirement."
+              },
+              "optionCn": {
+                "A": "通过与雇主保持密切联系。",
+                "B": "通过到六十岁时再退休。"
+              },
+              "answer": "C",
+              "analysis": "关于男士提出的退休的建议，他说如何实施？ 在访谈最后，女士提出问题，即如何在40岁之前就存够钱退休呢？男士提供的方法包括减少住房、食物和 交通开支，并把每月收入的一半用来投资，C项与此信息一致，故为正确答案。其他选项在访谈中都没有 提到，均排除。 Section"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_1-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Three",
+          "intro": "Questions 22 to 25 are based on the passage you have just heard.",
+          "material": "[22] Taking risks in business does not mean going into business blindly and then expecting greatresults. On the contrary, taking risks in entrepreneurship involves carefulplanning and hard work. Nobody can really be sure ifrisks will be met with success, no matter how calculated they may be. But this should not stop you from taking risks, asrisks are necessary if you want your business to succeed. Somerisksmay not work out, but an optimistic risk-taker will always look at failure as an opportunity to learn. [23] The willingness to experiment with new ideas is key to business growth. As the old saying goes, Nothing ventured, nothing gained.\"Failure will teach you how to think and plan strategic ally.[24] But just remember that not allrisks are goodones, and when you fail, learn from it and move forward. [25] Since most people tend to avoid risk, businesses that are brave enough to take risks already have a competitive advantage. They are theones setting the standard with new ideasfreshoffers andboldinventions. Risk- takersare best at adapt in gin difficulttimes.[25] Simply put, whenmostindividuals stay away from risk, it means less competition for risk-takers. We don'tknowifyou'llachieve what these risk-takers haveachieved. But for as long as you want to stay safe, and for as long as you are content with where your business is right now, you will never find out.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What do entrepreneurs have to do when takingrisks according to the passage?",
+              "stemCn": "",
+              "options": {
+                "A": "Work hard and plan care fully.",
+                "B": "Attempt to succeed at any cost."
+              },
+              "optionCn": {
+                "A": "努力工作，悉心规划。",
+                "C": "志存高远，期望取得好的成果。",
+                "B": "不惜任何代价取得成功。",
+                "D": "即使在困难中也要保持乐观。"
+              },
+              "answer": "A",
+              "analysis": "根据文章，企业家在承担风险时需要做什么？ 文章开头提到，在商业中承担风险并不意味着盲目地创业，然后期望取得好的成果。相反，在创业中承 担风险需要悉心规划和努力工作。选项A与文章内容一致，因此为正确答案。选项B、C和D文章中均未提 …………… 及，故排除。"
+            },
+            {
+              "num": 23,
+              "stem": "What does the passage say is key to business growth？",
+              "stemCn": "文章认为企业发展的关键是什么？",
+              "options": {
+                "A": "Regarding failure as something inevitable.",
+                "B": "Trying out innovative marketing strategies."
+              },
+              "optionCn": {
+                "A": "认为失败是不可避免的事情。",
+                "C": "涉足从未探索过的领域。",
+                "B": "尝试创新的营销策略。",
+                "D": "愿意尝试新颖的想法。"
+              },
+              "answer": "D",
+              "analysis": "文章中提到，愿意尝试新想法是企业发展的关键。选项D与文章内容一致，因此为正确答案。选项A、B和 C文章中均未提及，故排除。 …………"
+            },
+            {
+              "num": 24,
+              "stem": "What are weadvisedto do when we fail?",
+              "stemCn": "失败时，建议我们做什么？",
+              "options": {
+                "A": "Expect future success so as to move forward.",
+                "B": "Learnfromourfailureandforge ahead."
+              },
+              "optionCn": {
+                "A": "期待未来的成功，以便继续前进。",
+                "C": "区分好的风险和不良风险。",
+                "B": "从失败中吸取教训，勇往直前。",
+                "D": "检查我们的策略并找出弱点。"
+              },
+              "answer": "B",
+              "analysis": "文章中提到，失败时，要从中吸取教训，继续前进。选项B与文章内容一致，因此为正确答案。文章中提 到并非所有的风险都是好的，但这并不是建议我们区分好的风险和不良风险，故排除选项C。选项A和D文 章中均未提及，故排除。"
+            },
+            {
+              "num": 25,
+              "stem": "What does it mean to risk-taking businesses when most people tend to avoid risk?",
+              "stemCn": "",
+              "options": {
+                "A": "Fressher offers.",
+                "B": "Safer operation.",
+                "C": "Aim high and expect greatresults.",
+                "D": "Remain optimistic even in difficulty."
+              },
+              "optionCn": {
+                "A": "更新的提议。",
+                "C": "更多的挑战。",
+                "B": "更安全的运作。",
+                "D": "更少的竞争。"
+              },
+              "answer": "D",
+              "analysis": "当大多数人都倾向于规避风险时，这对于承担风险的企业来说意味着什么？ 文章中提到，由于大多数人都倾向于规避风险，因此勇于承担风险的企业已经具有竞争优势。简单地说， 当大多数人远离风险时，就意味着风险承担者的竞争会减少。选项D与文章内容一致，因此为正确答案。 文章提及，勇于承担风险的企业是用新的想法、新的提议和大胆的发明来树立标准，选项A是根据文章中 出现的freshoffers而设置的干扰项，故排除。选项B和C文章中均未提及，故排除。"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2023_12_1-A.mp3",
+        "B": "/audio/papers/cet4-2023_12_1-B.mp3",
+        "C": "/audio/papers/cet4-2023_12_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "from a list of choices given in a word bank following the passage. Read the passage through care fully before making yourchoices. Each choice in the bank is identifiedby a letter. Please mark thecorrespondingletterfor each item on Answer Sheet 2 with a single line through the centre. You may not use any oft he words in the bank more than once. Exercising for just 10minutes a week is linked to a longer life, according to a new studypublished in The BritishJournalofSports Medicine. Several recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful 26 on health. Still, the idea that exercising for just 10minutes a week may be enough to increase your life span is novel. It's also somewhat 27_,since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of 28 exercise each week. The study was base don data from more than 88,000U.S.adults who 29intheNational Health Interview survey between 1997and 2008. Contrary to some research that has found an 30limit to the amount of exercise that is healthy, the researchers found that there was 31no limit to the longevity(长寿) benefits of exercise. Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46%lower 32_ofdeath than the least active group. Still, observational studieslike this one cannot prove cause and effect; they can only find 33 .The researchersalso were notable to 34forcertainlifestylefactors thatcouldaffectlifespan, including 3 ·2023年12月四级真题（第一套） ===== PAGE 4 ===== dietary habits and changes in physical activity over time. Despite these 35,the study's results are yet another indication of the power of physical activity, even in small amounts.",
+          "wordBank": {
+            "A": "adjust",
+            "B": "alter",
+            "C": "approximately",
+            "D": "controversial",
+            "E": "coordinates",
+            "F": "impact",
+            "G": "limitations",
+            "H": "operating",
+            "I": "participated",
+            "J": "patterns",
+            "K": "seemingly",
+            "L": "risk",
+            "M": "upper",
+            "N": "moderate",
+            "O": "populated"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "语法判断空格前面为have ameaningful，后面为onhealth，故空格处应填名词。 语义判断该句意为“最近的一些研究发现，即使是短时间的低强度运动，也能对健康产生重要 由此可知，impact符合此处句意。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "语法判断空格前面为It'salso somewhat，后面为逗号，故空格处应填形容词或分词，作表语。 语义判断该空需结合上文进行分析，上句意为“尽管如此，每周只锻炼10分钟可能就足以延长寿命的想法 还是很新颖的”。而该句句意为“这也有一定的 ，因为联邦体育活动指南建议每周至少进行75分钟 运动”。前后句子之间存在转折对比关系，代入选项可知，controversial符 的剧烈运动或150分钟的 合此处句意。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "N",
+              "analysis": "语法判断空格前面为介词of，后面为名词exercise，故空格处应填形容词或分词，修饰后面的名词。 语义判断该句意为“这也有一定的争议性，因为联邦体育活动指南建议每周至少进行75分钟的剧烈运动或 150分钟的 运动”。moderate exercise意为“适度运动”，符合此处句意，故答案为moderate。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "空格所在句为定语从句，从句缺少谓语，其主语为关系代词who，指代前面的more than88，000 语法判断 U.S.adults，主句时态为过去时，故空格处应填动词过去式，且该词能与in构成合理搭配。 语义判断该句意为“该研究基于1997年至2008年间 全国健康访谈调查的88.000多名美国成年人的数 据”。participatedin意为“参与，参加”，符合此处句意，故答案为participated。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "语法判断空格前面为不定冠词an，后面为名词limit，故空格处应填形容词或分词，修饰后面的名词。 语义判断该句意为“一些研究发现，健康的运动量是有 限制的，与此相反，该研究的研究人员发 现，运动对长寿的好处 没有上限”。前后句表达相反语义，由后面提到的therewas..nolimit（没有 上限）可知，此空格处表述“有上限”之意，upper limit意为“上限”，符合此处句意，故答案为upper。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "语法判断空格所在句结构完整，故空格处应填副词。 语义判断该句意为“一些研究发现，健康的运动量是有上限的，与此相反，该研究的研究人员发现，运动 对长寿的好处 没有上限”。代入选项可知，seemingly符合此处句意。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断空格前面为hada 46%lower，后面为ofdeath，故空格处应填名词。 语义判断该句意为“即使运动量是联邦政府建议的10倍的那一小群人，其死亡 也比运动量最小的人 群低46%”。代入选项可知，risk符合此处句意。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "语法判断空格位于句末，前面为find，故空格处应填名词，作宾语。 语义判断该句意为“不过，像这样的观察性研究并不能证明因果关系；它们只能发现 ”。代人选项 可知，patterns意为“模式；方式”，符合此处句意，但此处应根据上下文将其转译为“规律”。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格前面为were not able to，后面为for certain lifestyle factors，故空格处应填动词原形。 语义判断该句意为“研究人员也无法 某些可能影响寿命的生活方式因素，包括饮食习惯和体育锻炼 随时间的变化”。代入选项可知，adjust符合此处句意。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "alter（v改变；更改）",
+                "C": "approximately（adv.大概；大约）",
+                "E": "coordinates（v.使协调；使相配合）",
+                "K": "populated（v生活于；居住于adj.有人口居住的）",
+                "N": "type（n.类型；种类v打字）"
+              },
+              "answer": "G",
+              "analysis": "语法判断空格前面为Despite these，后面为逗号，故空格处应填名词复数。 语义判断该句意为“尽管存在这些 ，但这项研究的结果再次表明了体育锻炼的影响，即使是少量的 体育锻炼”。代入选项可知，limitations符合此处句意。 干扰项注释 ·概览· 本文主要介绍了气候变化对农作物产量和人类饮食的影响。文章指出气候变化会导致农作物产量下 降，影响食物的供应和价格，进而导致人们饮食的变化。而全球粮食供应问题能否通过基因工程培育 出耐热农作物来解决，目前尚无定论。文章最后指出饮食多样化是应对粮食安全问题的一个可能的解决 办法。 ·全文翻译 气候变化将如何影响你的饮食 生在我们的农作物和其他食物上吗？ “未来”栏目探究了一位科学家为帮助农作物应对日益增加的干旱概率所做的努力。通过使用复活植物的 基因，开普敦大学的吉尔·法兰特正在探索她是否能设计出在没有水的情况下可以存活更长时间的农作物。 有一些好消息。尽管有耸人听闻的标题称“正在灭绝的食物”，但没有证据表明诸如豆类、巧克力、葡萄 酒、玉米或小麦等主要食物种类将不复存在。 些农作物的种植地点。[36]显然，在这种情况下，不利之处是当地农民将遭受损失。而且有些人可能很难 像以前一样获得某些食物。美国农业部气候变化项目办公室的科学家玛格丽特·沃尔什表示：“即使总体 粮食产量可能不受影响，但粮食安全仍然会受到影响。”换言之，即使地球的某个角落仍然种植着某种食 物，但这并不意味着每个人对这种食物的获取程度都能继续像今天一样。 化的影响。哥伦比亚大学国际和公共事务副教授沃尔弗拉姆·施伦克尔说，这些食物产量的减少如何被 （人们）感受到，将取决于气候变暖的程度和所涉及的作物，但总的来说，“超过大约30℃的气温都对作 物非常不利。”例如，他和一位同事对美国玉米和大豆的产量进行的统计研究显示，气温超过30℃这一临 界点后，玉米和大豆的产量会急剧下降。 终，产量可能会受到影响，因为爱荷华州北部的土壤质量下降——这是冰川扩张的遗留问题。其他的研 究，包括对印度小麦和非洲玉米的研究，也发现有一个临界点，超过这个临界点产量就会急剧下降：作物 可以适应和移动，但只是在一定程度上。施伦克尔表示：“所有研究的共同之处是发现极端高温对作物生 长有害，尽管确切的临界点因作物而异。不过，如果对于本世纪末的预测属实，我认为美国的很多农业地 区都将遭受重大打击。 9 18%左右。一些研究表明，园艺作物———通常是主食之外的所有作物——可能会受到最为严重的影响，这 主要是因为它们（的种植地）往往局限于更小的地理区域。[39]例如，研究人员安德鲁·贾维斯和他的同 事们发现，截至2050年，中美洲和巴西80%的咖啡种植区可能会变得不适合种植，而气候变化很可能会对 西非可可粉的生产产生“巨大影响”。贾维斯说：“未来优质巧克力的供应将减少，如果你想要它，你就 得花更多的钱。 这意味着，对于那些能负担得起的人来说，有些食物今后只是会花费他们更多的钱。[44]但对于穷人来 说，同样的价格上涨很可能会导致某些食物从他们的饮食中消失。施伦克尔说：“你饮食中减少的食物越 多，其供应就越短缺，价格就会飙升得越高。 气候变化引发的另一个潜在问题是我们对商品农作物———小麦、大豆、玉米和大米———的依赖，这些作 物目前直接或通过我们靠其饲养的动物间接地为人类提供了75%的卡路里。[37]贾维斯和他的同事们还发 现，在过去的50年里，世界上的饮食越来越标准化；与1961年相比，今天我们在全球范围内吃的食物相似 度提高了36%。虽然这对世界上最贫穷的人来说可能是个好消息，因为他们现在消耗的卡路里、蛋白质和 脂肪比过去更多，但食物的同质化和对少数几种主食的过度依赖让我们容易受到干旱、疾病和虫害等威胁 的影响———据预测，由于气候变化，所有这些威胁在世界上的许多地方都将恶化。 [43]然而，我们有办法减轻全球粮食供应即将受到的打击。像法兰特在复活农作物方面所做的工作一样， 很多公司、组织和研究人员正在致力于通过基因工程和传统培育创造耐旱和耐高温的农作物。目前，这些 努力能否取得成功尚无定论。“与我交谈过的孟山都公司的人更乐观地认为，他们将能够设计出耐高温作 物，”施伦克尔说。“另一方面，与我交谈过的美国农业部的科学家们则要谨慎得多。” 灌溉，使用更快地将农作物从田地中收割的机器或者安装延缓腐烂的储存设施。沃尔什说：“很多地方只 要使用现有的技术就可以受益很多。一般的农场管理可以对缓解变化大有帮助。 说：“在过去的几十年里，我们看到我们的饮食发生了深刻的变化，这主要是国际贸易的结果，我认为这 种更多样化的趋势将会持续下去。依靠更多的植物物种可以创造一个更有活力、风险更小的食物系统，一 个可以提供更广泛的营养需求的系统。” ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "B) Trying out innovative marketing strategies.\nC) Venturing into sectors never explored before.\nD) Being willing to experiment with novel ideas.\nD) Examine our strategies and find out weaknesses.\nA) Earlier this year, scientists warned that one in six animal species could go extinct（灭绝的) due to climate\nB) It's clear thatfarmers inmanyparts oft he world are going to find things harder in the coming decades.\nC) But if we can'tfind ways to protectotherfoods, will they survive climate change?Fortunately, there is some\nD) But thatdoesn'tmean its allgoodnewsforfuturefood. We will probably have to change where we grow\nE) Overall, the yieldsofmanyfoods, from staples to life-enhancing extras such as coffee and chocolate, will\nF) In the us-the world's largest producer of corn and soybeans—farms can move north to some degree,\nG) Undercurrentconditions, about 4%oft he world'scroplandsexperience drought in any given year, but by the\nH) This means that, for those who can afford it, somefoods will simply cost them more in the future. But for\nI) Another potential climate change-induced problem is our dependence on commodity crops-wheat,\nJ) There are ways we could soften the comingblow to the global food supply, however. Like Far rant's work\nK) Until genetic engineering comes to fruit ion, other strategies might also help in some places, including\nL) Finally, diversifying our diet away from heat-sensitive wheat, corn, rice andothercrops could also help.\nA) Hejustfollows successful people's example.\nB) He is actually proud to be fully occupied.\nC) He thinks everyone should be devoted to work.\nD) He believes busyness ensures accomplishments.\nA) Our status can be attributed to our social mobility\nB) We hold the belief that hard workleads to success.\nC) Our own opportunity for success never comes easily.\nD) We find few people of high status have time for leisure.\nA) Itplaces employees in endless meetings, emails and stress.\nB) It compels some 20%of employees to appear always busy.\nC) It distorts manyemployees'belief of what a satisfying life is.\nD) It does much harm to many busy employees'well-being.\nB) One is opposed to the prevailing work culture.\nC) One is forced by circumstances to stop working.\nD) One is simply enjoying their time off work.\nA) To enable busy employees to spend less time checking emails.\nB) To ensure employees as well as employers truly have time off.\nC) To stop managers from talking about how busy their teams usually are.\nD) To encourage both employers and employees to answer emails promptly.\nA) It is largely attributed to women booking earlier thanmen.\nB) It is largely explainedby women'schoosing cheaperflights.\nC) It is mainly accountedfor by maleemployees'readiness to pay more.\nD) It is due to the fact that women care more about their company's money.\nA) Whatmade malefrequenttravelersbookairticketslate.\nB) What caused women to plan ahead in booking business trips.\nC) Whatmotivated women to bookcheaper flights.\nD) What accounted for the gender gap in airfares.\nA) Bothmen and women were found to engage in negative behaviors.\nB) Neithermen nor women viewedbooking late as a bad behavior.\nC) The gender diffcrcnce in air fare expenses no longer existed.\nD) The gender gap tended to narrow to a significant degree.\nA) It can do more harm to the workplace than to employees.\nB) Itcontributes to the male-female divide in the workplace.\nC) Itproves to be counter productive in a number of ways.\nD) It can result in increasing labor-managementconflicts.\nA) It can help companies increase their savings significantly.\nB) It can duly contribute to companies' business performance.\nC) It can translate women's booking practice into men's behavior.\nD) It can enhance large multinationalcompanies'competitiveness.",
+          "analysisOverview": "本文节选自Equitable（美国领先的金融服务公司之一）公司官网2020年9月1日发布的一篇题为“Just 10MinutesofExercisea WeekMay Be Enoughto Extend Your Life，Study Says”的文章。文章围绕一项关于 “每周只锻炼10分钟就能延长寿命”的研究结果展开论述。",
+          "translationCn": "根据发表在《英国运动医学杂志》上的一项新研究，每周只锻炼10分钟就有助于延年益寿。 最近的一些研究发现，即使是短时间的低强度运动，也能对健康产生重要[26]影响。尽管如此，每周只锻 炼10分钟可能就足以延长寿命的想法还是很新颖的。这也有一定的[27争议性，因为联邦体育活动指南建议每 周至少进行75分钟的剧烈运动或150分钟的[28]适度运动。 该研究基于1997年至2008年间[29]参加全国健康访谈调查的88,000多名美国成年人的数据。 一些研究发现，健康的运动量是有[30]上限的，与此相反，该研究的研究人员发现，运动对长寿的好处 [31]似乎没有上限。即使运动量是联邦政府建议的10倍的那一小群人，其死亡[32]风险也比运动量最小的人群 低46%。 不过，像这样的观察性研究并不能证明因果关系；它们只能发现[33]规律。研究人员也无法[34]调整某些 可能影响寿命的生活方式因素，包括饮食习惯和体育锻炼随时间的变化。尽管存在这些[35]局限性，但这项研 究的结果再次表明了体育锻炼的影响，即使是少量的体育锻炼。",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "One consequence of climate change is that some people may not have adequate access to certain foods.",
+              "stemCn": "题干译文气候变化的一个后果是，有些人可能无法充分获得某些食物。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案D。由题干关键信息One consequence of climate change、adequate access和cerrtain foods定位到D 段。该段第二句提到气候变暖可能会导致人们改变农作物的种植地点，接着第三句和第四句讲述由此带 来的不利影响：当地农民将遭受损失，有些人可能很难像以前一样获得某些食物。换言之，气候变化的 一个后果是，有些人可能无法充分获得某些食物。由此可见，题干是对原文内容的同义转述，其中One consequence of climate change对应原文中的The disadvantage，而some people may not have adequate access to certain foods对应原文中的some people may struggle to get the same access to certain foods。"
+            },
+            {
+              "num": 37,
+              "stem": "People around the world are eating foods more similar than what they used to eat.",
+              "stemCn": "题干译文与过去相比，世界各地的人们现在吃的食物更加相似。",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "答案I。由题干关键信息Peoplearoundthe world、more similar和whattheyused to eat定位到I段。该段 第二句提到，贾维斯和他的同事们还发现，在过去的50年里，世界上的饮食越来越标准化；与1961年相 比，今天我们在全球范围内吃的食物相似度提高了36%。由此可知，题干是对该句内容的同义转述。其中 Peoplearound the world对应原文中的the world，而are eating foodsmore similar than what theyused to eat是对 原文中the foods weeatglobally todayare36%more similar than they were in1961的概括总结。"
+            },
+            {
+              "num": 38,
+              "stem": "A recent news report talked about scientific efforts to help crops survive droughts through genetic",
+              "stemCn": "题干译文最近的一篇新闻报道谈到了通过基因工程帮助农作物在干早中存活的科学努力。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息Arecentnewsreport、scientific efforts、survive droughts和genetic engineering 定位到B段。该段第二句提到，上周，英国广播公司“未来”栏目探究了一位科学家为帮助农作物应对 日益增加的干旱概率所做的努力。接着下一句具体介绍：通过使用复活植物的基因，开普敦大学的吉 尔·法兰特正在探索她是否能设计出在没有水的情况下可以存活更长时间的农作物。由此可知，题干是 对原文内容的概括总结。题干中的Arecentnewsreport对应原文中的Lastweek，BBCFuture，而talkedabout scientific effortsto helpcrops survive droughts对应原文中的exploredonescientistsefforts to helpcrops cope with the increased probabilityofdroughts，而through genetic engineering对应原文中的By using the genes from resurrection plants。"
+            },
+            {
+              "num": 39,
+              "stem": "Itispredictedthatclimatechange willaffecttheavailabilityandpriceofqualitychocolate.",
+              "stemCn": "题干译文据预测，气候变化将影响优质巧克力的供应和价格。",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息affect the availabilityandpriceofqualitychocolate定位到G段。该段倒数第二句 提到，研究人员安德鲁·贾维斯和他的同事们发现气候变化将很可能会对西非可可粉的生产产生“巨大影 响”，接着最后一句通过引用贾维斯的话指出，未来优质巧克力的供应将减少，如果你想要它，你就得花 更多的钱。换言之，气候变化将影响优质巧克力的供应和价格。由此可见，题干是对原文内容的同义转 述，其中climatechange和quality chocolate属于原词重现，affect对应原文中的have“great impacts”on，而the availability and price ofquality chocolate是对原文中willbeless available in thefuture,and ifyou want it,you'll have to pay a lotmore for it的概括总结。"
+            },
+            {
+              "num": 40,
+              "stem": "People wonder if certain crops andfoodstuffs could disappear like some animal species due to climate",
+              "stemCn": "题干译文人们想知道，某些农作物和食物是否会像某些动物物种一样因气候变化而消失。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息certain crops and foodstuffs、some animal species和climate change定位到A段。 该段提到，今年早些时候，科学家们警告称，六分之一的动物物种可能会因气候变化而灭绝。同样的事 情也会发生在我们的农作物和其他食物上吗？由此可知，题干是对原文内容的同义转述。题干中的certain crops andfoodstuffs对应原文中的ourcrops and other foodstuffs，而disappear对应原文中的go extinct，而 animal species和due to climate change属于原词重现。People wonder if对应原文中的设问句Could the same thing...too?"
+            },
+            {
+              "num": 41,
+              "stem": "Although farms in the us can move a bit northward, crop yields may decrease.",
+              "stemCn": "题干译文尽管美国的农场可以稍微向北迁移，但农作物的产量可能会下降。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案F。由题干关键信息farms intheUS、moveabitnorthward和cropyields定位到F段。该段前两句引 用施伦克尔的话提到，在美国，农场可以在一定程度上向北迁移，但最终，产量可能会受到影响。由此可 知，题干是对原文内容的同义转述。题干中的farms和intheUS属于原词重现，而canmoveabitnorthward对 应原文中的canmovenorth to some degree，而crop yields对应原文中的yields，而maydecrease对应原文中的 will likelysuffer。 答案L。由题干关键信息One possible solution、the foodsecurity problem和diversification of diet定位到L 段。该段首句提到，最后，让我们的饮食多样化，远离对热敏感的小麦、玉米、大米和其他作物也会有所 帮助。由此可知，题干是对该句内容的同义转述。其中Onepossiblesolution对应原文中的couldalsohelp， 而diversification of diet对应原文中的diversifying our diet away..other crops。 题干译文全球粮食供应问题能否通过基因工程培育出耐热农作物来解决，目前尚无定论。"
+            },
+            {
+              "num": 42,
+              "stem": "One possible solution to the food security problem is diversification of diet.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": ""
+            },
+            {
+              "num": 43,
+              "stem": "It remains unsettledwhethertheglobalfoodsupplyproblemcanbe solvedbycreatingheat-tolerantcrops",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息remains unsettled、the globalfood supplyproblem和creatingheat-tolerantcrops throughgeneticengineering定位到J段。该段前几句提到，我们有办法减轻全球粮食供应即将受到的打击。 像法兰特在复活作物方面所做的工作一样，很多公司、组织和研究人员们正在致力于通过基因工程和传统 培育创造耐旱和耐高温的农作物。目前，这些努力能否取得成功尚无定论。由此可知，题干是对原文内容 的同义转述。题干中的Itremains unsettled对应原文中的thejury is still out，the globalfood supply属于原词重 现，whether.can be solved对应原文中的how successful those endeavours willbe，而bycreating heat-tolerant crops throughgenetic engineering对应原文中的create drought-andtemperature-resistantcrops through genetic engineering andconventional breeding。"
+            },
+            {
+              "num": 44,
+              "stem": "Poor people may have to give up eating certain foods because of their high prices.",
+              "stemCn": "题干译文穷人可能因为其高定价而不得不放弃吃某些食物。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息Poor people、give up eating certain foods和high prices定位到H段。该段第二句 提到，但对于穷人来说，同样的价格上涨很可能会导致某些食物从他们的饮食中消失。由此可知，题干是 对该句内容的同义转述。其中Poorpeople对应原文中的poorerpeople，而mayhaveto give upeating certain foods because of theirhigh prices对应原文中的those same price jumpswill likely causecertain foods to go extinct from their diets。"
+            },
+            {
+              "num": 45,
+              "stem": "A number of existing farming technologies could be used to reduce the negativeeffectofclimatechangeon",
+              "stemCn": "题干译文一些现有的农业技术可以被用来减少气候变化对粮食生产的负面影响。",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "答案K。由题干关键信息existing farming technologies、reduce the negative effect、climate change和food production定位到K段。该段提到，在基因工程取得成果之前，其他策略也可能在一些地方有所帮助，包括 施用更多的肥料，施行更好的灌溉，使用更快地将农作物从田地中收割的机器或者安装延缓腐烂的储存设 施。沃尔什说：“很多地方只要使用现有的技术就可以受益更多……”由此可知，题干是对原文内容的概 括总结，其中Anumberofexisting farming technologiescould be used对应原文中的by using technologies that alreadyexist，而reducethenegative effectofclimatechange onfoodproduction对应原文中的mightalsohelp和 couldbenefit a great deal。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "One of my bad habits is saying \"busy”when people ask me how I'm doing. Sometimes it’s because I actually am busy, but other times it's because that’s what i think i'm supposed to say. That’s what important people say. That's what people who get promoted say. But working long hours doesn't drive better results. Never taking a vacation won't lead to a promotion. So why are we so proud to talk about how busy we are all the time? In 2016,researchers from columbia, Harvard, andGeorgetownconducted a study to figure it out. They found busy people are perceived to be of high status, and interestingly, these status attributions are heavily influencedby our ownbeliefs about social mobility. In other words, the more we believe that one has the opportunity for success base don hard work, the more we tend to think that people who skip leisure and work all the time are ofhigher standing. That's why we feel like we have to appear busy, and there's a real perception that if someone is knee-deep in meetings, emails, and stress, then they're probably a big deal. This culture ofbusyness is making it hard for ·2023年12月四级真题（第一套）· 6 ===== PAGE 7 ===== employees to find work-life balance. According to are cent study, one in five highlyengaged employees is at risk of burn out(精疲力竭). Personally, I'm going to stop saying \"busy”when people ask me how I am. It sounds self-righteous（自以 为是的) andsets the wrong tone. Phrases like i have limited access to email”and“Ill respond as soon as i get back\"sound like you're being heldagainst your will from working as opposed to making the most of your time off. That's why we recently launched the out of office EmailGenerator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won't be checking emailuntilyou're back. Managers need to think twice about emailing their teams on the weekendandtalking about how busy they are. Leadersshould take time off themselves and encourage employees to do the same.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What is a reason for the author to be in the habit of saying\"busy when asked how he is doing?",
+              "stemCn": "当被问到过得怎么样时，作者习惯于说“忙”的原因是什么？",
+              "options": {
+                "A": "Hejustfollows successful people's example.",
+                "B": "He is actually proud to be fully occupied.",
+                "C": "He thinks everyone should be devoted to work.",
+                "D": "He believes busyness ensures accomplishments."
+              },
+              "optionCn": {
+                "A": "他只是效仿成功人士的例子。"
+              },
+              "answer": "A",
+              "analysis": "figureout弄清楚；想出；理解 perceivev.将……视为；认 为；注意到 status n.地位 attributionn.归属；归因；属性 ·socialmobility社会流动（个人 或群体社会地位的变化） skipv.不做；不参加；跳过 ·standingn.地位；名声 ·perceptionn.看法；认识；洞 察力 ·knee-deepadj.没膝的；缠人的 big deal大人物；大事 engaged adj.忙于…的；正从 事的；使用中的 set the wrong tone定下错误的 基调 limitedadj.有限的 as opposed to而不是；与…. 相反 根据题干关键词saying“busywhen asked how he is doing可以将答案定位到第一段。 定位 第一段第一句指出，当被问到最近怎么样时，作者都会回答说“忙”。接下来的几句话给出了原因，有时 是因为作者真的很忙，但有时是因为作者觉得应该这么回答。重要人物都是这么回答的。那些升职的人也 是这么回答的。由此可知，作者习惯于回答“忙”是因为成功人士都是这样回答的，他是在效仿他们，故 本题选A。其他三项的内容都不是作者给出的原因，均排除。"
+            },
+            {
+              "num": 47,
+              "stem": "Why do we tend to think that busy people are of high status?",
+              "stemCn": "为什么我们倾向于认为忙碌的人地位高？",
+              "options": {
+                "A": "Our status can be attributed to our social mobility",
+                "B": "We hold the belief that hard workleads to success.",
+                "C": "Our own opportunity for success never comes easily.",
+                "D": "We find few people of high status have time for leisure."
+              },
+              "optionCn": {
+                "A": "我们的地位可以归因于我们的社会流动性。",
+                "C": "我们成功的机会来之不易。",
+                "B": "我们相信努力工作会带来成功。",
+                "D": "我们发现地位高的人很少有休闲时间。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干关键词busypeopleare ofhigh status可以将答案定位到第二段。 第二段第二、三句指出，人们认为忙碌的人地位高，我们越是相信一个人有机会通过努力工作获得成功， 我们就越倾向于认为那些不休息、一直工作的人地位更高。由此可知，因为我们相信努力工作能让我们 获得成功，所以我们认为工作忙碌的人地位更高，故本题选B。选项A比较容易误选，虽然原文也出现了 socialmobility，但是文章中的意思是，我们地位的高低受到我们自己对社会流动的看法的影响，并不是说 地位归因于社会流动性。在原文中attribution是“归属”的意思，statusattributions是“地位归属，地位高 低”的意思。选项C和D与原文不符，均排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What do we learn about the culture ofbusyness from are cent study?",
+              "stemCn": "关于忙碌的文化，我们从最近的一项研究中得知了什么？",
+              "options": {
+                "A": "Itplaces employees in endless meetings, emails and stress.",
+                "B": "It compels some 20%of employees to appear always busy.",
+                "C": "It distorts manyemployees'belief of what a satisfying life is.",
+                "D": "It does much harm to many busy employees'well-being."
+              },
+              "optionCn": {
+                "A": "它让员工陷入无休止的会议、电子邮件和压力之中。",
+                "B": "它迫使大约20%的员工看上去总是很忙。",
+                "C": "它扭曲了许多员工对什么是令人满意的生活的信念。",
+                "D": "它对许多忙碌的员工的健康造成了很大伤害。"
+              },
+              "answer": "D",
+              "analysis": "根据题干关键词the culture ofbusyness和arecent study可以将答案定位到第三段第二、三句。 定位 第三段第二句和第三句指出，这种忙碌的文化使得员工很难找到工作与生活之间的平衡。根据最近的一项 研究，每五名高度投入工作的员工，就有一人处在精疲力竭的风险当中。由此可见，高强度的工作会让员 工过于疲惫，有精疲力竭的风险，即对他们的健康伤害很大，故本题选D。其他三个选项虽然有部分原文 词汇，但是表达的意思与原文不符，均排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What do such utterances as\"I have limited access to email”sound like according to the author?",
+              "stemCn": "根据作者的说法，诸如“我不方便查阅电子邮件”这样的表达听起来像什么？",
+              "options": {
+                "A": "One is toobusytocheckallemails in time.",
+                "B": "One is opposed to the prevailing work culture.",
+                "C": "One is forced by circumstances to stop working.",
+                "D": "One is simply enjoying their time off work."
+              },
+              "optionCn": {
+                "A": "一个人太忙了，无法及时查看所有的电子邮件。",
+                "C": "一个人因情况所迫而不得不停止工作。",
+                "D": "一个人只是在享受他们不工作的时间。",
+                "B": "一个人反对主流的工作文化。"
+              },
+              "answer": "C",
+              "analysis": "根据题干关键词Ihave limitedaccess to email可以将答案定位到倒数第二段最后一句。 定位 倒数第二段最后一句指出，像“我不方便查阅电子邮件”和“我一回来就回复”这样的表达，听起来就像 是你不得不停止工作了，而不是你想充分利用自己的休息时间。也就是说，这样的说法听起来就像是一 个人希望继续工作，但是因为某种原因而不得不暂停工作，故本题选C。选项D与原文的意思相反，原文 是说这样的表达听起来就像是你不得不停止工作了，而不是享受自己不工作的时间。选项A和B原文未提 及，均排除。"
+            },
+            {
+              "num": 50,
+              "stem": "Why did the author and his colleagues launch the out of office EmailGenerator?",
+              "stemCn": "为什么作者和他的同事们要推出“外出电子邮件生成器”？",
+              "options": {
+                "A": "To enable busy employees to spend less time checking emails.",
+                "B": "To ensure employees as well as employers truly have time off.",
+                "C": "To stop managers from talking about how busy their teams usually are.",
+                "D": "To encourage both employers and employees to answer emails promptly."
+              },
+              "optionCn": {
+                "A": "为了让忙碌的员工减少查看电子邮件的时间。",
+                "C": "为了让经理们不再谈论他们的团队通常有多忙。",
+                "D": "为了鼓励雇主和员工及时回复电子邮件。",
+                "B": "为了确保员工和雇主都真正有休假的时间。"
+              },
+              "answer": "B",
+              "analysis": "根据题干关键词launch theOutofOfficeEmailGenerator可以将答案定位到最后一段。 定位 最后一段前两句指出，这就是为什么我们最近推出了“外出电子邮件生成器”。你可以大声而又自豪地分 享，在你回来之前，你不会查看电子邮件。接着继续建议经理们尽量不要在周末给团队发电子邮件，或者 谈论他们有多忙。建议领导们抽出时间休假，并鼓励员工也这样做。由此可见，作者和他的同事们推出 这个“外出电子邮件生成器”是为了确保大家真正有休假时间，而不是休假的时候还要想着处理邮件等 事情，故本题选B。选项A和D原文均未提及，属于按常识或者逻辑杜撰的选项，均排除。选项C与原文不 符，虽然原文提到经理们在周末谈论他们有多忙之前需要再三考虑，但是推出这一工具并不是为了阻止经 理们谈论其团队有多忙，故排除。 Passage Two ·概览 本文节选自TheConversation网站于2022年2月17日发表的一篇题为“Femalebusiness travelerspay less thantheirmalecolleaguesbecause theytend tobookearlier”的文章。文章指出，因为较早预订机票，女性 员工比男性员工平均每张机票少支付18美元。研究发现，“消极互惠”的概念能解释这一现象，即由于 男性更容易觉得受到不公平待遇，所以在花公司的钱时更不在乎。 ·全文翻译 同样的航班，女性员工支付的机票价格一直低于男性员工，因为她们往往更早 预订机票。 我们比较了一家公司中同一职位的员工为同样舱位的行程所支付的机票价 格，并使用了一种常用的统计技术来解释可能影响机票价格差异的其他因素。我 们发现，女员工平均每张机票都比她们的男同事少支付18美元。[51]通过进一步 重难点单词及短语 ·consistently adv.一直 ·airfaren.飞机票价 ·class n.舱位等级 statisticaladj.统计的 调查，我们得出结论：造成这种差距的主要原因是女性往往比男性更早预订机 票，平均早1.8天。 [52]我们想确定是什么造成了在预订商务行程方面的这些性别差异，所以我们 测试了各种可能的解释，例如女性选择提前计划或者经常出差的男性倾向于较晚预 订机票。这些都无法解释性别差异，因此我们使用了从调查中收集的数据，这些数 据表达了在经济决策中扮演核心角色的消费者偏好，如耐心和风险规避。 我们发现，只有“消极互惠”的概念———感觉遭遇不公平对待的员工会做出一 些负面行为，比如在花公司的钱时更不在乎——能解释这些差异。这些调查显示， 男性往往比女性表现出更多的负面行为。这并不是说所有男性都会有这些行为，或 者说相对较晚预订机票是不正常行为的表现。[53]这只意味着当我们插入消极互惠 的变量时，性别差距就消失了。 [54]之前针对员工之间消极互惠的研究发现，它可能会导致员工的积极性下 降，业务绩效降低，工作场所士气和文化低落。 我们的研究结果显示了这些负面行为表现出来的另一种方式，比如在预订机票 方面，并进一步证明了女性不太可能会做出这些负面行为。 公司在公务出行方面花费巨大。虽然每张票18美元的差额看似不大，但积少成 多。[55]我们的分析表明，对于一家拥有2万名需要经常出差的员工的大型跨国公 司来说，女性提前预订机票每年可以节省100万美元。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Femaleemployees consistentlypaylowerairfaresthanmendoforthesameflightsbecause they tend to book earlier. We compared the air fare paidbyemployees in the same position within a company for the same class of travel and used a common statistical technique to accountforotherfactors that might affect differences in airfares. We found that women paidon average $18less per ticket than theirmalecolleagues. Further 7 ·2023年12月四级真题（第一套） ===== PAGE 8 ===== investigationallowed us to conclude that this gap is largely explainedby the fact that women tendedtobook earlier than men,1.8 days on average. We wan ted to determine what was causing these gender differences in booking business trips so we tested a varietyofpossibleexplanations, such as women choosing to plan ahead or male frequenttravelers being inclined to book late. None of these explained away the gender gap, so we applied data collectedfrom surveys that express consumerpreferences that play a central role ineconomicdecisions, such as patience and risk avoidance. We found that only the concept of\"negative reciprocity”—in which an employee who feels un fairy treated engages in negative behaviors, such as spending their company's money less care fully—explains these differences. The surveys showed men tend to exhibit more of these negative behaviors than women. This isn'tto saythatallmenengage in these behavior sort hat bookingrelativelylate is asignofabnormalbehavior. It only means that the gender gap disappears when we plug in the negative reciprocity variable. Prior research on negative reciprocity among workersfoundthat it can result inloweremployeemotivation, business performance and workplace morale(士气) and culture. Our results show another way these negativebehaviors can manifest themselves, like in airline bookings, and add to evidence that women are less likely to engage in them. Companies spend significant sums of money on business travel. While that $18 difference per ticket may seem small, itadds up. Our analysis suggests earlybooking by women can translate into savings of$lmilliona year for a large multinational company with 20,000regulartravelers.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What did the authors team conclude about the gender difference inairfaresfromtheirfurther investigation?",
+              "stemCn": "通过进一步调查，作者的团队对机票价格的性别差异得出了什么结论？",
+              "options": {
+                "A": "It is largely attributed to women booking earlier thanmen.",
+                "B": "It is largely explainedby women'schoosing cheaperflights.",
+                "C": "It is mainly accountedfor by maleemployees'readiness to pay more.",
+                "D": "It is due to the fact that women care more about their company's money."
+              },
+              "optionCn": {
+                "A": "这主要归因于女性比男性更早预订。"
+              },
+              "answer": "A",
+              "analysis": "·account for解释 ·explain away为……作 辩解 ·preference n.偏好，偏 爱 reciprocityn.互惠；互 换 •engage in从事；参加 ·exhibitv.表现；展现 ·plug in把（插头）插入 （插座）；接通（电 源） •prior adj.之前的 manifestv.显示；显露 add up积少成多 translatev.转化为，转 变为 定位 根据题干关键词author's team conclude和from their further investigation可以将答案定位到第二段最后一句。 第二段最后一句指出，通过进一步调查，我们得出结论：造成这种差距的主要原因是女性往往比男性更早 预订机票，平均早1.8天。由此可知，选项A正确。选项B和C的内容文章没有提及，可以排除。下文虽然 提到男员工更不在乎公司的钱，但并不是作者团队通过调查得出的结论，故排除D。"
+            },
+            {
+              "num": 52,
+              "stem": "What did the researchers want to determine by testing a variety of possible explanations?",
+              "stemCn": "研究人员想通过测试各种可能的解释来确定什么？",
+              "options": {
+                "A": "Whatmade malefrequenttravelersbookairticketslate.",
+                "B": "What caused women to plan ahead in booking business trips.",
+                "C": "Whatmotivated women to bookcheaper flights.",
+                "D": "What accounted for the gender gap in airfares."
+              },
+              "optionCn": {
+                "A": "是什么让经常出差的男性旅客较晚预订机票。",
+                "C": "是什么促使女性预订更便宜的航班。",
+                "B": "是什么让女性提前计划预订商务行程。",
+                "D": "是什么造成了机票价格的性别差距。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干关键词testing a variety ofpossible explanations可以将答案定位到第三段第一句。 第三段第一句指出，我们想确定是什么造成了在预订商务行程方面的这些性别差异，所以我们测试了各种 可能的解释，例如女性选择提前计划或者经常出差的男性倾向于较晚预订机票。由此可知，研究人员想确 定是什么造成了机票价格的性别差异，故选项D正确。选项中的gendergap与原文中的genderdifferences是 同义替换，而airfares与booking business trips对应。其余三个选项都与原文内容不符，均可以排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What happened when the negative reciprocity variable was taken into account?",
+              "stemCn": "如果考虑消极互惠变量，结果会怎样？",
+              "options": {
+                "A": "Bothmen and women were found to engage in negative behaviors.",
+                "B": "Neithermen nor women viewedbooking late as a bad behavior.",
+                "C": "The gender diffcrcnce in air fare expenses no longer existed.",
+                "D": "The gender gap tended to narrow to a significant degree."
+              },
+              "optionCn": {
+                "A": "人们发现，男性和女性都有负面行为。",
+                "B": "男性和女性都不认为较晚预订机票是一种不良行为。",
+                "C": "机票费用的性别差异不复存在。",
+                "D": "性别差距有显著缩小的趋势。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词thenegativereciprocity variable wastaken into account可以将答案定位到第四段最后一句。 个 题干中的was taken into account与原文中的plug in是同义替换。 第四段最后一句指出，这只意味着当我们插入消极互惠的变量时，性别差距就消失了。由此可知，当考虑 消极互惠变量时，机票价格的性别差异就不复存在了，故选项C正确。选项中的nolongerexisted与原文中 的disappears是同义替换。其余三个选项原文都没有提及，均可以排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What did prior research on negative reciprocity among workers find?",
+              "stemCn": "之前关于员工之间消极互惠的研究发现了什么？",
+              "options": {
+                "A": "It can do more harm to the workplace than to employees.",
+                "B": "Itcontributes to the male-female divide in the workplace.",
+                "C": "Itproves to be counter productive in a number of ways.",
+                "D": "It can result in increasing labor-managementconflicts. ·2023年12月四级真题（第一套）· 8 ===== PAGE 9 ====="
+              },
+              "optionCn": {
+                "A": "它对职场的危害比对员工的危害更大。",
+                "C": "事实证明，它在许多方面会适得其反。",
+                "B": "它助长了职场的男女分化。",
+                "D": "它可能导致劳资冲突加剧。"
+              },
+              "answer": "C",
+              "analysis": "根据题干关键词priorresearch on negative reciprocity among workers可以将答案定位到第五段。 定位 第五段指出，之前针对员工之间消极互惠的研究发现，它可能会导致员工的积极性下降，业务绩效降低， 工作场所士气和文化低落。由此可知，消极互惠在很多方面都会产生不良影响，让事情适得其反，故选 项C正确。counterproductive概括了原文中提到的几种不利影响。其余三个选项原文都没有提及，均可 以排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author emphasize about their analysis in the last paragraph?",
+              "stemCn": "在最后一段中，关于他们的分析作者强调了什么？",
+              "options": {
+                "A": "It can help companies increase their savings significantly.",
+                "B": "It can duly contribute to companies' business performance.",
+                "C": "It can translate women's booking practice into men's behavior.",
+                "D": "It can enhance large multinationalcompanies'competitiveness."
+              },
+              "optionCn": {
+                "A": "它可以帮助公司大幅提升节约额。",
+                "C": "它可以将女性的预订行为转化为男性的行为。",
+                "B": "它可以对公司业务绩效做出应有的贡献。",
+                "D": "它可以增强大型跨国公司的竞争力。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词analysis in thelastparagraph可以将答案定位到最后一段末句。 最后一段末句指出，我们的分析表明，对于一家拥有2万名需要经常出差的员工的大型跨国公司来说，女 性提前预订机票每年可以为公司节省100万美元。由此可知，作者强调，他们的分析可以帮公司节省一大 笔钱，故选项A正确。选项B和C原文都没有提及，可以排除。选项D属于过度推断，原文只是说可以帮大 型跨国公司省钱，没有说可以增强其竞争力，故排除。 PartIV > Translation ·难词译注 中国政府theChinese government 合理营养rational/reasonablenutrition 食品产业foodindustry 十分重视attach great importance to 深刻的profound/deep 新机遇newopportunities 大力vigorously 基本需要basic need 推进promote 提倡advocate/promote 必然要求inevitablerequirement ·参考译文· TheChinese government attaches great importance to the healthy dietofpeople.By vigorously advocating healthy dietpeople have gained a deeperunderstandingofthe importance ofreasonable nutrition in promotinghealth. \"Eating safely,nutritiously,and healthily\"is a basic needfor peopletohave a better life,an inevitablerequirementfor enhancing people's senseofhappiness,andalso provides newopportunitiesfor the development ofthe food industry. Atpresent,governments atalllevels are taking various measures toensure the healthy dietofpeople andpromote the construction of a healthy China. 四 ·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "中国政府十分重视人民的健康饮食（diet）。通过大力提倡健康饮食，人们对合理营养增进健康的重 要性有了更加深刻的认识。“吃得安全、吃得营养、吃得健康”是人民对美好生活的基本需要，是提升 人民幸福感的必然要求，也为食品产业的发展提供了新机遇。目前，各级政府都在采取多种举措确保人 民饮食健康，推进健康中国的建设。 9 ·2023年12月四级真题（第一套）",
+          "terms": [
+            "中国政府theChinese government 合理营养rational/reasonablenutrition 食品产业foodindustry",
+            "十分重视attach great importance to 深刻的profound/deep 新机遇newopportunities",
+            "大力vigorously 基本需要basic need 推进promote",
+            "提倡advocate/promote 必然要求inevitablerequirement"
+          ],
+          "reference": "The chinese government attaches great importance to the healthy diet of people. By vigorously advocating healthy diet people have gained a deeperunderstandingofthe importance of reasonable nutrition in promotinghealth. \"Eating safely, nutritiously, and healthily\"is a basic need for people to have a better life, an inevitablerequirementfor enhancing people's sense of happiness, and also provides newopportunitiesfor the development oft he food industry. At present, governments atalllevels are taking various measures to ensure the healthy diet of people and promote the construction of a healthy China.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

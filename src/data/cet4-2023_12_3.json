@@ -1,0 +1,523 @@
+{
+  "id": "cet4-2023_12_3",
+  "level": 4,
+  "year": 2023,
+  "month": 12,
+  "setNo": "第3套",
+  "title": "2023年12月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on what in their university impresses them most. You are now to write an essay for submission. You willhave 30 minutes to write the essay. You should write atleast120 wordsbut no more than180 words.",
+          "review": "",
+          "sample": "What impresses me most in the university is the colorful club activities, each offering unique experiences and fostering diverse interests. Not only dot he clubs enrich our campus life, butt hey also embody the spirit of learning beyond the classroom. On the one hand, the literary clubs provide space for literary enthusiasts to interact and create.2 Here, students delve into the worldofbooks, engage in thought- provoking discussions, and try their hand at writing. On the other hand, the drama societies bring together students with a passion for the performing arts, adding more artistic atmosphere to the university. Additionally, the sports clubs such as football and aerobics emphasize the importance of physical well-being.4 They foster teamwork and resilience, which are essential qualities in bothsports and life. These clubs provide the necessary balance between academic pursuit and interest cultivation, ensuring the all-round development of students. In conclusion, the clubs are an integral part of university life, providing students withrichopportunities to explore, learn, and grow. They make our university not just an educational institution, but a vibrant community filledwith diverse interests.6",
+          "sampleNote": "1紧扣主题，指出校园里 最让“我”印象深刻的 是什么——丰富多彩的 社团活动。 2以文学社团为例诠释社 团活动的丰富多彩。 3介绍戏剧社团，进一步 展现社团文化。 4引入足球、健美操等体 育类社团例子，呈现社 团活动的丰富性。 5对全文进行概括总结， 首尾呼应。 6进行升华，指出社团活 动的意义。",
+          "sampleCn": "大学里最让我印象深刻的是丰富多彩的社团活动，每个社团都提供独特的体验，并培养多样化的兴 趣。社团不仅丰富了我们的校园生活，还体现了课堂之外学习的精神。 一方面，文学社团为文学爱好者提供了交流和创作的空间。在这里，学生们深入书籍世界，参与发人深 省的讨论，并尝试亲自动笔写作。另一方面，戏剧社团将热爱表演艺术的学生聚集在一起，为大学增添了更多 的艺术气息。此外，足球和健美操等体育社团强调了身体健康的重要性。它们培养团队合作精神和适应能力， 这些都是运动和生活中必不可少的品质。这些社团为学术追求和兴趣培养提供了必要的平衡，确保了学生的全 面发展。 总之，社团是大学生活不可或缺的一部分，为学生提供了探索、学习和成长的丰富机会。它们使我们的 大学不仅仅是一所教育机构，而且是一个充满多样化兴趣的活力社区。",
+          "vocab": [
+            "engage in参与",
+            "foster促进，培养",
+            "literary文学的",
+            "thought-provoking发人深省的",
+            "diverse多种多样的",
+            "enthusiast爱好者",
+            "passion激情，热情",
+            "embody体现",
+            "delve into钻研；探索",
+            "老师说",
+            "本套讲解视频中，老师教你如何审题、列提纲、选用合适的词语和表达进行写作的技巧，为你解读新闻、长对话和听力",
+            "短文常考题型、有效备考听力的策略，带你分析这次四级阅读题源、命题点，教你如何应对四级阅读的方法，帮助你分析中文句子结",
+            "构，找出中英文之间的对应性，提升翻译技能，快来扫描二维码观看，学起来吧！",
+            "resilience适应力",
+            "all-round全面的；多方面的",
+            "vibrant充满生气的",
+            "cultivation培养",
+            "integral不可或缺的"
+          ],
+          "patterns": [
+            "1.….what impresses me most is...",
+            "句型意为“…最让我印象深刻的是……”，其中what引导主语从句。该句型用于表达“最令人印象深刻",
+            "的是什么”这一语境。",
+            "2.Not only..., but also...",
+            "句型意为“不仅……而且……”，为并列结构，可以起到强调、突出对等的两个部分的作用。注意，在该",
+            "结构中，notonly部分可以采用部分倒装的形式，而butalso部分不用倒装，如范文首段结尾句Notonlydothe",
+            "clubs...but they also...便是这种倒装的情况。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "from a list of choicesgiven in a word bank following the passage. Read the passage through care fully before makingyourchoices. Each choice in the bank is identifiedbyaletter. Pleasemarkthecorrespondingletterfor each item on Answer sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. When people set out to improve their health, they usually take a familiar path: starting a healthy diet, geting better sleep, and doing regular exercise. Each of these behaviors is important, of course, but they all 26on physical health—and a growing body of research suggests that social health is just as, if not more, important to 27 well-being. One recent studypublished in the journalPLOsONE,for example, found that the strength of a person's social circle was a better 28 of self-reported stress, happiness and well-being levels thanfitnesstrackerdataon physical activity, heart rate and sleep. That finding suggests that the\"29self”representedbyendlessamounts of health data doesn't tell the whole 30. There's also a qualified self, which is who i am, what are myactivities, my social network, and all of these aspects are not_31_in any of these measurements. This idea is supported by plenty of 32_research. Studies have shown that social support whether it comes from friends, family members or a spouse—is 33 associated with better mental and physical health. A rich social life, these studies suggest, can lower stress levels, improve mood, encourage positivehealthbehaviorsand discourage damaging ones, boost heart health and improve illness 34 rates. Social isolation, meanwhile, islinkedtohigherrates of physical diseasesandmentalhealthconditions. It's a significant problem,35_since loneliness is emerging as a widespread public health problem in many countries. 19 ·2023年12月四级真题（第三套）· ===== PAGE 2 =====",
+          "wordBank": {
+            "A": "base",
+            "B": "eagerly",
+            "C": "especially",
+            "D": "focus",
+            "E": "indicator",
+            "F": "overall",
+            "G": "preached",
+            "H": "prior",
+            "I": "prompt",
+            "J": "puzzle",
+            "K": "quantified",
+            "L": "recovery",
+            "M": "reflected",
+            "N": "story",
+            "O": "strongly"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "语法判断空格所在句缺少谓语，句子主语为they，句子时态为一般现在时，故空格处应填动词原形，且该 词能与后面的on构成合理搭配。 语义判断首句提到“当人们着手改善自己的健康状况时，他们通常会采取一种熟悉的路径，即开始健康的 饮食、改善睡眠，并定期锻炼”。空格所在句意为“当然，这些行为都很重要，但它们都 于身体健 康”。focuson意为“专注于，集中于”，符合句意，故答案为focus。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "语法判断空格前面为介词to，后面为名词well-being，故空格处应填形容词或分词，修饰后面的名词。 语义判断该句意为“当然，这些行为都很重要，但它们都侧重于身体健康——越来越多的研究表明，社交 健康对 健康同样重要，甚至更为重要”。代人选项可知，overall符合句意。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "语法判断空格前面为abetter，后面为介词of，故空格处应填名词。 语义判断该句意为“例如，最近发表在PLOSONE杂志上的一项研究发现，与健身追踪器上的体力活动、心 率和睡眠数据相比，一个人社交圈的强度是其自述的压力、幸福感以及健康水平更好的 ”。代人选 项可知，indicator符合句意。注意，根据中文表达习惯，此处需要名词动译，即将“是…更好的标志” 转译为“更能反映……”。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "语法判断空格前面为定冠词the，后面为名词self，故空格处应填形容词或分词，修饰后面的名词。 语义判断 该句意为“这一发现表明，无穷无尽的健康数据所代表的 自我’并不能说明全部 ”9 。quantifiedself意为“量化的自我”，符合句意，故答案为quantified。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "N",
+              "analysis": "语法判断空格位于句末，前面为the whole，故空格处应填名词。 语义判断 该句意为“这一发现表明，无穷无尽的健康数据所代表的量化的自我’并不能说明全部 ” 。the wholestory意为“一切；全部情况”，符合句意，故答案为story。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "语法判断空格前面为主语和be动词，后面为介词短语，故空格处应填形容词，充当句子的表语，或填动词 的过去分词，和be动词一起构成被动语态，充当句子的谓语。 语义判断该句意为“还有一个合格的自我，也就是我’是谁，我’有哪些活动，我’有哪些社交网 络，所有这些方面都没有 在这些评估中”。代入选项可知，reflected符合句意。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "语法判断空格前面为介词of，后面为名词research，故空格处应填形容词或分词，修饰后面的名词。 语义判断该句意为“这一观点得到了大量 研究的支持”。代入选项可知，prior符合句意。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "O",
+              "analysis": "语法判断空格所在句结构完整，故空格处应填副词。 语义判断该句意为“研究表明，无论是来自朋友、家人还是配偶的社交支持，都与更好的身心健康 相关”。bestrongly associated with...意为“与……密切相关”，符合此处句意，故答案为strongly。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断空格前面为improve illness，后面为rates，故空格处应填名词或分词，与illness一起修饰名词rates。 语义判断这里列举了丰富的社交生活给身心带来的积极影响。该句意为“这些研究表明，丰富的社交生活可以 缓解压力，改善情绪，鼓励积极的健康行为，阻止有害行为，促进心脏健康，以及提高疾病 率”。代 入备选名词或分词选项可知，illnessrecoveryrates意为“疾病康复率”，符合此处句意，故答案为recovery。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "base（n.基础；根据v.以..为据点）",
+                "B": "eagerly（adv.热切地，渴望地）",
+                "G": "preached（v.宣传，宣 扬）",
+                "I": "prompt（v.促使；激励adj.迅速的；准时的）",
+                "J": "puzzle（n.难题；谜v.使困惑，使迷惑）"
+              },
+              "answer": "C",
+              "analysis": "语法判断空格所在句结构完整，故空格处应填副词。 语义判断该句意为“这是一个严重的问题， 在许多国家，孤独正成为一个普遍的公共健康问题”。 代入选项可知，especially符合此处句意。 干扰项注释"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Hecaptured publicaffectionlongbefore hewon national titles.\nB) He won enormous fame and love from British people.\nC) He became a myth three decades after his retirement.\nD) He owed his great success to several well-known horse trainers.\nA) It was simply a hindrance they had to get over to excel.\nB) It was surely a disadvantage though not con side red fatal.\nC) It was actually the end of a racing career that had just beg un.\nD) It was really a major obstacle hard to overcome on their own.\nA) He won his first Grand National title at 12. C) He surprised sporting fans worldwide in 1973.\nB) He to ok two firsts successively in 1935-1936. D） He to ok three GrandNationalwins in the 1970s.\nA) He had already passed the peak of his racing life.\nB) He would have no rival in Grand National steeplechases.\nC) He had lost his charm with the leagues ofGrandNationalfans.\nD) He could be expected to repeat his glory in the prime of his career.\nA) He suffered from severe pain in a heel. C) He lived on various charity benefits.\nB) He spent almost all his time traveling. D) Heremainedfamous and popular.\nA) Strive to make sense of some unknownforces.\nB) Avoid being driven by their own feelings.\nC) Draw on a vast wealth of past experience.\nD) Personal feelings and business strategies.\nA) Resolve the dilemma with previous experience.\nB) Figure out which oft he two is more reliable.\nA) Applying instincts and data in conjunction.\nB) Assessing allfactors whenmaking a choice.\nC) Recalling what has actually worked in the past.\nD) Refraining from trusting instincts arbitrarily.",
+          "analysisOverview": "",
+          "translationCn": "当人们着手改善自己的健康状况时，他们通常会采取一种熟悉的路径，即开始健康的饮食、改善睡眠， 并定期锻炼。当然，这些行为都很重要，但它们都[26侧重于身体健康——越来越多的研究表明，社交健康对 [27]整体健康同样重要，甚至更为重要。 例如，最近发表在PLOSONE杂志上的一项研究发现，与健身追踪器上的体力活动、心率和睡眠数据相 比，一个人社交圈的强度更能[28]反映其自述的压力、幸福感以及健康水平。这一发现表明，由无穷无尽的健 康数据所代表的“[29]量化的自我”并不能说明全部[30]情况。 还有一个合格的自我，也就是“我”是谁，“我”有哪些活动，“我”有哪些社交网络，所有这些方面都 没有[31]体现在这些评估中。 这一观点得到了大量[32]先前研究的支持。研究表明，无论是来自朋友、家人还是配偶的社交支持，都与 身心更健康[33密切相关。这些研究表明，丰富的社交生活可以缓解压力，改善情绪，鼓励积极的健康行为， 阻止有害行为，促进心脏健康，以及提高疾病[34]康复率。 与此同时，社交孤立与身体疾病和心理健康问题的高发率有关。这是一个严重的问题，[35尤其是在许多 国家，孤独正成为一个普遍的公共健康问题。",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Research has found the use of digital technology benefits not only teenagers’social lives but also their",
+              "stemCn": "题干译文研究发现，使用数字技术不仅有利于青少年的社交生活，也有利于他们的学习。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息the use ofdigital technology、notonly..but also、teenagers’sociallives、studics 定位到C段。C段前两句提到，的确，研究年轻人的社会科学家发现，他们对数码的使用可以是创造性的， 甚至是有益的，的确如此，不仅从他们的社交生活来说是这样，而且从他们的教育方面来说也是如此。题 干是对这两句的概括，其中theuseofdigital technology对应原文中的their digital use，notonly..butalso对应 原文中的notjust in terms of..but..，sociallives是原词复现，studies对应原文中的education，故答案为C。"
+            },
+            {
+              "num": 37,
+              "stem": "It is urgent that schools teachkids how to verify online information.",
+              "stemCn": "题干译文学校迫切需要教孩子们如何核实网上的信息。",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "答案L。由题干关键信息urgent、schools、teach、verifyonline information定位到L段。L段第三句提 到，研究表明，学生们不会在网上核实信息的真实性——“智能搜索”是学校迫切需要教授的一项技 能。即，学校迫切需要教孩子们如何核实网上的信息。题干是该句的同义转述。其中urgent对应原文中 的urgently，schools、teach是原词复现，verifyonline information与原文中的fact-check informationonline同 义，故答案为L。 答案H。由题干关键信息longerandmore complex essays和the error rates remain unchanged定位到H段。 G段末尾提到，大学学者安德里亚·伦斯福德收集了1917年以来关于“新生作文”错误率的数据，她发现 这些数据与今天的数据几乎相同。H段首句接着说，但即使错误率保持稳定，学生的作文在长度和复杂性 方面都有了很大的发展。题干与此同义，其中longer andmore complexessays是对原文essays have blossomed in size andcomplexity的同义转述，theerror ratesremain unchanged是对原文errorrates stayedstable的同义转 述，故答案为H。"
+            },
+            {
+              "num": 38,
+              "stem": "Students now write longer and more complex essays than their counterparts in previous decades while the",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": ""
+            },
+            {
+              "num": 39,
+              "stem": "Newspaper reports of teenagers give a false picture of their behaviour.",
+              "stemCn": "题干译文报纸上对青少年的报道歪曲了他们的行为。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息Newspaper reports、teenagers、give a false picture、behaviour定位到A段。A 段提到，报纸上不断充斥着关于吸毒成瘾和一般相信由暴力电子游戏引起的攻击性行为的可怕报道。但 是，即使这些报道触及了真正的问题，它们也没有真正反映出青少年日常社交行为的多数情况。也就是 说，报纸上对青少年的报道歪曲了他们的行为。题干是对这两句内容的概括，其中newspaper、teenagers和 behaviour是原词复现，reports与原文中的accounts同义，give a false picture是对原文they do notreallyreflect 的同义转述，故答案为A。"
+            },
+            {
+              "num": 40,
+              "stem": "Parents are advised to mind their own digital behaviour and set a good example for theirkids.",
+              "stemCn": "题干译文家长们应注意自己的网络行为，为孩子们树立好榜样。",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "答案M。由题干关键信息Parents、areadvisedto、mindtheirowndigitalbehaviour和seta goodexample 定位到M段。M段提到，最好的应对方法还是老生常谈，适用于育儿的方方面面：适度。树立良好的行为 榜样是关键。不停地盯着手机并且不读书的家长可能会培养出同样的孩子。我们应该一如既往地注意自己 的行为。题干是对这段内容的概括，其中parents是原词复现，advised对应原文中的advice，mindtheirown digitalbehaviour是对原文becarefulaboutourown behaviour的同义转述，故答案为M。"
+            },
+            {
+              "num": 41,
+              "stem": "Contrary to parents'beliefkidstry hard to leave as fewtraces as possible on the web.",
+              "stemCn": "题干译文与父母的想法相反，孩子们努力尽可能少在网上留下痕迹。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息Contrary to parents'belief、leave as few traces as possible on the web定位到E 段。E段提到，家长们担心孩子不在意隐私，这是错误的。事实上，他们会花几个小时去更改脸书的设置 或使用Snapchat等阅后即焚分享工具，来减少自己的分享痕迹。题干是对这两句的概括，其中Contraryto parents’belief对应原文中的Parents are wrong to，leave as few traces as possible对应原文中的minimisetheir traces和so that no traces remain，故答案为E。"
+            },
+            {
+              "num": 42,
+              "stem": "Students'ability to learn formal writing is unlikely to be affected by texting.",
+              "stemCn": "题干译文学生学习正式写作的能力不太可能受到发短信的影响。",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "答案I。由题干关键信息Students’ability、formal writing、unlikely tobeaffected、texting定位到I段。I段 最后一句提到，显然，教青少年如何正式写作仍然至关重要，但发短信可能不会破坏他们学习正式写作 的能力。题干是对该句的同义转述，其中Students’ability to learnformal writing对应原文中的theirabilityto learn it，unlikely to beaffectedbytexting对应原文中的textingprobably isn'tdestroying，故答案为I。"
+            },
+            {
+              "num": 43,
+              "stem": "Historically, new technologies have always caused greatfears among parents.",
+              "stemCn": "题干译文从历史上看，新技术总是会引起家长的极大恐惧。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息new technologies、always、caused、great fears、parents定位到B段。B段第一句 提到，新技术总是会引起一代人的恐慌，这通常更多地与成年人的恐惧有关，接下来举了两个例子：20世 纪30年代，家长们担心广播；20世纪80年代，家长们担心索尼随身听。也就是说，从历史上看，新技术总 是会引起家长的极大恐惧。题干是对这段内容的概括，其中newtechnologies和always是原词复现，caused 与原文中的provoke同义，greatfears among parents是对原文中generational panic、adultfears、an iresistible hold和great danger的概括，故答案为B。"
+            },
+            {
+              "num": 44,
+              "stem": "The reading culture was seriously affected by cable television some four decades ago.",
+              "stemCn": "题干译文大约40年前，有线电视严重影响了阅读文化。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息readingculture、seriously affected、cable television、somefour decades ago定位 到J段。J段提到，但即使在那时，也只有少数人——大约20%——终生都喜欢阅读，而且在20世纪80年代 是有线电视，而不是互联网，对阅读文化造成了打击。也就是说，在20世纪80年代，即大约40年前，有线 电视严重影响了阅读文化。题干是对该句的同义转述，其中reading culture对应原文中的that culture，cable television对应原文中的cable TV，seriously affected是原文中strucka blowat的同义复现，somefourdecades ago对应原文中的inthe1980s，故答案为J。"
+            },
+            {
+              "num": 45,
+              "stem": "Teachers say thatkids'writing is too casual, using language characteristic oftextmessages.",
+              "stemCn": "题干译文老师们说孩子们的写作太随意，使用了短信的语言特征。",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息Teachers say、kids’writing、too casual、textmessages定位到G段。G段第3句提 到，他们说，孩子们在写作中使用过于随意的语言和短信语言，他们没有足够的耐心进行长时间的阅读 和复杂的论证。题干是对该句的同义转述，其中Teachers say对应原文中的They say，too casual对应原文中 的overlycasual，using language characteristicoftextmessages对应原文中的use..text-speak in writing，故答案 为G。 Passage One 80 概览 本文节选自网站https://grandnational.horseracing.guide发表的一篇题为“REDRUM-THE LEGENDARYTHREETIMEGRANDNATIONALWINNER”的文章。文章介绍了英国赛马史上非常著 名且受欢迎的赛马——红朗姆。它克服了蹄部的骨病，三次获得英国国家障碍大赛冠军。人们非常喜欢 它，退役之后，它还作为慈善活动和其他公共活动的嘉宾走遍了英国各地。 ·全文翻译 [46]在赛马历史上，很少有马匹能像红朗姆那样俘获英国民众的喜爱。 如今，在它退役三十年后，它仍是有史以来最著名和最受欢迎的赛马之一。 在被诺埃尔·勒·马尔买下之前，红朗姆被转手给了几个主人。买下它 的经纪人是现在的传奇驯马师唐纳德·“金加”·麦凯恩。 当时并不明显，但是红朗姆的蹄部有严重的骨病。对很多马匹（和很多 驯马师）来说，这意味着其赛马生涯还没开始就结束了。[47]然而，对于金 加和红朗姆来说，这只是成就非凡必须克服的一个障碍。 红朗姆真正的天赋是在障碍赛马中展现出来的。[48]它的力量、速度 和跳跃能力使它在1973年获得了它的第一个英国国家障碍赛马大赛冠军。 就在第二年，红朗姆再次夺冠。它是继雷诺兹敦在1935~1936年连续夺冠之 后，第一匹再次蝉联冠军的赛马。英国国家障碍赛马大赛粉丝联盟开始为红 朗姆的精神和优雅倾倒。 在接下来的两年中，红朗姆与冠军失之交臂，两次都屈居亚军。[48] [49]当它在1977年重返赛场再次尝试时，人们普遍认为它已经过了黄金赛 龄。它当时12岁，人们预计它的排名不会太靠前。[48]当它以领先亚军25个 马身的非凡成绩第三次赢得英国国家障碍赛马大赛的冠军时，它震惊了全世 界的体育迷们。时至今日，红朗姆的第三次夺冠仍被誉为赛马史上最伟大的 时刻之一。 1978年，红朗姆再次前往英国国家障碍赛马大赛，但在比赛前不久， 它的一只脚后跟受了伤。[50]不久之后，它就退役了，但它的公众生活和名 声并没有随着它职业生涯的结束而减少。红朗姆到全国各地参加各种各样的 活动。它经常在安特里赛马场的赛前游行中打头阵，而且还是慈善活动和公 共活动的热门嘉宾。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "In the history of horse racing, fewhorses have captured the affection of theBritishpubliclikeRedRum. Today, three decades after his retirement, he is still one oft he best-knownandmostbelovedracehorses of all time. RedRum was passed around to severalownersbefore being purchasedforNoelLeMar. The agent who madethe purchase was the now-legendary horse trainer Donald\"Ginger\"McCain. It wasn't apparent at the time, butRedRum had a serious bone disease in his foot. Form any horses （and many trainers） this would mean the end of a racing career before it even beg an. For Ginger andRedRum, though, it was just an obstacle to greatness that had to be overcome. RedRum's true talent came out in steeplechases（障碍赛马).His power, speed and jumping ability carried him to his first Grand national title in 1973.The very next year, RedRumreturned to take his second title. He was the first horse to take successivefirsts since Reynoldstown in 1935-1936.RedRum's spirit and grace had already beg un to charm the leagues of grand national fans. In the following two years, RedRumlostouton the title, coming in secondbothtimes. When he returned in 1977to try again, he was largely regarded as past his prime. He was 12 years oldandnotexpectedtoplace highly. He surprised sporting fans around the world when he came in a remarkable 25lengths ahead oft he nearest horse, takinghis third grand national win. To this day, RedRum's third winisknown as one oft he greatest moments in horse racing history. ·2023年12月四级真题（第三套）· 22 ===== PAGE 5 ===== RedRum was headedfor the grand national once again in 1978butsuffered an injury inoneofhisheels shortly before the race. He was retired soon after, but his public life and fame by no means decreased with the end of his career. RedRum traveledall over the country for various engagements. He oftenled pre-race parades at a in tree Race course and was a popular guest at charitybenefits and public events.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do we learn from the passage about Red Rum the race horse?",
+              "stemCn": "关于赛马红朗姆，我们从文章中了解到什么？",
+              "options": {
+                "A": "Hecaptured publicaffectionlongbefore hewon national titles.",
+                "B": "He won enormous fame and love from British people.",
+                "C": "He became a myth three decades after his retirement.",
+                "D": "He owed his great success to several well-known horse trainers."
+              },
+              "optionCn": {
+                "A": "早在赢得全国冠军之前，它就俘获了公众的喜爱。"
+              },
+              "answer": "B",
+              "analysis": "重难点单词及短语 ·capturev.俘获；赢得（喜爱） ·beloved adj.深爱的；钟爱的 ·pass around传递 ·purchase v.购买 •legendary adj.传奇的 obstaclen.障碍；阻碍 overcomev.克服 come out显露；出现 ·title n.冠军；头衔 ·successive adj.连续的 ·charmv.迷住；吸引；使倾倒 ·lose outon失去；错过 primen.盛年；全盛时期 ·placev.排名；获名次 remarkableadj.不同寻常的； 非凡的 ·lengthn.（赛马中的）马位， 马身长度 ·engagementn.约会（常指正式 场合的官方活动等） ·charityn.慈善（事业） benefitn.慈善（或公益）活动 题干关键词RedRum通篇都有出现，可以根据出题顺序与答题顺序基本一致的原则将答案定位到第一段。 定位第一段指出，在赛马历史上，很少有马匹能像红朗姆那样俘获英国民众的喜爱。如今，在它退役三十年 后，它仍是有史以来最著名和最受欢迎的赛马之一。由此可知，选项B与原文表述相符，故选B。由原文 第四段可知红朗姆是在蝉联冠军之后开始受到公众喜爱的，因此选项A表述有误，可排除；C、D两项在原 文中没有提及，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What did the serious bone disease in Red Rum's foot mean to himself and his trainer?",
+              "stemCn": "红朗姆马蹄上严重的骨病对它自己和它的驯马师来说意味着什么？",
+              "options": {
+                "A": "It was simply a hindrance they had to get over to excel.",
+                "B": "It was surely a disadvantage though not con side red fatal.",
+                "C": "It was actually the end of a racing career that had just beg un.",
+                "D": "It was really a major obstacle hard to overcome on their own."
+              },
+              "optionCn": {
+                "A": "这只是他们成就非凡必须克服的障碍。",
+                "C": "这实际上使得刚刚开始的赛马生涯走向终结。",
+                "B": "虽然不致命，但这确实是一个劣势。",
+                "D": "这对他们来说确实是一个很难独自克服的巨大障碍。"
+              },
+              "answer": "A",
+              "analysis": "定位根据题干关键词serious bone disease in RedRum's foot可以将答案定位到第三段。 第三段指出，当时并不明显，但是红朗姆的马蹄上有严重的骨病。对很多马匹（和很多驯马师）来说， 这意味着其赛马生涯还没开始就结束了。然而，对于金加和红朗姆来说，这只是成就非凡必须克服的一 个障碍。由此可知，选项A正确，其中hindrance、getover、excel分别对应原文中的obstacle、overcome、 grcatness，属于同义替换。选项B和D的内容原文没有提到，可以排除。由原文第二段开头的内容可知，这 种情况是对很多其他的马匹和驯马师而言的，对于金加和红朗姆来说并非如此，故排除C项。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the author say Red Rum did with his power, speed and jumping abillity?",
+              "stemCn": "作者说红朗姆凭借它的力量、速度和跳跃能力做了什么？",
+              "options": {
+                "A": "He won his first Grand National title at 12.",
+                "B": "He to ok two firsts successively in 1935-1936.",
+                "C": "He surprised sporting fans worldwide in 1973.",
+                "D": "He to ok three GrandNationalwins in the 1970s."
+              },
+              "optionCn": {
+                "A": "它在12岁时赢得了它的第一个英国国家障碍赛马大赛冠军。",
+                "B": "它在1935~1936年连续两次获得冠军。",
+                "C": "它在1973年震惊了全世界的体育迷。",
+                "D": "它在20世纪70年代获得了三次英国国家障碍赛马大赛冠军。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干关键词his power，speed and jumping ability可以将答案定位到第四段。 第四段第二句和第三句指出，它的力量、速度和跳跃能力使它在1973年获得了它的第一个英国国家障碍 赛马大赛冠军。就在第二年，红朗姆再次夺冠。第五段提到它在1977年再次参赛时，以领先亚军25个马身 的非凡成绩第三次赢得英国国家障碍赛马大赛的冠军时，它震惊了全世界的体育迷们。由此可知，红朗姆 的三次夺冠均在20世纪70年代，选项D正确。其他三项均与原文不符，可排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What did people generally thinkofRedRumwhen he returned to the race course in 1977?",
+              "stemCn": "年红朗姆重返赛马场时，人们普遍认为它如何？",
+              "options": {
+                "A": "He had already passed the peak of his racing life.",
+                "B": "He would have no rival in Grand National steeplechases.",
+                "C": "He had lost his charm with the leagues ofGrandNationalfans.",
+                "D": "He could be expected to repeat his glory in the prime of his career."
+              },
+              "optionCn": {
+                "A": "它已经过了赛马生涯的巅峰。",
+                "B": "它在英国国家障碍赛马大赛中没有对手。",
+                "C": "它在英国国家障碍赛马大赛粉丝联盟中已经没有吸引力了。",
+                "D": "它有望在职业生涯的黄金时期重现辉煌。"
+              },
+              "answer": "A",
+              "analysis": "定位根据题干关键词in1977可以将答案定位到第五段第二句。 第五段第二句指出，当它在1977年重返赛场再次尝试时，人们普遍认为他已经过了黄金赛龄，故选项A正 确，其中passed the peakofhis racing life与原文中的past his prime为同义替换。选项D与原文意思相反，可 以排除。选项B的内容原文没有提及。选项C的内容属于过度推测，原文只是说人们预计它的排名不会太 靠前，并没有说它在粉丝联盟中已经没有吸引力了。"
+            },
+            {
+              "num": 50,
+              "stem": "Whatbecame ofRedRum after his careerended?",
+              "stemCn": "红朗姆的职业生涯结束后，它怎么样了？",
+              "options": {
+                "A": "He suffered from severe pain in a heel.",
+                "B": "He spent almost all his time traveling.",
+                "C": "He lived on various charity benefits.",
+                "D": "Heremainedfamous and popular."
+              },
+              "optionCn": {
+                "A": "它的脚后跟剧烈疼痛。",
+                "C": "它靠各种慈善活动为生。",
+                "B": "它几乎把所有的时间都花在了旅行上。",
+                "D": "它仍然很有名，很受欢迎。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干关键词afterhiscareerended可以将答案定位到最后一段最后三句。 最后一段最后三句指出，不久之后，它就退役了，但它的公众生活和名声并没有随着它职业生涯的结束而 减少，红朗姆到全国各地参加各种各样的活动，它经常在安特里赛马场的赛前游行中打头阵，而且还是慈 善活动和公共活动的热门嘉宾。由此可知，退役之后，红朗姆还是非常有名，也仍然很受欢迎，故选项D 正确。选项A错在，原文虽然提到它脚后跟受伤，但并未提及退役后它的脚后跟仍然剧烈疼痛。选项B错 在，原文是说它到全国各地参加活动，但不是说它把所有时间都用在了旅行上。选项C错在，它是作为慈 善活动的嘉宾出席活动的，不是靠着慈善活动为生。 Passage Two 00 ·概览· 本文节选自《纳什维尔商业杂志》2014年10月31号发表的一篇题为“Whentorelyonintuitioninstead ofanalysis inyourdecisionmaking”的文章。本文开头指出，商界人士常常根据直觉做决定，而后提出， 另一种更理性的方法是结合使用数据和直觉分析来做决定。作者最后指出，最佳的决策往往是将直觉和 理性分析结合起来而得到的。 ·全文翻译 [51]商界人士经常根据自己的个人感受或直觉做决定。看到人们被重难点单词及短语 某种未知力量的引导是相当可怕的。但是，让直觉驱动你的决定，到底 有多明智呢？ 在决策过程中，只有当你有极为丰富的经验支持你的时候，依靠 直觉才有意义。只是“感觉”某件事是对的或者是应该做的，这非常主 观，可能会淹没你。 另一方面，做决策有一种更理性的方法。[52]长期以来，数据和分 析一直都与明智的决策联系在一起。它们减少了出错的可能性，并且增 加了成功的机会。海量系统的数据大多是我们大部分决策的基础，无论 是个人决策还是商业决策。但是，数据的极端可用性也带来了一个复杂 的问题：[53]如果你强烈认为某件事不应该做，即使数据坚持认为应该 做，你会怎么做？ 这个看似简单的问题促使人们在决策过程中需要了解直觉和数据之 间的关系。[53]在不让事情变得复杂的情况下，解决这一两难困境的办法 就是结合使用数据和直觉来达成可能做出的最佳决策。 出于本能的决策总是得到以前的经验或信息的支持，这承认了出于 本能的决策在过去是有效的。决策并不是因为你想盲目地相信自己的直 觉而做出选择并勇敢地面对后果。决策是将你的内在智慧与系统数据的 知识结合在一起，以做出最佳决策。 有时，在某些情况下使用理性分析和数据是不切实际的。缺乏明确 的标准、时间和资源受限以及出现新的情况是限制数据实用性的例子。 [54]唯一可行的选择是依靠你的直觉。在这些情况下，直觉可以帮助你做 出有效和快速的决定。 [55]将直觉和理性分析相结合，可以做出全面的决策。它减少了犯 错误的机会，并日益成为当今领导者最喜欢的一种决策方法。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_12_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "People in business often make decisions based on their own personalfeelings or instincts. It is quite horrifying to see people being guidedby some unknown force. But how wise is it, really, to let your instincts drive your decisions? In the decision-making process, relying on instincts only makes sense when you have a vast experience to support you. Simply“feeling”that something is right or should be done is highly subjective and can drown you. On the other hand, there is a more rational approach to making decisions. Data and analysis have long been associated with informed decisions. These reduce thelikelihoodoferrors and increase thechances of success. Big, systematic data is mostly the foundation of most of our decisions, personal and business alike. But with its extreme us ability comes a complication: what do you do if you strongly feel something should not be done, even if the data insists that it should? This seemingly easy question is what drives the need to understand the relationship between instinct sand data in the decision-makingprocess. Withoutmaking things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions. 23 ·2023年12月四级真题（第三套） ===== PAGE 6 ===== Instinctive decisions are always backedby previous experiences or information, which acknowledges that instinctive decisions have worked in the past. Decisions are not about making the choice andbraving the consequences because you want to blindly trust your instincts. They are about combining your inner wisdom with the knowledge of systematic data to make the best decisions. Sometimes, rational analysis and data are impractical to be employedincertain situations. Absence of definitive criteria, and time and resource constraints, and novel situations are instances which limit the practicality of data. Theonlyfeasibleoptionistorelyon what your instinctstellyou. In these situations, instincts can help you make effective and quick decisions. Combining instinctive and rational analysis produces well-rounded decisions. Itreduces the chancesof makingmistakes, and has increasingly become a favorite approach to decision-making among leadersoftoday.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author say business people often do?",
+              "stemCn": "作者说商人经常做什么？",
+              "options": {
+                "A": "Strive to make sense of some unknownforces.",
+                "B": "Avoid being driven by their own feelings.",
+                "C": "Draw on a vast wealth of past experience.",
+                "D": "Rely on instincts in decision-making."
+              },
+              "optionCn": {
+                "C": "借鉴大量过去的经验。",
+                "A": "努力理解一些未知的力量。",
+                "B": "避免被自己的感觉所驱使。",
+                "D": "依靠直觉进行决策。"
+              },
+              "answer": "A",
+              "analysis": "·instinct n.直觉 ·horrifying adj.可怕的 makesense有意义；有道理；讲 得通 ·subjective adj.主观的 ·drownv.淹没；置身于 ·rational adj.理性的 informedadj.明智的；有学问的 ·systematicadj.系统的；有条理的 ·alike adv.相同地 usabilityn.可用性；适用性 ·complicationn.使更复杂化（或 更困难）的事物 ·dilemman.两难的境地 in conjunction结合 ·acknowledge vt.承认 ·brave vt.勇敢面对 ·impracticaladj.不切实际的；不 现实的 ·definitiveadj.明确的；决定性的 ·practicality n.实用性；实际情况 ·feasible adj.可行的；行得通的 ·well-roundedadj.全面的 定位根据题干关键词businesspeople often do可以将答案定位到第一段。 第一段第一句指出，商界人士经常根据自己的个人感受或直觉做决定。这与选项D的意思一致，故选D， 选项中的relyon与原文中的basedon是同义替换。其他三项的内容都与原文不符，均排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What should we take into account in order to make informed decisions?",
+              "stemCn": "为了做出明智的决策，我们应该考虑什么？",
+              "options": {
+                "A": "The likelihood of errors.",
+                "B": "Systematic data and analysis.",
+                "C": "The complexity of circumstances.",
+                "D": "Personal feelings and business strategies."
+              },
+              "optionCn": {
+                "A": "犯错的可能性。",
+                "C": "情况的复杂性。",
+                "D": "个人感受和经营策略。",
+                "B": "系统的数据和分析。"
+              },
+              "answer": "B",
+              "analysis": "定位根据题干关键词make informeddecisions可以将答案定位到第三段。 第三段第二、三句指出，长期以来，数据和分析一直都与明智的决策联系在一起，它们减少了出错的可能 性，并且增加了成功的机会。由此可知，为了做出明智的决策，我们需要考虑系统的数据和分析，故选 B。其他三项的内容都与原文不符，均排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What should people do in a decision-making process if instincts disagree with data?",
+              "stemCn": "如果直觉与数据不一致，人们在决策过程中应该怎么做？",
+              "options": {
+                "A": "Resolve the dilemma with previous experience.",
+                "B": "Figure out which oft he two is more reliable.",
+                "C": "Combine the two together.",
+                "D": "Prioritize instincts over data."
+              },
+              "optionCn": {
+                "A": "用以前的经验解决困境。 C将两者结合在一起。",
+                "B": "弄清楚两者中哪一个更可靠。",
+                "D": "将直觉置于数据之上。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词instincts disagree with data可以将答案定位到第三段最后一句和第四段。第三段最后一句提 出了问题，如果直觉觉得不能做，数据觉得能做，该怎么办？第四段给出了答案。 第四段第二句指出，在不让事情变得复杂的情况下，解决这一两难困境的办法就是结合使用数据和直觉以 达成可能做出的最佳决策。由此可知，如果直觉与数据不一致，人们应该将两者结合起来，故选C。其他 三项的内容都与原文不符，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What should we do when facing various factors that limit the practicality of data?",
+              "stemCn": "面对各种限制数据实用性的因素，我们应该怎么做？",
+              "options": {
+                "A": "Make a rational and systematic analysis.",
+                "B": "Explore the most feasible options.",
+                "C": "Resort to our inner wisdom.",
+                "D": "Apply definitive criteria."
+              },
+              "optionCn": {
+                "A": "进行理性、系统的分析。",
+                "C": "诉诸我们的内在智慧。",
+                "B": "探索最可行的选择。",
+                "D": "应用明确的标准。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词limit the practicalityofdata可以将答案定位到倒数第二段。倒数第二段前两句提到在什么情 况下使用数据是不实际的问题，接下来的两句给出了解决方法。 倒数第二段最后两句指出，唯一可行的选择是依靠你的直觉，在这些情况下，直觉可以帮助你做出有效和 快速的决定。但是选项中并没有“依靠直觉”这一项，分析各个选项可知，只有选项C表达的意思与原文 一致。根据第五段最后一句可知，内在智慧指的就是直觉。依靠直觉也就是诉诸于我们的内在智慧，因为 直觉就是我们靠经验得到的内在智慧。其他三项的内容都与原文不符，均排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does it take for decisions to become the best according to the author?",
+              "stemCn": "根据作者的说法，怎样才能做出最好的决定？",
+              "options": {
+                "A": "Applying instincts and data in conjunction.",
+                "B": "Assessing allfactors whenmaking a choice.",
+                "C": "Recalling what has actually worked in the past.",
+                "D": "Refraining from trusting instincts arbitrarily. (30 minutes)"
+              },
+              "optionCn": {
+                "A": "结合使用直觉和数据。",
+                "C": "回顾过去行之有效的方法。",
+                "B": "在做出选择时评估所有因素。",
+                "D": "不要武断地相信直觉。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词decisionstobecomethebest以及出题顺序与原文顺序基本一致的原则可以将答案定位到最 后一段。 最后一段第一句指出，将直觉和理性分析相结合，可以做出全面的决策。“全面的决策”也就是“最好的 决定”，由此可知，选项A正确。其他三项的内容根据事实逻辑来说好像都合理，但是都不是原文所表达 的意思，故排除。 PartIV > Translation 2 ·难词译注 不断continuously 限于limitedto 毫无疑问there is no doubt that； undoubtedly 充分体现fullyreflected 本地的local 饮食结构 dietary structure 追求pursue 农产品agriculturalproducts；produce 增进enhance; promote 愈来愈increasingly 特产local specialties;speciallocal products ·参考译文· Since thereform and opening up,the living standardsoftheChinese people have been continuously improving, whichis fullyreflected in thechanges in people's diets.Nowadays,people are nolonger satisfied withhaving enough to eat,but pursue safer,more nutritious,and healthierfood.Food is becoming increasingly diverse as well,without being limited tolocal agricultural products.The developmentofthe logistics industrymakes iteasy forpeople totaste local specialtiesfromalloverthe country.Undoubtedly,the improvementoffoodqualityanddietary structure provides strong guarantees for enhancing people's health. 四·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_12_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "改革开放以来，中国人民生活水平不断提高，这在人们的饮食（diet）变化上得到充分体现。如今， 人们不再满足于吃得饱，而是追求吃得更加安全、更加营养、更加健康，食物也愈来愈丰富多样，不 再限于本地的农产品。物流业（logisticsindustry）的发展使人们很容易品尝到全国各地的特产。毫无 疑问，食品质量与饮食结构的改善为增进人们健康提供了有力的保障。 ·2023年12月四级真题（第三套）· 24",
+          "terms": [],
+          "reference": "Since there form and opening up, the living standard soft he chinese people have been continuously improving, which is fullyreflected in thechanges in people's diets. Nowadays, people are no longer satisfied with having enough to eat, but pursue safer, more nutritious, and healthierfood. Food is becoming increasingly diverse as well, without being limited to local agricultural products. The development oft he logistics industrymakes it easy for people to taste local specialtiesfromalloverthe country. Undoubtedly, the improvementoffoodqualityanddietary structure provides strong guarantees for enhancing people's health.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

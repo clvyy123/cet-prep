@@ -1,0 +1,489 @@
+{
+  "id": "cet4-2021_06_3",
+  "level": 4,
+  "year": 2021,
+  "month": 6,
+  "setNo": "第3套",
+  "title": "2021年6月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "For this part, you are allowed 30 minutes to write an essay titled \"Do violent video games lead to violence ? \".The statement given below is for your referenee .You should write at least 120 words but no more than 180 words. Agrowing body of research finds that violent video games can make kids act aggressively in their real world relationships, causing an increase in violence.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. &eh choice in the bank is identified by a letter. Please mark the correspondirtg letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Nowadays you can't buy anything without then being asked to provide a rating of a company's performance on a five-star scale. I've been asked to rate my \"store�\" on the EFTPOS terminal before I can pay. Even the most _J'J__ activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys as king, \"How did we do?\" Online purchases are � followed up by a customer satisfaction survey. Companies are so � for a hit of stars that if you delete the survey the company sends you another one. We're _lQ_ to rate our apps when we've barely had a chance to use them. One online course provider I use asks you what you think of the course after you've only completed � 2 per cent of it. Economist Jason Murphy says that companies use customer satisfaction ratings· because a � display of star feedback has become the nuclear power sources of the modem economy. However, you can't help but� if these companies are basing their business on fabrications (�:it it?1t-�). I� that with online surveys 1 just click the� that's closest to my mouse cursor (it#) to get the damn thing off my screen. Often the star rating I give has far more to do with the kind of day I'm having than the purchase 1 just made. A) announce F) fascinated K) shining B) commonplace G) option L) showering C) confess H) prompted M) variety -----maesperate ----- N) voyage ___l) roughly",
+          "wordBank": {
+            "A": "announce",
+            "B": "commonplace",
+            "C": "confess",
+            "D": "desperate",
+            "E": "experience",
+            "F": "fascinated",
+            "G": "option",
+            "H": "prompted",
+            "I": "roughly",
+            "J": "routinely",
+            "K": "shining",
+            "L": "showering",
+            "M": "variety",
+            "N": "voyage",
+            "O": "wonder"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格位于形容词性物主代词my之"
+              },
+              "answer": "E",
+              "analysis": "后，因此空格处需要填入名词。 【语义判断】本句意为：在付款之前，我被要求在 EFTPOS终端上对“店铺 ”进行评分。由 第一段可知，每次购买东西以后，都需要对该公司 的表现进行评分，也就是顾客对店铺体验评分，因 此空格处应填入含有“体验，经历”意义的名词，故 本题答案为E) experience。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格位于themost之后、名词"
+              },
+              "answer": "B",
+              "analysis": "activities之前，因此空格处需要填入形容词。 【语义判断】本句意为：即使是最 的活动， 比如打电话给澳洲电信或从澳大利亚邮政领取包 裹，也会收到短信或电子邮件调查，询问“我们做 得怎么样?”。由列举的例子可知，这些都是很常 见的事情，因此空格处应填人含有“常见的，普通 的”意义的形容词，故本题答案为B) commonplace."
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "【语法判断】空格位于本句的谓语 are followed up 之间，因此空格处需要填入副词。 【语义判断】本句意为：网上购物之后 会 有客户满意度调查。第一段提到，购买任何东西 都需要评分，那么网购也不例外。因此空格处应 routinely“例行地，惯常地”最符合句意，故为本题 答案。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格位于副词 so之后，因此空格处需"
+              },
+              "answer": "D",
+              "analysis": "要填入形容词。 【语义判断】本句意为：很多公司都 需要 星评，所以如果你删除了调查，公司就会再给你发 一个。由句意可知，很多公司会锲而不舍地追着 顾客让他们点评，因为他们非常需要顾客的评价， 因此空格处应填入含有“迫切的，急需的”意义的 形容词，故本题答案为D)desperate。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格位于be动词are之后，空格处应"
+              },
+              "answer": "H",
+              "analysis": "填人形容词或动词的分词形式。 54 【语义判断】本句意为：当我们才刚刚有机会使用 一些应用软件时，我们就会_给它们打分。 由下一句可知，一个在线课程提供商在顾客刚刚 使用不久时，就催促顾客为其打分，因此空格处应 填入含有“催促，促使”意义的词，故本题答案为"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格位于不定冠词a之后，名词"
+              },
+              "answer": "K",
+              "analysis": "display之前，因此空格处需要填入形容词。 【语义判断】空格所在部分意为：因为一个 星星反馈已经成为现代经济的核心影响 力来源。根据前文可知，商家评分用的是星星，而 星星通常给人闪闪发光的联想，因此空格处应填 人含有“闪亮的”意义的形容词，故本题答案为K) shining. 参考译文"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "【语法判断】空格位于can't help but结构中，根据"
+              },
+              "answer": "O",
+              "analysis": "固定搭配，空格处应填入动词原形。 【语义判断】本句意为：然而，你不禁 ,这 些公司的业务是否以捏造的东西为基础。由句意 可知，if在此处意为“是否”，因此空格处应填入含 有“想知道，想了解”意义的动词，故本题答案为"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格位于主语Ⅰ之后，空格所在部分"
+              },
+              "answer": "C",
+              "analysis": "缺少谓语，因此空格处需要填入动词。 【语义判断】本句意为：我 ，在做网上调查 时，我只是点击离我鼠标光标最近的 _，以 便把这讨厌的东西从屏幕上弄掉。上一句提到， 公司的业务也许是基于编造的东西，而本句作者 以自身为例进行说明。因此空格处应填入含有 “承认”意义的动词，故本题答案为C）confess。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格位于动词 click 和定冠词 the之"
+              },
+              "answer": "G",
+              "analysis": "后，因此空格处需要填入名词。 【语义判断】本句意为：在做网上调查时，我只是点 击离我鼠标光标最近的 ，以便把这讨厌 的东西从屏幕上弄掉。根据常识可知，做问卷调 查就是根据实际情况选择不同的回答。因此空格 处应填入含有“答案，选项”意义的名词，故本题答 案为G)option。 如今，你买任何东西都会接着被要求按五星制来为公司的表现评级。 在付款之前，我被要求在EFTPOS终端上对“店铺体验”进行评分。即使是最普通的活动，比如打电 话给澳洲电信或从澳大利亚邮政领取包裹，也会收到短信或电子邮件调查，询问“我们做得怎么样?” 网上购物之后照例会有客户满意度调查。很多公司都迫切需要星评，所以如果你删除了调查，公司 就会再给你发一个。 当我们才刚刚有机会使用一些应用软件时，我们就会被催促给它们打分。我使用过的一家在线课程 提供商在你只完成了大约2%的课程后，就询问你对这门课程的看法。 经济学家杰森·墨菲表示，公司之所以使用客户满意度评级，是因为一个闪亮的星星反馈已经成为 现代经济的核心影响力来源。 然而，你不禁会想，这些公司的业务是否以捏造的东西为基础。我承认，在做网上调查时，我只是点击 离我鼠标光标最近的选项，以便把这讨厌的东西从屏幕上弄掉。通常情况下，我给出的星级评价更多的 是与我那天的状态有关，而不是与我刚刚购买的东西有关。 55"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) It may be an obstacle to expanding one's connections.\nB) It may get in the way of enhancing one's social status.\nC) It may prevent people from developing a genuine sense of community.\nD) It may make people feel that they ought to fit in with the outside world.\nA) Count the likes they get on their posts.\nA) Calorie conswnption had fallen drastically over the decades.\nB) Most people surveyed were reluctant to reveal what they ate.\nC) The national statistics did not reflect the actual calorie conswnption.\nD) Most people did not include snacks when reporting their calorie intake.\nA) People's calorie intake was far from accurately reported.\nB) The missing out of main meals leads to the habit of snacking.\nC) The nation's obesity level has much to do with calorie intake.\nD) Calorie conswnption is linked to the amount of snacks one eats.\nA) They usually keep their eating habits a secret.\nB) They overlook the potential causes of obesity.\nC) They cannot help eating more than they should.\nD) They have difficulty recalling what they have eaten.\nB) Make sure people eat non-fattening food.\nC) Ensure people don't miss their main meals.\nD) See that people don't stick to the same diet.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Being a close loser could greatly motivate one to persevere in their research.",
+              "stemCn": "【定位】由题干中的 a close loser 和persevere in",
+              "options": {},
+              "optionCn": {
+                "G": "段倒数第一、二句。 B"
+              },
+              "answer": "G",
+              "analysis": "略输者可能会给人们带来心理上的激励，或俗话 所说的一种有激励效果的意外挫折。题干中的 motivate对应原文中的give people a psychological boost,题干中的 persevere in their research对应原文中的persevering losers，故答案 为G)。"
+            },
+            {
+              "num": 37,
+              "stem": "Grant awarders tend to favor researchers alretJ.dy recoized i:11 their repective fif?Jd_s _. __",
+              "stemCn": "【定位】由题干中的researchers already",
+              "options": {},
+              "optionCn": {
+                "D": "段最后一句。"
+              },
+              "answer": "D",
+              "analysis": "对于那些掌权者来说，选择把奖项和资金交给那 些已经得到认可的人更容易，风险也更小。题干中 的Grant awarders 和 researchers already recognized分别对应定位句中的thosein positions of power 和 those who've already been so recognized，而题干中的favor表明颁奖者的倾 向，与定位句中的 easier and less risky相对应，故 答案为D)。"
+            },
+            {
+              "num": 38,
+              "stem": "Suffering early setbacks might help people improve their job performance.",
+              "stemCn": "【定位】由题干中的early setbacks和job",
+              "options": {},
+              "optionCn": {
+                "K": "段倒数第三、四句。 F"
+              },
+              "answer": "K",
+              "analysis": "始表明，早期的挫折不一定是致命的。它们甚至 可以让我们在工作上做得更好。题干中的help people improve their job performance 对应原文 中的make us better at our jobs,故答案为K)。"
+            },
+            {
+              "num": 39,
+              "stem": "Research by social scientists on the effects of career setbacks has produced contradictory findings.",
+              "stemCn": "【定位】由题干中的contradictory findings定位到",
+              "options": {},
+              "optionCn": {
+                "B": "段倒数第四句。"
+              },
+              "answer": "B",
+              "analysis": "【精析】同义转述题。定位句指出，这一领域的研 究发现了相互矛盾的结果。题干中的Research by social scientists on the effects of career setbacks指的就是定位句中的 Studiesinthis area，而题干中的contradictory findings对应定位 句中的conflicting results，故答案为B)。"
+            },
+            {
+              "num": 40,
+              "stem": "It is not to the best interest of taxpayers to keep giving money to narrow winners.",
+              "stemCn": "【定位】由题干中的 the best interest of taxpayers",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】同义转述题。定位句提到，如果略输者表"
+              },
+              "answer": "",
+              "analysis": "和narrowwinners定位到文章I段第二句。 现同样好甚至更好，通过继续把财富积累在少数 赢家身上，纳税人并没有得到最大的回报。定位 句中的riches指的就是money。题干中的the best interest of taxpayers 和 keep giving money to narrow winners 对应原文中的getting the maximum bang for their buck 和 continuing to pile riches on the narrow winners,故答案为 ID。"
+            },
+            {
+              "num": 41,
+              "stem": "Scientists who persisted in research without receiving a grant made greater achievements than those",
+              "stemCn": "【定位】由题干中的 Scientists who persistedin",
+              "options": {},
+              "optionCn": {
+                "F": "段倒数第"
+              },
+              "answer": "F",
+              "analysis": "research without receiving a grant 和 made 三句。 【精析】细节辨认题。定位句指出，在那些留下来 的人中，略输者甚至比险胜者表现得更好。题干 中的 Scientists who persisted in research without receiving a grant 和 made greater achievements 分别对应定位句中的thecloselosers和 performed even better,而题干中的 those who got one with luck 指的就是定位句中的 the narrow winners，题干中的 persisted in research是对定 位句中的stayedon的同义转述，故答案为F)。"
+            },
+            {
+              "num": 42,
+              "stem": "A research paper rejected by one journal may get accepted by another.",
+              "stemCn": "【定位】由题干中的rejected、one journal和get",
+              "options": {},
+              "optionCn": {
+                "J": "段第二、三句。 I"
+              },
+              "answer": "J",
+              "analysis": "他提交给某杂志的一篇论文，该杂志接受了这篇 论文，却要求进行大量的编辑，然后又改口拒绝了 这篇论文。他将未经编辑的版本提交给了一家更 受尊敬的杂志，并被接受了。题干中的A research paper 对应原文中的 a recent paper,题 干是对定位句的归纳概括，故答案为J)。"
+            },
+            {
+              "num": 43,
+              "stem": "According to one recent study, narrow winners of research grants had better chances to be promoted",
+              "stemCn": "【定位】由题干中的 narrow winners of research",
+              "options": {},
+              "optionCn": {
+                "C": "段最后一句。"
+              },
+              "answer": "C",
+              "analysis": "grants、 better chances 和 be promoted to 教授职位的可能性高出50%。题干中的narrow winners of research grants 和 professors 分别对 应定位句中的the narrow winners和 professorship,而题干中的 had better chances 就 是对定位句中的 were 50 percent more likely的 同义转述，故答案为C)。"
+            },
+            {
+              "num": 44,
+              "stem": "One researcher suggests it might be more fruitful to distribute grants on a relatively equal basis.",
+              "stemCn": "【定位】由题干中的morefruitful、distribute",
+              "options": {},
+              "optionCn": {
+                "I": "段倒数第四句。"
+              },
+              "answer": "I",
+              "analysis": "grants 和 on a relatively equal basis 定位到文章 【精析】同义转述题。定位句指出，也许我们应该 花更少的钱来弄清楚谁比谁更优秀，这暗示一些 更平等的资金分配可能会更有成效，更有效率。 题干中的 more fruitful 和 on a relatively equal basis 分别对应定位句中的 more productive and moreefficient和more equal，而题干中的 distribute grants 是对定位句中的 dividing up of money的同义转述，故答案为I)。"
+            },
+            {
+              "num": 45,
+              "stem": "Minor setbacks in their early career may have a strong negative effect on the career of close losers.",
+              "stemCn": "【定位】由题干中的Minor setbacks in their early",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "段第二、三句。 的小挫折似乎会对未来产生不成比例的影响。那 些没有杀死他们的东西让他们变得更弱了。题干 中的 Minor setbacks in their early career 和 a strong negative effect 分别对应原文中的 Small early career setbacks 和 have a disproportionate effect，故答案为E)。 挫折科学：失败如何改善职业前景 职业生涯早期的挫折如何影响我们的长期成功？失败可以帮助我们学习和克服恐惧。但灾难仍然 会伤害我们。它们会使我们烦恼，让我们倒退。“那些杀不死你的东西会让你更强大”这句话如果是 真实的、科学证明的真理，那不是很好吗? 社会学家研究职业挫折影响的一种方法是观察资历非常相似的科学家。这些科学家，由于一些武断 的原因，要么是刚错过了一项研究资助，要么是勉强得到了。在社会科学中，在价值被主观评判的领 域中这被称为考察“接近成功的失败”和“勉强成功的胜利”。这使得研究人员只能衡量被选择与否 的影响。(39)这一领域的研究发现了相互矛盾的结果。在生物医学科学这一竞争性行业中，研究人 员对以微弱劣势输掉或以微弱优势赢得资助的科学家进行了研究。它表明，险胜的人以后会变成更 大的赢家。换言之，富人变得更富。 例如，2018年发表在《美国国家科学院院刊》上的一项研究关注了荷兰的研究人员。研究人员得出的 结论是，那些勉强有资格获得资助的人在未来8年内能够得到的钱是那些刚刚错失资助的人的两 倍。(43)险胜的人获得教授职位的可能性高出50%。 美国的研究人员也发现了类似的效应，美国国立卫生研究院的早期职业奖学金使得险胜者远远领先 于略输者。这种现象通常被称为马太效应，这是受《圣经》智慧的启发，对那些拥有的人，会给予更 多。艾伯特·拉斯洛·巴拉巴西所著的《公式：成功的普遍法则》一书对这一现象给出了很好的解 释。(37)巴拉巴西认为，对于那些掌权者来说，选择把奖项和资金交给那些已经得到认可的人更容 易，风险也更小。 这对失败者来说是个坏消息。(45)职业生涯早期的小挫折似乎会对未来产生不成比例的影响。那 些没有杀死他们的东西让他们变得更弱了。但其他使用相同技术的研究表明，接近成功的失败有 时不会有害处。那些差一点而没进顶尖高中或大学的学生，在以后的生活中表现得和那些刚好被录 取的学生一样好。在这种情况下，没有杀死他们的东西并不重要。那么，有没有证据表明挫折实际 上可能改善我们的职业前景呢？现在有了。 间介于获得资助与错失资助之间的科学家。在接下来的十年里，他遵循了各种表现衡量标准。这些指 标包括他们发表了多少篇论文，以及这些论文的影响力有多大，这些都是通过随后被引用的数量来衡 量的。正如预期的那样，没有获得资助的科学家的流失率要高得多。(41)但在那些留下来的人中，略 输者甚至比险胜者表现得还要好。为了确保这不是偶然的，王大顺用不同的表现衡量标准进行了额外 的测试。他调查了人们作为有影响力研究的第一作者的次数，以及诸如此类的事情。 失败者群体中挑选出最坚定的、最有激情的科学家，并将他认为优胜者中最弱的成员剔除。（36)然 而，坚持不懈的失败者仍然获得了胜利。他认为，作为一个略输者可能会给人们带来心理上的激励， 或俗话所说的一种有激励效果的意外挫折。 他说，这一新发现显然是合理的，值得关注。他自己的研究表明，虽然险胜者在不久的将来确实获得 了更多的钱，但略输者的实际表现同样出色。 样好甚至更好，通过继续把财富积累在少数赢家身上，纳税人并没有得到最大的回报。他说，在选择 谁获得资助的过程中，需要花费大量的时间和精力，而最新的研究表明，科研机构并不擅长分配资 金。(44)“也许我们应该花更少的钱来弄清楚谁比谁更优秀，”他说，暗示一些更平等的资金分配可 能会更有成效，更有效率。范德里特说，他不相信失败会给人带来心理上的鼓励。这可能是一种选 择效应。尽管王大顺试图通过剔除最弱的险胜者来解释这一点，但我们不可能知道，如果他们发现 自己处在失败的一方，哪位赢家会退出。 提交给某杂志的一篇论文，该杂志接受了这篇论文，却要求进行大量的编辑，然后又改口拒绝了这篇 论文。他将未经编辑的版本提交给了一家更受尊敬的杂志，并被接受了。 我们本可以避免的命运，如果我们有更仔细的准备、不同的训练、更好的策略或更多的专注。因此， 失败告诉我们成功之路是有道理的。这些论文讨论的是一种人们几乎无法控制的失败—那就是 被拒绝。其他人决定谁赢谁输。(38)但至少，研究开始表明，早期的挫折不一定是致命的。它们甚 至可以让我们在工作上做得更好。但是像赢家一样得到报酬？那是另一回事。 星火英语App"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Boredom has become trendy. Studies point to how boredom is good for creativity and innovation, as well as mental health. It is found that people are more creative following the completion of a tedious task. When people are bored, they have an increase in \"associative thought\"-the process of making new connections between ideas, which is linked to innovative thinking. These studies are impressive, but in reality, the benefits of boredom may be related to having time to clear your mind, be quiet, or day dream. In our stimulation-rich world, it seems unrealistic that boredom could occur at all. Yet, there are valid reasons boredom may feel so painful. As it turns out, boredom might signal the fact that you have a need that isn't being met. Our always-on world of social media may result in more connections, but they are superficial and can ��t in �h� _\\\\\"_a_y_�f build in�a real se�� !'!_ b_elonging. Feeling bored may signal the desire for a greater sense _ of community and the feeling that you fit in with others around you. So take the step of joining an organization to build face-to-face relationships. You'll find depth that you won't get from your screen no matter how many likes you get on your post. Similar to the need for be longing, bored people often report that they feel a limited sense of meaning. It's a fundamental human need to have a larger purpose and to feel like we're part of something bigger than ourselves. When people are bored, they're more likely to feel less meaning in their lives. If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent. If your definition of boredom is being quiet, mindful, and reflective, keep it up. But if you're struggling with real boredom and the emptiness it provokes, consider whether you might seek new connections and more significant challenges. These are the things that will genuinely relieve boredom and make you more effective in the process.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What have studies found about boredom?",
+              "stemCn": "【定位】由题干中的studies和boredom定位到第",
+              "options": {
+                "A": "It facilitates innovative thinking.",
+                "B": "It is a result of doing boring tasks. fill 2021 6 Ji 50 ===== PAGE 5 =====",
+                "C": "It helps people connect with others.",
+                "D": "It does harm to one's mental health."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。文章第一段第二句提到，研"
+              },
+              "answer": "A",
+              "analysis": "一段第二、三句。 究指出，无聊是如何有利于创造力的。第三句提 到，研究发现，人们在完成一项枯燥乏味的任务后 更有创造力。第四句进一步指出，当人们感到无 聊时，他们会增加“联想思维”，这与创新思维有 关。由此可见，科学家对无聊所做的研究表明，无 聊可以激发人们的创造性思维，故答案为A)。 【避错】文章第一段第三句提到，人们在完成一项 枯燥乏味的任务后更有创造力，从事无聊工作的 结果是有创造力，而不是更加无聊，故排除B)。 扰项，文中是指“联想思维”是在思想之间建立新 联系的过程，而非无聊帮人们与他人建立联系，故 排除。文章第一段第二句提到，无聊如何有利于 创造力和创新，以及心理健康。由此可见，无聊对 心理健康是有益的，而非有害的，故排除D)。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the author say boredom might indicate?",
+              "stemCn": "【定位】由题干中的boredommight indicate定位",
+              "options": {
+                "A": "A need to be left alone.",
+                "B": "A desire to be fulfilled.",
+                "C": "A conflict to be resolved.",
+                "D": "A feeling to be valid a ted."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句提到，事实证明，无聊"
+              },
+              "answer": "B",
+              "analysis": "到第二段最后一句。 可能表明你的需求没有得到满足。由此可知，当 人们感到无聊时，这表明人们的某种需求未得到 满足，故答案为B)。 【避错】文章第五段第一句提到，如果你对无聊的 定义是安静、专注和反省，那就坚持下去。但并未 提到无聊意味着需要独处，由此可知，该选项过于 片面，故排除A)。文中并未提及无聊意味着需要 解决的冲突，故排除C)。文章第三段第二句提 到，感到无聊可能表明更强烈的群体意识渴望，并 且想要融人你周围的人之中，这与想法或情感被 认同有所不同，故排除D)。"
+            },
+            {
+              "num": 48,
+              "stem": "What do we learn about social media from the passage?",
+              "stemCn": "【定位】由题干中的socialmedia定位到第三段第",
+              "options": {
+                "A": "It may be an obstacle to expanding one's connections.",
+                "B": "It may get in the way of enhancing one's social status.",
+                "C": "It may prevent people from developing a genuine sense of community.",
+                "D": "It may make people feel that they ought to fit in with the outside world."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句指出，我们一直在线"
+              },
+              "answer": "C",
+              "analysis": "一、二句。 的社交媒体世界可能会产生更多的联系，但这些 联系是肤浅的，可能会妨碍建立真正的归属感。 感到无聊可能表明更强烈的群体意识的欲望，并 且想要融入你周围的人之中。由此可见，过多的 社交媒体会妨碍我们建立真正的归属感，造成群 体意识的缺失，故答案为C)。 【避错】文章第三段第一句指出，我们一直在线的 社交媒体世界可能会产生更多的联系，由此可见， 社交媒体是可以扩大人际关系的，故排除A)。文 中并未提及社交媒体会妨碍人们提高社会地位， 故排除B)。文章第三段第二句指出，感到无聊可 能表明更强烈的群体意识欲望，并且想要融入你 周围的人之中，由此可见，社交媒体并不能帮助人 们融入周围的人群中，而是妨碍了人们现实生活 的粘合度，故排除D)。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the author suggest people do to get rid of boredom?",
+              "stemCn": "【定位】由题干中的 get rid of boredom定位到第",
+              "options": {
+                "A": "Count the likes they get on their posts.",
+                "B": "Reflect on how they relate to others.",
+                "C": "Engage in real-life interactions.",
+                "D": "Participate in online discussions."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。第三段第三句提到采取措施"
+              },
+              "answer": "C",
+              "analysis": "三段第三句和最后一段第二、三句。 加入一个组织，建立面对面的关系。最后一段第 二句提到，如果你正与真正的无聊和它所引发的 空虚作斗争，考虑一下你是否可能寻求新的联系 和更重大的挑战。这些事情将真正缓解无聊，让 你在这个过程中更有效率。综合两部分内容可 知，答案为C)。 【避错】文章第三段最后一句明确提到，你会拥有 深度的人际交往，这是你无论在你的帖子上得到 多少点赞都获得不了的。由此可见，社交媒体上 获得的关注，并不能满足人们现实生活中的情感 需要，故排除A)。文章并未提及人们可以通过反 思如何与他人相处来摆脱无聊，故排除B)。文章 第三段最后一句只提到了发表帖子这种网络社交 方式，并未提及在线讨论，D)不符合文义，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What should people do to enhance their sense of meaning?",
+              "stemCn": "【定位】由题干中的enhance their senseof",
+              "options": {
+                "A": "Try to do something original.",
+                "B": "Confront significant challenges.",
+                "C": "Define boredom in their unique way.",
+                "D": "Devote themselves to a worthy cause."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，如果你想减少"
+              },
+              "answer": "D",
+              "analysis": "meaning定位到第四段最后一句。 无聊感，增加你的意义感，找一份你能做出独特贡 献的工作，或者找一个你能用时间和才能支持的 事业。由此可见，作者认为，人们想要增加意义感 的两种方法为：一、找一份可以做出独特贡献的工 作；二、找一份能有时间和才能支持的事业。故答 案为D)。 【避错】文章第四段最后一句指出，要增加意义感， 找一份你能做出独特贡献的工作，但原创的事情 并不一定能做出独特的贡献，故排除A)。最后一 段第二句提到，寻求新的联系和更重大的挑战可 以真正缓解无聊。由此可见，这是缓解无聊的一 种方式，与意义感无关，故排除B)。文中并未提 及以独特的方式定义无聊，故排除C)。 参考译文 无聊已经成为一种时尚。（46）研究指出，无聊是如何有利于创造力和创新，以及心理健康。研究发 现，人们在完成一项枯燥乏味的任务后更有创造力。当人们感到无聊时，他们会增加“联想思维”———即在 思想之间建立新联系的过程，这与创新思维有关。这些研究令人印象深刻，但实际上，无聊的好处可能与 有时间理清思路、保持安静或做白日梦有关。 在我们这个充满刺激的世界里，无聊的发生似乎一点都不现实。然而，无聊可能会让人感到痛苦，这 是有合理的理由的。（47）事实证明，无聊可能意味着你的需求没有得到满足。 (48)我们一直在线的社交媒体世界可能会产生更多的联系，但这些联系是肤浅的，可能会妨碍我们建 立真正的归属感。感到无聊可能表明更强烈的群体意识的欲望，并且想要融入到你周围的人之中。 (49-1)因此，采取措施加人一个组织，建立面对面的关系。你会拥有深度的人际交往，这是你无论在你的 帖子上得到多少点赞都获得不了的。 与归属感的需求类似，感到无聊的人经常报告说，他们感觉到有限的意义感。这是一种基本的人类 需求，需要有一个更大的目标，感觉自己是比自己更大的事物的一部分。当人们感到无聊时，他们更有可 能觉得生活没有什么意义。(50)如果你想减少无聊感，增加你的意义感，找一份你能做出独特贡献的工 作，或者找一个你能用时间和才能支持的事业。 如果你对无聊的定义是安静、专注和反省，那就坚持下去。(49-2)但是，如果你正与真正的无聊和它 所引发的空虚作斗争，考虑一下你是否可能寻求新的联系和更重大的挑战。这些事情将真正缓解无聊， 让你在这个过程中更有效率。 Passage Two 【文章来源】本文选自2018年2月19日发表在www.theguardian.com(卫报官网)上一篇标题为“SotheUK's eating more than it realizes—here's how we could get thin\"(《所以英国人吃得比他们意识到的要多——以下是 我们减肥的方法》的文章。 【结构框图】 第1一3段提出人们对于自己摄入卡路里的情况掌握不全，存在漏报现象。 本文主要介绍了人们饮 食习惯的改变对于卡路 第4一6段具体论述了引起卡路里漏报的三个原因。 里摄入的影响，以及应 对方法。 第7段得出结论，建议政府有所作为，为人们提供低脂饮食。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Can you remember what you ate yesterday? If asked, most people will be able to give a vague description of their main meals: breakfast, lunch, dinner. But can you be sure you've noted every snack bar in your car, or every handful of nuts at your desk? Most people will have a feeling that they've missed something out. We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. We found reliable evidence that people were drastically under-reporting what they ate. Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim. Why is this happening? We can point to at least three potential causes. One is the rise in obesity levels itself. Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember. Another cause is that the proportion of people who are trying to lose weight has been increasing over time. People who want to lose weight are more likely to under-report their eating-regardless of whether they are overweight or not. This may be driven partly by self-deception or \"wishful thinking''. The final potential cause is an increase in snacking and eating out over recent decades-both in terms of how often they happen and how much they contribute to our overall energy intake. Again, there is ll!I�2021 6JI 51 ===== PAGE 6 ===== evidence that food conswned out of the home is one of the most poorly recorded categories in surveys. So, what's the message conveyed? For statistics, we should invest in more accurate measurement options. For policy, we need to focus on options that make it easy for people to eat fewer calories. If people do not know how much they are eating, it can be really hard for them to stick to a diet. Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. If this works, it won't matter if they can't remember what they ate yesterday.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What did the author suspect back in 2016?",
+              "stemCn": "【定位】由题干中的suspect和back in 2016定位",
+              "options": {
+                "A": "Calorie conswnption had fallen drastically over the decades.",
+                "B": "Most people surveyed were reluctant to reveal what they ate.",
+                "C": "The national statistics did not reflect the actual calorie conswnption.",
+                "D": "Most people did not include snacks when reporting their calorie intake."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位段指出，早在2016年他"
+              },
+              "answer": "C",
+              "analysis": "到第二段。 们就有了这种怀疑，因为国家统计数据显示，在过 去几十年，卡路里消耗量大幅下降，这让他们感到 困惑。有可靠的证据证明人们严重地漏报了他们 吃的东西。由此可见，有证据显示人们漏报了自 已摄入的食物，因此作者怀疑国家统计局数据的 真实性，故答案为C)。 【避错】文章第二段指出，国家统计数据显示，过去 几十年，卡路里消耗量大幅下降，这让他们感到困 惑。由此可见，卡路里消耗量的下降数据令人困 惑，这是引起怀疑的原因，并非怀疑的内容，故排 除A)。下文中提到人们漏报数据的原因，并非不 想透露，而是因为某些原因无法准确汇报，故排除 意到了你在车里吃的小吃，或者你桌子上的每一 把坚果吗，这是一个反问的句子，并不是作者的怀 疑，而是一个事实，故排除D)。"
+            },
+            {
+              "num": 52,
+              "stem": "What has the Office for National Statistics verified?",
+              "stemCn": "【定位】由题干中的theOfficefor National",
+              "options": {
+                "A": "People's calorie intake was far from accurately reported.",
+                "B": "The missing out of main meals leads to the habit of snacking.",
+                "C": "The nation's obesity level has much to do with calorie intake.",
+                "D": "Calorie conswnption is linked to the amount of snacks one eats."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位段提到，现在国家统计"
+              },
+              "answer": "A",
+              "analysis": "Statistics和verified定位到第三段。 局已经证实，我们消耗的卡路里比国家统计数据 声称的多50%。由此可知，国家统计局所报道的 数据，与人们消耗卡路里的真实数据有很大的出 人，故答案为A)。 【避错】文章第三段提到，现在国家统计局已经证 实，我们消耗的卡路里比国家统计数据声称的多 50%。由此可见，国家统计局仅仅证实了这一个 方面，即人们消耗卡路里的真实情况，故排除B)、"
+            },
+            {
+              "num": 53,
+              "stem": "What do we learn about obese people from the passage?",
+              "stemCn": "【定位】由题干中的obese people定位到第四段最",
+              "options": {
+                "A": "They usually keep their eating habits a secret.",
+                "B": "They overlook the potential causes of obesity.",
+                "C": "They cannot help eating more than they should.",
+                "D": "They have difficulty recalling what they have eaten."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，肥胖者的漏报"
+              },
+              "answer": "D",
+              "analysis": "后一句。 率要高得多，因为他们的确吃了更多的食物，因此 需要记住更多的信息。由此可见，肥胖者因为自 己摄入的食物过多，因此无法事无巨细地将自己 所吃的食物完全记住，故答案为D)。 【避错】文章第四段最后一句指出，肥胖者的漏报 率要高得多，因为他们的确吃了更多的食物，因此 需要记住更多的信息。由此可见，肥胖者漏报率 较高的原因，并不是不愿意泄露自己的饮食情况， 而是记不全，故排除A)。文中并未提及肥胖者忽 视了肥胖的潜在原因，故排除B)。文章第四段最 后一句提到，肥胖者吃更多的食物，但未提及他们 忍不住吃得比他们应该吃的多，故排除C)。"
+            },
+            {
+              "num": 54,
+              "stem": "What often goes unnoticed in surveys on food conswnption?",
+              "stemCn": "【定位】由题干中的 unnoticed in surveys on food",
+              "options": {
+                "A": "The growing trend of eating out.",
+                "B": "The potential causes of snacking.",
+                "C": "People's home energy consumption. -",
+                "D": "_People's chang diet ove!Jh-rs. ________"
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。第六段提到，最后一个潜在"
+              },
+              "answer": "A",
+              "analysis": "consumption和题文同序原则定位到第六段。 的原因是，近几十年来，吃零食和外出吃饭的人越 来越多，有证据表明，在调查中，外出吃掉的食物 是记录最少的类别之一。由此可见，外出就餐通 参考译文 常被人们忽略，故答案为A)。 【避错】第六段第一句提到吃零食的人越来越多， 但并未提及吃零食的潜在原因，故排除B)。第六 段只是提到外出就餐对人们整体能量摄入的影 响，并未提及家庭能源的消耗，故排除C)。文章 第六段提到人们在吃零食以及外出就餐这两个方 面的变化，但饮食习惯的变化并不是食物摄入量 调查中经常被忽视的方面，D)项不符合文义，故 排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author suggest policymakers do about obesity?",
+              "stemCn": "【定位】由题干中的policymakersdoabout",
+              "options": {
+                "A": "Remind people to cut down on snacking.",
+                "B": "Make sure people eat non-fattening food.",
+                "C": "Ensure people don't miss their main meals.",
+                "D": "See that people don't stick to the same diet."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，在政策方面，我"
+              },
+              "answer": "B",
+              "analysis": "obesity定位到最后一段第三至五句。 们需要关注那些让人们容易摄入更少卡路里的选 择。如果人们不知道自己吃了多少，那他们就真 的很难坚持节食了。此外，我们应该寻找新的方 法来确保人们的饮食不会对他们的腰围产生太大 影响。由此可见，作者认为，政策制定者应该引导 人们多吃一些卡路里较少的食物，使之尽量减少 对体重的影响，故答案为B)。 【避错】定位句提到，在政策方面，我们需要关注那 些让人们容易摄入更少卡路里的选择。我们应该 寻找新的方法来确保人们的饮食不会对他们的腰 围产生太大影响。由此可见，这是一个全面低卡 饮食的建议，并不是只针对零食，故排除A)。文 中提到用低卡路里饮食来确保腰围不再增加，并 没有提到主餐的话题，故排除C)。最后一段第四 句指出，如果人们不知道自己吃了多少，那他们就 真的很难坚持节食了。由此可见，作者认为肥胖 者应坚持节食，而不是让人们坚持不同的饮食，故 排除D)。 你记得你昨天吃了什么吗？如果被问到，大多数人都能对他们的主餐给出模糊的描述：早餐、午餐和 晚餐。但是你能确定你注意到了你在车里吃的小吃，或者你桌子上的每一把坚果吗？大多数人都会觉得 自己漏掉了什么。 (51)早在2016年我们就有了这种怀疑，因为国家统计数据显示，在过去几十年，卡路里消耗量大幅下 降，这让我们感到困惑。我们发现了可靠的证据，证明人们严重地漏报了他们的饮食。 (52)现在国家统计局已经证实，我们消耗的卡路里比国家统计数据声称的多50%。 为什么会发生这种情况？我们可以指出至少三个潜在的原因。一是肥胖水平本身的上升。(53)肥胖 者的漏报率要高得多，因为他们的确吃了更多的食物，因此需要记住更多的信息。 另一个原因是，随着时间的推移，试图减肥的人的比例一直在增加。无论超重与否，想要减肥的人更 有可能漏报他们的饮食。部分原因可能是自欺欺人或“痴心妄想”。 61 (54)最后一个潜在的原因是，近几十年来，吃零食和外出吃饭的人越来越多——不仅体现在此类事情 发生的频率上，也体现在此类事情对我们整体能量摄入的贡献上。同样，有证据表明，在调查中，外出吃掉 的食物是记录最少的类别之一。 那么，这传递了什么信息呢？在统计方面，我们应该投资于更精确的计量方法。（55)在政策方面，我 们需要关注那些让人们容易摄入更少卡路里的选择。如果人们不知道自己吃了多少，那他们就真的很难 坚持节食了。此外，我们应该寻找新的方法来确保人们的饮食不会对他们的腰围产生太大影响。如果这 个方法有效，就算他们记不住昨天吃了什么也没关系。 Part Translation Longjing is a green tea variety which is mainly produced in Zhejiang Province on the east coast of China. Winning the title of \"China's Famous Tea” for the unique fragrance and taste,it enjoys great popularity in China and attracts a growing number of consumers abroad. Mostly handmade,Longjing ranges in price from costly in an extreme way to fairly cheap, depending on the location of cultivation, time of picking and techniques of processing. The tea is an excellent source of vitamin C and many other elements important for good health. Therefore, drinking Longjing tea frequently contributes to allaying tiredness and delaying aging. tea plantation 茶园 tea-picking采茶 tea ceremony 茶道 fermentation 发酵 星火英语App 扫码看视频 □ 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "should write your answer onAnswer Sheet 2. }kAt-CLongjing)Jl-#!t,.i..? tJ 1f ij;ifu:€r9*0: O)£-Jl=-i#€r9F-*- t:1 ?b-:it-&Ai r \"1f %,\"€r9:#,,f}:.1f **--it a9 >t.bfe.,,fJ;.ifg:5'r,ikJlJ a9 A..:if?..:M!*-:M! j O1£-J!=-:ii 1*'\"+ .:r.tJ 1t' -:it--Yt \"iifiifll-:it--t, \"iifitt.$.t1t.j: ,i!.*:-f\"€r9 !l *- ..;ftatfaJ 1M1t.:r. to 1£-J!=-1; tft!l-!- C * j#a9-!°o 1*'\"1£-Jl=-M-f\" .. o fil12021 6 A 52",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

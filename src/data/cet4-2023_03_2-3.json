@@ -1,0 +1,54 @@
+{
+  "id": "cet4-2023_03_2-3",
+  "level": 4,
+  "year": 2023,
+  "month": 3,
+  "setNo": "第2-3套",
+  "title": "2023年3月四级真题（第2-3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_03_2-3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Suppose you haveread a bookrecentlyand intend torecommend it toothermembersofyour book clubvia anonline forum.Briefly introduce thebookandexplain why it is worthreading. You will have30minutes for this taskand shouldwriteatleast120wordsbut nomore than 180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_03_2-3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "近年来，越来越多的城市居民为农村的由园风光所吸引，利用节假日到乡村旅游，他们住在 农民家中，品尝具有当地风味的农家饭菜，有些游客还参与采摘瓜果等活动，亲身感受收获的喜 悦。乡村旅游能够有效地帮助游客舒缓压力，放松心情，增进身心健康。实际上，这种旅游形式 不仅能使城市游客受益，同时也能增加农民的收入，促进农村经济发展。 2023-03-CET4(第2套)-1 ===== PAGE 2 =====",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

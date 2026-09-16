@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>cet-prep 应用图标 · 设计规范 v2</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #F5F5F5; color: #111; padding: 48px 32px;
+  }
+  .wrap { max-width: 960px; margin: 0 auto; }
+  h1 { font-size: 26px; font-weight: 600; letter-spacing: 0.5px; }
+  .sub { color: #888; margin: 8px 0 36px; font-size: 14px; }
+  .card {
+    background: #FFF; border: 1px solid #E5E5E5; border-radius: 16px;
+    padding: 28px; margin-bottom: 24px;
+  }
+  h2 { font-size: 15px; font-weight: 600; color: #888; margin-bottom: 20px; letter-spacing: 1px; }
+  .row { display: flex; gap: 28px; align-items: flex-end; flex-wrap: wrap; }
+  .cell { text-align: center; }
+  .cell img { border-radius: 22%; display: block; }
+  .cell img.plain { border-radius: 0; }
+  .cell .lb { font-size: 12px; color: #888; margin-top: 10px; }
+  .variants { display: flex; gap: 28px; flex-wrap: wrap; }
+  .swatches { display: flex; gap: 16px; flex-wrap: wrap; }
+  .sw { width: 150px; border: 1px solid #E5E5E5; border-radius: 12px; overflow: hidden; }
+  .sw .chip { height: 64px; }
+  .sw .chip.border { border-bottom: 1px solid #E5E5E5; }
+  .sw .info { padding: 10px 12px; font-size: 12px; line-height: 1.7; background: #FFF; }
+  .sw .info b { display: block; font-size: 13px; }
+  .note { font-size: 13px; color: #444; line-height: 2; }
+  .note b { color: #000; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>cet-prep ·「词炬」应用图标 <span style="color:#bbb">v5</span></h1>
+  <p class="sub">概念：词之火炬 —— 一滴圆滑的火苗，内焰负空间镂空，顶端一粒四芒星火。纯黑白、全轴对称；负形上下比例重调：火舌段拉长、碗部加宽，正负形呼吸更平衡。</p>
+
+  <div class="card">
+    <h2>主图标 · 尺寸阶梯</h2>
+    <div class="row">
+      <div class="cell"><img src="icon.png" width="180" height="180" alt="1024"><div class="lb">1024</div></div>
+      <div class="cell"><img src="icon-192.png" width="96" height="96" alt="192"><div class="lb">192</div></div>
+      <div class="cell"><img src="icon-96.png" width="48" height="48" alt="96"><div class="lb">96</div></div>
+      <div class="cell"><img src="icon-48.png" width="24" height="24" alt="48"><div class="lb">48</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>适配版本</h2>
+    <div class="variants row">
+      <div class="cell"><img src="icon-reverse-192.png" width="96" height="96" style="border-radius:22%" alt="反白"><div class="lb">反白版 · 纯黑底</div></div>
+      <div class="cell"><img src="icon-mono-192.png" width="96" height="96" class="plain" style="background:linear-gradient(45deg,#eee 25%,transparent 25%,transparent 75%,#eee 75%),linear-gradient(45deg,#eee 25%,#fff 25%,#fff 75%,#eee 75%);background-size:16px 16px;background-position:0 0,8px 8px;border:1px solid #E5E5E5" alt="透明底"><div class="lb">透明底版 · favicon / 内嵌</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>色彩规范（纯黑白）</h2>
+    <div class="swatches">
+      <div class="sw"><div class="chip" style="background:#000000"></div><div class="info"><b>纯黑 · 火苗 / 火星</b>#000000 / 0,0,0 · 使用约 40%</div></div>
+      <div class="sw"><div class="chip border" style="background:#FFFFFF"></div><div class="info"><b>纯白 · 底色 / 负空间</b>#FFFFFF / 255,255,255 · 使用约 60%</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>负空间 · 比例 · 小尺寸说明</h2>
+    <p class="note">
+      <b>对称结构</b>：全图严格关于中轴 x=512 对称——外焰、负形火舌、四芒星三者共轴，安静克制；锋利度只保留在星芒四尖与负形火舌的 53° 软尖两处。<br>
+      <b>上下比例（v5.1）</b>：负形火舌尖定位于 478（v3 为 482、v5 曾试 460，最终取中），碗部加宽至 179、下探至 688——负形上下比约 1.8:1，上部留白呼吸感与下部碗部体量取得平衡。<br>
+      <b>环厚下限</b>：镂空洞底部环厚 56 / 1024、左右 76–78 / 1024，48px 下白缝约 2.6–3.6px，镂空不糊死。<br>
+      <b>降级策略</b>：48px 以下四芒星退化为一点（仍是「火花」语义）；必须存活的是对称黑火苗 + 白色负形轮廓。<br>
+      <b>工程性</b>：两个纯色 + 一条 evenodd 路径 + 一条星芒路径，无渐变无滤镜，可无损转单色印刷与激光雕刻。
+    </p>
+  </div>
+</div>
+</body>
+</html>

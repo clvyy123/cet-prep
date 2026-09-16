@@ -1,0 +1,454 @@
+{
+  "id": "cet6-2022_12_1",
+  "level": 6,
+  "year": 2022,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2022年12月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthispart,youareallowed30minutesto writeanessaythatbeginswiththe sentence \"With theapplicationof informationtechnology ineducation,collegestudentscannow learn in more diverse and efficient ways.\"You canmake statements,give reasons,or cite examples todevelop youressay.You should write at least150 words but no more than 200words. PartII Section A",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_1-L1",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "News Report One",
+          "intro": "Questions 1 to 4 are based on the conversation you have just heard.",
+          "material": "Question 1. What does the woman say about her dissertation? Question 2. What does the man say about his professor? Question 3. What does the women say about her professor? Question 4. What do we learn the women will do to complete her dissertation? Conversation 2 Today on Book Talk, we are lucky enough to host John Robbins and discuss his new book, why Americans are fat and how we can lose weight. John isn't just a respected writer, he's also one of the rare celebrity authors, writing about science today. Thanks for having me, Rebecca, but I'm hardly a celebrity. That's very modest of you to say. Considering that your four books have sold a total of 7 million copies worldwide, and they've been translated into 12 different languages. What makes people so fascinated with your work? Well, people read my books because more than 60% of Americans are overweight, or obese, and other countries are facing similar problems. Basically, we all want to know how to fix things. We certainly do. I've read your new book and it's fabulous, especially when it comes to the way you make difficult science easy for laymen to understand. That's no small achievement. I'm glad to hear you find my work accessible, because I was worried when I wrote it that discussing the science might make the book more suited for a specialist audience. My last book was written primarily for the medical community. But this time, I want to help ordinary people take control of their weight. And how do you suggest they do that? Can you give us the basics of your advice for people who want to lose weight? Briefly, I argue that every person needs to consider their metabolism and eat what suits their body's needs. I don't advocate one single diet. Some people should eat more carbohydrates than others, and different people need different amounts of protein and fat. But you do have some recommendations for everyone, including eating 10 servings of vegetables and 3 of fruit a day. We'll talk about those recommendations next, but now we need to take a short break for a message from our sponsor.",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What does the woman say about her dissertation?",
+              "stemCn": "",
+              "options": {
+                "A": "She hasn't star ted writing it.",
+                "B": "She hasn't decided on a topic.",
+                "C": "She is proof reading the first draft.",
+                "D": "She is working on the references."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。对话一开始，男士询问女士"
+              },
+              "answer": "A",
+              "analysis": "的论文进度，女士在句（1）中回答说她还没开始写。 因此答案为A)。"
+            },
+            {
+              "num": 2,
+              "stem": "What does the man say about his professor?",
+              "stemCn": "",
+              "options": {
+                "A": "He lentmanybooks to the man for reference.",
+                "B": "He offered the man advice on resource hunting.",
+                "C": "He published a lot in a number of reputable journals.",
+                "D": "He toldthe man to be selective whenusing e-resources."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。句（2）中男士提到，他在开始"
+              },
+              "answer": "B",
+              "analysis": "写论文之前先和教授讨论了去哪里找资料的问题。 基于这个讨论，他在图书馆找到了参考书，并在网 上找到了大量知名期刊文章。因此答案为B）。"
+            },
+            {
+              "num": 3,
+              "stem": "What does the woman say about her professor?",
+              "stemCn": "",
+              "options": {
+                "A": "He didn't think her dissertationtopic viable.",
+                "B": "He wasn't interested in her dissertation topic.",
+                "C": "He didn't want her to rush through her dissertation.",
+                "D": "He wasn't specificaboutthelengthofher dissertation."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。女士认为自己无法开始写论"
+              },
+              "answer": "A",
+              "analysis": "文是因为自己的题目不可行。根据句（3）可知，她 的教授确实在一开始的时候提醒她可能会找不到 足够的资料。因此答案为A)。"
+            },
+            {
+              "num": 4,
+              "stem": "What do we learn the woman will do to complete",
+              "stemCn": "",
+              "options": {
+                "A": "Change her research methodology.",
+                "B": "Narrow down her dissertationtopic.",
+                "C": "Consult her professor more.",
+                "D": "Follow the man's advice. Questions 5 to 8are basedontheconversationyouhave justheard. 5.A.He has translated 12books."
+              },
+              "optionCn": {
+                "D": "【精析】细节推断题。男士认为女士的论文题目太"
+              },
+              "answer": "D",
+              "analysis": "her dissertation? 过狭窄，如果将题目扩大可能会找到更多资料。根 据句（4）可知，女士认为扩大题目是个好主意，她会 将对其他地区的民间传说的描述囊括进来。由此 可知，女士会听从男士的建议。因此答案为D)。 Questions 5 to 8 are based onthe conversationyou have just heard. W:Today,on Book Talk,we are lucky enough to host John Robbins and discuss his new book,Why Americans Are Fat andHow We Can Lose Weight.（5-1)John isn't just a respected writer;he's also one oftherare celebrity authors writing about science today. M:Thanks for having me,Rebecca,butI'mhardly a celebrity. W:That's very modestof you to say,（5-2)considering that your fourbooks have sold a total of sevenmillion copies worldwide,and they've been translated into 12 differentlanguages. What makes people so fascinated with your work? M:(6)Well,peopleread my books because more than 60% of Americans are overweight or obese. Andother countries are facing similar problems. Basically,we all want to know how to fix things. W:We certainly do.I've read your new book and it's fabulous,especially when it comes to the way you make difficult science easyfor laymen to understand.That's no smallachievement. M:I'm gladto hear youfind my work accessible,because I was worried whenI wrote it that discussing the sciencemightmake thebookmore suitedfor a specialist audience.（7）Mylast book was written primarily for themedicalcommunity.Butthistime,Iwant to helpordinary people take control oftheir weight. W:And how do you suggest they do that? Can you give us the basics of your advice for people who want to lose weight? M:Briefly,(8)I argue that every person needs to consider their metabolism and eat what suits theirbody's needs.I don't advocate one single diet. Some people should eat more carbohydrates than others. And different people need different amounts of protein and fat. W:But you do have some recommendations for everyone,including eating ten servings of vegetables and three offruit a day.We'll talk about those recommendations next,butnow we need to take a shortbreakfora message from our sponsor."
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet6-2022_12_1-A.mp3",
+        "B": "/audio/papers/cet6-2022_12_1-B.mp3",
+        "C": "/audio/papers/cet6-2022_12_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "E) An elite ultra-runner, Ward i an has his sights on brea king the event's record average marathon time of\nF) Something about the way Richard Do no van carried himself appealed to Ward i an. Perhaps it was the\nG) Ward i an star ted saving for the trip in 2014, connecting with sponsors and getting approval from his\nH) Since turning it into an organized event in 2015, Do no van has attracted a variety of runners. This\nI) Instead, 43-year-old Petr Vabrousek, an elite Czech Iron man champion, is expected to be Ward i an's\nJ) On a chilly December afternoon, Ward i an wove through Washington's crowded sidewalks on the way\nK) But in some ways, Ward i an still has trouble thinking of himself as a runner. For the majority of his\nL) It was only a year or so ago that Ward i an realized that he had been a runner longer than a lacrosse",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Ward i an regards the various extraordinary challenges as a test of his physical endurance.",
+              "stemCn": "【定位】由题干中的various和challenges定位到",
+              "options": {},
+              "optionCn": {
+                "E": "段。"
+              },
+              "answer": "E",
+              "analysis": "沃迪恩喜欢多样化和独一无二的挑战，他很想看 看自己能应付什么，身体能接受什么，由此可知， 题干是对该处信息的同义转述。题干中的various extraordinary对应原文中的diverse andunique，题 干中的atest ofhis physicalendurance是对原文中 whatmy body can accept的转述，故答案为E)。"
+            },
+            {
+              "num": 37,
+              "stem": "Ward i an hopes his participation in the seven-day marathon series will contribute to a worthy cause.",
+              "stemCn": "【定位】由题干中的Wardianhopes和cause定位",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】同义转述题。"
+              },
+              "answer": "I",
+              "analysis": "到I段倒数第二句。 恩也希望他的参与能给他一个促进事业的平台。 而结合前文，这是在讲述沃迪恩打算参加一个7 天马拉松系列赛的情况，题干是对该处信息的转 述。题干中的his participation对应原文中的his involvement，题干中的contributeto是对原文中 give him a platform to promote的同义转述，故答 案为D。"
+            },
+            {
+              "num": 38,
+              "stem": "Ward i an is going to join over thirty other runners in a week-long marathon series.",
+              "stemCn": "【定位】由题干中的join、overthirty和week-long",
+              "options": {},
+              "optionCn": {
+                "D": "段最后一句。"
+              },
+              "answer": "D",
+              "analysis": "名其他探险者一起踏上一段不同寻常的旅程，参 与者在7天内穿越不同的时区和气候，在7大洲 跑7场马拉松。可知题干是对定位句信息的转述。 题干中的overthirtyotherrunners对应原文中的 32otheradventure seekers，题干中的a week-long marathon series是对原文中“sevenmarathons...in sevendays”的同义转述，故答案为D)。"
+            },
+            {
+              "num": 39,
+              "stem": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point.",
+              "stemCn": "【定位】由题干中的over-exertion和extremecold",
+              "options": {},
+              "optionCn": {
+                "A": "段。"
+              },
+              "answer": "A",
+              "analysis": "的风，第二句又指出，沃迪恩被告知，如果他过度 发力，会开始出汗，而这样只会增加体温过低的风 险。可知题干是对本句的同义转述。题干中的 over-exertion对应原文中的toomuch effort，题 干中的lower one's body temperature toa dangerous point是对原文中increase theriskof hypothermia的转述，故答案为A)。"
+            },
+            {
+              "num": 40,
+              "stem": "Ward i an was very much impressed by a race director's sense of adventure.",
+              "stemCn": "【定位】由题干中的racedirector和senseof",
+              "options": {},
+              "optionCn": {
+                "F": "段前三句。"
+              },
+              "answer": "F",
+              "analysis": "诺万的举止吸引了沃迪恩，接着提到，吸引沃迪恩 的就是他们在2010年的50K锦标赛上首次相遇 时多诺万表现出来的冒险感，在爱尔兰戈尔韦举 行的锦标赛上，多诺万担任比赛总监。可知题干 是对该处信息的概括。题干中的verymuch impressed对应原文中的appealedto，故答案 为F）。"
+            },
+            {
+              "num": 41,
+              "stem": "Once Ward i an sets his mind on something, he is determined to make it happen.",
+              "stemCn": "【定位】由题干中的determined定位到K）段倒数",
+              "options": {},
+              "optionCn": {
+                "K": "段定位句提到，妹妹玛丽"
+              },
+              "answer": "K",
+              "analysis": "第三、四句。 勒评价沃迪恩时说，一旦他决定做某件事，他就会 不懈努力，直至完成。一旦他决定这样做，通常都 能实现。题干中的sets his mindon something对 应原文中的decides to do something，题干中的 makeithappen对应原文中的worksatituntilhe does it和something that's going to happen，故答 案为K）。"
+            },
+            {
+              "num": 42,
+              "stem": "One top American marathoner quit his running career because of his physical condition.",
+              "stemCn": "【定位】由题干中的onetopAmerican",
+              "options": {},
+              "optionCn": {
+                "H": "【精析】细节归纳题。"
+              },
+              "answer": "H",
+              "analysis": "marathoner定位到文章HD段第二、三句。 战赛特色是一个更为精英的圈子加入，其中包括 美国最快的马拉松选手瑞安·霍尔。而随后一句 中提到，霍尔因面临着疲劳问题，迫使他于2015 年离开了职业队伍。可知题干是对定位部分信息 的概括归纳。题干中的quithisrunning career对 应原文中的leave theprofessionalranks，题干中 的physicalcondition对应原文中的fatigue issues，故答案为H)。"
+            },
+            {
+              "num": 43,
+              "stem": "To many of the week-long marathon participants, completing the race will be a success in itself.",
+              "stemCn": "【定位】由题干中的completing therace定位到文",
+              "options": {},
+              "optionCn": {
+                "I": "段定位句指出，对旅途中"
+              },
+              "answer": "I",
+              "analysis": "章I段第二句。 的其他人来说，只要完成任务，这本身就是一种嘉 奖了。根据前文，这里所说的旅途就是为期一周 的马拉松赛事。题干中的“to many ofthe... participants对应原文中的to others onthetrip， 题干中的a success对应原文中的reward，题干中 的in itself对应原文中的“simply...its own”，故 答案为I。"
+            },
+            {
+              "num": 44,
+              "stem": "For Ward i an, the marathon in the Arctic was more about how to triumph over the extreme cold.",
+              "stemCn": "【定位】由题干中的for Wardian和cold定位到文",
+              "options": {},
+              "optionCn": {
+                "C": "段最后一句。"
+              },
+              "answer": "C",
+              "analysis": "次比赛，与其说是为了成绩，不如说是为了克服他 对寒冷的厌恶。题干中的themarathoninthe Arctic对应定位句中的therace，题干中的more about对应原文中的less abouttheresultthan，题 参考译文 干中的triumphovertheextremecold对应原文 中的overcoming his aversion to thecold，故答案 为C)。"
+            },
+            {
+              "num": 45,
+              "stem": "To participate in the seven-day marathon series, Ward i an had to raise a lot of money and have his",
+              "stemCn": "【定位】由题干中的hiswife定位到文章G）段第",
+              "options": {},
+              "optionCn": {
+                "G": "【精析】细节归纳题。"
+              },
+              "answer": "G",
+              "analysis": "一句。 2014年开始为旅行存钱，与赞助商联系，并在承诺 报名之前获得妻子詹妮弗的认可。题干中的to participate in the seven-daymarathon series对应 原文中的forthetripin2014，题干中的raisealot ofmoney是对原文中saving和connectingwith sponsors的概括性转述，题干中的have his wife's support对应原文中的gettingapprovalfromhis wife，故答案为G)。 这个人将在7天内在7大洲跑7场马拉松 而他被告知，这样只会增加体温过低的风险。 警卫在大片浮冰上巡逻，尽量减少北极熊袭击的风险。 的成绩冲过终点线，比他在26.2英里的个人最佳成绩慢了几乎两个小时。然而，（44）沃迪恩的比赛与 其说是为了比赛成绩，不如说是为了克服他对寒冷的厌恶。 排队参加世界马拉松挑战赛的第一站，与32名其他探险者一起踏上一段不同寻常的旅程，参与者在7 天内穿越不同的时区和气候，在7大洲跑7场马拉松。 的马拉松比赛平均时间3小时32分25秒的纪录。42岁的阿灵顿居民沃迪恩是一名打破纪录的参赛 选手，以寻求艰苦的赛程和创造世界纪录闻名于超跑圈子。去年，他参加了47场比赛，跑了1254.65 英里。世界马拉松挑战赛，就像沃迪恩的大多数跑步目标一样，将是挑战他的极限。(36)“我喜欢多样 化和独一无二的挑战，”他说，“我很想看看我能应付什么，我的身体能接受什么。这是我的动力。” 相遇时多诺万表现出来的冒险精神，在爱尔兰戈尔韦举行的这次锦标赛上，多诺万担任比赛总监。两 人一见如故，很快沃迪恩就参加了多诺万的活动。正是在多诺万组织的北极马拉松比赛中，沃迪恩第 一次听说了这位爱尔兰人参加世界马拉松挑战赛的计划——多诺万本人于2009年和2012年完成了 这项挑战。“我知道很多人都有一个目标，那就是在任何时间段内在7大洲跑7场马拉松，”50岁的多 诺万说，“我觉得这一想法的自然延伸是尝试在7天内完成。” 赛事的注册费用为36000欧元，其中包括前往7个马拉松地点的国际包机：尤宁冰川（南极洲）、智利 的蓬塔阿雷纳斯（南美）、迈阿密（北美）、马德里（欧洲）、摩洛哥的马拉喀什（非洲）、迪拜（亚洲）和悉尼 （澳大利亚）。这项挑战是对体力和心理健康的考验。睡在拥挤的飞机上，适应不同的时区，找食物吃 （沃迪恩是素食主义者），这样旅行即使花费一个月也会令人疲惫不堪，更不用说一周了。“像这样比赛 的关键在于适应不舒服的感觉，”去年的女子冠军贝卡·皮齐说，“比赛的高潮非常高，低谷又非常低。” 一个更为精英的圈子加入，（42）其中包括美国最快的马拉松选手瑞安·霍尔。霍尔表示，尽管他有着 良好的成绩记录，但他没有时间目标，他仍然面临着疲劳问题，迫使他于2015年离开了职业队伍。霍 尔计划和他的朋友、洛杉矶梦想中心的马修·巴内特牧师一起参加比赛，这是六名参赛的美国男子之 一。34岁的霍尔在退役后开始举重，说道:“我不打算和迈克一起跑步，但我会很高兴看到他的表现。 如果我在每次马拉松比赛中都能在他完成后一小时内完成，我会很惊讶。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Many people associate their self-worth with their work. The more successful their career, the better 2022-12-CET6(第1套)-6 ===== PAGE 7 ===== they feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists inter vie wed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences. It's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that pleasure comes from a triumph which swells our self-respect, people will try to repeat the accomplishment. But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a negative type of motivation. It can hinder other more positive motivation types, such as completing a task purely because it's fulfil ling or enjoyable. What consumes the employee instead is a pressing need to feel mighty and sure of themselves. They then take on only tasks and objectives which serve that ego-driven need. As a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of effort. It depletes their energy, culminating in disproportionate levels of damaging sentiment. Those negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their dim in i shed capacity for friendship and leisure. They end up dissatisfied both at work and outside of it. But thank fully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually outweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effect of the positive motivation is that it neutralizes the existence of negative motivation. Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands. However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say about the pursuit of work-related self-esteem?",
+              "stemCn": "【定位】由题干中的work-related self-esteem定",
+              "options": {
+                "A": "It may result in negative motivation.",
+                "B": "It contributes to one's accomplishments.",
+                "C": "It can increase one's vigor as one keeps trying.",
+                "D": "It costs too much emotionally and psychologically."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章首段指出，根据最近的"
+              },
+              "answer": "A",
+              "analysis": "位到第一、二段。 研究，追求与工作相关的自尊会同时产生积极和 消极的结果。第二段第二至四句又指出，如果人 们因工作成就增强了自尊心而感到快乐，就会试 图重复这种成就，但这往往并不现实，因为如果没 有再取得这样的成就，就可能会导致严重的负面 情绪后果。因此这种形式的动机被广泛认为是一 种消极的动机。由此可知，作者认为追求与工作 相关的自尊可能导致消极的动机，故答案为A）。 【避错】文章第二段第二句指出，工作中获得成就 可能会增强人们的自尊，从而激励他们不断追求 这种可以增强自尊的成就，因此可以推断出，是这 种成就进一步推动人们对增强自尊的追求，而非 这种追求有助于人们的成就，B）项与文章意思不 符，故排除；第二段第三句指出，这种对与工作相 关的自尊的追求很可能会带来负面的情绪，因此 A) 整篇文章虽然指出这种追求可能会使人产生极大 的破坏性情绪，但第五段也指出在这个过程中，人 们也能获得情感回报，并因此获得激励和快乐，总 而言之，这种追求既有消极后果，又有积极结果，"
+            },
+            {
+              "num": 47,
+              "stem": "What do employees tend to do in pursuing work-related self-esteem?",
+              "stemCn": "【定位】由题干中的employees定位到第三段。",
+              "options": {
+                "A": "Take on tasks well beyond their actual capabilities.",
+                "B": "Strive to succeed at the expense of their well-being.",
+                "C": "Resort to all means regardless of the consequences.",
+                "D": "Exaggerate their sense of shame and worthlessness."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章第三段第三、四句提到，"
+              },
+              "answer": "B",
+              "analysis": "为了避免与失败相关的羞耻感和无价值感，员工 非常拼命，不惜一切代价获得成功，这不利于他们 获得幸福。由此可知，员工在追求与工作相关的 自尊时往往是以牺牲幸福为代价的，故答案 为B）。 【避错】文章第三段前两句指出，员工内心迫切想 要感觉到自己的强大和自信，于是他们只完成那 些满足自我驱动需求的任务和目标，A）项“承担远 远超出其实际能力的任务”不符合原文意思，故排 除；文章第三段第四句提到，这些员工不惜一切代 价想要获得成功，但这指的是他们不惜牺牲自己 的幸福，C）项的表述偏贬义，意思是员工可能会选 择采取不光彩的手段来获得成功，不符合原文意 思，故排除；第三段第三句提到，为了避免与失败 相关的羞耻感和无价值感，这些员工会拼命努力 追求目标，说明员工努力的目的恰恰是为了避免 这种羞耻感和无价值感，D）项不符合原文意思，故 排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What do we learn about people over-concerned with work-related self-esteem?",
+              "stemCn": "【定位】由题干中的over-concerned和work-",
+              "options": {
+                "A": "They may often feel inferior to their colleagues.",
+                "B": "They cannot enjoy their personal life to the full.",
+                "C": "They are never satisfied with their achievements. 2022-12-CET6(第1套)-7 ===== PAGE 8 =====",
+                "D": "They have their own view of friendship and leisure."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章第四段第一句指出，这"
+              },
+              "answer": "B",
+              "analysis": "relatedself-esteem定位到第四段。 些负面情绪上升为高度焦虑，影响了他们尽情享 受个人生活的能力。由此可知，这些员工过度关 注与工作相关的自尊，以至于无法充分享受个人 生活，故答案为B）。 【避错】第四段第二句提到，这些员工想要避免自 卑的渴望最终却让他们在交友和休闲能力下降时 感到自卑，A）项将文章意思扩大到“常常觉得自己 不如同事”，不符合原文意思，故排除；第二段第二 句指出，如果人们因工作成就增强了自尊而感到 快乐，就会试图重复这种成就，这只是为了不断增 强自尊，而非因为不满足于自己的成就，C）项不符 参考译文 合原文意思，故排除；第四段第二句只提及他们在 交友和休闲能力下降时感到自卑，并未提及他们 对友谊和休闲有什么看法，故排除D）项。"
+            },
+            {
+              "num": 49,
+              "stem": "What is the good news we learn from the recent research?",
+              "stemCn": "【定位】由题干中的goodnews和recentresearch",
+              "options": {
+                "A": "The pursuit of goals may turn out to be enjoyable and pleasant.",
+                "B": "The emotional rewards from goal pursuit are worth the pains taken.",
+                "C": "The negative consequences of goal pursuit can mostly be avoided.",
+                "D": "The goal of swelling self-esteem can be achieved if one keeps trying."
+              },
+              "optionCn": {
+                "A": "。"
+              },
+              "answer": "A",
+              "analysis": "定位到第五段。 【精析】事实细节题。第五段第二至四句提到，该 研究还发现了几个积极的结果，那就是：尽管这种 类型的员工的动机是避免消极后果，但他们也会 被追求情感回报的兴奋感所激励。这种兴奋感使 追求目标变得愉快，并激发了成功带来的快乐和 自豪感。由此可知，研究新发现的好消息就是：追 【避错】第五段第三句提到，尽管这种类型的员工 的动机是避免消极后果，但他们也会被追求情感 回报的兴奋感所激励，但这只是说明追求目标可 以带来让人兴奋的情感回报，并未指出它因此而 值得所付出的痛苦，故排除B）项；第五段最后一 句提到，积极动机有一个作用，即它可以抵消消极 动机的存在，但这不能说明消极后果是可以避免 的，C）项与文章意思不符，故排除；根据全文内容 来看，实现增强自尊的目标需要不断努力，但是否 只要不断努力就能实现这一目标，文章中并未提 及，而且由第四段第二句可知，员工越是在工作中 想增强自尊、摆脱自卑，在生活中面对自己交友和 休闲能力减弱的情况时反而越自卑，D）项不符合 原文意思，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What can we infer from the last paragraph?",
+              "stemCn": "【定位】由题干中的lastparagraph定位到最后",
+              "options": {
+                "A": "Workers have to make sacrifices to preserve self-esteem.",
+                "B": "Self-esteem swells when workers are strongly motivated.",
+                "C": "Pursuit of goals affects people's personal lives to an unhealthy extent.",
+                "D": "People feel positive about their work as long as they are motivated."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。最后一段最后一句指出，人"
+              },
+              "answer": "D",
+              "analysis": "一段。 们对工作的感觉与他们是否受到维护自尊的激励 关系不大，而更多与他们仅仅受到激励这一事实 有关。说明人们是否能积极面对工作主要和他们 受到激励有关，而具体这种激励是从何而来并不 是很重要，由此可以推断，只要有激励，有动力，人 们就会积极面对工作，故答案为D)。 【避错】文章最后一段第一句提到，这些员工往往 认为必须牺牲掉休闲活动，从而满足工作和家庭 的需求，从而维护和增强自尊，但这是员工的做 法，而非一种被认同的观点，A）项不符合题意，故 排除；由文章第二段第二句可知，当员工获得巨大 成就时自尊心会增强，但这并非最后一段所推断 出的结论，B）项不符合题意，故排除；文章最后一 段第一句提到，追求与工作相关的自尊会对人们 的个人生活产生不健康的影响，C）项符合原文意 思，但属于可以直接从文章中辨认出的细节内容， 不属于推断得出的结论，故排除。 许多人将自我价值与工作联系在一起。他们的事业越成功，他们的自我感觉就越好。因此，与工作相 关的自尊是一种值得积极追求的理想，对吗？嗯，并非总是如此。心理学家在最近的一项研究中对370名 全职工作者进行了为期三周的采访，根据这项研究，现实情况要复杂一些。它同时涉及消极和积极的结果。 被快乐吸引并远离痛苦是很自然的事。（46）在工作场所，如果这种快乐来自于一种增强我们自尊的 成就，人们就会试图重复这种成就。但重复这种成就往往是不现实的，如果它没有再次出现，可能会导致 严重的负面情绪后果。这种形式的动机被广泛认为是一种消极的动机。它可能会阻碍其他更积极的动机 类型，例如，完成一项任务纯粹是因为它令人有成就感或愉快。 然而，员工内心充满的正是一种让他们感觉到强大和自信的迫切需要。于是他们只完成那些满足自 我驱动需求的任务和目标。（47）结果，为了避免与失败相关的羞耻感和无价值感，他们拼命到这种程度， 以至于对他们的幸福产生了后续的不利影响。这种不惜一切代价获得成功的内在压力需要他们付出很多 努力。这耗尽了他们的能量，最终使他们产生与之不成比例的破坏性情绪。 （48）这些负面情绪上升为高度焦虑，影响了他们尽情享受个人生活的能力。他们想要避免自卑的渴 望最终却让他们在交友和休闲能力下降时感到自卑。最终，他们在工作中和工作之外都感到不满意。 但值得庆幸的是，对于那些几乎完全被这种特定形式的动机所驱使的人来说，这个消息并不全是坏消 息，或者根本不是坏消息。（49）该研究还发现了几个积极的结果，它们实际上可以大过有害后果。尽管这 种类型的员工的动机是避免消极后果，但他们也会被追求情感回报的兴奋感所激励。这种兴奋感使追求 目标变得愉快，并激发了成功带来的快乐和自豪感。积极动机的一个作用在于，它抵消了消极动机的 存在。 当然，它对人们个人生活的影响可以被认为已经到了一种不健康的程度，因为休闲活动常常被视为是 生活中必须被牺牲掉而用来处理工作和家庭需求的一部分。（50）然而，人们对工作的感觉与他们是否受 到维护自尊心的激励关系不大，而更多与他们仅仅受到激励这一事实有关。 Passage Two 【文章来源】本文选自2016年5月19日刊登在www.theguardian.com上一篇标题为“Humans Damagingthe EnvironmentFasterthanItCanRecover，UNFinds”（《联合国发现，人类破坏环境的速度高于其恢复的速度》） 的文章。 【结构框图】 第1段总述问题：人类对世界自然资源的破坏正快速超过地球承受伤害 的能力。 本文主要介绍了人类对 第2段以缺水问题为例，指出如果不采取严厉措施，这种情况很难得到 地球造成的破坏超出了 → 缓解。 地球所能承受的范围。 第3一7段指出，环境状况将在全球范围内恶化，又从发达国家和发展 中国家两个角度分别阐述了应该如何在保持经济发展的情况下，解决环 境问题。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found. The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries. Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this desperate situation being remedied without radical action being taken. Water resources are under increasing threat from population growth, climate change, rapid urbanization, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment (补充) of water resources. The rate of damage to the natural environment was found to increase globally, despite concerted efforts to persuade government to take measures to improve the condition. \"If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline,,\" warned UN executive director Achim Steiner. He said the tools for improving the environment for millions of people existed in developed countries, but were in danger of not being used. The study found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution; to control the damage to marine eco-systems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and to curb the degradation of land where modern agricultural methods were pursued without regard to the longer-term consequences. Despite the recent global agreement on cutting greenhouse gas emissions, global carbon output continues to rise. This will put a long-term strain on the ability of developing economies to feed their own people. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem are as identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms. In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that 2022-12-CET6(第1套)-8 ===== PAGE 9 ===== are supposed both to alleviate poverty and preserve the environment.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What is themajorfindingoftheUNenvironmental study?",
+              "stemCn": "【定位】由题干中的UNenvironmental study定位",
+              "options": {
+                "A": "Human activity has renderedMother Earth almost uninhabitable.",
+                "B": "Humans are doing more damage to the earth than it can cope with.",
+                "C": "Environmental problems have considerably weakened human prosperity.",
+                "D": "Environmental damage is more serious in developedcountriesthese days."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章首段第一句指出，最近"
+              },
+              "answer": "B",
+              "analysis": "到第一段。 一项联合国环境研究发现，人类对世界自然资源 的破坏正快速超过地球承受伤害的能力。由此可 知，人类对地球造成的破坏已经超出了地球所能 承受的范围，故答案为B）。 【避错】首段第二句指出，如果不采取激进行动，发 达国家数百万人赖以维系的繁荣水平将无法维 持，而非指人类活动使得地球母亲几乎不适宜居 住，也非指目前环境问题已经严重削弱了人类的 繁荣，也无法推断出发达国家的环境破坏更加严 重，故排除A)、C）和D）。"
+            },
+            {
+              "num": 52,
+              "stem": "What is saidabout water scarcity in some of the poorest regions?",
+              "stemCn": "【定位】由题干中的water scarcity和thepoorest",
+              "options": {
+                "A": "It is getting so serious that there is little hope of solution.",
+                "B": "It largelyaccountsfor their slow economic development.",
+                "C": "It can hardly be relieved if no drastic measuresare taken.",
+                "D": "It is primarily causedby the acceleration of climate change."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。文章第二段第二句指出，如"
+              },
+              "answer": "C",
+              "analysis": "regions定位到第二段。 果不采取激进的行动，这种令人绝望的情况几乎 无法得到改善。由此可知，如果不采取严厉措施， 很难缓解缺水问题，故答案为C)。 【避错】根据第二段第二句可知，如果采取严厉的 措施，缺水问题是可以得到缓解的，而非解决的希 望渺茫，A）项表述与原文矛盾，故排除；第二段第 一句指出，缺水对于地球上一些最贫穷地区来说 无异于诅咒，使发展中国家越来越无法自给自足， 造成数百万人贫困，但并没有说明缺水是贫穷地 区经济发展缓慢的主要原因，B）项为过度推理，故 排除；本文第二段第三句指出，气候变化等几个因 素造成了水资源问题，但并未说明气候变化加速 是缺水的主要原因，D）项表述与原文不符，故 排除。"
+            },
+            {
+              "num": 53,
+              "stem": "WhatdoesAchimSteiner sayabouttheenvironmentalcondition?",
+              "stemCn": "【定位】由题干中的 AchimSteiner和",
+              "options": {
+                "A": "It will deteriorate worldwide.",
+                "B": "It is attracting global attention.",
+                "C": "It is being slowlyremedied globally.",
+                "D": "It will shrink the world's population."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。文章第三段第二句指出，联"
+              },
+              "answer": "A",
+              "analysis": "environmentalcondition定位到第三段。 合国执行主任阿希姆·施泰纳警告道：“如果目前 的趋势继续持续下去，并且全世界的生产方式和 消费模式也不改进的话，那么全世界的环境将会 继续恶化。”由此可知，阿希姆·施泰纳认为全球 环境会继续恶化，故答案为A)。 【避错】阿希姆·施泰纳并未提及有关环境状况正 引起全球的关注，B）项为无中生有，故排除；第三 段第一句指出，尽管人们齐心协力说服各国政府 采取措施改善环境，但全球自然环境破坏的速度 仍在加快，可知环境问题并没有在全球慢慢得到 解决，故排除C）项；阿希姆·施泰纳并未提及全 球人口的问题，故排除D）项。"
+            },
+            {
+              "num": 54,
+              "stem": "What is the dilemma developing countries face?",
+              "stemCn": "【定位】由题干中的dilemma和developing",
+              "options": {
+                "A": "Theycannotmodernise farming withoutcausing land degradation.",
+                "B": "They cannot promote industrial is at ion without polluting waterways.",
+                "C": "They cannot boost crop yields without causing greenhouse gas emissions.",
+                "D": "They cannot catch up withrichcountries without sacrificing the environment."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。文章第六段第一至三句指"
+              },
+              "answer": "C",
+              "analysis": "countries定位到第六段。 出，全球碳排放量一直居高不下，这对发展中经济 体养活本国人民将会造成长期的压力。在2000 年至2010年期间，农业生产中化学肥料和天然肥 料的使用量增加了四分之一以上，其所产生的温 室气体排放加剧了气候变化。由此可知，发展中 国家要想提高作物产量，需要借助现代化农业手 段，这一定会造成温室气体排放，故答案为C）。 参考译文 【避错】第五段指出，在一些追求采用现代农业方 法而不计长期后果的地区，需要遏制土地退化问 题，A）项与原文相反，故排除；本文并未提及工业 化和水污染的问题，B）项为无中生有，故排除；最 后一段第一句指出发达国家牺牲环境去追求经济 增长，最后一句指出发展中国家发展经济要兼顾 环境问题，但并未提及发展中国家需要牺牲环境， 才能赶上富裕国家，故排除D）项。"
+            },
+            {
+              "num": 55,
+              "stem": "What should developing countries do in their future development according to the passage?",
+              "stemCn": "【定位】由题干中的developing countries和",
+              "options": {
+                "A": "They turn to developedcountriesfor the assistance they need.",
+                "B": "They remedy environmental damage by slowing economic growth.",
+                "C": "They avoid damaging interference from international institutions.",
+                "D": "They improve people's livelihood without harming the environment."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。文章最后一段最后一句指"
+              },
+              "answer": "D",
+              "analysis": "future development定位到最后一段。 出，在发展中国家，未来的发展道路充满了变数， 这鼓励了国际机构设计更多的可持续增长途径， 既能减少贫困，又能保护环境。由此可知，发展中 国家要走可持续经济增长道路，在保护环境的前 提下，发展经济，改善人们的生活，故答案为D）。 【避错】文中并未提及有关发展中国家向发达国家 寻求援助的内容，A）项为无中生有，故排除；最后 一段最后一句指出，发展中国家要走可持续经济 增长道路，兼顾经济和环境，并没有指出要通过减 缓经济增长来弥补对环境的破坏，B）项为过度推 理，故排除；文章最后一段最后一句指出，在发展 中国家，未来的发展道路充满了变数，这鼓励了国 际机构设计更多的可持续增长途径，而非要避免 受到国际机构的破坏性干预，故排除C）项。 (51)最近一项联合国环境研究发现，人类对世界自然资源的破坏正快速超过地球承受伤害的能力。 该研究的结论是，如果不采取激进行动，发达国家数百万人赖以维系的繁荣水平将无法维持，同时，那些较 贫穷的国家也无法发展到这种繁荣水平。 缺水对于地球上一些最贫穷地区来说无异于诅咒，使发展中国家越来越无法自给自足，造成数百万人 贫困。（52）如果不采取激进的行动，这种令人绝望的情况几乎无法得到改善。人口增长、气候变化、城市 化的快速发展、人们消费水平的提高以及土地退化（以前这些土地可以为水资源提供自然的补充）等因素 都日益威胁水资源。 尽管人们齐心协力说服各国政府采取措施改善环境，但全球自然环境破坏的速度仍在加快。（53）联 合国执行主任阿希姆·施泰纳警告道：“如果目前的趋势继续持续下去，并且全世界的生产方式和消费模 式也不改进的话，那么世界环境将会继续恶化。” 他说，发达国家已有可以改善数百万人赖以生存的环境的方法，但这种方法却可能不会得到采纳。 研究发现，那些能够解决破坏环境关键问题的基本措施仍然没有得到采纳。这些措施包括减少空气 污染，控制对海洋生态系统的破坏，这能够对数亿人赖以生存的鱼类资源产生巨大影响；在一些追求采用 现代农业方法而不计长期后果的地区，需要遏制土地退化问题。 (54)尽管最近全球一致同意减少温室气体排放，但全球碳排放量却一直居高不下。这对发展中经济 体养活本国人民将会造成长期的压力。在2000年至2010年期间，农业生产中化学肥料和天然肥料的使 用量增加了四分之一以上，其所产生的温室气体排放加剧了气候变化。报告中指出的其他问题还包括可 为数百万人提供重要水资源的冰川问题，但随着气候变暖，冰川也在缩小。 发达国家在牺牲环境去追求经济增长的几十年乃至几个世纪的时间里，累积了这些问题。后来为补 救环境，他们做了一些努力，也取得了部分成功。（55)但在发展中国家，未来的发展道路充满了变数，这鼓 励了国际机构设计更多的可持续增长途径，既能减少贫困，又能保护环境。 PartN Translation The Qinghai-Tibet Plateau is situated in the southwest of China, covering an area of about 2.3 million square kilometers, with an average altitude ofover 4,000 meters.Itis known as the“Roof ofthe World”. The Qinghai-Tibet Plateau is abundant in natural resources,boasts beautiful scenery andhas a varietyof rare wild animals. The low temperature of the plateau has created a large area of alpine glaciers. It is the source of many famousrivers in Asia and is the main source of fresh water supplyin China and Southeast Asia. The Qinghai-TibetPlateau is vitaltothe global ecosystem. Glaciers on the Qinghai-Tibet Plateau are melting at an accelerated rate due to climate change. China has been committed to protecting the ecosystem of the Qinghai-Tibet Plateau, with increasing grassland coverage and more effective protection of many endangered species. MountQomolangma珠穆朗玛峰 Himalayas喜马拉雅山脉 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "青藏高原(theQinghai-TibetPlateau）位于中国西南部，面积约230万平方公里，平均海拔4000 米以上，被称为“世界屋脊”。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生成动物。 青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南 亚的主要淡水供应源。青藏高原对全球生态系统至关重要。 由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系 统，草地覆盖率不断增加，许多濒危物种得到了有效的保护。 2022-12-CET6(第1套)-9 ===== PAGE 10 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

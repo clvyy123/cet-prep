@@ -1,0 +1,502 @@
+{
+  "id": "cet6-2024_12_3",
+  "level": 6,
+  "year": 2024,
+  "month": 12,
+  "setNo": "第3套",
+  "title": "2024年12月六级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence“College provides a great opportunity for students to explore various possibilities and find the right path for themselves,”You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+          "review": "",
+          "sample": "College provides a great opportunity for students to explore various possibilities and find the right path for themselves, far beyond just attending lectures.  This stage offers a diverse curriculum, allowing students to sample different subjects and discover hidden interests they might not have considered before.  Beyond academics, college life is rich with clubs, societies, and extracurricular activities.  Joining a debate club, volunteering for a cause, or participating in a sport can reveal strengths and passions that shape future choices.  Furthermore, interacting with peers from diverse backgrounds broadens perspectives and helps students understand different viewpoints and potential career paths.  Internships and career services also provide practical exposure to industries.  By actively engaging with these opportunities, students gain clarity about their aspirations and develop the skills needed to pursue a fulfilling career and life. It is a crucial period for self-discovery and charting one's future.",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "high infant ___26___ rate, high levels of unemployment and illiteracy, nutritional levels below acceptable standards and widespread disease with very little or poor-quality medical assistance. Others live ___27___ wealthy and luxurious lives and so the wealth is distributed in a very ___28___ manner. These are the central problems to questions of charity though charity also includes many other are as such as ass i sting the elderly. We all ___29___ when very rich people pledge to give away most of their billions, but they are usually left with millions to pass on, still much more than most people would expect to earn in their lifetime. Even comparatively ___30___ salaries in the west are very high when compared globally. Someone on £20,000 could easily afford to give away £2,000 per year and still have plenty to live on plus some luxuries. Most people agree that giving to charity is morally ___31___ but charitable behaviour tends to be regarded as above and beyond the call of duty. Some argue, however, that charitable behaviour is morally required. This means that to fail to behave charitably would be wrong. The majority of arguments in this vein refer to giving aid to poorer nations but they may also refer to giving time within one’s ___32___ community. Arguments tend to place different requirements on people in different income brackets and ___33___ entirely people who are merely making ends meet. Some argue that people should all contribute a certain percentage of their earnings. I will ___34___ together all those arguments that place a moral requirement on people to give to charity, despite the fact that there is wide disagreement as to the ___35___ of that moral requirement.",
+          "wordBank": {
+            "A": "applaud",
+            "B": "casualty",
+            "C": "exclude",
+            "D": "extent",
+            "E": "group",
+            "F": "hierarchical",
+            "G": "immediate",
+            "H": "incredibly",
+            "I": "moderate",
+            "J": "mortality",
+            "K": "overt",
+            "L": "praiseworthy",
+            "M": "probe",
+            "N": "sceptically",
+            "O": "unequal"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】空格所在句是therebe句型，其中is"
+              },
+              "answer": "J",
+              "analysis": "后接5个并列的名词短语。空格位于ahigh infant rate中，其前后都是名词，据此推 测空格处很可能是一个名词或形容词。 【语义判断】空格所在句列举了5个方面说明了发 展中国家生存环境恶劣，空格前后提到了预期寿 命很短，失业率和文盲率很高，营养水平低于可接 受的标准，疾病泛滥，而医疗援助却很少或者质量 很差，与这些词内容相关、属于同一语义范畴的是 mortalityrate很高的婴儿死亡率”，符合文章意 思，故为答案。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格位于“live...lives”结构中，lives被"
+              },
+              "answer": "H",
+              "analysis": "形容词wealthy和luxurious所修饰，空格在这两个 形容词之前，据此推测空格处很可能是一个副词。 【语义判断】前一句提到发展中国家生存环境恶 劣，空格所在句指的是其他人的生活，用wealthy 和luxurious来形容，可见两种生活反差巨大，因此 填入H）incredibly“极端地，极其”，进一步表达出 这种天壤之别，为后面提到的财富分配不均作铺 垫，符合文章意思，故为答案。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "【语法判断】空格前是副词very，后面是名词"
+              },
+              "answer": "O",
+              "analysis": "manner，据此推测空格处是一个形容词，修饰 manner。 【语义判断】前一句提到发展中国家生存环境恶 劣，空格所在句说另外一些人却过着富裕而奢华 的生活，so用来引出作者对比了两种情况之后得 出的结论：财富的分配是极为不均衡的，因此填入"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格所在句的主语是we，后面是"
+              },
+              "answer": "A",
+              "analysis": "when引导的状语从句，可知空格处是句子的谓 语，是一个动词。 【语义判断】when引导的状语从句中提到非常富 有的人承诺捐出他们数十亿美元财产中的大部分， 结合前面提到的财富分配不均导致生活差别巨大， 可知这是值得称赞的行为，所以填入A）applaud “鼓掌，称赞”。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "【语法判断】空格前是副词comparatively，后面是"
+              },
+              "answer": "I",
+              "analysis": "名词salaries，可推断空格处是一个形容词，修饰 salaries。 【语义判断】空格所在句提到西方国家的薪水与全 球范围相比是非常高的，这是从普通人的角度揭 示西方国家和其他国家收入的差距，如果用收入 很高的人来做对比就没有说服力了，所以要用收 入一般的人来对比，I）moderate“适度的；中等 的”符合文章意思，填入句中意为“即便是西方国 家相对中等的收入，与全球范围相比也是非常高 的薪水”，故为答案。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格处是系动词is的表语，空格前有"
+              },
+              "answer": "L",
+              "analysis": "副词morally，由此推测空格处是一个形容词。 【语义判断】空格所在句提到大多数人对慈善的看 法，morally意思是“道义上”，可知空格处表达的 是人们从道义角度对慈善的评价，慈善是帮助他 人的行为，是慷慨无私、积极正面的行为，因此填 入L）praiseworthy“值得称赞的”。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前有名词所有格one's，后面有名"
+              },
+              "answer": "G",
+              "analysis": "词community，可推知空格处是一个形容词或名 词，修饰community。 【语义判断】空格所在句的前半句提到这方面的大 多数论点都主张向贫穷国家提供援助，这是慈善 事业大的方面，然后用but进行转折，两相对比，提 出了小的方面：在社区做义工，这种着眼于身边的 慈善大多是在自己附近的、能够接触到的小区，G) immediate“附近的”符合文章意思，故为答案。此 次考查immediate“附近的”这个比较生僻的词义， 这提醒考生除了要记住单词的常用释义，还应对 它的不常见释义有所了解。 32 册·2024年12月六级真题（三）"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格所在句的主干结构是“Arguments"
+              },
+              "answer": "C",
+              "analysis": "tend to place...and entirely people...\", 空格处与前面的toplace并列作tend的不定式宾 语，可知空格处是一个动词。 【语义判断】空格所在句的前半句提到这些观点往 往对不同收入阶层的人提出不同的慈善要求，后 半句提到仅能维持生计的人，既然是根据收入来 决定做慈善的程度，那么仅能维持生计的人自然 是没有余力做慈善的，只能排除在外，不要求他们 做慈善，因此填入C）exclude“不包括；不放在考 虑之列”。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格所在句的主语是I，宾语是all"
+              },
+              "answer": "E",
+              "analysis": "those arguments，空格前是情态动词will，缺少谓 语动词，可知空格处是一个动词。 【语义判断】本段指出一些人将慈善看作是道义上 的要求，然后列举了持这一观点的人对如何做慈 参考译文 善的一些主张，大到援助贫穷国家，小到在社区做 义工，有人主张根据人的不同收入做慈善，仅能维 持生计的可以不做，有人主张不管收入多少都要 拿出钱来做慈善，可见主张很多，差别也很大，这 里作者是想将这些主张整合到一起，因此填入E) group,group在这里作动词，表示“把……归在一 起”，符合文章意思，故为答案。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前是介词结构asto，相当于"
+              },
+              "answer": "D",
+              "analysis": "about，后面是of引导的介词短语作后置定语修饰 空格处的词，综合可知空格处是一个名词。 【语义判断】空格所在句的前半句提到作者将把慈 善看作是道义上的要求的主张都整合到一起，后 半句用despitethefact进行转折，指出关于道义 上的要求还有广泛的分歧，从本段前面提到的各 种主张可知人们对于慈善该做到何种程度的看法 差别很大，因此填入D）extent“程度，限度”。 全球约有23%的人生活在赤贫之中。在发展中国家，人们的预期寿命很短，婴儿死亡率很高，失业率 和文盲率也很高，营养水平低于可接受的标准，疾病泛滥，而医疗援助却很少或者质量很差。另外一些人 却过着无比富裕和奢侈的生活，可见财富的分配非常不平等。尽管慈善还包括许多其他领域，比如帮助老 年人，但这些才是慈善问题的核心所在。 非常富有的人承诺捐出他们数十亿美元财产中的大部分时，我们都会为他们鼓掌，但他们通常会留下 数百万美元传给后代，这仍然远远超过大多数人一生的预期收入。即便是西方国家相对中等的收入，与全 球范围相比也是非常高的薪水。一个收入达到两万英镑的人每年可以轻松捐出2000英镑，仍有足够的 钱来生活和购买一些奢侈品。 大多数人都认为，从道义上讲，乐善好施是值得称赞的，但慈善行为往往被认为是超出义务范畴的行 为。然而，有些人认为，慈善行为是道德所要求的。这就意味着，不做慈善就是错误的。这方面的大多数 论点都主张向贫穷国家提供援助，但也会主张在自己的社区内做义工。这些论点往往对不同收入阶层的 人提出不同的慈善要求，而对那些仅能维持生计的人完全不做要求。有些人认为，所有人都应捐出其收入 的一定比例来做慈善。我将把所有那些对人们进行慈善捐赠提出道德要求的论点归为一类，尽管人们对 这种道德要求的程度还存在着广泛的分歧。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Distinguish between the two hemispheres of one’s brain.\nB) Determine whether one is left-brained or right-brained.\nC) Tell if one is more of a linguist or of a mathematician.\nD) Ascertain how one’s brain performs different tasks.\nA) How one hemisphere of the brain impacts creativity.\nB) How the two halves of our brains work alternately.\nC) How the two hemispheres of our brains cooperate.\nD) How one half of the brain dominates the other.\nA) It contradicts the assumption that the two hemispheres of the brain are symmetrical.\nB) It dismisses the view that the universe has been evolving in a consistent manner.\nC) It is in conflict with the suggestion that the left and right halves of the brain work together.\nD) It disrupts the idea that the right hemisphere of the brain controls the left side of the body.\nA) There are left-dominant people and right-dominant people with different personalities.\nB) There are noticeable differences between the left and right hemispheres of the brain.\nC) One’s personality is hardly related to the different halves of the brain.\nD) Different are as of the brain are responsible for different activities.\nA) Challenge its authority. C) Evaluate its popularity.\nB) Scrutinize its originality. D) Question its reliability.\nA) It is generally conducted in classrooms without walls.\nB) It allows students to choose teachers they favor most.\nC) It prioritizes peer work over classroom instruction.\nD) It is closely coordinated despite seeming confusion.\nA) It could help raise teachers’ pay. C) It could cut down overall costs:\nB) It could turn out to be a success. D) It could end up like a gamble.\nA) Morale cannot be boosted until teaching models are overhauled.\nB) Teachers are simply too busy to visit classes of their colleagues.\nC) Progress is slow due to lack of collaboration among teachers:\nD) Teachers often do fantastic things without being noticed.\nA) English teachers and science teachers are complementary in performing their tasks.\nB) A teacher of arts and letters is completely puzzled by what a science teacher teaches.\nC) The new teaching model helps inform the teacher how their instruction is received.\nD) Science teachers will hardly know the confusion they create without a performance appraisal.\nA) What to do with teachers working alone. C) How to recruit volunteers for a team.\nB) What to include in teaching schedules. D) How to assess each teacher’s performance.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "People became more and more reliant on others for basic needs as they entered the modern world even though they might",
+              "stemCn": "【定位】由题干中的moreandmorerelianton",
+              "options": {},
+              "optionCn": {
+                "G": "【精析】同义转述题。"
+              },
+              "answer": "G",
+              "analysis": "others for basic needs和entered the modern world定位到文章G段第一至三句。 现代社会后，劳动分工在整个社会中越来越广泛。 每个人的基本需求都越来越依赖别人。然而，由 于被剥夺了我们的祖先因环境所迫而与邻居和当 地社区形成的联系，因此我们感觉到自己越来越 独立于他人。题干中的moreandmorerelianton 对应原文中的moreandmoredependenton，题干 中的as theyenteredthemodernworld是对原文 中at the advent ofthemodern world的同义转 述，题干中的mightfeellessso是对原文中feel ourselves to be more and more independentof one another的同义转述，故答案为G)。"
+            },
+            {
+              "num": 37,
+              "stem": "On the topic of trade, productive debates might be possible, in contrast to the familiar mutual condemn at ion in disc us sing",
+              "stemCn": "【定位】由题干中的productive debates和the",
+              "options": {},
+              "optionCn": {
+                "C": "【精析】同义转述题。"
+              },
+              "answer": "C",
+              "analysis": "familiarmutualcondemnation定位到文章c）段。 讨论话题的领域可能会发生富有成效的辩论，而 不是我们已经习惯了的谴责与反遣责的熟悉惯 例。题干中的productive是原文中fruitful的同 义词，题干中的incontrastto是原文中as opposed to的同义词组，题干中的thefamiliar mutual condemnation in discussing other issues是 对原文中the familiar ritualwe'vebecome accustomedto ofcondemnation met with counter- condemnation的同义转述，故答案为C)。"
+            },
+            {
+              "num": 38,
+              "stem": "We feel greater independence than we actually possess because money allows us to buy things without building any",
+              "stemCn": "【定位】由题干中的allows us tobuythings",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "段第三至七句。 们能够购买他人的劳动，而完全不考虑他们是人。 第五句指出在交换发生之前，人们不需要建立任 何关系。第七句进一步指出，通过这种方式，金钱 让我们感觉比实际情况更独立。题干中的fl greater independence对应第七句中的feelmore independent，题干中的allows us to buy things是对 的同义转述，题干中的without buildingany relationships对应I段第五句中的norelationship has tobebuilt，综合归纳可知，答案为I。"
+            },
+            {
+              "num": 39,
+              "stem": "The trouble with today’s trade stems from misconceptions rather than money.",
+              "stemCn": "【定位】由题干中的thetrouble with today'strade",
+              "options": {},
+              "optionCn": {
+                "D": "段前两句。"
+              },
+              "answer": "D",
+              "analysis": "的贸易问题并不是美元和美分的问题，这是一个错 误意识的问题。即贸易问题源于错误的意识，而不 是金钱。题干中的stemsfrom是对原文中itsa matterof的同义转述，题干中的misconceptions是 原文中false consciousness的同义词，故答案为D)。"
+            },
+            {
+              "num": 40,
+              "stem": "For their arguments to prevail, advocates of free trade must try to forge bonds of affection between consumers at home",
+              "stemCn": "【定位】由题干中的forge bondsofaffection定位",
+              "options": {},
+              "optionCn": {
+                "M": "段第一句。"
+              },
+              "answer": "M",
+              "analysis": "贸易者想要在未来赢得政策辩论，他们必须找到 一种方法在美国消费者和外国生产商之间建立情 感纽带，题干意思与此一致。题干中的fortheir arguments to prevail是对原文中 win policy arguments的同义转述，题干中的forge bonds of affection是原文中findawayofforgingbonds ofaffection的同义表达，故答案为M)。"
+            },
+            {
+              "num": 41,
+              "stem": "According to Tocqueville, unlike our ancestors, we and the people we do trade with are strangers to each other.",
+              "stemCn": "【定位】由题干中的unlikeourancestors和wedo",
+              "options": {},
+              "optionCn": {
+                "J": "段第四句。"
+              },
+              "answer": "J",
+              "analysis": "尔将我们与之比较的祖先相反，我们不知道那个 我们必须在经济或政治领域与之打交道的人是 谁。题干中的unlikeourancestors是对原文中as opposed to the ancestors的同义转述，题干中的 we do trade with是对原文中with whomwehave to do的同义转述，我们不知道与之打交道的人是 谁就意味着与之打交道的是陌生人，故答案为J）。"
+            },
+            {
+              "num": 42,
+              "stem": "In primitive societies, people had to rely mostly on themselves to meet their personal needs.",
+              "stemCn": "【定位】由题干中的inprimitive societies和meet",
+              "options": {},
+              "optionCn": {
+                "E": "段第二句。"
+              },
+              "answer": "E",
+              "analysis": "会中，劳动分工在很大程度上还不发达，要求每个 人、家庭或部落在满足自己的基本物质需求时相 对独立，也即人们需要依靠自己来满足个人需求。 题干中的relymostlyonthemselves对应原文中 的berelatively independent，题干中的meettheir personalneeds是对原文中when it cameto meeting their ownbasic material needs的同义转 述，故答案为E）。"
+            },
+            {
+              "num": 43,
+              "stem": "Few commodities in American homes are not reliant on people abroad in the process of manufacture and sale.",
+              "stemCn": "【定位】由题干中的few commodities in American",
+              "options": {},
+              "optionCn": {
+                "H": "段第二句。"
+              },
+              "answer": "H",
+              "analysis": "homes和in theprocess ofmanufacture and sale 庭中，几乎没有任何一件商品，在其制造和销售过 程中，不是通过各种各样的供应链，依赖于分布在 全球各地的众多人员，题干意思与此一致。题干中 的few commodities inAmericanhomes对应原文中 的scarcely a single commodity in any American household，题干中的notrelianton是原文中“isn't dependent...on”的同义词组，故答案为H)。"
+            },
+            {
+              "num": 44,
+              "stem": "Protectionists argue against free trade by refer ring to the losses suffered by domestic producers and communities.",
+              "stemCn": "【定位】由题干中的protectionists和thelosses",
+              "options": {},
+              "optionCn": {
+                "A": "段。"
+              },
+              "answer": "A",
+              "analysis": "sufferedby domestic producers andcommunities 者和传统自由主义者之间关于贸易政策存在敌 意，第二句指出自由贸易者的观点，第三句接着提 到，保护主义者指出，国内生产者为全球化经济付 出了代价，失去了生计，社区被掏空。综合可知， 保护主义者用国内生产者和社区遭受的损失来据 理反对自由贸易。题干中的referringto和原文 中的pointto是同义词组，题干中的thelosses suffered by domestic producers and communities 对应原文中的thedomesticproducerswho've paid theprice for this globalized economy in the form of lost livelihoods and hollowed-out communities，故答案为A)。"
+            },
+            {
+              "num": 45,
+              "stem": "It is extremely hard to make people feel dependent on and grateful to strangers overseas.",
+              "stemCn": "【定位】由题干中的gratefulto strangers overseas",
+              "options": {},
+              "optionCn": {
+                "L": "段第二句和第四句。"
+              },
+              "answer": "L",
+              "analysis": "对陌生人心存感激，全球市场让我们变得如此富 有，但也让我们彼此变得陌生。第四句指出，对外 册·2024年12月六级真题（三）34 国陌生人产生依赖和感激的感觉是一项艰巨的任 务。综合可知，让人们对国外的陌生人产生依赖 和感激之情是很困难的。题干中的extremely hard是原文中exceedinglydifficult的同义词组， 参考译文 题干中的feel dependent on对应原文中的asense of dependence upon；题干中的 grateful to strangers对应原文中的feelgratitudetoward strangers，故答案为L）。 自由贸易悖论 税贸易为全世界的消费者带来了不可否认的好处，在那些开放了之前被封闭的市场的世界上各个角落， 贫困明显减轻了。保护主义者指出，国内生产者为全球化经济付出了代价，失去了生计，社区被掏空。 量经过深思熟虑的政策建议。 这个领域可能会发生富有成效的辩论，而不是我们已经习惯了的遣责与反遣责的熟悉惯例 题。这一观察必然会在一些读者的脑海中敲响马克思主义的警钟，但它最早是由亚历克西斯·德·托 克维尔在1840年提出的。 现实和人类对这些现实的体验越来越偏离彼此。（42）他指出，在原始社会中，劳动分工在很大程度上 还不发达，要求每个人、家庭或部落在满足自己的基本物质需求时相对独立。男人建造自己的住所，耕 种自己的土地，照料自己的牲畜。这并不是否认存在过基本的贸易形式。但是，在很大程度上，我们的 原始祖先即使极度贫穷，但仍过着相当自力更生的生活。 了一个无法控制的现实，即其他人的存在及其需求。正如托克维尔所指出的，“一旦一个人开始处理公 共事务，他就开始意识到，他并不像他最初想象的那样独立于他的同伴，为了获得他们的支持，他必须 经常与他们合作。” 于被剥夺了我们的祖先因环境所迫而与邻居和当地社区形成的联系，因此我们感觉到自己越来越独立 于他人。当我们越来越依赖别人的时候，我们就越来越不会意识到我们对别人的依赖。这就是现代世 界贸易的悖论。 任何一件商品，在其制造和销售过程中，不是通过各种各样的供应链，依赖于分布在全球各地的众多人 员。但正如托克维尔在1840年所预见的那样，我们并不感觉生活方式依赖于这些陌生人。我们的民 族意识从来没有感觉到我们自己的物质福利依赖于他们的工作。我们很少怀着感激之情思考全球化 的自由贸易之路。 人。与生活在原始城镇的祖先不同，我们很少与发明、建造、运输或供应我们商品的人面对面。在交换 发生之前，不需要建立任何关系。只要在价格上达成一致，你就可以得到任何你想要的商品，而不必为 交易另一方的人考虑。通过这种方式，金钱让我们感觉比实际情况更独立。我们每个人都能感觉到它 凌驾于我们的同伴之上。我们知道，如果出价足够高，我们就可以让自己摆脱建立关系的耗时劳动。 在这方面，金钱有点像魔法。它给了我们一套固定程序和承诺，如果我们这样做，我们将能够对他人行 使权力。人们产生了一种错觉，认为有足够的钱买东西就等于知道如何自己制造它。对构成供应链的 无名男士和女士们的感激之情很少进入我们的意识。 事实上，匿名性是自由贸易悖论的第二个根源。现代性把每个人从地域和社区的限制中解放出来。总 的来说，当我们交易时，我们和陌生人交易；当我们投票时，我们投票给陌生人；当我们观看、阅读或听 故事时，故事的讲述者都是陌生人。（41）与托克维尔将我们与之比较的祖先相反，我们不知道我们必 须在经济或政治领域与之打交道的人是谁。这只是市场的神奇力量被遮挡的一面，在这个市场上有史 以来第一次允许陌生人之间相互照顾。它们也让我们每个人越来越多地以陌生人的身份生活。这就 是托克维尔——相当悲观地——对我们的描述：每个人，站在一边，对其他人的命运来说就像一个陌生 人；他的孩子和私人朋友构成了他眼中的整个人类。至于其余的同胞，他在他们身边，却视而不见。他 触摸他们，却毫无感觉。他只为自己而存在。 们，但毫无感觉。” 富有，但也让我们彼此变得陌生。我们的大脑天生就适合部落生活，而部落对陌生人并不友好。 （45-2）因此，对外国陌生人产生依赖和感激的感觉是一项艰巨的任务。 册·2024年12月六级真题（三）35 之间建立情感纽带。只有让那些为我们提供我们所享受的海外商品和服务的男士和女士们去匿名 化，创造一种超越经济利益的跨越国界的团结和关系，自由贸易才能取得胜利。否则，贸易保护主义 者以民族主义团结的形式所拥有的天生的生物优势，注定会在投票箱上获胜。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "There are hundreds of personality quizzes online that assert they can ascertain whether the right or left half of your brain is dominant. Left-brained people are supposedly logical and excel at language and math while right-brained people are more imaginative, emotionally intelligent and skilled with spatial reasoning. There’s just one problem: That’s not how brains work. Popular science enthusiasts sort of to ok this idea and ran with it, and it’s become woven in popular culture now, and it’s not going away. Despite this enduring belief, there’s no such thing as being “right-brained” or “left-brained”. Whether you’re someone who tends more towards creativity or logic has nothing to do with one hemisphere of your brain being dominant over the other. But the actual science of how the two halves of our brains work together is sometimes stranger than fiction. The human brain is divided into two hemispheres, the left and right. In all vertebrate (脊椎的) animals, the right hemisphere controls the left side of the body and vice versa. And scientists have long known, thanks to the behaviors of patients who suffered brain injuries, that different are as of the brain do different things. ===== PAGE 4 ===== But many scientists struggled with this idea, because the very suggestion that the left and right halves of the brain operate differently disrupted the idea that nature tends toward perfect symmetry. Work by neuroscientists (神经科学家 ) has revealed the importance of different hemispheres of the brain for different activities. However, their research quickly saw some misinterpretations in the general public: Some presumed creative people must be right-brained and logical people left-brained. It is proven that not only is personality unrelated to the different halves of the brain, but people aren’t really right- or left-brained to begin with. The idea that we have left-dominant people and right- dominant people, and that this is related to personality, is categorically false. That’s never been supported in the neuroscience community. Neuroscientists don’t believe that and never have. What scientists learned is that there are really important differences between the left hemisphere and the right hemisphere. It’s just that they have nothing to do with personality or whether cognitive strategy is more logical or free spirited or creative. While researchers have shown the limitations of how the hemispheres of our brains influence our lives, it’s not difficult to understand the appeal of such ideas. People are endlessly fascinated by themselves and their friends, and the subtle differences in how people think about the world are really meaningful to them. When you come up with an online quiz that tells us something about ourselves, we’re drawn to that. It’s irresistible. But you have to take it with an enormous grain of salt.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do numerous personality quizzes online claim they are able to do?",
+              "stemCn": "【定位】由题干中的numerous personality quizzes",
+              "options": {
+                "A": "Distinguish between the two hemispheres of one’s brain.",
+                "B": "Determine whether one is left-brained or right-brained.",
+                "C": "Tell if one is more of a linguist or of a mathematician.",
+                "D": "Ascertain how one’s brain performs different tasks."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第一段第一句指出，网上有"
+              },
+              "answer": "B",
+              "analysis": "online定位到第一段第一句。 数百种性格测试，声称能够确定你的大脑是左脑 还是右脑占主导地位，即确定人们是左脑型人还 是右脑型人，故答案为B）。 【避错】由第一段第一句可知，这些在线性格测试 声称能够确定你的大脑是左脑还是右脑占主导地 位，而不是区分大脑的左右半球，故排除A）项；该 段第二句提到左脑型人被认为擅长语言和数学， 由此可知，在线性格测试并不能判断一个人更像 是语言学家还是数学家，因为他们都属于左脑型 人，故排除C）项；该段最后一句指出这并非大脑 的工作方式，由此可知，在线性格测试不能确定一 个人的大脑如何执行不同的任务，故排除D）项。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the author say is sometimes stranger than fiction?",
+              "stemCn": "【定位】由题干中的strangerthanfiction定位到",
+              "options": {
+                "A": "How one hemisphere of the brain impacts creativity.",
+                "B": "How the two halves of our brains work alternately.",
+                "C": "How the two hemispheres of our brains cooperate.",
+                "D": "How one half of the brain dominates the other."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第三段最后一句指出，关于"
+              },
+              "answer": "C",
+              "analysis": "第三段最后一句。 我们大脑的两个半球如何协同工作的实际科学有 时比小说还要奇特，选项C）的意思与此一致，故 为本题答案。 【避错】第三段第二句提到了creativity和one hemisphere of your brain being dominant over theother，但该句是指无论你是一个更倾向于创 造力还是逻辑的人，这都与你大脑的一个半球支 配另一个半球毫无关系，而不是指大脑的一个半 球如何影响创造力或者大脑的一半如何支配另一 半，故同时排除A）项和D）项；第三段最后一句指 出我们大脑的两个半球如何协同工作，而不是交 替工作，B）项与原文表述不符，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "Why did many scientists have difficulty end or sing the idea that different are as of the brain do different things?",
+              "stemCn": "【定位】由题干中的many scientists have difficulty",
+              "options": {
+                "A": "It contradicts the assumption that the two hemispheres of the brain are symmetrical.",
+                "B": "It dismisses the view that the universe has been evolving in a consistent manner.",
+                "C": "It is in conflict with the suggestion that the left and right halves of the brain work together.",
+                "D": "It disrupts the idea that the right hemisphere of the brain controls the left side of the body."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。文章第五段提到，许多科学"
+              },
+              "answer": "A",
+              "analysis": "endorsing the idea和different areas of thebrain do differentthings定位到文章第五段。 家对此想法感到困惑，因为大脑左右半球运作方 式不同的这一说法颠覆了自然界倾向于完美对称 的观点。由上一段最后一句可知，令许多科学家 感到困惑的想法是，大脑的不同区域有不同的功 能。由此可推断出，科学家们难以认同大脑不同 区域有不同功能的想法是因为该想法颠覆了自然 界倾向于完美对称的观点，故答案为A)。 【避错】原文中并未提到宇宙一直在以一致的方式 进化的观点，选项B）为无中生有，故排除；第三段 最后一句提到了the two halves of our brains worktogether，指的是关于我们大脑的两个半球 如何协同工作的实际科学有时比小说还要奇特， 而不是与大脑不同区域有不同功能的想法相矛 盾，故排除C）项；第四段第二句中提到了在所有 脊椎动物中，右脑半球控制身体的左侧，这是为了 说明大脑的不同区域有不同的功能，故排除"
+            },
+            {
+              "num": 49,
+              "stem": "What belief have neuroscientists long rejected according to the passage?",
+              "stemCn": "【定位】由题干中的neuroscientistslong rejected",
+              "options": {
+                "A": "There are left-dominant people and right-dominant people with different personalities.",
+                "B": "There are noticeable differences between the left and right hemispheres of the brain.",
+                "C": "One’s personality is hardly related to the different halves of the brain.",
+                "D": "Different are as of the brain are responsible for different activities."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第六段第四句指出，那种认"
+              },
+              "answer": "A",
+              "analysis": "定位到第六段第四句和第六句。 为我们有左脑或右脑主导者且这与性格相关的想 法是绝对错误的。紧接着该段最后一句提到，神 经科学家不相信，也从未相信过。由此可知，神经 科学家长期以来拒绝相信的是存在左脑或右脑主 导者，且他们的性格不同，故答案为A)。 【避错】最后一段第一句提到了左右脑半球之间确 实存在着重要差异，但这是指科学家们所了解到 的，而不是他们拒绝相信的，B）与原文表述不符， 故排除；第六段第三句指出性格与大脑不同半球 无关，并表明这是经过证明的，也就是说这也并非 神经科学家拒绝相信的观点，故排除C）项；第四 段最后一句提到科学家们早已知晓，大脑的不同 册·2024年12月六级真题（三）36 区域有不同的功能，并且第六段第一句强调神经 科学家的研究成果揭示了大脑不同半球对不同活 动的重要性，由此可知，神经科学家相信大脑的不 同区域负责不同的活动，故排除D）项。"
+            },
+            {
+              "num": 50,
+              "stem": "What are we advised to do with an online quiz that tells us something about ourselves?",
+              "stemCn": "【定位】由题干中的do withanonlinequizthat",
+              "options": {
+                "A": "Challenge its authority.",
+                "B": "Scrutinize its originality.",
+                "C": "Evaluate its popularity.",
+                "D": "Question its reliability."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。最后一段第五句提到，当你"
+              },
+              "answer": "D",
+              "analysis": "tells us something about ourselves定位到文章最 后一段第五句和最后一句。 参考译文 想出一个在线测试来告诉我们一些关于自身的事 情时，我们就会受其吸引。然后该段最后一句提 出建议you have to take it with an enormous grain of salt,with an enormous grain of salt在此 处意为“持怀疑态度”，故答案为D）。 【避错】原文并未提及建议人们挑战在线测试的权 威性、审查在线测试的独创性和评价在线测试的 流行性，故同时排除A)、B）和C）项。 （46）网上有数百种性格测试，声称能够确定你的大脑是左脑还是右脑占主导地位。左脑型人被认为 逻辑思维强，且擅长语言和数学，而右脑型人更具想象力，情商更高，空间推理能力也更强。只存在一个问 题:这并非大脑的工作方式。 科普爱好者在某种程度上接受了这一想法，并将其付诸实践，如今它已融入了流行文化，不会消失 不见。 尽管这一看法长期存在，但其实并没有“右脑型”或“左脑型”这回事。无论你是一个更倾向于创造力 还是逻辑的人，这都与你大脑的一个半球支配另一个半球毫无关系。（47）但是，关于我们大脑的两个半球 如何协同工作的实际科学有时比小说还要奇特。 人脑分为两个半球，左半球和右半球。在所有脊椎动物中，右半球控制身体的左侧，反之亦然。由于 脑损伤患者的行为，科学家们早已知晓，大脑的不同区域有不同的功能。 (48)但许多科学家对此想法感到困惑，因为大脑左右半球运作方式不同的这一说法颠覆了自然界倾 向于完美对称的观点。 神经科学家的研究成果揭示了大脑不同半球对不同活动的重要性。然而，他们的研究很快就发现了 公众的一些误解：有些人认为有创造力的人一定是右脑型，而有逻辑的人一定是左脑型。事实证明，不仅 性格与大脑不同半球无关，而且人类并非一开始就是真正的右脑或左脑型。（49-1）那种认为我们有左脑 或右脑主导者且这与性格相关的想法是绝对错误的。这在神经科学界从未得到过支持。（49-2）神经科学 家不相信，也从未相信过。 科学家们所了解到的是，左右脑半球之间确实存在着重要差异。只是它们与性格无关，也与认知策略 是否更具逻辑性、自由性或创造性无关。虽然研究人员已证明大脑半球影响我们生活的方式的局限性，但 不难理解此类想法的吸引力。人们总是对自己和朋友充满兴趣，人们对世界看法的细微差异对他们来说 确实意义非凡。（50-1）当你想出一个在线测试来告诉我们一些关于自身的事情时，我们就会受其吸引。 这是不可抗拒的。（50-2)但你必须对此持怀疑态度。 Passage Two 【文章来源】本文选自2022年11月19日刊登在www.abc15.com/news上一篇标题为“InOneMesa Classroom，FourTeachersManage135Kids—andLoveIt”（《在梅萨的一间教室里，4位老师管理着135名孩子， 而且他们很喜欢这样》)的文章。 【结构框图】 第一至三段介绍了美国一所高中引入的新教学模式——团队教学的 基本情况。 文章主要介绍了美国韦斯特伍 第四、五段解释校方引入这种教学模式的初衷。 德高中尝试的一项新的教学模 式——团队教学，并介绍了其 基本模式和初步效果。 第六至八段重点说明新教学模式的积极成效。 第九段说明新教学模式存在局限和尚未解决的难点问题。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "One hundred thirty-five students, four teachers, one giant classroom: This is what 9th grade looks like at West wood High School, in Mesa, Arizona’s largest school system. There, an innovative teaching model has taken hold, and is spreading to other schools in the district and beyond. Five years ago, faced with high teacher turnover and declining student enrollment, West wood’s leaders decided to try something different. Working with professors at Arizona State University’s teachers college, they piloted a classroom model known as team teaching, which allows teachers to dissolve the walls that separate their classes across physical or grade divides. The teachers share large groups of students --- sometimes 100 or more --- and rotate between group instruction, one-on- one interventions, small study groups, or whatever the teachers as a team agree is a priority that day. What looks at times like chaos is in fact a care fully orchestra ted plan: Each morning, the West wood teams meet to hammer out a personalized program ===== PAGE 5 ===== for every student the team will focus on that day. By giving teachers more opportunity to collaborate, Mesa’s administrators hoped to fill staffing gaps and boost teacher morale and retention. Initial research suggests the gamble could pay off. “Teachers are doing fantastic things, but it's very rare a teacher walks into another room to see What’s happening,” said And i Fourlis, superintendent of Mesa Public Schools. “Our profession is so slow to advance because we are working in isolation.” Of course, overhauling teaching approaches can't fix all the frustrations teachers have, such as low pay, but early results from Mesa show team teaching may be helping to reverse low morale. In a survey of hundreds of the district’s teachers, researchers found those who worked on teams reported greater job satisfaction, more frequent collaborations with colleagues, and more positive interactions with students. Another benefit of teams, teachers say, is that they can help each other improve their instruction. During one planning session, English teacher Jeff Hall shared a performance appraisal with a science teacher: Her recent lecture on something she called “the central dogma of biology” had bewildered him and their other teammates. “If the science is too confusing for me can you imagine the frustration you feel as kids?” Hall said. But the science teacher, he said, wouldn’t have known about the confusion on her own. The model is not for everyone. Some teachers approached about volunteering for a team have said they prefer to work alone. Team teaching can also be a scheduling nightmare. especially at schools like West wood where only some staff work in teams. There are also thorny questions like how to evaluate four teachers on the performance of 135 students. But for the time being. it seems to be working.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn about team teaching from the passage?",
+              "stemCn": "【定位】由题干中的teamteaching定位到第二段",
+              "options": {
+                "A": "It is generally conducted in classrooms without walls.",
+                "B": "It allows students to choose teachers they favor most.",
+                "C": "It prioritizes peer work over classroom instruction.",
+                "D": "It is closely coordinated despite seeming confusion."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。定位句提到了团队教学，而"
+              },
+              "answer": "D",
+              "analysis": "第二句，并浏览后文相关信息。 在第三段中介绍了这种教学模式的基本情况，其 中该段最后一句说，这种课堂形式虽看似混乱，但 实际上是一个精心策划的计划，经过了团队的开 会商谈，而该段第一句也提到课堂上教师们轮流 开展各种教学形式的活动，可见这种教学是密切 协调过的，故答案为D）。 【避错】第二段最后一句提到这种教学模式消除了 物理上的壁垒，指的是班级扩大，将分割小班级的 墙壁打通，而不是教室没有墙壁，故排除A）；根据 册·2024年12月六级真题（三）37 第一段及第三段开头的信息可知，这种教学是几 位教师面对一大群学生，轮流开展各种教学活动， 并没有提到学生能自己选择最喜欢的老师，故排 除B)；根据原文，合作是这种课堂教学的特点，不 存在合作优先于课堂教学的问题，故排除C）。"
+            },
+            {
+              "num": 52,
+              "stem": "What does initial research suggest regarding West wood’s innovative teaching model?",
+              "stemCn": "【定位】由题干中的initialresearch定位到第四段",
+              "options": {
+                "A": "It could help raise teachers’ pay.",
+                "B": "It could turn out to be a success.",
+                "C": "It could cut down overall costs:",
+                "D": "It could end up like a gamble."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句提到，初步研究表明，"
+              },
+              "answer": "B",
+              "analysis": "第二句。 这场赌博可能会得到回报，结合前文所述，可知这 句话所说的意思是，韦斯特伍德有可能像其希望 的那样，通过创新教学模式，给教师更多的合作机 会，来填补人员缺口，提高教师士气和留任率，即 创新教学初见成效，故答案为B）。 【避错】第六段首句明确指出，创新教学方法不能 改变教师低工资的情况，A）与原文相悖，故排除； 新教学方法可能带来的益处主要在第四段首句陈 述，其中没有提到能降低整体成本，故排除C)；D) 只抓住了定位句的只言片语，作者在这里所说的 “赌博”不能做字面理解，而是指创新教学的结果 像赌博一样，难以预知其结果，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What did superintendent And i Fourlis say about the teaching profession?",
+              "stemCn": "【定位】由题干中的人名关键词AndiFourlis定位",
+              "options": {
+                "A": "Morale cannot be boosted until teaching models are overhauled.",
+                "B": "Teachers are simply too busy to visit classes of their colleagues.",
+                "C": "Progress is slow due to lack of collaboration among teachers:",
+                "D": "Teachers often do fantastic things without being noticed."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。在定位段中，安迪·福利斯"
+              },
+              "answer": "C",
+              "analysis": "到第五段。 评价了教师行业，她认为这个行业之所以发展如 此缓慢，是因为教师们都在单打独斗地工作，可见 她认为缺乏合作是行业发展缓慢的原因，故答案 为C）。 【避错】A）项张冠李戴，提高教师士气是第四段提 及的，并不代表安迪·福利斯个人对教师行业的 看法，故排除；B）是对定位段首句的曲解，原句的 意思是教师们不了解自己同事的教学情况，并非 指老师们太忙而不能去看同事们的班级，故排除 该项；D）是利用定位段首句部分词汇设置的干扰， 原文的意思是教师们单独做得都很好，但缺乏彼 参考译文 此的了解与合作，与他们是否被注意到无关，故 排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author want to show by citing English teacher Jeff Hall’s experience?",
+              "stemCn": "【定位】由题干中的人名关键词JeffHall定位到",
+              "options": {
+                "A": "English teachers and science teachers are complementary in performing their tasks.",
+                "B": "A teacher of arts and letters is completely puzzled by what a science teacher teaches.",
+                "C": "The new teaching model helps inform the teacher how their instruction is received.",
+                "D": "Science teachers will hardly know the confusion they create without a performance appraisal."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句提到英语老师对科学"
+              },
+              "answer": "C",
+              "analysis": "第七段最后一句。 老师的教学内容感到困惑，并在随后一段进一步 解释了其意义，即如果其他科目的老师不能理解 教学内容，孩子更无法理解，并指出如果不是通过 新的教学模式，科学老师是无法发现这个问题的。 换言之，新的教学模式帮助教师了解学生是否能 接受教学内容，故答案为C）。 【避错】原文中突出的是其他老师难以理解科学老 师的教学内容，没有谈到两者的互补，故排除A)； 教学内容的情况在这次教学模式创新中有何意 义，且将英语过度推断成艺术与文学，故排除；根 据定位部分可知，科学老师了解教学对象的困惑， 是通过其他同事的反馈，而不是绩效评估，故排 除D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author think is one of the difficult problems in implementing the new teaching model?",
+              "stemCn": "【定位】由题干中的difficultproblems定位到文章",
+              "options": {
+                "A": "What to do with teachers working alone.",
+                "B": "What to include in teaching schedules.",
+                "C": "How to recruit volunteers for a team.",
+                "D": "How to assess each teacher’s performance."
+              },
+              "optionCn": {
+                "D": "【精析】观点态度题。由定位句可知，团队教学的"
+              },
+              "answer": "D",
+              "analysis": "最后一段倒数第二句。 创新模式还有一些棘手的问题，比如如何以135 名学生的表现来评估4名教师，可见作者认为这 个新教学模式的难点之一在于教师表现的评估问 题，故答案为D）。 【避错】最后一段中虽然提到有些教师仍会继续单 独工作，而不参与团队教学，但并没有将这一点列 为试行新模式的难点，故排除A）；该段第三句虽 提及scheduling，但说的不是教学内容的安排，而 是指团队教学的时间安排会成为问题，B）项理解 有误，故排除；C）则是利用最后一段第二句中的 volunteering一词设置的干扰，但原文中该词意为 “自愿（做某事）”，与志愿者无关，故排除。 135名学生，4名教师，一个巨大的教室：这就是亚利桑那州最大的学校系统梅萨的韦斯特伍德高中九 年级的样子。在那里，一种创新的教学模式已经深入人心，并正在向该地区其他学校及更远的地方推广。 5年前，面对教师流动率高和学生入学率下降的问题，韦斯特伍德的领导们决定尝试一些不同的方 法。（51-1）他们与亚利桑那州立大学师范学院的教授合作，试行了一种称为团队教学的课堂模式，让教师 能够消除从物理上或年级差异上分隔课堂的壁垒。 教师们共享一大群学生——有时是100名或更多—轮流开展小组教学、一对一干预、小型学习组， 或者教师团队一致认定的当天的优先事项。（51-2）这种有时看似混乱的情况实际上是一个精心策划的计 划：每天早上，韦斯特伍德团队都会开会，为团队当天关注的每个学生制订出一个个性化的计划。 梅萨的管理层希望通过给教师更多的合作机会来填补人员缺口，提高教师士气和留任率。（52）初步 研究表明，这场赌博可能会得到回报。 (53)“老师们都做得很棒，但很少有老师走进另一间教室去看看那里在发生什么，”梅萨公立学校的主 管人安迪·福利斯说，“我们的行业发展如此缓慢，是因为我们都在单打独斗地工作。” 当然，全面改革教学方法并不能消除教师的所有失意，比如低工资，但梅萨学校的早期成果表明，团队 教学可能有助于扭转士气低落的局面。在一项针对该地区数百名教师的调查中，研究人员发现，那些在团 队中工作的人称，他们的工作满意度更高，与同事的合作更频繁，与学生的互动也更积极。 教师们表示，团队的另一个好处是，他们可以互相帮助，提高教学质量。（54-1)在一次规划会议上，英 语老师杰夫·霍尔与一位科学老师分享了一份绩效评估：她最近关于她所谓的“生物学核心教义”的讲座 让他和他们的其他团队伙伴感到困惑。 （54-2)“如果科学对我来说都太令人困惑不解了，那么你能想象孩子们的挫败感吗?”霍尔说。但他 说，这位科学老师自己以前绝不会了解到这种困惑。 册·2024年12月六级真题（三）38 这种模式并不适合所有人。一些曾自愿尝试参与团队工作的老师表示，他们还是更喜欢独自工作。 团队教学也可能成为时间安排上的疆梦，尤其是在韦斯特伍德这样只有一部分员工以团队形式工作的学 校里。（55）还有一些棘手的问题，比如如何以135名学生的表现来评估4名教师。但就目前而言，团队教 学似乎还是行得通的。 PartI Translation Exploring outer space has long been a dream of the Chinese nation. In 2003,the Shenzhou-5 spacecraft was successfully launched，enablingYangLiweitobecome the firstChineseastronaut sent into space. In 2008, the Shenzhou-7 spacecraft rocketed into sky,making Zhai Zhigang the first Chinese astronaut to conduct a 3. spacewalk in China's history. In recent years, China's aerospace industry has entered the “fast lane”of innovative development, with steady progress achieved in the construction of space infrastructure andtheChinaSpaceStation fullycompletedin2022.Notonlyhasthe rapid development of China's aerospace industry written a glorious chapter in the 5. history of theChinese nation.but it has also made great contributions to the"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "遨游太空历来是中华民族的梦想。 2003 年,神舟五号飞船发射成功 ,杨利伟成为第一个飞入太空的中国宇航员。 2008 年,神舟七号升空 ,翟志刚成为中国历史上首位进行太空行走的宇航员。近年来 ,中国航天进入创新发展快车道 ,太空基 础设施建设 稳步 推进 ,中国空间站于 2022 年全面建成。中国航天事业的迅速发展在中华民族的历史上写下了辉煌一 页,也为人类文明进步做出了巨大贡献。未来 ,中国探索太空的脚步将迈得更 稳,更远。 ===== PAGE 6 =====",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "id": "cet4-2022_06_2",
+  "level": 4,
+  "year": 2022,
+  "month": 6,
+  "setNo": "第2套",
+  "title": "2022年6月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose you are going to write a proposal to your student union for enriching students extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal.You should write at least 120 words but no more than180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_2-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. If you've everlooked at the ingredients list while grocery shopping, chances are you've seen the term \"naturalflavors\".But have you taken a 26 to consider what these natural flavors actually are? Most of us might think that“naturalflavors”are, well，naturally good for us. Are cent study in the journal Appetite found that when the word\"natural”appears on packaging, people 27 that the food within is indeedhealthier. In truth, naturalflavors do not 28 much, at least chemical lys pea king, from their flavor-boosting 29:artificialflavors. Both can be made in a lab by trained flavorists, but artificialflavors use chemicals to give a product a 3o smell or taste. Naturalflavors come from plant or animal 31 ，like fruit, vegetable, meat, fish or milk that is then processedorrefined in some way. In short, naturalflavors are 32.from plants and animalsto create specificflavors forprocessedfoods. But that does not 33 make it easier to tell what is really in your food. Because the Food and Drug Administration(FDA) has not 34 the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors canal so include a variety of chemicaladditives, such as preservatives. TheFDAdoesn'trequire companies to reveal what additional chemicals a specific item_35 So if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer's market. 2022.6/9（第2套） ===== PAGE 2 =====",
+          "wordBank": {
+            "A": "acknowledge",
+            "B": "chance",
+            "C": "contains",
+            "D": "counterparts",
+            "E": "defined",
+            "F": "differ",
+            "G": "especially",
+            "H": "extracted",
+            "I": "implies",
+            "J": "necessarily",
+            "K": "particular",
+            "L": "perceive",
+            "M": "second",
+            "N": "sources",
+            "O": "strange"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "second。备选项中的"
+              },
+              "answer": "M",
+              "analysis": "M【语法判断空格前有不定冠词a，且空格处在句 中作宾语，因此本空应填入可数名词单数形式。 【语义判断】首句提到，人们买食品的时候，很可能 看到过“天然香辛料”这个词。空格所在句提出疑 问：你有没有 想过这些天然香辛料到底 是什么？takea second意为“花点时间”，符合语 chance可构成短语takeachance，意为“冒险”。 由常识可知，人们在购物时考虑下配料表中的成 分，不需要进行冒险，chance不符合语境，可以 排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】分析句子结构可知，found后的that"
+              },
+              "answer": "L",
+              "analysis": "引导宾语从句，作found的宾语，people是该从句 的主语，空格后的that也引导宾语从句，因此本空 应填入动词作谓语。 【语义判断】由本段第一句可知，我们大多数人可 能会认为“天然香辛料”自然对我们有好处。空格 所在句指出，当“天然”一词出现在包装上时，人们 里面的食物确实更健康，因此本空应填 入含有“认为”意义的动词，由此确定答案为L） perceive。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格前有助动词的否定形式donot，"
+              },
+              "answer": "F",
+              "analysis": "因此本空应填入动词原形。 【语义判断】空格所在句指出，至少从化学角度来 说，天然香辛料与人造香辛料并没有 太 大。由下一句可知，这两种香辛料都可以在实验 室里由训练有素的调味师制作。由此可以推断， 从化学角度来看，两者并没有太大区别，因此本空 应填入含有“区别，不同”意义的动词原形，由此确 定答案为F）differ。differfromsth.意为“不同 于某物”。 2022.6/16（第2套）"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前有形容词性物主代词their和"
+              },
+              "answer": "D",
+              "analysis": "形容词flavor-boosting，因此本空应填入名词。 【语义判断】冒号后的artificialflavors是对their flavor-boosting 的解释。本句中，natural flavors与artificialflavors是相对的，因此空格处 应填人含有“对应的事物”意义的名词，由此确定 答案为D）counterparts。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格位于不定冠词a和名词smell之"
+              },
+              "answer": "K",
+              "analysis": "间，因此本空应填入形容词。 【语义判断】空格所在句指出，这两种香辛料都可 以在实验室里由训练有素的调味师制作，但人工 香辛料使用化学物质使产品具有一种 气 味或味道。因此，本空应填入含有“特别的，特殊 的”意义的形容词，由此确定答案为K）particular。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格前有名词词组plantoranimal，"
+              },
+              "answer": "N",
+              "analysis": "且空格处在句中作宾语，因此本空应填入名词。 【语义判断】空格所在句指出，天然香辛料来自植物 或动物 ，如水果、蔬菜、肉、鱼或奶。由此可 知，本句说明天然香辛料的来源，因此本空应填入含 有“来源”意义的名词，由此确定答案为N)sources。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格前是are，空格后是介词from，因"
+              },
+              "answer": "H",
+              "analysis": "此本空应填入形容词或动词的分词形式，且该词 能与from搭配。 【语义判断】空格所在句指出，天然香辛料 植物和动物，为加工食品创造特定的味 道。由本段首句可知，天然香辛料来自植物或动 物，因此本空应填入含有“提取，提炼”意义的动 词，由此确定答案为H）extracted。 参考译文"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】分析句子结构可知，句子成分完整，因"
+              },
+              "answer": "J",
+              "analysis": "此空格处应填入副词作状语。 【语义判断】空格所在句指出，但这不 更 容易分辨出食物中真正的成分。结合下一句可 知，公司可以用天然香辛料来指代几乎任何从植 物或动物中提取的东西。由此可知，即使标注天 然香辛料，也未必能让人分辨出食物中的真正成 分，因此本空应填入含有“一定，必然”意义的副 词，由此确定答案为J）necessarily。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格位于Because引导的原因状语从"
+              },
+              "answer": "E",
+              "analysis": "句中，从句缺少谓语动词，空格前有hasnot，因此 本空应填入动词的-ed形式。 【语义判断】空格所在句指出，由于美国食品和药 品管理局（FDA）没有 这个词，公司可以 用它来指代几乎任何从植物或动物中提取的东 西。由此可知，FDA没有界定这个词（natural flavors），所以公司可以滥用这个词。因此，本空 应填入含有“解释，定义”意义的动词，由此确定答 案为E)defined。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】分析句子结构可知，whatadditional"
+              },
+              "answer": "C",
+              "analysis": "chemicals a specific item 是一个宾语从 句，作reveal的宾语，还原为陈述语序为a specific item what additional chemicals，因此本 空应填入谓语动词。 【语义判断】空格所在句指出，FDA并没有要求公 司披露某个特定的产品中 哪些额外的化 学物质。由句意可知，人们并不知道产品中含有 哪些化学物质，因此本空应填入表达“包含，含有” 意义的动词，由此确定答案为C)contains。 如果你在杂货店购物时看过配料表，你很可能看到过“天然香辛料”这个词。但你有没有花时间想过 这些天然香辛料到底是什么? 我们大多数人可能会认为“天然香辛料”自然对我们有好处。《食欲》杂志最近的一项研究发现，当“天 然”一词出现在包装上时，人们会认为里面的食物确实更健康。事实上，至少从化学角度来说，天然香辛料 与对应的增强风味的人造香辛料并没有太大区别。这两种香辛料都可以在实验室里由训练有素的调味 师制作，但人工香辛料使用化学物质使产品具有特定的气味或味道。 天然香辛料来自植物或动物，如水果、蔬菜、肉、鱼或奶，然后以某种方式加工或精炼。简而言之，天然 香辛料是从植物和动物中提取的，为加工食品创造特定的味道。但这未必会让你更容易分辨出食物中真 正的成分。由于美国食品和药品管理局（FDA）没有定义这个词，公司可以用它来指代几乎任何从植物或 动物中提取的东西。天然香辛料也可以包括各种化学添加剂，如防腐剂。FDA并没有要求公司披露某个 特定的产品中包含哪些额外的化学物质。 所以，如果你想确切知道你买的东西是什么，你可能会想去农贸市场。 2022.6/17（第2套）"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "C) It enables employees to form connections.\nD) Employees spend much of their work time on it.\nA) It influences employees’work negatively. C) It kills employees' motivation for work.\nB) It does much harm to employee loyalty. D) It affects employers'decision-making.\nB) It tends to vary with the platform used.\nC) It has much to do with whom employees interact with.\nD) It is hard to measure whenemployees interact withoutsiders.\nA) They seldom expressed their inner thoughts.\nB) Most of them explored new job opportunities.\nC) They were reluctant to collaborate wit hot hers.\nD) Many of them ended with lower productivity.\nA) Givepromotions to employees fort heir accomplishments.\nB) Create opportunities for employees to share success stories.\nC) Acknowledge employees'achievements through social media.\nD) Encourage employees to increase their visibility on social media.\nA) Developing the habit of getting up early.\nC) Growing into living and breathing human beings.\nD) Cultivating relationships with peers and teachers.\nD) It may revolutionize classroom teaching.\nB) Elevate students to managerial positions.\nC) Enable students to adapt to the changes in life.\nD) Prepare students to be competitive in the future.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Fraudsters often steal villa-booking informationfromauthentic holiday websites.",
+              "stemCn": "【定位】由题干中的stealvilla-booking",
+              "options": {},
+              "optionCn": {
+                "A": "到文章",
+                "C": "段倒数第二句。 C"
+              },
+              "answer": "C",
+              "analysis": "网站上大量剽窃，然后使用一个不同的网站名 称。题干中的steal对应定位句中的ripoff，题干 中的authenticholidaywebsites对应定位句中的 legitimate websites，故答案为C)。"
+            },
+            {
+              "num": 37,
+              "stem": "Fraudsterskeep changing their bank accounts to avoid being tracked.",
+              "stemCn": "【定位】由题干中的changing their bank accounts",
+              "options": {},
+              "optionCn": {
+                "H": "。"
+              },
+              "answer": "",
+              "analysis": "定位到文章H段最后一句。 H 【精析】同义转述题。定位句提到，一旦一个银行 账户被举报，他们就会使用另外一个。题干中的 40. changing theirbankaccounts是对定位句中use"
+            },
+            {
+              "num": 38,
+              "stem": "It is suggestedthatpeoplenot going on the holiday might help detect website frauds.",
+              "stemCn": "【定位】由题干中的peoplenotgoingonthe K)",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "段第五、六句。 假的人看一下网站，他们也许能够发现你忽视的 问题。题干中的people not going on the holiday 对应定位句中的someone notgoing onthe holiday，题干中的detectwebsitefrauds对应定 41. 位句中的spotproblems，故答案为E)。"
+            },
+            {
+              "num": 39,
+              "stem": "More and moreBritishholidaymakers find these aside villas theybookedonlineactually nonexistent.",
+              "stemCn": "【定位】由题干中的Britishholidaymakers、",
+              "options": {},
+              "optionCn": {
+                "F": "文章",
+                "A": "段。"
+              },
+              "answer": "K",
+              "analysis": "【精析】同义转述题。定位段提到，在冬天，越来 越多的英国人的冬季假期逐渐变成一场疆梦，因 为他们最终发现花费了几千元的房子其实并不 存在，而他们预定假期的网站也早已消失不见。 题干中的Britishholidaymakers指的是英国在冬 季假期预定度假别墅的人。题干中的seaside villas theybooked对应定位段中的theproperty they have paid thousands for，题干中的 nonexistent对应定位段中的doesnotexist，故答 案为A）。 【定位】由题干中的checkinganagentsname online和checking an agent's name online定位 到文章K）段第一至三句。 【精析】细节归纳题。定位句是一个受害者的自 述。她尝试登录网站但登录不了，她在谷歌上搜 索了代理人的名字，发现有很多人抱怨他是个骗 子。要是她提前搜索一下相关信息就好了，但是 她并没有想到这一点。这说明提前在网站上搜 索信息的必要性。题干是对定位句的归纳概括， 故答案为K）。 【定位】由题干中的Fraudsters、difficultto identify和anonlinesafety expert定位到文章 【精析】细节辨认题。定位句提到，尼特说，人们 2022.6/18（第2套） 对这些骗子知之甚少，没有什么方法可以明确知 晓他们是谁。题干中的Fraudsters在定位句中 直接出现，题干中的difficultto identify对应定 位句中的no way to definitely know who they are，题干中的an online safety expert指的就是 定位句中的Neate，故答案为F）。 E)"
+            },
+            {
+              "num": 40,
+              "stem": "By checking an agent's name online beforebooking a villa, holidaymakers can avoid falling into traps.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": ""
+            },
+            {
+              "num": 41,
+              "stem": "Fraudsters are difficult to identify, according to an online safety expert.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": ""
+            },
+            {
+              "num": 42,
+              "stem": "Holidaymakers havebeenalerted to the frequentoccurrenceofonline villa-booking frauds.",
+              "stemCn": "【定位】由题干中的Holidaymakers，alerted to和",
+              "options": {},
+              "optionCn": {
+                "B": "段第一句。 B"
+              },
+              "answer": "B",
+              "analysis": "被警告要留意市场上潜在的诈骗风险，这种现象 已经远不是个例。题干中的Holidaymakers对 应定位句中的Consumers，题干中的alertedto 对应定位句中的warnedto，题干中的frequent occurrence对应定位句中的farfromuncommon， 题干是对定位句的同义转述，故答案为B）。"
+            },
+            {
+              "num": 43,
+              "stem": "It is holidaymakers that can protect themselves from falling victim to frauds.",
+              "stemCn": "【定位】由题干中的holidaymakers和protect",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "文章I段第一句。 一个能够阻止诈骗者的方式似乎最终掌握在消 费者手中。题干中的holidaymakers对应定位句 中的consumer，题干中的protectthemselves fromfallingvictimtofrauds对应定位句中的 stop fraudsters，题干是对定位句的同义转述，故 答案为I。"
+            },
+            {
+              "num": 44,
+              "stem": "Holidaymakers are advised not to make payments by bank transfer.",
+              "stemCn": "【定位】由题干中的Holidaymakers和notto",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "段最后三句话。 【精析】细节辨认题。定位句提到，另一个潜在的 危险信号是被要求进行银行汇款。“问题在于当 钱款离开你的账户，就会立刻进入到他们的账 户，并且很难追踪。”巴莱克银行数据安全部门的 负责人乔迪·吉尔伯特说：“我们通常推荐其他 形式的支付方式，如信用卡。”定位句主要从专家 的角度，建议不要通过银行转账的方式支付，而 是用其他方式，如信用卡。定位句与题干含义一 致，故答案为E)。"
+            },
+            {
+              "num": 45,
+              "stem": "Fraudsters advertise theirvillas atreasonableprices so as not to be suspected.",
+              "stemCn": "【定位】由题干中的atreasonable prices和not to",
+              "options": {},
+              "optionCn": {
+                "D": "段第二句。"
+              },
+              "answer": "D",
+              "analysis": "【精析】同义转述题。定位句提到，价格会被控制 在合理的范围内，以免引起怀疑。题干中的at reasonableprices对应定位句中的Pricesare kept within reasonableranges，题干中的notto besuspected对应定位句中的avoid arousing suspicion，题干是对定位句的同义转述，故答案 为D)。 关于虚假度假别墅网站的安全警示 泳池享受，这足以抵消掉假期到来之前的劳动。然而，对于越来越多的人而言，这每年一度的假期逐 渐变成一场疆梦，因为他们最终发现花费了几千元的房子其实并不存在，而他们预定假期的网站也早 已消失不见。 （42）消费者们已经被警告要留意市场上潜在的诈骗风险，这种现象已经远不是个例。根据负责报道 该类诈骗行为的国家级防诈骗行动处的数据，在2017年就曾有1，632个“度假别墅”案例被报道，受 害者们人均损失了约2，052英镑。英国旅行社协会的肖恩·希普敦说：“这些被诈骗的度假者们每年 都会损失成千上百万英榜。 在过去的十年间，这类问题与日俱增，骗术也变得越来越复杂。虚假的网站拥有听起来非常逼真的名 称，包含很多关键词，较为典型的如地点名称，“夏天”“别墅”或“出租”。合法的别墅的细节经常从别 的网站上盗用。“诈骗者刚开始的时候手段并不复杂——网站看起来尽显业余，也并未付出很多努力 去打造。”希普敦说，“现在他们变得精明了。（36）他们从合法的网站上大量剽窃，然后使用一个不同 的网站名称。他们会发布销售团队的照片，而团队负责人很有可能是纽约的一位过气演员。” 会被控制在合理的范围内，以免引起怀疑。希普敦说：“在别处的度假别墅也许需要5，000英榜，而他 们则以3，500英镑的价格出售。但有一个漏洞是，他们的别墅比其他网站都要便宜，而且无限量供 应。”诈骗者同时会投放搜索引擎的点击付费广告，当人们输人诸如“西班牙海景别墅”这样的关键词 后，他们的信息会出现在顶端。 诈骗者有如此的专业程度，消费者们如何才能发现他们预定的网站是否可信呢？“当人们在预定度假 别墅的时候，往往带着乐观的态度，”安全上网的首席执行官托尼·尼特说，“他们应该搜索一下这些别 2022.6/19（第2套） 墅的产权信息，并通过谷歌地图这类的网站去查看一下是否真实存在。同时，通过固定电话的方式联 系一下协助你预定的人员，因为诈骗者通常都用手机联络。”（38）他也建议让不去度假的人看一下网 站。“他们也许能够发现你忽视的问题。”(44)另一个潜在的危险信号是被要求进行银行汇款。“问题 在于当钱款离开你的账户，就会立刻进人到他们的账户，并且很难追踪。”巴莱克银行数据安全部门的 负责人乔迪·吉尔伯特说：“我们通常推荐其他形式的支付方式，如信用卡。” 也许是你的隔壁邻居或者是俄罗斯的犯罪团伙。”防诈骗行动处表示人们应该确保租用别墅的公司是 类似英国旅行社协会这样的被大家公认的贸易体的成员之一。 一些警告。如果你相信你已经成为诈骗或是网络犯罪的受害者，请向防诈骗行动处报告，”它补充道。 英国旅行协会表示他们将通过组织公众意识宣传活动来解决这一问题。“这是一个日益严重的问题， 人们无法阻止骗子行骗，”希普敦说，“他们仍然会这么做。制止这种行为并不是毫无可能，但是鉴于 这是基于互联网的行为，更难去追踪。” 超过200家虚假的别墅预订网站，并且认为他们做得还不够多。“向提供虚假别墅预订网站的互联网 巨头举报是没有希望的。”他说，“我发现很难向任何人说起此事。（37）另外，一旦一个银行账户被举 报，他们就会使用另外一个。 候，他们会非常投入，当他们发现在旅游旺季能够以较好的价格预定到别墅，他们很容易成为目标，” 库伯说。“公众必须学会提高警惕，他们是这类诈骗的目标对象。”但是这并不仅仅是财物损失。“一 家人会出现在别墅区，最终发现它并不存在或是主人并不知道你是谁，”希普敦说。“问题在于你需要 在得知这一切后，迅速找到住处。这可能会非常昂贵，但这也是一种情感的损耗。” 胜地。奥肖内西说：“我比对了网上的报价，最终找到了一家相对便宜的。”她通过网站给这家公司发 送了邮件，询问了别墅与机场的距离以及当地餐馆的事宜。她说：“他们给出了可信的答案，都非常友 善和专业。”对于这种回复感到非常满意，奥肖内西通过银行汇款的方式向旅行社的账户支付了全额 3,000英镑，并且直到预定日期前一个月才想起来此事。 怨他是个骗子。要是我提前搜索一下相关信息就好了，但是我并没有想到这一点。”尽管她及时找到 了另一家度假别墅，但她承认自己变得更加谨慎了。“我通过一个安全的第三方网站进行支付，并且 和代理机构进行了电话沟通。但是直到拿到钥匙的那一刻，我才放松下来。”"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Social media can be a powerfulcommunicationtoolforemployees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% ofemployees think social media can improve work relationships and 60%believe it can support decision-making processes. Thesebeliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours. Employers typically worry that social media is a productivitykiller; more than halfofU.S.employers reportedly block access to social media at work. In my research with 277 employees of a health care organization i found these concerns to be misguided. Social media doesn'treduceproductivitynearlyas much as itkills employee retention. InthefirstpartofthestudyIsurveyedtheemployeesaboutwhyandhow they usedplatformslike Face book, Twitter, orLinkedIn. Respondentswerethenaskedabout theirworkbehaviors, including whethertheyfeltmotivated in their jobs and showedinitiativeat work. I found employees who engae in online socialinteractions withco-workers throughsocialmediablogstendtobemore motivatedand come up with innovative ideas. Butwhenemployees interact withindividuals outside the organization, they are less motivated and show less initiative. In the second part oft he study I found 76%ofemployees using social media for work to ok an interest in other organizations they found on social media. When i examined how respondents expressed openness to new careers and employers, I found that theyengaged in somekeyactivities including researching new organizations and making new work connections. Thesefindings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likeiy to leave your company. Managers should implement solutions that neutralize the retention risk causedbysocial media. They can create social media groups inwhichemployeeswillbemorelikely to collaborate and less likely to share withdrawal intentions or discussions about external jobopportunities. Managers canal so use 2022.6/12（第2套） ===== PAGE 5 ===== social media to directly reduce turnover（跳槽） intentions, byrecognizing employees’accomplishments and giving visibility to employees' success stories.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does previous research about social media reveal?",
+              "stemCn": "【定位】由题干中的previousresearch定位到首段",
+              "options": {
+                "A": "Most employees think positively of it.",
+                "B": "It improves employees'work efficiency.",
+                "C": "It enables employees to form connections.",
+                "D": "Employees spend much of their work time on it."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句指出，研究表明，82%"
+              },
+              "answer": "A",
+              "analysis": "第二、三句。 的雇员认为社交媒体能够改善工作关系，60%的 员工认为它能够辅助决策过程。这些观点导致大 部分员工运用社交媒体与同事进行沟通，甚至在 工作时间也是如此。定位句中提到了社交媒体给 工作带来的各种好处，可以看出员工们对此持积 极的态度，故答案选A）。 【避错】定位句中提到社交媒体的好处包括：社交 媒体能够改善工作关系，能够辅助决策过程，B）是 作者下文的研究得出的结论，不是之前的研究发 现，故排除。C）是根据第一段第二句中social media can improve workrelationships和第四段 最后一句中making new workconnections设置 的干扰，社交媒体与工作关系有关，但只是研究中 的部分观点，不足以概括研究的结论，而第四段中 的观点是作者研究中提出的，不是之前的研究发 现，故排除。文中虽然提到员工们会在工作时间 运用社交媒体进行工作沟通，但是表达积极的含 义，D)的含义较为消极，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What did the author's own research find about social media?",
+              "stemCn": "【定位】由题干中的theauthor's ownresearch定",
+              "options": {
+                "A": "It influences employees’work negatively.",
+                "B": "It does much harm to employee loyalty.",
+                "C": "It kills employees' motivation for work.",
+                "D": "It affects employers'decision-making."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，在对于一家医"
+              },
+              "answer": "B",
+              "analysis": "位到第二段第二、三句。 疗保健机构的277名员工的研究中，“我”发现这 种担心是错误的。社交媒体对于工作效率降低的 影响还没有它对员工留存率低的影响大。由此可 知，社交媒体的使用会导致员工离职率的增加，员 工的忠诚度会下降，故答案为B）。 【避错】由定位句可知，作者的研究结论显示了社 交媒体对工作效率低的影响不及对留存率低的影 响，并未提到其对工作、员工的工作动力和员工决 策的影响，故排除A)、C)和D)。"
+            },
+            {
+              "num": 48,
+              "stem": "What did the author find in his study about the effect of online social interactions?",
+              "stemCn": "【定位】由题干中的theeffectofonlinesocial",
+              "options": {
+                "A": "It differs from employee to employee.",
+                "B": "It tends to vary with the platform used.",
+                "C": "It has much to do with whom employees interact with.",
+                "D": "It is hard to measure whenemployees interact withoutsiders."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，“我”发现那些"
+              },
+              "answer": "C",
+              "analysis": "interactions定位到第三段第三、四句。 通过社交媒体与同事进行在线社交互动的雇员往 往更有动力，并能提出创新想法。但是，当他们与 公司之外的个体进行沟通时，他们的积极性和主 动性就会降低。由此可知，作者在研究中发现，员 参考译文 工们在使用社交媒体时，对于不同的沟通对象会 呈现出不同的反应，故答案为C)。 【避错】文中没有对员工之间或平台之间进行比 较，故排除A）和B）。第三段第四句提到员工与公 司外部的个体进行沟通时，积极性和主动性会降 低，下文也提到通过社交媒体与外部公司或个人 建立联系，可能会导致员工离职，但是没有提到关 于员工与外部关系的衡量问题，故排除D）。"
+            },
+            {
+              "num": 49,
+              "stem": "What problem was found withemployees using social media for work?",
+              "stemCn": "【定位】由题干中的using socialmediaforwork",
+              "options": {
+                "A": "They seldom expressed their inner thoughts.",
+                "B": "Most of them explored new job opportunities.",
+                "C": "They were reluctant to collaborate wit hot hers.",
+                "D": "Many of them ended with lower productivity."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句提到，当“我”调查这"
+              },
+              "answer": "B",
+              "analysis": "定位到第四段第二句。 些受访者如何表达对于新职业和新雇主的接受度 时，“我”发现他们都曾经参与了诸如搜索新公司 或是建立新的工作关系等关键性活动。由此可 知，在工作中使用社交媒体时，大部分员工都会探 索新的工作机会，故答案为B）。 【避错】文中没有提到员工是否表达内心想法的问 题，故排除A)。第一段提到82%的雇员认为社交 媒体能够改善工作关系，大部分员工运用社交媒 体与同事进行沟通，甚至在工作时间也是如此，没 有提到不愿意与他人协作，故排除C）。第一段最 后一句指出，社交媒体对于工作效率降低的影响 还没有它对员工留存率低的影响大，言外之意是 对工作效率影响不大，故排除D）。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author suggest managers do to neutralize the retention risk?",
+              "stemCn": "【定位】由题干中的neutralizetheretentionrisk",
+              "options": {
+                "A": "Givepromotions to employees fort heir accomplishments.",
+                "B": "Create opportunities for employees to share success stories.",
+                "C": "Acknowledge employees'achievements through social media.",
+                "D": "Encourage employees to increase their visibility on social media."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，管理者们也可"
+              },
+              "answer": "C",
+              "analysis": "定位到最后一段最后一句。 以运用社交媒体通过认可员工的工作成果并分享 他们的成功故事的方式直接减少员工跳槽的意 图。由此可知，作者建议管理者可以通过社交媒 体认可员工的工作成果来降低离职风险，故答案 为C）。 【避错】文中没有提及给员工晋升机会，故排除 employees’successstories设置的干扰项，D)是根 据定位句中的个别词汇visibility设置的干扰项， 文中是指管理者通过社交媒体分享员工的成功故 事，而非让员工自己分享成功故事，也没有提到让 员工在社交媒体上增加曝光度，故排除B）和D）。 对于受雇者而言，社交媒体可以是一种有效的沟通工具，帮助他们互相协作、分享观点和解决问题。 （46）研究表明，82%的雇员认为社交媒体能够改善工作关系，60%的员工认为它能够辅助决策过程。这些 观点导致大部分员工运用社交媒体与同事进行沟通，甚至在工作时间也是如此。 2022.6/21（第2套） 雇主们通常会担心社交媒体会变成生产力杀手；据报道，超过半数的美国雇主会在工作时间禁止使 用社交媒体。（47）在对于一家医疗保健机构的277名员工的研究中，我发现这种担心是错误的。社交媒 体对于工作效率降低的影响还没有它对员工留存率低的影响大。 在研究中的第一部分，我调查了雇员为什么以及如何使用诸如脸书、推特或领英等平台。然后向受 访者询问他们的工作行为，包括他们在工作中是否有动力，并展现主动性。（48）我发现那些通过社交媒体 与同事进行在线社交互动的雇员往往更有动力，并能提出创新想法。但是，当他们与公司之外的个体进 行沟通时，他们的积极性和主动性就会降低。 在研究的第二部分，我发现76%的使用社交媒体工作的员工会对他们在社交媒体上发现的其他公司 感兴趣。（49）当我调查这些受访者如何表达对于新职业和新雇主的接受度，我发现他们都曾经参与了诸 如搜索新公司或是建立新的工作关系等关键性活动。 这些发现将管理者们置于两难境地：工作中使用社交媒体的员工会更投入、更高效，但是他们也更有 可能离开你的公司。管理者们应该采取一些解决措施以抵消掉社交媒体带来的挽留风险。 他们可以创建社交媒体群，雇员在其中更有可能进行协作，而不太可能分享离职意向或是讨论外部 的工作机会。（50）管理者们也可以运用社交媒体通过认可员工的工作成果并宣传他们的成功故事的方式 直接减少员工跳槽的意图。 Passage Two 【文章来源】本文选自2020年5月26日发表在www.latimes.com（洛杉矶时报网站）上的一篇标题为“Op-Ed Distancelearning？Evenmystudents willtellyouthat’s notthefuture”（《专栏：远程学习？即使是我的学生也会 告诉你这不是未来》）的文章。 【结构框图】 第1段指出，由于教育预算削减，远程教育可能会成为常态。 本文主要介绍了远 程教育和传统课堂 第2段分析了远程教育受欢迎的原因和传统课堂的优势。 -4 的优劣势，最后得 出结论：远程学习 第3段介绍了远程教育的弊端。 不能取代传统课堂。 第4段得出结论：技术只能是一个好老师的工具。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_06_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "In the coming era of budget cuts to education, distance learning could become the norm. The temptation fort hose in chargeofeducationbudgets to tradeteachersfortechnology could be so strong that they ignore the disadvantagesofdistancelearning. Schoolfacilitiesare expensive to build and maintain, and teachers are expensive to employ. Onlineclasses do not require buildings and each class can host hundreds of people simultaneously, resulting in greater savings, thus increasing the temptation of distance education for those concerned more about budgets than learning. But moving away from a traditional classroom in which a living, breathing human being teaches and interacts with students daily would be a disaster. Physically attending school has hiddenbenefits: getting up every morning, inter acting with peers, and building relationships with teachers are essential skills to cultivate in young people. Moreover, schools should be more than simple institutionsof traditional learning. They are now places that provide meals. They are places where students receive counseling and other support. Those policy-makers areoftenfascinatedbythelatesttechnologyin education and its potential to \"transform”education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. Educationalvideosmay deliver academic content, butt hey are unable to 2022.6/13（第2套） ===== PAGE 6 ===== make eye contact or assess a student'slevel of engagement. Distance education will never match the personal teaching in a traditional classroom. In their first 18 yearsof life, American children spend only 9% of their time in school. Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successfultimemanagement, and enhance their capacity to flourish in an increasingly harsh labor market. Given these expectations, schools should not become permanently \"remote\". The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. Personal teaching is about teachers showing students a higherpath, and about young people going through the process together. Technology, no matter how advanced, should simply be a tool of a good teacher.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "Whatmainlyaccounts fort he possibility that distance learning could become the norm?",
+              "stemCn": "【定位】由题干中的distancelearningcould",
+              "options": {
+                "A": "Advances in education technology.",
+                "B": "Shrinking financialresources.",
+                "C": "Shortage of schoolfacilities.",
+                "D": "Lack ofqualified teachers."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。第一段指出，在即将到来的"
+              },
+              "answer": "B",
+              "analysis": "becomethenorm定位到第一段。 教育预算削减时代，远程教育可能会成为常态。 第二段前三句提到，远程学习可以节省建造和维 护学校设施的成本以及人力成本，这对负责教育 预算的人非常有吸引力。由此可见，远程学习可 D) 能成为常态的主要原因是教育预算的削减，即财 政资源的缩水，故答案为B）。 【避错】第三段第一句提到，这些政策制定者经常 被最新的教育技术及其在一夜之间“彻底改变”教 育的潜力所吸引，但并不能由此推出教育技术的 进步是远程教育可能成为常态的主要原因，由此 可以排除A）。第二段第二句提到，学校设施的建 造和维护成本高昂，教师的雇佣成本也很高，但并 未提及学校设施不足和缺乏合格的教师，由此可 以排除C）和D）。"
+            },
+            {
+              "num": 52,
+              "stem": "What does the author say is one possible benefit of students attending school physically?",
+              "stemCn": "【定位】由题干中的benefit和attending school",
+              "options": {
+                "A": "Developing the habit of getting up early.",
+                "B": "Eatingnutritionally well-balancedmeals.",
+                "C": "Growing into living and breathing human beings.",
+                "D": "Cultivating relationships with peers and teachers."
+              },
+              "optionCn": {
+                "D": "。"
+              },
+              "answer": "D",
+              "analysis": "physically定位到第二段倒数第四句。 【精析】细节辨认题。定位句提到，去学校上课有 潜在的好处：每天早上起床、与同龄人互动、和老 师建立关系，由此可知，去学校上课能培养与同龄 【避错】定位句提到，去学校上课的一个潜在好处 是可以让学生每天早上起床，并不能由此推出去 学校上课可以让学生养成早起的习惯，A）是过度 2022.6/22（第2套） 推断，故排除。第二段倒数第二句提到，学校现在 是提供饭食的地方，但没有说学生去学校上课可 以吃到营养均衡的食物，B）的表述错误，故排除。 D） 第二段第四句提到，在传统课堂中，有活生生的、 会呼吸的人每天教学并与学生互动，但不能由此 推出学生去学校上课的好处是可以成长为活生生 的人，故排除C）。"
+            },
+            {
+              "num": 53,
+              "stem": "What does the author think oft he latest technology in education?",
+              "stemCn": "【定位】由题干中的thelatesttechnologyin",
+              "options": {
+                "A": "It may have potential disadvantages.",
+                "B": "It may render many teachers joless.",
+                "C": "It may add to students'financial burden.",
+                "D": "It may revolutionize classroom teaching."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位段第二至四句指出，在"
+              },
+              "answer": "A",
+              "analysis": "education定位到第三段。 线教育无法让老师在课后留下一个学习困难的学 生，并提供帮助。教育视频可以传递学术内容，但 无法与学生进行眼神交流，也无法评估学生的投 入程度，远程教育永远无法与传统课堂上的个人 教学相匹敌。由此可见，作者认为最新的教育技 术也存在潜在的缺点和不足，故答案为A)。 【避错】文中没有提到最新的教育技术会导致许 多教师失业的问题，故排除B）。C）是由第二段中 的educationbudgets和expensive设置的干扰， 但文中是指整体的教育预算和学校设施的建造和 维护成本高昂，没有提到学生个人的经济负担问 题，故排除C)。第三段第一句提到，这些政策制 定者经常被最新的教育技术及其在一夜之间“彻 底改变”教育的潜力所吸引。但文章中的 transform加了引号，暗示作者并不认为最新的教 育技术可以在一夜之间彻底改变教育，故排除 无论多么先进，都无法取代传统课堂”相悖，也可 由此排除。 参考译文"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author say teachers are expected to do?",
+              "stemCn": "【定位】由题干中的teachers are expectedto do",
+              "options": {
+                "A": "Enhance students'leadership capacity.",
+                "B": "Elevate students to managerial positions.",
+                "C": "Enable students to adapt to the changes in life.",
+                "D": "Prepare students to be competitive in the future."
+              },
+              "optionCn": {
+                "D": "。"
+              },
+              "answer": "D",
+              "analysis": "定位到第三段倒数第二句。 【精析】推理判断题。定位句提到，教师被期望将 学生培养成负责任的公民，培养他们的社交技能， 鼓励他们成功地管理时间，并增强他们在日益严 峻的劳动力市场中蓬勃发展的能力。由此可见， 教师应当培养学生在未来的竞争力，故答案 【避错】由定位句可知，教师被期望将学生培养成 负责任的公民，培养他们的社交技能，鼓励他们成 功地管理时间，并未提到教师应该提高学生的领 导能力，也未提及教师要将学生提升到管理职位， 是根据定位句中的increasinglyharsh设置的干 扰项，干扰性较强，考生容易误选，但要记住阅读 理解是根据原文内容的合理推断，文章并未提及 让学生适应生活的变化的问题，只是说学生需要 为日益严峻的竞争力市场做好准备，故排除C）。"
+            },
+            {
+              "num": 55,
+              "stem": "Why couldn't technology replace a good teacher?",
+              "stemCn": "【定位】由题干中的technology和a good teacher",
+              "options": {
+                "A": "Itlacks humanity.",
+                "B": "It is still immature."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位段指出，课堂的力量根"
+              },
+              "answer": "A",
+              "analysis": "定位到最后一段。 源于在同一地点、同一时间聚集在一起的人们的 人性。技术无论多么先进，都应该只是一个好老 师的工具。由此可见，技术不能取代一个好老师 是因为技术缺少人性，A）中的humanity对应定 位段第一句中的humanity，故答案为A)。 【避错】文章没有提及技术还不成熟、无法跟踪学 生的成长和满足个人需要的问题，故排除B）、C）、 （51-1）在即将到来的教育预算削减时代，远程教育可能会成为常态。 对那些负责教育预算的人来说，把教师换成技术的诱惑是如此强烈，以至于他们忽视了远程学习的 缺点。学校设施的建造和维护成本高昂，教师的雇佣成本也很高。（51-2）在线课程不需要教学楼，而且每 一节课可同时容纳数百人，从而节省了更多的资金。因此，对那些更关心预算而不是学习的人来说，远程 教育的诱惑增加了。但是，从一个有活生生的、会呼吸的人每天教学并与学生互动的传统课堂中脱离出 来，将是一场灾难。（52）去学校上课有潜在的好处：每天早上起床、与同龄人互动、和老师建立关系是年轻 人需要培养的基本技能。此外，学校应该不仅仅是简单的传统学习机构。它们现在是提供饭食的地方。 它们是学生接受辅导和其他方面帮助的地方。 这些政策制定者经常被最新的教育技术及其在一夜之间“彻底改变”教育的潜力所吸引。（53）但在线 教育无法让老师在课后留下一个学习困难的学生，并提供帮助。教育视频可以传递学术内容，但它们无 法与学生进行眼神交流，也无法评估学生的投入程度。远程教育永远无法与传统课堂上的个人教学相匹 敌。在美国儿童生命的前18年里，他们只有9%的时间在学校度过。（54）然而，教师被期望将他们培养 成负责任的公民，培养他们的社交技能，鼓励他们成功地管理时间，并增强他们在日益严峻的劳动力市场 中蓬勃发展的能力。考虑到这些期望，学校不应该变得一直“远程”。 2022.6/23（第2套） （55)课堂的力量根源于在同一地点、同一时间聚集在一起的人们的人性。个人教学是老师向学生展 示一条更高远的路径，是年轻人一起经历的过程。技术，无论多么先进，都应该只是一个好老师的工具。 Part Translation There was once a man who kept a flock of sheep. One morning,he was about to herd them when he noticed that one sheep was missing. Upon examination,he found a hole in the sheefold. Obviously,it was a wolf that got in and took the sheep away at night. His neighbor advised him to fix the sheepfold,but he didn't listen. The next day, he found that another sheep had been stolen by the wolf through the hole.Then herememberedhis neighbor's words and hurried to mend the sheepfold by plugging up the hole. From then on,no sheep waslost ever again. This story tells us that when something goes wrong, we can prevent bigger losses by doing something about it in time. shepherd牧羊人 devour吃掉，吞食 break into闯入 graze放牧 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_06_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "从前有个人养了一群羊。一天早上他准备出去放羊，发现少了一只。他仔细一看，看到 羊栏（sheepfold）上有个窟窿。显然，夜间有狼钻进羊圈叼走了羊。 邻居劝他修羊栏，可是他不听。 第二天，他发现狼又通过窟窿叼走一只羊。他想起邻居的话，就赶快堵上窟窿，把羊栏补好。此后，他 的羊再也没有被狼叼走。 故事告诉我们：出了问题及时补救，可以防止蒙受更大损失。 2022.6/14（第2套）",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

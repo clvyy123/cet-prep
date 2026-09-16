@@ -1,0 +1,495 @@
+{
+  "id": "cet4-2022_12_3",
+  "level": 4,
+  "year": 2022,
+  "month": 12,
+  "setNo": "第3套",
+  "title": "2022年12月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:In this task,you are to write an essay on the necessity of developing socialskills forcollege students.You willhave 3Ominutes for the task.You should write atleast12O wordsbut no more than180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully beforemaking your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Phonesinfluenceallaspectsofteenagelife. Ninety-fivepercentofAmericansages 13to 17havea smart phone or have access to one, and nearly half report using the internet \"almost 26.\" But as recent survey data and interviews have suggested, many teensfind much of that time to be unsatisfyingly spent. Continuous 27 shouldn't be mistaken for endless enjoyment.A new 28 representative survey about“screen time and device distractions”from the Pew Research Center indicates that it's not just parents who think teenagers are worryingly 29from their phones—many teens themselves do too. Fifty-four percent oft he 13-to-17-year-olds surveyed said they spend too much time 30 in their phones. Vicky Ride out, who runs a research firm that studies children's interactions with media and technology, was not surprised by this finding. She says it's hardly 31to teenagers.\"They are dealing with the samechallenges thatadults are, as far as they are living in the 32of a tech environment designed to suck as much of their time onto their devices as possible,\"Ride out says. The way parents interact with technology can 33 the way they interact with theirkids. Ride out thus thinks it's up to parents to model good 34 :Kids tend to take note if their parents put their phone away at dinner or charge it in another room while they sleep. Witnessinghabitslikethat canhelpkids \"realize that they can 35 some more control over their devices,” she says. ===== PAGE 2 =====",
+          "wordBank": {
+            "A": "absorbed",
+            "B": "addicted",
+            "C": "behavior",
+            "D": "constantly",
+            "E": "context",
+            "F": "exercise",
+            "G": "inseparable",
+            "H": "nationally"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格所在分句结构完整，不缺成分。"
+              },
+              "answer": "D",
+              "analysis": "空格前为动词短语usingtheinternet与副词 almost，因此本空应填入副词。 【语义判断】空格所在句的意思是，13岁至17岁的 美国人中，95%的人拥有智能手机或可以使用智 能手机，近一半的人表示“几乎 ”使用互联 网。由句意可知，本句说明美国青少年使用网络 的频率，因此本空应填入程度副词，由此确定答案 为D）constantly。备选的其他副词均没有此含 义，因此排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】分析句子结构可知，空格处为句子主"
+              },
+              "answer": "L",
+              "analysis": "语，应填入名词。 【语义判断】空格所在句的意思是，连续 不应被误认为是无尽的享受。本句是对上一句 “许多青少年对花在手机上的大部分时间并不满 意”的进一步阐述，因此本空指的是使用手机，应 填人含有“使用”意义的名词，由此确定答案为N） usage。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "nationally。"
+              },
+              "answer": "I",
+              "analysis": "H【语法判断】分析句子结构可知，本句不缺主语和 谓语，且空格前后都是形容词，因此本空应填入 副词。 【语义判断】空格所在分句的意思是，佩尤研究中 心关于“屏幕使用时间与设备干扰”的一项新的 代表性调查表明……。由句意可知，本空 应填入表达某个级别的副词，以限定representative"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前有系动词are和副词"
+              },
+              "answer": "G",
+              "analysis": "worryingly，空格后有介词from，因此本空应填人 形容词作表语。 【语义判断】空格所在句的意思是，佩尤研究中心 的调查表明，不仅父母担忧青少年与手机 ，许多青少年自己也是如此。下一句提 到，在接受调查的13岁至17岁的青少年中，54% 的人说他们花太多时间在手机上。因此本空应填 入能够说明青少年与手机密不可分的关系的形容 词。备选形容词中，A）absorbed、B）addicted和 2022.12/30（第3套） 案为G)inseparable。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前有spendtoomuchtime，常用"
+              },
+              "answer": "A",
+              "analysis": "搭配为doingsth.，但是备选项中没有动词-ing形 式。分析句子结构可知，空格处与介词短语in theirphones为后置定语，修饰time，因此本空应 填入形容词或过去分词。 【语义判断】空格所在句的意思是，在接受调查的 13岁至17岁的青少年中，54%的人说他们花太多 时间 于手机。结合上一句内容可知，本空 应填入能表达青少年浪费太多时间在手机上的 词。A）absorbed有“耗费，耗去（大量金钱、时间 等）”的意思，符合句意与句子结构，因此，答案为"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前有系动词is和副词hardly，因"
+              },
+              "answer": "K",
+              "analysis": "此本空应填人形容词。 【语义判断】空格所在句的意思是，她说这并不是 青少年 。结合下一句可知，他们（青少年） 面临着和成年人一样的挑战。所以这并不是青少 年所特有的，因此本空应填入含有“特有的，特定 的”意义的形容词，由此确定答案为L）specific。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前是定冠词the，空格后是介词"
+              },
+              "answer": "E",
+              "analysis": "of，因此本空应填入名词。 【语义判断】空格所在句的意思是，只要他们生活 在科技环境的 中，即旨在将尽可能多的时 参考译文 间吸到设备上的环境中，他们就面临着和成年人一 样的挑战。由句意可知，科技环境是青少年生活的 大背景，因此本空应填入含有“背景，环境”意义的 名词，由此确定答案为E）context。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】空格前有情态动词can，因此本空应填"
+              },
+              "answer": "N",
+              "analysis": "入动词原形。 【语义判断】空格所在句的意思是，父母与科技互 动的方式可以 他们与孩子互动的方式。 将备选动词原形分别代人句子中，只有shape“影 响，形成”符合句意，由此确定答案为J）shape。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前有动词model和形容词good，"
+              },
+              "answer": "C",
+              "analysis": "因此本空应填入名词。 【语义判断】空格所在句的意思是，赖德奥特认为 父母应该树立良好的 榜样。下一句提到 了一些良好的父母的行为，比如吃饭时把手机收 起来，或者睡觉时把手机放在另一个房间充电，因 此本空应填入含有“行为”意义的名词，由此确定 答案为C)behavior。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格前有情态动词can，因此本空应填"
+              },
+              "answer": "F",
+              "analysis": "入动词原形。 【语义判断】空格所在句的意思是，见证这样的习 惯可以帮助孩子们“意识到他们可以对他们的设 备 更多的控制”。备选动词原形只有F） exercise，意为“行使（权利、权力或自身特质）”，由 此确定答案为F）exercise。 手机影响着青少年生活的方方面面。13岁至17岁的美国人中，95%的人拥有智能手机或可以使用 智能手机，近一半的人表示“几乎一直”使用互联网。 但正如最近的调查数据和访谈所显示的那样，许多青少年对花在手机上的大部分时间并不满意。连 续的使用不应被误认为是无尽的享受。佩尤研究中心关于“屏幕使用时间与设备干扰”的一项新的全国 代表性调查表明，不仅父母担忧青少年与手机的密不可分，许多青少年自己也是如此。在接受调查的13 岁至17岁的青少年中，54%的人说他们把太多的时间耗费于手机。 薇姬·赖德奥特经营着一家研究儿童与媒体和科技互动的研究公司，她对这一发现并不感到惊讶。 她说，这并不是青少年所特有的。赖德奥特说:“只要他们生活在科技环境的情景中，即旨在将尽可能多的 时间吸到设备上的环境中，他们就面临着和成年人一样的挑战。” 父母与科技互动的方式可以影响他们与孩子互动的方式。因此，赖德奥特认为父母应该树立良好的 行为榜样：如果父母吃饭时把手机收起来，或者睡觉时把手机放在另一个房间充电，孩子们往往会注意 到。她说，见证这样的习惯可以帮助孩子们“意识到他们可以对他们的设备进行更多的控制”。 2022.12/31（第3套）"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_12_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) He wan ted to make it more pleasant for seniors.\nB) He wan ted to apply his Harvard training to practice.\nC) Hefelt it his duty to revolutionize its management.\nD) Hefelt disappointed working in the environment.\nB) He did something all professionals would do.\nC) He won instant support from the state authorities.\nA) Good health is not just a privilege oft he young.\nB) Nursing homes shouldbestrictlylimitedinsize.\nC) Getting old is by no means something miserable.\nD) Residences for seniors should be run independently.\nA) It is gaining ground in many countries.\nC) It is con side red revolutionary everywhere.\nD) It is winning approval from the government.\nA) Dietary recommendations are not fit for under privileged people.\nB) People from different social groups vary in their dietary habits.\nC) People's choice of food depends on their individual taste.\nD) There is no consensus on what high-quality diets are.\nA) A better understanding oftherelationshipbetweensocialclassandhealth.\nB) Agreater emphasis on studying the cause of obesity and chronic diseases.\nC) Prioritizing the provision of better nutrition for lower classes.\nD) Designing education programs and initiatives on public health.\nC) They do not pay much attention to their foodrecipes.\nD) They do not lack foodknowledgeorbudgeting skills.\nC) Enabling them to have more access to nutritious foods.\nD) Taking more effective measures to increase food supplies.\nA) Adopt a positiveattitudetowards dietary guidelines.\nB) Choose diets that are both healthy and affordable.\nC) Make sure to purchase healthy foods on the internet.\nD) Change their eating habits and consumptionpatterns.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "A behavior that does not conform to social norms may be described as being deviant.",
+              "stemCn": "【定位】由题干中的behavior、socialnorms、be",
+              "options": {},
+              "optionCn": {
+                "D": "段最后一句。"
+              },
+              "answer": "D",
+              "analysis": "述一种只是与正常不同的行为。题干中的A behavior that does not conform to social norms 对应定位句中的abehaviorthatsimplydiffers from thenorm;题干中的bedescribedas对应定 位句中的describe;题干中的beingdeviant对应 定位句中的deviance。题干是对定位句的同义转 述，故答案为D）。"
+            },
+            {
+              "num": 37,
+              "stem": "Various experimentsfound thatparticipants who cheated in the initialtaskperformedbetter in the",
+              "stemCn": "【定位】由题干中的Variousexperiments、",
+              "options": {},
+              "optionCn": {
+                "J": "段第一句。"
+              },
+              "answer": "J",
+              "analysis": "participants who cheated in the initial task、 中的每一项，他们都发现了同样的事情——在第 一项任务中作的参与者在创造性任务中表现得 更好。题干中的Variousexperiments对应定位句 中的every one ofthefive studies;题干中的 participants who cheated in the initial task performedbetter inthecreativitytest对应定位 句中的participants who cheatedinthefirsttask didbetteronthecreativitytask。题干是对定位 句的同义转述，故答案为J）。"
+            },
+            {
+              "num": 38,
+              "stem": "People may be simply con side red evil if theirbehaviors are morally unacceptable to us.",
+              "stemCn": "【定位】由题干中的 evil、behaviors和",
+              "options": {},
+              "optionCn": {
+                "B": "段第六句。"
+              },
+              "answer": "B",
+              "analysis": "为严重偏离我们认为可以接受的范围，我们可能 会给他们贴上邪恶的标签。题干中的Peoplemay be simplyconsideredevil对应定位句中的we may label themevil;题干中的theirbehaviors are morallyunacceptabletous对应定位句中的their actions deviate substantially from what we consideracceptable。题干是对定位句的同义转 述，故答案为B）。"
+            },
+            {
+              "num": 39,
+              "stem": "Theresearchpublishedby two scientists was intended to examinetherelationshipbetween dish one sty",
+              "stemCn": "【定位】由题干中的research、published、two",
+              "options": {},
+              "optionCn": {
+                "G": "段。"
+              },
+              "answer": "G",
+              "analysis": "scientists和therelationship between dishonesty 的一篇名为《邪恶天才》的研究论文中，科学家弗 朗西斯卡·吉诺和斯科特·威尔特穆斯想要研 究，在一项任务中表现不道德的人在后续任务中 是否比其他人更有创造力。他们选择的不道德行 为是不诚实。题干中的Theresearchpublished bytwoscientists对应定位段中的aresearch paper, Evil Genius.….the behavioral scientists FrancescaGinoandScottWiltermuth;题干中的 intended to examine the relationship between dishonestyandcreativity对应定位段中的wanted to examine whether people who behave unethically in one task are more creative than others on a subsequent task...The unethical behavior theychose was dishonesty。题干是对定 位段的概括归纳，故答案为G）。"
+            },
+            {
+              "num": 40,
+              "stem": "The author's lectures sparkedlively discussions in his class.",
+              "stemCn": "【定位】由题干中的Theauthor’slectures和sparked",
+              "options": {},
+              "optionCn": {
+                "A": "段第一至四句。"
+              },
+              "answer": "A",
+              "analysis": "大学里教一门关于邪恶的课程。这是为犯罪学三 年级的学生准备的，帮助他们结合当前一些有争 议的话题背景来理解理论和研究。这是一个巨大 的成功。辩论激烈而有趣。题干中Theauthor's lectures对应定位句中的Ifoundmyselfteaching auniversity class;题干中的 sparkedlively 2022.12/32（第3套） discussions对应定位句中的Thedebateswere heatedandinteresting。题干是对定位句的概括 归纳，故答案为A）。"
+            },
+            {
+              "num": 41,
+              "stem": "The researchers tested the participants'creativity by as king them to play a word game.",
+              "stemCn": "【定位】由题干中的testedtheparticipants",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": "creativity和playa word game定位到文章I段。"
+            },
+            {
+              "num": 42,
+              "stem": "It is time we realized that deviance may be capable of doing both good and harm to individuals and",
+              "stemCn": "【定位】由题干中的Itistime、deviance和good",
+              "options": {},
+              "optionCn": {
+                "K": "段最后一句。"
+              },
+              "answer": "K",
+              "analysis": "解反常的时候了，我们应该认识到反常既可能带 来好处，也可能带来坏处。题干中的Itistimewe realized对应定位句中的It'stimeforusto understand;题干中的deviance在定位句中直接 F） 出现；题干中的bothgoodandharm对应定位句 中的its potentialfor good as wellas for harm。 题干是对定位句的同义转述，故答案为K）。"
+            },
+            {
+              "num": 43,
+              "stem": "Thereasons for people's evilbehaviors can be explained in more ways than one.",
+              "stemCn": "【定位】由题干中的Thereasons、evilbehaviors和",
+              "options": {},
+              "optionCn": {
+                "C": "段最后一句。"
+              },
+              "answer": "C",
+              "analysis": "观察，“邪恶”这个词是不够的———人类为什么做 参考译文 邪恶天才 坏事并没有简单的解释：相反，有很多，而且都惊 人地不同。题干中Thereasonsforpeople'sevil behaviors对应定位句中的explanationsforwhy humans dobadthings;题干中的canbe explained inmorewaysthanone对应定位句中的thereare many,and they are allmarvelously different。题 干是对定位句的同义转述，故答案为C）。"
+            },
+            {
+              "num": 44,
+              "stem": "The math task in one experiment was designed to test participants'tendency to cheat.",
+              "stemCn": "【定位】由题干中的mathtask和tendencyto",
+              "options": {},
+              "optionCn": {
+                "H": "段第一、二句。"
+              },
+              "answer": "",
+              "analysis": "研究人员给参加者布置了任务，在任务中他们可 以作弊。在一项研究中，他们得到了矩阵，并必须 从中找到两个加起来等于10的数字。题干中的 Themathtask inoneexperiment对应定位句中 的In one study,they were given matries.…and had to find two numbers that added up to10;题 干中的designedto testparticipants'tendencyto cheat对应定位句中的Overfiveexperiments researchers gave participants tasks in which they couldcheat。题干是对定位句的概括总结，故答 案为H）。"
+            },
+            {
+              "num": 45,
+              "stem": "Some creative ideas have turned out to do harm to human society.",
+              "stemCn": "【定位】由题干中的creativeideas和doharmto",
+              "options": {},
+              "optionCn": {
+                "F": "段第三句。"
+              },
+              "answer": "F",
+              "analysis": "【精析】同义转述题。定位句提到，创造性思维给 了我们现代医学、技术和现代政治结构，但也给了 我们毒药和核武器。题干中的Somecreative ideas对应定位句中Thinkingcreatively;题干中 的have turned out to do harm to human society 对应定位句中的has also givenuspoisonand nuclearweapons。题干是对定位句的同义转述， 故答案为F）。 当前一些有争议的话题背景来理解理论和研究。这是一个巨大的成功。辩论激烈而有趣。我可以看 到大家的观点仅在一次演讲的过程中就发生了变化。在过去的13年里，作为一名学生、讲师和研究 人员，我喜欢与任何愿意倾听的人讨论关于邪恶的科学。我最喜欢的是摧毁关于善与恶的陈词滥调， 并用科学的洞察力取代它们。我们需要一种更明智的方式来讨论一开始我们无法或不应该开始理解 的行为。 如果没有理解，仅仅因为我们不理解他人，我们很可能会失去人性，觉得他们一文不值。我们必须努力理解 我们给邪恶贴上的标签。我们倾向于认为邪恶是别人的本性。我们认为自己是“好人”，甚至当我们做了不 道德的事情，我们也理解自己这样做决定的背景。然而，面对别人，认定他们一文不值要容易得多。(38)如 果别人的行为严重偏离我们认为可以接受的范围，我们可能会给他们贴上邪恶的标签。我们需要谨慎点。 称某人邪恶通常类似于说他们无法改变，甚至可能根本不是人。然而，当你真的去猎杀怪物，并深入观察那 些令人震惊的行为背后的人时，你可能会感到惊讶。 2022.12/33（第3套） 恐吓邻居的怪物。他们会四处寻找线索，最终揭露坏人的身份。坏人总是一个穿着戏服的正常人。 没有怪物。像史酷比团队一样，我们可能会发现自己在寻找一个简单的解决方案，用一个词来形容那 些做坏事的人。（43)但如果我们仔细观察，“邪恶”这个词是不够的——人类为什么做坏事并没有简 单的解释：相反，有很多，而且都惊人地不同。 的反常行为涉及违反社会规范，如撒谎。邪恶行为通常被认为包含一种或两种形式。（36）然而，反常 也可以描述一种只是与正常不同的行为。 我们成为英雄。当一个孩子为另一个在学校受到欺负的孩子挺身而出时，他们就偏离了社会压力。 当一名士兵选择不服从命令杀害无辜平民时，他们就会偏离正轨。一家大型科技公司的员工在揭露 公司错误行为时也是偏离正轨。 但也给了我们毒药和核武器。人类的同一种倾向会带来巨大的利益，也会带来巨大的伤害。 特·威尔特穆斯想要研究，即使在控制了基线创作技能的差异之后，在一项任务中表现不道德的人在 后续任务中是否比其他人更有创造力。他们选择的不道德行为是不诚实。 到了矩阵，并必须从中找到两个加起来等于10的数字。参与者需要在研究结束时自我报告自己的表 现：59%的人作弊说他们解出的矩阵比实际解出的要多。 展示3个看似不相关的单词，参与者必须想出与所有单词相关的第4个单词。例如，你可能会得到“狐 狸、男人、窥视”或“灰尘、谷物、鱼”。为了找到连接词（第一个是“洞”，第二个是“碗”），你需要有创意。 你答对的越多，人们就认为你越有创造力，因为你产生了不同寻常的联想。 性任务中表现得更好。为什么？像其他形式的不道德行为一样，撒谎意味着违反规则。这涉及到离 经叛道，违背了人们应该说真话的社会原则。同样地，创造性也包括“跳出框架思考”，偏离预期。它 们涉及相似的思维模式，因此刺激一个也会刺激另一个。我们能从中学到什么吗？也许吧。为了更 有创造力，我们可以试着在一个可控的环境中撒谎。找一些在线逻辑游戏并作弊，用字典玩拼字游 戏，或者写一个不真实的故事？这样的任务可以让我们的大脑灵活思考，超出我们正常的舒适区。这 不是号召你成为一个强迫性的说谎者，而是一个可控的说谎者。 普·津巴多也认为，反常行为研究的未来可能更多地在于理解极端亲社会行为，比如英雄主义。津巴 多展示了我们是多么容易被引导做出不良行为。与邪恶一样，我们常常把英雄主义仅仅看作是异常 者的一种可能——对于不正常的人来说。但津巴多问道:“如果英雄行为的能力从根本上来说也是普 通的，我们所有人都有呢？”有人说，我们永远不应该见到我们的英雄，以免在发现他们有多普通时感 到失望。但这应该是解脱，而不是令人失望。我们都有能力表现得像异类。（42）现在是我们理解反 常的时候了，我们应该认识到反常既可能带来好处，也可能带来坏处。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_12_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Even though we are living in an age where growing old is thought of as an inevitable misery, this doctor has been changing the game for seniors over the last 25 years. It all star ted in 1991 when the Harvard-educated physician was transfer red from working in a stressful emergency room to being the medical director of a nursing home in up state New York. The depressing and regimen ted（严格管制的） environment gothimthinking onwhatexactlycouldimprovetheresidents conditions. Even though animals in nursing homes were illegal at the time, Dr. Bill Thomas to ok a chance. Based on a hunch（直觉),he brought in two dogs, four cats, hens, rabbits,1oobirds, a multitude of plants，a flower garden, and a vegetable patch. The change was dramatic. There was a 50% drop in medical prescriptions along with a dramatic decrease in death rates—but most importantly, the residents were simply happier. Dr. Thomas's approach, named the Eden Alternative, has drivennursing homes to allow a more autonomous（自主的） and creative living space fort heir elderly. Iterases the belief that grow in gold means growing useless. He encourages residents to think of their age as an enriching new phase of life rather than the end of it. Thomas, now a speaker and author of several books, also created small, independently-run residences with their own bedrooms andbathrooms, and he has been preaching a singular message that getting old is not a bad thing. \"Within six weeks, they had to send a truck around to pick up all the wheelchairs,\"Thomas toldthe Washington Post.\"You know why most people in nursing homes use wheelchairs? Because the buildings are so big.\" The 56-year-old doctor's methods have been adopted in Australia, Japan, Canada, and america with enormous success. Last year he published Second Wind: Navigating the Passage to a Slower, Deeper, and More ConnectedLife, a guide on how to shift our perspectives on aging and growth. He is currently traveling through North america performing with his guitar and his enthusiasm on his Age of Disruption Tour.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What has bill Thomasbeendoing for a quarter of a century?",
+              "stemCn": "【定位】由题干中的BillThomas和aquarterofa",
+              "options": {
+                "A": "Transforming people's lifestyle.",
+                "B": "Honoring his Harvard education. ===== PAGE 5 =====",
+                "C": "Changing people's philosophy of life.",
+                "D": "Shifting people's perspective onaging."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。本文第一段概括托马斯医生"
+              },
+              "answer": "D",
+              "analysis": "century定位到第一段、第五段和第八段。 的主要成就：在过去的25年里，这位医生一直在改 变这场老年人的游戏。第五段末句指出，他鼓励 老年人把他们的年龄看作是生命中的一个丰富多 彩的新阶段，而不是生命的结束。第八段末句指 出，他的书指导我们如何改变对衰老和成长的看 法。由此可见，比尔·托马斯在努力改变人们对 衰老的看法，故答案为D）。 【避错】第二段第一句提到，比尔·托马斯接受过 哈佛大学的教育，但并未提及他一直在纪念自己 的大学教育，故排除B）。文中并未涉及改变人们 的生活方式和生活哲学，故排除A）和C）。"
+            },
+            {
+              "num": 47,
+              "stem": "Why did bill Thomas try something different in the nursing home?",
+              "stemCn": "【定位】由题干中的Why、different和thenursing",
+              "options": {
+                "A": "He wan ted to make it more pleasant for seniors.",
+                "B": "He wan ted to apply his Harvard training to practice.",
+                "C": "Hefelt it his duty to revolutionize its management.",
+                "D": "Hefelt disappointed working in the environment."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。文章第二段末句提到，养老"
+              },
+              "answer": "A",
+              "analysis": "home定位到第二至四段。 院压抑而严格管制的环境让他开始思考究竟怎样 才能改善院里老年人的生活条件。由第四段可 知，在比尔·托马斯采取了一系列措施后，养老院 的老人们更快乐了，故答案为A）。 【避错】文中并未提及比尔·托马斯把他在哈佛的 训练应用到实践中，故排除B）。文中第二段提到 托马斯成为养老院的医疗主管，但并没有提及他 要改革养老院的管理体制，故排除C）。第二段第 二句提到，养老院的环境压抑且严格管制，并没有 说比尔·托马斯对这样的工作环境感到失望，故 排除D）。"
+            },
+            {
+              "num": 48,
+              "stem": "What do we learn about bill Thomas bringing animals andplants into the nursing home?",
+              "stemCn": "【定位】由题干中的bringinganimalsandplants",
+              "options": {
+                "A": "Hemade a mess oft he nursing home.",
+                "B": "He did something all professionals would do.",
+                "C": "He won instant support from the state authorities.",
+                "D": "Heacted in violation oft he state law."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，尽管当时在养"
+              },
+              "answer": "D",
+              "analysis": "into thenursing home定位到第三段第一句。 老院饲养动物是违法的，比尔·托马斯医生还是 冒险一试。由此可见，他将动物带进养老院是违 法的，故答案为D）。 【避错】文章第四段第二句提到，医疗处方减少了 50%，死亡率也大幅下降，老人们更快乐了。由此 可知，养老院的状况变好了，故排除A）。文中没有 提到其他专业人士的做法，故排除B)。文中倒数 第二段提到，托马斯医生的方法已经被一些国家 采用，但这并不代表他得到了政府当局的支持，文 中也并未提及政府当局的态度，故排除C）。"
+            },
+            {
+              "num": 49,
+              "stem": "What hasBillThomasbeenpersistently advocating?",
+              "stemCn": "【定位】由题干中的persistentlyadvocating定位",
+              "options": {
+                "A": "Good health is not just a privilege oft he young.",
+                "B": "Nursing homes shouldbestrictlylimitedinsize.",
+                "C": "Getting old is by no means something miserable.",
+                "D": "Residences for seniors should be run independently."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位段提到，托马斯一直在"
+              },
+              "answer": "C",
+              "analysis": "到第六段。 宣扬一个特别的信息：变老并不是一件坏事，故答 案为C)。 【避错】文中没有提及身体健康是否是年轻人的特 权，故排除A）。第七段末句提到，托马斯觉得养老 院建筑太大了，但未提及要严格限制养老院的规 模，故排除B）。第六段提到，托马斯建造了一些独 立经营的小型住所，但并不代表他倡导老年人公 寓应该独立运营，故排除D）。"
+            },
+            {
+              "num": 50,
+              "stem": "How is Bill Thomas's new concept received?",
+              "stemCn": "【定位】由题干中的newconceptreceived定位到",
+              "options": {
+                "A": "It is gaining ground in many countries.",
+                "B": "It is being heatedly debated worldwide.",
+                "C": "It is con side red revolutionary everywhere.",
+                "D": "It is winning approval from the government."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句指出，托马斯的方法"
+              },
+              "answer": "A",
+              "analysis": "倒数第二段第一句。 已经被澳大利亚、日本、加拿大和美国采用，并取 得了巨大的成功。由此可见，很多国家都接受了 托马斯的新观念，故答案为A）。 【避错】文中并未提及托马斯的新观念被全世界热 烈讨论或被认为是革命性的，可以排除B）和C）。 倒数第二段第一句指出，托马斯的方法已经被澳 大利亚、日本、加拿大和美国采用，并取得了巨大 的成功，但没有提到是否赢得政府的认可，故 排除D）。 2022.12/35（第3套） 参考译文 （46-1)尽管在我们生活的时代，变老被认为是一种不可避免的痛苦，但在过去的25年里，这位医生一 直在改变这场老年人的游戏。 这一切都始于1991年，当时这位受过哈佛大学教育的医生从压力很大的急诊室工作调到了纽约州北 部一家养老院任医疗主管。（47-1）这种压抑而严格管制的环境让他开始思考究竟怎样才能改善养老院里 老年人的生活条件。 （48)尽管当时在养老院饲养动物是违法的，比尔·托马斯医生还是冒险一试。基于直觉，他带来了2 只狗、4只猫、母鸡、兔子、100只鸟、大量植物、一个花园和一块菜地。 变化是巨大的。（47-2)医疗处方减少了50%，同时死亡率也大幅下降—但最重要的是，老人们更快 乐了。 托马斯博士的方法被命名为“伊甸园替代方案”，它促使养老院为老年人提供更自主、更有创意的生 活空间。它消除了变老意味着变得无用的观念。（46-2）他鼓励老年人把他们的年龄看作是生命中的一个 丰富多彩的新阶段，而不是生命的结束。 （49）托马斯现在还是一名演说家和几本书的作者，他还建造了一些独立经营的小型住所，这些住所都 有自己的卧室和浴室，他一直在宣扬一个特别的信息：变老并不是一件坏事。 “在6周内，他们不得不派一辆卡车把所有的轮椅都运走。”托马斯在接受《华盛顿邮报》采访时表示， “你知道为什么养老院里的大多数人都用轮椅吗？因为这些建筑太大了。” （50）这位56岁的医生的方法已经被澳大利亚、日本、加拿大和美国采用，并取得了巨大的成功。去 年，他出版了《第二股风：通往更慢、更深入、更紧密的生活之路》，（46-3）指导我们如何改变对衰老和成长 的看法。 他目前正在北美，带着他的吉他和热情在他的“颠覆年龄”巡演中表演。 Passage Two 【文章来源】本文选自2018年10月8日发表在www.theconversation.com（《对话》杂志官网）上一篇标题为 “Timeandmoney—thebiggesthurdles to healthy eating”（《时间和金钱——健康饮食的最大障碍》)的文章。 【结构框图】 第1、2段指出饮食质量、健康与社会阶层相关。 本文主要介绍 第3一5段论述公共卫生举措在饮食建议上的一些误区，并指出真正影响人们食物选 了影响人们选 择健康饮食的 择的因素。 一些因素。 第6—9段指出，虽然高质量的饮食更贵，但我们也可以选择既便宜又有营养的饮食。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2022_12_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets-including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantagedpeoplereport diets that are nutrient-poor and energy-dense. They are less likely to have food-purchasing habits that conform to public healthrecommendations. These dietary differences are often accompaniedbyhigherrates ofobesityanddiabetesamonglower- income people. This relationship between social class and diet quality and health is extensively documented. However, the research does not explain why this is the case—a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases. Public-healthinitiativesto promote healthy diets often focus on providing nutrition education and recipes（食谱).Theseapproaches, however, often presumelessfoodliteracy（i.e.food knowledge and skills） among low-income people. Are unhealthy dietsreally the result of poorchoices, limitedfoodskills and knowledge? Research suggests that adults in food-insecure householdsare just as likely as those in food-secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indication thatincreasing foodskills or budgeting skillswill reduce food in security. Instead, disadvantaged groups are constrained by their economic, material and social circumstances. For example, low income is the strongestpredictoroffoodinsecurity in Canada, where one in eight households experiences insufficient access to nutritious foods. It's well-established that foodprices are an important determinant of food choice. Low-income ===== PAGE 6 ===== householdsreport that they find it difficult to adopt dietaryguidelinesbecause foodprices are a barrier to improving their diets. When researchersestimatethe costofdiets people actually eat, higher-quality diets are typicallymore costly. While this may be so, it does not, in itself, prove that healthy diets are necessarily more expensive or cost-prohibitive. After all, not all socioeconomically disadvantagedpeopleconsume poor diets. We can easily think of a numberoffoodsandrecipesthatare both inexpensiveandnutritious. The internet is fullofrecipesfor\"eating well on a budget.\"",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What can we learn from research on diets in developed countries?",
+              "stemCn": "【定位】由题干中的researchon diets in developed",
+              "options": {
+                "A": "Dietary recommendations are not fit for under privileged people.",
+                "B": "People from different social groups vary in their dietary habits.",
+                "C": "People's choice of food depends on their individual taste.",
+                "D": "There is no consensus on what high-quality diets are."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，研究表明，在发"
+              },
+              "answer": "B",
+              "analysis": "countries定位到首段第一、二句。 达国家，更富裕和受教育程度更高的人倾向于消费 更高质量的饮食，包括更多的水果和蔬菜、鱼和全 谷物；相反，经济困难的人饮食低营养、高能量。由 此可见，在发达国家，不同社会群体的人饮食习惯 不相同，故答案为B）。 【避错】首段第三句提到，经济困难的人不太可能 有符合公共卫生建议的食品购买习惯，但并不能由 此推出膳食建议不适合贫困人群，故排除A）；第六 段第一句提到，食品价格是食品选择的重要决定因 素。即人们对食物的选择与食物的价格息息相关， 并不取决于他们的口味，故排除C)；文中没有提到 关于高质量饮食的定义，故排除D）。"
+            },
+            {
+              "num": 52,
+              "stem": "What does the author say is important informulatingpoliciesto improve diets and health?",
+              "stemCn": "【定位】由题干中的important和formulating",
+              "options": {
+                "A": "A better understanding oftherelationshipbetweensocialclassandhealth.",
+                "B": "Agreater emphasis on studying the cause of obesity and chronic diseases.",
+                "C": "Prioritizing the provision of better nutrition for lower classes.",
+                "D": "Designing education programs and initiatives on public health."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句提到，有充分的文献证"
+              },
+              "answer": "A",
+              "analysis": "policiesto improvedietsandhealth定位到第二段 第二、三句。 2022.12/36（第3套） 明社会阶层与饮食质量和健康之间的关系；然而， 这项研究并没有解释为什么会出现这种情况 这个问题对于设计有效的、用来改善饮食和预防慢 性疾病的政策和计划具有重要意义。由此可知，在 制定改善饮食和健康的政策时，更好地理解社会阶 层与健康之间的关系很重要，故答案为A)。 【避错】第二段第一句提到，在低收入人群中，这些 饮食差异往往伴随着更高的肥胖和糖尿病发病率， 但并不能由此推出在制定改善饮食和健康的政策 时要更加重视研究肥胖和慢性病的原因，故排除 符合公共卫生建议的食品购买习惯，但并未提及优 先为下层阶级提供更好的营养，故排除C）。第三 段第一句提到，促进健康饮食的公共卫生举措往往 侧重于提供营养教育和食谱，但D）提及的“设计公 共健康教育项目和计划”指的就是题干中的“制定 改善饮食和健康的政策”，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "What doesresearchrevealaboutadults in food-insecurehouseholds?",
+              "stemCn": "【定位】由题干中的research和adultsinfood-",
+              "options": {
+                "A": "Theireating habits need to be changed.",
+                "B": "Their food literacy has been improving.",
+                "C": "They do not pay much attention to their foodrecipes.",
+                "D": "They do not lack foodknowledgeorbudgeting skills."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，研究表明，生活"
+              },
+              "answer": "D",
+              "analysis": "insecurehouseholds定位到第四段第一、二句。 在食物不足的家庭中的成年人和生活在食物充足 的家庭的成年人一样，有可能调整食谱，使自己更 健康。他们也同样精通食物准备和烹饪技巧。由 此可知，生活在食物不足家庭的成年人也具备食物 知识或预算技巧，故答案为D）。 【避错】A）和B）在文中均未提及，故排除。第四段 第一句指出，研究表明，生活在食物不足家庭的成 年人也有可能调整食谱，使自己更健康，因此C）说 法错误，可以排除。 参考译文"
+            },
+            {
+              "num": 54,
+              "stem": "What would help improve food security among the disadvantaged groups in Canada?",
+              "stemCn": "【定位】由题干中的improvefoodsecurityamong",
+              "options": {
+                "A": "Teaching thembudgeting skills.",
+                "B": "Increasing their foodchoices.",
+                "C": "Enabling them to have more access to nutritious foods.",
+                "D": "Taking more effective measures to increase food supplies."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句提到，在加拿大，低收"
+              },
+              "answer": "C",
+              "analysis": "the disadvantaged groups inCanada定位到第五 段最后一句。 入最有可能预示着食物不足的情况，八分之一的家 庭无法获得有营养的食物。由此可见，促使加拿大 弱势群体食物充足的有效措施是使他们有更多机 会获得有营养的食品，故答案为C）。 【避错】第四段最后一句提到，没有迹象表明提高 食物技能或预算技能可以减少食物不足的情况，故 排除A）。第六段第二句提到，食品价格是食品选 择的重要决定因素，但并未提及增加食物选择，故 排除B）。文中并未提及采取有效措施增加食物供 应，故排除D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author suggest disadvantaged people do to improve their health?",
+              "stemCn": "【定位】由题干中的disadvantaged和improve",
+              "options": {
+                "A": "Adopt a positiveattitudetowards dietary guidelines.",
+                "B": "Choose diets that are both healthy and affordable.",
+                "C": "Make sure to purchase healthy foods on the internet.",
+                "D": "Change their eating habits and consumptionpatterns."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位段指出，研究并不能证"
+              },
+              "answer": "B",
+              "analysis": "theirhealth定位到最后两段。 明健康饮食一定更贵或成本高昂；我们可以很容易 地想到许多既便宜又有营养的食物和食谱；互联网 上到处都是“省钱吃得好”的食谱。由此可推断，弱 势群体可以选择便宜且有营养的食物和食谱，故答 案为B)。 【避错】第六段第二句指出，低收人家庭发现很难 采用膳食指南，因为食品价格是他们改善饮食的一 个障碍，但作者并没有建议弱势群体对膳食指南持 积极的态度，故排除A）。最后一段指出，互联网上 到处都是“省钱吃得好”的食谱，但作者并没有建议 弱势群体在网上购买健康食品，故排除C）。文中 并没有提及建议弱势群体改变饮食习惯和消费模 式，故排除D）。 （51）研究表明，在发达国家，更富裕和受教育程度更高的人倾向于消费更高质量的饮食，包括更多的 水果和蔬菜、鱼和全谷物。相反，经济困难的人报告饮食低营养、高能量。他们不太可能有符合公共卫生 建议的食品购买习惯。 在低收入人群中，这些饮食差异往往伴随着更高的肥胖和糖尿病发病率。（52）有充分的文献证明社 会阶层与饮食质量和健康之间的关系。然而，这项研究并没有解释为什么会出现这种情况——这个问题 对于设计有效的、用来改善饮食和预防慢性疾病的政策和计划具有重要意义。 促进健康饮食的公共卫生举措往往侧重于提供营养教育和食谱。然而，这些方法往往假设低收入人 群的食品能力（即食品知识和技能）较少。不健康的饮食真的是错误选择、有限的饮食技能和知识造成的 结果吗？ （53）研究表明，生活在食物不足的家庭中的成年人和生活在食物充足的家庭的成年人一样，有可能调 整食谱，使自己更健康。他们也同样精通食物准备和烹饪技巧。没有迹象表明提高食物技能或预算技能 可以减少食物不足的情况。 2022.12/37（第3套） 相反，经济困难的群体受到其经济、物质和社会环境的制约。（54）例如，在加拿大，低收人最有可能预 示着食物不足的情况，八分之一的家庭无法获得有营养的食物。 众所周知，食品价格是食品选择的重要决定因素。低收入家庭报告说，他们发现很难采用膳食指南， 因为食品价格是他们改善饮食的一个障碍。 当研究人员估计人们实际饮食的成本时，高质量的饮食通常更昂贵。 （55-1）虽然有可能是这样，但它本身并不能证明健康饮食一定更贵或成本高昂。毕竟，并非所有社会 经济弱势群体都有不良的饮食习惯。 （55-2）我们可以很容易地想到许多既便宜又有营养的食物和食谱。互联网上到处都是“省钱吃得好” 的食谱。 PartI Translation WinterSolsticeis the daywith the shortest daytimeandthelongest nighttime, marking the beginning of the coldest time of the year. After Winter Solstice, as the temperature gets colder, people's outdoor activities gradually decrease. Without much work in the field,farmers are mainly busy with the maintenance of the irrigationsystemandtheprotection of crops from freezing as well as the preparation for planting in the coming spring. The Chinese people have always been attaching great importanceto WinterSolstice,which is regarded as a festival in many places and celebrated in different ways. On Winter Solstice,northerners have the custom of eating jiaozi, while southerners have the tradition of eating tangyuan. symbolize象征，意味着 on the wane逐渐衰弱 be engaged in忙于…… 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2022_12_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "冬至（WinterSolstice）是全年白昼最短、黑夜最长的一天，标志着一年中最寒冷时节的开始。冬至过 后，气温越来越低，人们的户外活动逐渐减少。农民地里活儿不多，主要忙于灌溉系统的维护和农作物的 防冻，同时为来年春天播种做准备。 中国人历来很重视冬至，许多地方都把冬至当作一个节日，庆祝方式各地不尽相同。北方人有冬至吃 饺子（jiaozi）的习俗，南方人有冬至吃汤圆（tangyuan）的传统。",
+          "terms": [],
+          "reference": "Winter Solstice is the day of the year with the shortest daytime and longest nighttime, marking the beginning of the coldest season. After the Winter Solstice, temperatures get increasingly lower, and people's outdoor activities gradually decrease. Farmers have less work in the fields; they are mainly busy with maintaining irrigation systems and protecting crops from freezing, while also preparing for spring sowing next year. Chinese people have always attached great importance to Winter Solstice, and in many places, it is regarded as a festival, with celebration methods varying across different regions. People in the north have the custom of eating jiaozi (dumplings) on Winter Solstice, while people in the south have the tradition of eating tangyuan (sweet glutinous rice balls).",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

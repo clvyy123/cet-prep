@@ -1,0 +1,366 @@
+{
+  "id": "cet6-2022_12_3",
+  "level": 6,
+  "year": 2022,
+  "month": 12,
+  "setNo": "第3套",
+  "title": "2022年12月六级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthispart,youareallowed30minutesto writeanessaythatbegins withthe sentence \"Today increasing importance is beingattached to cultivating college students'teamspirit. You canmake statements,give reasons,or citeexamples to develop your essay. You should writeatleast150wordsbutnomorethan200words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "L) Green berg thinks that youthful energy needs to be harvested. Conductors don't have to be arrogant\nM) John Terauds, a critic whohascoveredToronto's classical music scene extensively, also wants to do\nN) Back in February, Terauds wrote on his blog about how going to classical performances can be",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "It was not a rare occurrence that audiences behaved wildly while listening to classical music.",
+              "stemCn": "【定位】由题干中的not arare occurrence、",
+              "options": {},
+              "optionCn": {
+                "E": "段第"
+              },
+              "answer": "E",
+              "analysis": "一句和最后一句。 的听众并不总是那么有礼貌，接着以观众迫切要 求乐团重奏第七交响曲的例子来佐证这一观点。 该段最后一句又提到，在过去的几十年里，歌剧表 演中的许多观众已经放弃了伪装，他们喜欢表演 时就会大喊“Bravo(好极了)”。由此可知，题干是 对E）段定位句的归纳概括：观众在听古典音乐时 经常出现狂热失控的行为。题干中的notarare occurrence和behavedwildly对应原文中的 weren't always so polite，故答案为E)。"
+            },
+            {
+              "num": 37,
+              "stem": "Some high-art institutions don't actually mean it when they say they want more general audiences.",
+              "stemCn": "【定位】由题干中的high-artinstitutions和",
+              "options": {},
+              "optionCn": {
+                "L": "段最后两句。"
+              },
+              "answer": "L",
+              "analysis": "艺术机构都表示希望有更多的普通观众，以打破 文化障碍，但后来他们却提出了一些非常目中无 人的要求，这些要求会让观众发疯。由此可以推 断，这些高级艺术机构并非真心实意地欢迎更多 的普通观众。题干中的don'tactuallymeanit是 根据原文中they come up with some very snooty thing that makes you crazy推断出的意思，题干中 的wantmore generalaudiences直接对应原文内 容，故答案为L）。"
+            },
+            {
+              "num": 38,
+              "stem": "The theatre was in chaos when an unconventional ballet was first put on stage in the capital of",
+              "stemCn": "【定位】由题干中的chaos、unconventionalballet和",
+              "options": {},
+              "optionCn": {
+                "A": "段前两句。"
+              },
+              "answer": "A",
+              "analysis": "在巴黎，伊戈尔·斯特拉文斯基向世界展示了他 革命性的芭蕾舞《春之祭》，旋律不和谐，编舞非正 统，人群中的纯粹主义者大声而明确地表达了他 们的不满，因而引发了一场骚乱。题干中的was in chaos对应原文中的sparked a riot;题干中的 unconventional是原文中unorthodox的同义词； 题干中的wasfirst put onstage是对原文中 introducing的同义转述，题干中的the caitalof France对应原文中的Paris，故答案为A)。"
+            },
+            {
+              "num": 39,
+              "stem": "According to one critic, the audience's warm response would encourage the musicians to do a better",
+              "stemCn": "【定位】由题干中的critic和warmresponse定位",
+              "options": {},
+              "optionCn": {
+                "M": "段前两句。"
+              },
+              "answer": "M",
+              "analysis": "劳德斯是一位曾广泛报道过多伦多古典音乐界的 评论家，他认为观众越热情，音乐家们自己的反应 就越好。题干中的onecritic直接对应原文中的 John Terauds，a critic;题干中的the audience's warm response would encourage the musicians to do a better job 是对原文中the warmer an audience is,the better the musicians themselves willrespond的同义转述，故答案为M）。"
+            },
+            {
+              "num": 40,
+              "stem": "Many commenters argued for the audience enjoying classical music quietly.",
+              "stemCn": "【定位】由题干中的commenters和classicalmusic",
+              "options": {},
+              "optionCn": {
+                "D": "段前三句。"
+              },
+              "answer": "D",
+              "analysis": "我们是否应该觉得在古典音乐活动中“鼓掌”是可 以接受的，即使其他人没有这样做？为什么我们 不能像在摇滚音乐会上那样为伟大的作品欢呼 呢？接着提到，《赫芬顿邮报》最近就这个问题进 行了一场大辩论，许多评论员都站在“保持安静” 一边。由此可推断，许多评论员认为听众应该安 静地去欣赏古典音乐。该段最后两句展示了其中 两位评论员的观点，从中也可以看出他们赞成传 统的欣赏古典音乐的方式。题干中的many commenters直接对应原文内容；题干中的argued for正好和原文中的came out on the sideof silence形成呼应，故答案为D)。"
+            },
+            {
+              "num": 41,
+              "stem": "What appears on the seat back screen makes it unnecessary for the audience to study the works",
+              "stemCn": "【定位】由题干中的seatback和study the works",
+              "options": {},
+              "optionCn": {
+                "H": "段最后两句。"
+              },
+              "answer": "H",
+              "analysis": "次在演出期间设置字幕时，许多纯粹主义者不喜 欢这个想法，他们认为观众应该在观看之前先研 究一下作品。但现在观众普遍可以在座椅靠背上 找到字幕，很容易就能明白作品的内容。由此可 推断出，有了这些椅背屏幕上的字幕，观众就没有 必要再事先研究作品了。题干中的onthe seatback screen对应原文中的on theseatback;题 干中的studythe worksbeforehand是对原文中 study the works before attending的同义转述，故 答案为H）。"
+            },
+            {
+              "num": 42,
+              "stem": "It is generally accepted that there should be no disturbance from the audience during classical music",
+              "stemCn": "【定位】由题干中的disturbance定位到文章",
+              "options": {},
+              "optionCn": {
+                "B": "段。"
+              },
+              "answer": "B",
+              "analysis": "很难想象今天在美国神圣的交响乐大厅内会发生 类似的骚乱，接着提到平时在欣赏古典音乐表演 时即便手机响了也得当心。最后一句又指出，大 多数古典音乐的表演过程都被一种彬彬有礼的氛 围笼罩着。由此可知，题干是对B)段的归纳概 括：这种骚乱在古典音乐表演中极为罕见，说明人 们都认为在欣赏表演的过程中观众不可以有干扰 性的行为。题干中的thereshouldbeno disturbance对应原文中的it's difficultto imagine a similar disturbance;题干中的 during classical music performance 对应原文中的hangsover most classical proceedings，故答案为B)。"
+            },
+            {
+              "num": 43,
+              "stem": "Higher institutions will be concerned about compromising the integrity of classical music if they",
+              "stemCn": "【定位】由题干中的higherinstitutions和",
+              "options": {},
+              "optionCn": {
+                "O": "段最后两句。 0)【精析】同义转述题。"
+              },
+              "answer": "K",
+              "analysis": "compromising the integrity of classicalmusic定 如今电视节目中非正统歌剧演员深受好评的现 象，更高级的机构如果也试图通过这些表演平台 寻求改变，是否有可能损害音乐的完整性或智慧？ 题干和原文内容意思相符。题干中的 compromising the integrity of classical music对 应原文中的“compromising the integrity...ofthe music”;题干中的resortto是原文中appealto的 同义表达；题干中的televisionmedium对应原文 中的these outlets，故答案为O)。"
+            },
+            {
+              "num": 44,
+              "stem": "Heavily disco un ted rush tickets help attract many young students to attend classical concerts.",
+              "stemCn": "【定位】由题干中的rushtickets、young students和",
+              "options": {},
+              "optionCn": {
+                "K": "段前两句。"
+              },
+              "answer": "N",
+              "analysis": "城学生出售会员资格，他们可以买日程表上每场 音乐会的抢购票。乐团的主席瓦尔格莫也提到， 每晚大约有300或350个孩子来参加这些音乐 会。由此可知，题干是对K）段定位句的归纳概 括。题干中的heavily discountedrush tickets对 应原文中的$25annualmemberships和rush tickets;题干中的young students对应原文中的 Philadelphiastudents和kids;题干中的classical concerts对应原文中的concerts，故答案为K)。"
+            },
+            {
+              "num": 45,
+              "stem": "The formalities of high-art theatres can intimidate some people attending a performance.",
+              "stemCn": "【定位】由题干中的intimidate和performance定",
+              "options": {},
+              "optionCn": {
+                "N": "段。"
+              },
+              "answer": "C",
+              "analysis": "2月，特劳德斯在他的博客上表示欣赏古典表演会 令人生畏，之后又具体解释原因：有人认为必须盛 装打扮，有人认为在去之前必须对音乐有所了解， 还有人可能会担心自己鼓掌的时机不对。这些都 是高级艺术剧院中涉及古典音乐表演的一些礼节 要求，而这些要求令人对欣赏古典表演感到胆怯。 参考译文 由此可知，题干是对N）段定位句的归纳概括。题 干中的formalities对应原文中的dressup、know something about the music before they go以及 timeto applaud，题干中的intimidate对应原文中 的intimidating，题干中的attending a performance对应原文中的going to classical performances，故答案为N)。 古典音乐旨在不断发展，在不疏远保守派的情况下建立观众群 蕾舞《春之祭》，旋律不和谐，编舞非正统，人群中的纯粹主义者大声而明确地表达了他们的不满。这 可能就像鲍勃·迪伦在纽波特民间艺术节上使用电音的那次场景一样，只不过这次是古典音乐的版 本。美国国家公共广播电台的音乐记者迈尔斯·霍夫曼谈到斯特拉文斯基的首演时说道：“观众中的 噪音、争吵和叫喊声太大了，以至于舞蹈指导不得不向舞者大声喊出数字，这样他们才能知道自己应 该做什么。” 形式的扰乱性活动（除非某人的手机碰巧响了，那你最好小心点）。大多数古典音乐的表演过程都被 一种彬彬有礼的氛围笼罩着，许多流派的最大支持者别无选择。 往非常富有（必须能够买得起大多数门票）。但是，由于许多美国最富盛名的“高雅的”机构陷入财务困 境——费城交响乐团从破产中重振旗鼓的消息广为人知，这只是最近的一个例子——古典音乐爱好 者和理论家想知道这种媒介如何才能在不牺牲其完整性的前提下融入21世纪的文化结构。 么我们不能像在摇滚音乐会上那样为伟大的作品欢呼呢？《赫芬顿邮报》最近就这个问题进行了一场 大辩论，许多评论员都站在“保持安静”一边。一位评论者写道：“生活中没有比成为观众中的一员更 有意义的经历了，每个人都默默地向前倾着身子，被一部杰作的精彩表演彻底征服。“为什么人们很 难欣赏和理解古典音乐的风格和传统呢？”另一个人问道。 多芬第一次演奏他的第七交响曲时，观众疯狂鼓掌，迫使乐团立刻重新演奏某些乐章。（36-2）他说，在 过去的几十年里，歌剧表演中的许多观众已经放弃了伪装，他们喜欢表演时就会大喊“Bravo（好 极了)”。 音乐厅中的一本正经是他所不理解的“当代音乐会礼仪的一个方面”。“与其等半个小时才去表现热 情，为什么不每隔八九分钟就表现一次呢？” 能带着一瓶酒和朋友们前往中央公园观看免费的表演。格林伯格说：“我认为任何人在欣赏表演时都 应该能够以他们喜欢的方式来穿衣，以他们喜欢的方式保持舒适，坐在那个座位上，做好享受的准备。 因为这很令人愉快。” 是关于开放“通道”的。（41）他说，当歌剧首次在演出期间设置字幕时，许多纯粹主义者不喜欢这个想 法，他们认为观众应该在观看之前先研究一下作品。但现在，在你面前的座椅靠背上找到字幕已经司 空见惯选择一种语言，坐下来，就能明白发生了什么事。 费城交响乐团主席艾莉森·瓦尔格莫当然也在展望未来。她说，某些专门献给资深大师的“经典音乐 会”将永远存在，但并非每个节目都必须有贝多芬和勃拉姆斯那样的风格特色——甚至舞台和座位也 应如此。她说：“我们正在尝试以不同的方式引进不同类型的音乐会。我们现在是一个互动的社会， 人们喜欢学习。 莫提到了交响乐马戏团，这是最近推出的一种表演形式，演出过程中杂要演员和杂技演员与音乐家展 开互动。与此同时，即将与纽约市里奇剧院合作的一次演出，将以“悬浮舞蹈装置”和其他与管弦乐作 品相结合的戏剧元素为特色。 瓦尔格莫提到：“学生们为他们想看的音乐会排队，每晚大约有300或350个孩子来参加这些音乐会。 他们会在音乐会开始前5分钟占据任何空位。这就像当门打开时公牛奔跑的那种能量。 易近人。他建议，也许他们身上甚至可以有“一点幽默感”，并且可以放弃高级艺术机构本身具有的那 种自命不凡。（37）他说:“一方面，这些机构都在说同一件事：我们希望有更多的普通观众，以打破文 化障碍。但后来他们却提出了一些非常目中无人的要求，这会让你发疯。” 他表示，观众越热情，音乐家们自己的反应就越好。他说:“但制片人或组织者必须让每个人都知道这 样没关系。自己开心就好。”例如，在多伦多交响乐团，指挥家彼得·欧德建经常在乐曲之间停下来，花 点时间以非常亲切的方式谈论作曲家或音乐。特劳德斯表示，有些晚上，“至少三分之一”的观众是购买 了便宜票的学生。在这些夜晚，房间的能量发生了巨大的变化。它变成了一个不那么令人生畏的地方。 “认为他们必须盛装打扮。他们认为在去之前必须对音乐有所了解。而且我敢肯定，其中还有一个原 因在于，坐在座位上的人们会因为担心这可能是错误的鼓掌时间而颤抖。 人秀》和《美国之声》等电视节目中，有一些不知名的、非正统的歌剧演员博得了观众的喝彩。（43）更高 级的机构能以此做些什么？如果他们诉诸于这些途径，是否有可能损害音乐的完整性或智慧？ 瓦尔格莫似乎明白这一点。她认为一个组织可以两全其美，既要有新的东西，又要保留旧的东西。在 P) 重组费城交响乐团时，她将试图做到这一点。她说：“世界上最受尊敬的音乐家汇聚成一个交响乐团， 这种情况将永远存在。但至关重要的是，我们愿意尝试并接纳失败。”"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_12_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "How can one person enjoy good health, while another person looks old before her time? Humans have been as king this question for thousands of years, and recently, it's becoming clearer and clearer to scientists that the differences between people's rates of aging lie in the complex interactions among genes, social relationships, environments and lifestyles. Even though you were born with a particular set of genes, the way you live can influence how they express themselves. Some lifestyle factors may even turn genes 2022-12-CET6(第3套)-4 ===== PAGE 5 ===== on or shut them off. Deep within the genetic heart of all our cells are telomeres, or repeating segments of noncoding DNA that live at the ends of the chromosomes (染色体). They form caps at the ends of the chromosomes and keep the genetic material together. Shortening with each cell division, they help determine how fast a cell ages. When they become too short, the cell stops dividing altogether. This isn't the only reason a cell can age—there are other stresses on cells we don't yet understand very well—but short telomeres are one of the major reasons human cells grow old. We've devoted most of our careers to studying telomeres, and one extraordinary discovery from our labs is that telomeres can actually lengthen. Scientists have learned that several thought patterns appear to be unhealthy for telomeres, and one of them is cynical hostility. Cynical hostility is defined by high anger and frequent thoughts that other people cannot be trusted. Someone with hostility doesn't just think, \"I hate to stand in long lines\"; they think, \"Others deliberately sped up and beat me to my rightful position in the line!\"—and then get violently agitated. People who score high on measures of cynical hostility tend to get more heart disease, metabolic disease and often die at younger ages. They also have shorter telomeres. In a study of British civil servants, men who scored high on measures of cynical hostility had shorter telomeres than men whose hostility sccores were low. The most hostile men were 30% more likely to have short telomeres. What this means: aging is a dynamic process that could possibly be accelerated or slowed—and, in some aspects, even reversed. To an extent, it has surprised us and the rest of the scientific community that telomeres do not simply carry out the commands issued by your genetic code. Your telomeres are listening to you. The foods you eat, your response to challenges, the amount of exercise you get, and many other factors appear to influence your telomeres and can prevent premature aging at the cellular level. One of the keys to enjoying good health is simply doing your part to foster healthy cell renewal.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What have scientists come to know better today?",
+              "stemCn": "【定位】由题干中的scientists和today定位到首段",
+              "options": {
+                "A": "Why people age at different rates.",
+                "B": "How genes influence the aging process.",
+                "C": "How various genes express themselves in aging.",
+                "D": "Why people have long been concerned about aging."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章首段第一、二句指出，几"
+              },
+              "answer": "A",
+              "analysis": "第一、二句。 千年来，人类一直在追问一个问题：为什么一个人 可以享受健康，而另一个人却看起来未老先衰？ 最近，科学家们越来越清楚地认识到，人们衰老速 度的差异在于基因、社会关系、环境和生活方式之 间复杂的相互作用。由此可知，科学家们最近了 解到的就是人们衰老速度差异的原因，故答案 为A）。 【避错】文章第二段介绍了基因对衰老过程的影 响，但这并不是科学家最近的新发现，B）项不符合 题意，故排除；文章首段第三句指出，人们的生活 方式会影响基因的表达方式，但并未提及各种基 因是如何表达自己的，故排除C）项；文章首段前 两句提到，人们一直在思考为何每个人以不同的 速度变老，说明他们一直关注衰老问题，但文章未 提及人们为何关注，而且这也并非科学家最近的 新发现，故排除D）项。"
+            },
+            {
+              "num": 47,
+              "stem": "Why are some lifestyle factors con side red extremely important?",
+              "stemCn": "【定位】由题干中的lifestylefactors定位到首段第",
+              "options": {
+                "A": "They may shorten the process of cell division.",
+                "B": "They may determine how genes function.",
+                "C": "They may affect the life span of telomeres.",
+                "D": "They may account for the stresses on cells."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。文章首段第三、四句提到，即"
+              },
+              "answer": "B",
+              "analysis": "三、四句。 使你生来就有一组特定的基因，你的生活方式也 会影响它们的表达方式。一些生活方式方面的因 素甚至可能会打开或关闭这些基因。由此可知， 生活方式方面的因素甚至可以决定基因是否能发 挥作用，因此极其重要，故答案为B)。 【避错】文章第二段第三句提到，细胞中的端粒会 随着细胞分裂而不断缩短，此处并未提及生活方 式方面的因素与细胞分裂有何关系，A）项张冠李 戴，且逻辑错误，故排除；文章第三段第一句提到， 几种思维模式似乎会对端粒产生不利影响，结合 下文可知这种不利影响就是会让端粒变得更短， 即影响其寿命，但这种影响的主体是“思维模式”， 而非“生活方式”，这里出现张冠李戴的情况，故排 除C）项；文章第二段第五句提到，科学家们还不太 了解细胞受到的其他压力，并未提及生活方式相 关因素，D)项与文章意思不符，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What have the author and his colleagues discovered about telomeres?",
+              "stemCn": "【定位】由题干中的theauthorandhis colleagues",
+              "options": {
+                "A": "Their number affects the growth of cells.",
+                "B": "Their length determines the quality of life.",
+                "C": "Their shortening process can be reversed.",
+                "D": "Their health impacts the division of cells."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。文章最后一段第一句指出，"
+              },
+              "answer": "C",
+              "analysis": "和telomeres定位到最后一段。 衰老是一个动态的过程，有可能加速或减缓，而且 在某些方面甚至可以逆转。通过前文可知，端粒 的缩短是细胞衰老的主要原因之一，由此可推断 出细胞衰老过程就是端粒缩短过程，而这个过程 是可以被逆转的，故答案为C）。 【避错】文章并未提及端粒的数量和健康对细胞的 影响，而且关联的信息也只涉及生活方式方面的 因素对端粒的影响，故排除A)D）项；第二段第三 句指出，端粒随着每次细胞分裂而缩短，帮助决定 细胞老化的速度，因此端粒的长度决定了细胞的 衰老程度，而非生活质量，B）项不符合文章意思， 故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What have scientists learned about cynical hostility?",
+              "stemCn": "【定位】由题干中的cynicalhostility定位到第",
+              "options": {
+                "A": "It may lead to confrontational thought patterns.",
+                "B": "It may produce an adverse effect on telomeres.",
+                "C": "It may cause people to lose their temper frequently.",
+                "D": "It may stir up agitation among those in long lines."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第三段第一句指出，科学家"
+              },
+              "answer": "B",
+              "analysis": "三段。 们已经了解到，有几种思维模式似乎会对端粒产 生不利影响，其中之一就是愤世嫉俗的敌意。由 此可知答案为B)。 【避错】第三段第二句指出，愤世嫉俗的敌意往往 会让人们高度愤怒，或者缺乏对其他人的信任，而 非产生对抗性的思维模式，A）项不符合文章意思， 故排除；同样的，这种思维模式只是容易让人很愤 怒，但愤怒并不一定通过发脾气表现出来，这样的 推论不合理，故排除C）项；第三段举例说明怀有 愤世嫉俗的敌意的人在排长队时容易变得暴躁不 安，这只是说他们会产生这样的心理状态，而不是 说他们会把这种敌意表现出来并引起躁动，D）项 不符合文章意思，故排除。 参考译文"
+            },
+            {
+              "num": 50,
+              "stem": "What do we learn from the last paragraph about the process of aging? 2022-12-CET6(第3套)-5 ===== PAGE 6 =====",
+              "stemCn": "【定位】由题干中的last paragraph定位到最后一段。",
+              "options": {
+                "A": "It may vary from individual to individual.",
+                "B": "It challenges scientists to explore further.",
+                "C": "It depends on one's genetic code.",
+                "D": "It may be controlled to a degree."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。文章最后一段第一句提到，"
+              },
+              "answer": "D",
+              "analysis": "衰老是一个动态的过程，有可能加速或减缓，而且 在某些方面甚至可以逆转；最后一句又提到，享受 良好健康的关键之一就是简单地尽你自己的一份 力来促进有益于健康的细胞更新。说明衰老的过 程是可以发生改变的，而且我们可以通过自己的 努力来促进有益健康的细胞更新，从而延缓衰老。 由此可推断衰老的过程在一定程度上是可以得到 控制的，故答案为D）。 【避错】文章第一段就提到衰老的过程因人而异， 但这不是从最后一段能获取或推断出的信息，故 排除A）项；文章中介绍了科学家为探索人类细胞 衰老过程所做的实验及其发现，最后一段也提到 了新的发现，即：衰老是一个动态的过程，有可能 加速或减缓，而且在某些方面甚至可以逆转，但并 未提到科学家之后需要进一步探索什么，B）项不 符合文章意思，故排除；文章前两段都提到基因层 面上影响衰老过程的因素，说明遗传密码会影响 衰老过程，但不是决定性的影响，而且这不是最后 一段中可以得出的结论，故排除C）项。 (46）为什么一个人可以享受健康，而另一个人却看起来未老先衰？几千年来，人类一直在追问这个问 题。最近，科学家们越来越清楚地认识到，人们衰老速度的差异在于基因、社会关系、环境和生活方式之间 复杂的相互作用。（47）即使你生来就有一组特定的基因，你的生活方式也会影响它们的表达方式。一些 生活方式方面的因素甚至可能会打开或关闭这些基因。 在我们所有细胞的遗传核心深处都有端粒，或者是生活在染色体末端的非编码DNA的重复片段。 它们在染色体的末端形成一些帽子，将遗传物质保持在一起。它们随着每次细胞分裂而缩短，帮助决定细 胞老化的速度。当它们变得太短时，细胞会完全停止分裂。这并不是细胞老化的唯一原因——我们还不 太了解细胞受到的其他压力，但短端粒是人类细胞衰老的主要原因之一。我们在大部分职业生涯中都致 力于研究端粒，而我们实验室的一个非凡发现是，端粒实际上可以延长。 （49）科学家们已经了解到，有几种思维模式似乎会对端粒产生不利影响，其中之一就是愤世嫉俗的敌 意。愤世嫉俗的敌意是指高度的愤怒和经常认为其他人不可信任的想法。有敌意的人不只是想：“我讨厌 排长队”；他们会想：“其他人故意加快速度，把我赶到我在队伍中应有的位置！”—一然后变得暴躁不安。 在“愤世嫉俗的敌意”的指标测量中得分高的人往往更容易患有心脏病、代谢性疾病，而且往往死得更早。 他们的端粒也比较短。在一项针对英国公务员的研究中，在“愤世嫉俗的敌意”指标测量中得分高的人比 得分低的人端粒要短。最具敌意的男性拥有较短端粒的可能性高出30%。 （48/50-1）这意味着：衰老是一个动态的过程，有可能加速或减缓，而且在某些方面甚至可以逆转。在 某种程度上，端粒并不是简单地执行你的遗传密码所发出的命令，这让我们和科学界的其他人士感到惊 讶。你的端粒在倾听你。你吃的食物，你对挑战的反应，你的运动量，以及其他许多因素似乎都会影响你 的端粒，并且可以在细胞水平上防止过早衰老。（50-2）享受良好健康的关键之一就是简单地尽你自己的 一份力来促进有益于健康的细胞更新。 Passage Two 【文章来源】本文选自2022年5月2日刊登在news.yahoo.com上一篇标题为“ScientistsCreateEnzymethat BreaksdownPlasticinHours（《科学家创造出能在数小时内分解塑料的酶》）的文章。 【结构框图】 第1段简述研究的整体情况。 第2、3段介绍研究的源起及过程。 本文主要介绍了一项可 能实现塑料瓶完全分解 回收的研究突破。 第4一8段说明研究的成果、前景和可能带来的巨大的社会效应。 第9段提到，对于此项研究，科学家还需审慎求证其可能产生的负面影响。 4 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2022_12_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Scientists have created by accident an enzyme (酶) that breaks down plastic drinks bottles. The breakthrough could help solve the global plastic pollution crisis by enabling for the first time the full recycling of bottles. The new research was spur red by the discovery in 2016 of the first bacterium that had naturaly evolved to eat plastic at a waste dump in Japan. Scientists have now revealed the detailed structure of the crucial enzyme produced by the bug. An international team then adjusted the enzyme to see how it had evolved, but tests showed they had accidentally made the molecule even better at brea king down the plastic used for drinks bottles. \"What actually turned out was we improved the enzyme, which was a bit of a shock,\" said head researcher Prof. McGeehan, at the University of Portsmouth, UK. Currently, the enzyme takes a few days to start brea king down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a viable large-scale process. \"What we are hoping to do is use this enzyme to turn this plastic back into its original components, so we can literally recycle it back to plastic,\" said McGeehan.\"It means we won't need to dig up any more oil and, fundamentally, it should reduce the amount of plastic in the environment.\" About 1 million plastic bottles are sold each minute around the globe and, with just 14% recycled, many end up in the oceans where they have polluted even the remotest parts, harming marine life and potentially people who eat sea food.\"Plastic is incredibly resistant to degradation,\" said McGeehan. \"It is one of these wonder materials that has been made a little bit too well.\" Currently those bottles that are recycled can only be turned into opaque fibres for clothing or carpets, while the new enzyme indicates a way to recycle old clear plastic bottles back into new clear plastic bottle. \"You are always up against the fact that oil is cheap, so plastic is cheap,\" said McGeehan. \"It is so easy for manufacturers to generate more of that stuff, rather than even try to recycle, but I believe there is a public interest here: perception is changing so much that companies are starting to look at how they can properly recycle these bottles..\" Prof. Ad is a Azapagic, at the University of Manchester in the UK, a greed the enzyme could be useful but added: \"A full life-cycle assessment would be needed to ensure that the technology does not solve one environmental problem—waste—at the expense of others, including additional greenhouse gas emissions.\"",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn from the passage about an enzyme scientists have created?",
+              "stemCn": "【定位】由题干中的an enzyme scientistshave",
+              "options": {
+                "A": "It was identified during a lab experiment accident.",
+                "B": "It may make full recycling of plastic bottles a reality.",
+                "C": "It was a breakthrough made with persistent efforts.",
+                "D": "It may initiate a radical reform in plastic industry."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。定位句指出，科学家偶然制"
+              },
+              "answer": "B",
+              "analysis": "created定位到第一段第一句。 出了一种能分解塑料饮料瓶的酶，随后一句说，这 一突破将首次实现塑料瓶的完全回收，可见B）为 该句的同义转述，故为答案。 【避错】定位句中的byaccident意思是“偶然地”， 而不是出了事故，故排除A）项；定位部分虽然提 到这是一项突破，但并未强调是否经过不懈努力， 反而说这个结果是意外所得，可知C）与原文不 符；文章在首段第二句只提到制出这种酶是一项 突破，并未提及它可能会引发塑料行业的彻底改 革，故排除D）项。"
+            },
+            {
+              "num": 52,
+              "stem": "What does the passage say about the bug that produces the important enzyme? 2022-12-CET6(第3套)-6 ===== PAGE 7 =====",
+              "stemCn": "【定位】由题干中的thebug和produces定位到第",
+              "options": {
+                "A": "It has a natural ability to consume plastics.",
+                "B": "It is a bacterium thatreproduces at a high rate.",
+                "C": "It is essential to the recycling of plastic bottles.",
+                "D": "It has a chemical structure unknown to scientists."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第二段第二句提到了bug，"
+              },
+              "answer": "A",
+              "analysis": "二段第二句。 由上下文可知，这里的bug就是指前一句中提到 的bacterium。第二段首句指出，这种细菌是第一 种自然进化出的以塑料为食的细菌，可知它具有 消耗塑料的天然能力，故答案为A)。 【避错】文章只在第四段提到细菌中的酶分解塑 料的速度，而没有介绍细菌的繁殖速度，故排除 研究这一信息，就推断它是塑料瓶回收的关键，但 原文对这种细菌的评价仅是启发作用，后文也介 绍，细菌中的这种酶是经过改良之后增强了分解 作用，才为实现塑料完全回收提供条件的，可知 定位句所说的“科学家已经描绘出这种细菌产生 的关键酶的详细结构”这一信息恰好相反，故排 除。"
+            },
+            {
+              "num": 53,
+              "stem": "Byadjusting the enzyme produced by the bug, the scientists",
+              "stemCn": "【定位】由题干中的adjusting定位到第三段第一",
+              "options": {
+                "A": "made it more effective by chance",
+                "B": "discoveredanextraordinarychemical",
+                "C": "alteredits basic molecular composition",
+                "D": "found its evolutionary process sped up"
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。定位句提到，科学家对这种"
+              },
+              "answer": "A",
+              "analysis": "句。 酶进行了调整，原本的目的是观察它如何进化，但 测试结果显示，他们意外地增强了这种分子分解 饮料瓶所用的塑料时的作用，可知A）为该句信息 的转述，故为答案。 【避错】文章只在第二段提到了细菌的发现过程， 参考译文 在调整细菌产生的酶这一过程中，没有提到其他 物质的发现，故排除B)；C）是根据第二段第二句 设置的干扰，但原句只说科学家揭示出酶的详细 结构，而并未说对其进行了改变，故排除；定位句 明确提到科学家是在观察其进化，而不是加快这 一过程，第四段所说加快这一过程，指的是分解塑 料的过程，而非酶的进化过程，故排除D)。"
+            },
+            {
+              "num": 54,
+              "stem": "What does Prof. McGeehan say about the recyclingofplasticbottles?",
+              "stemCn": "【定位】由题干中的人名和选项中的",
+              "options": {
+                "A": "Manufacturersare implementing it on an increasinglylargerscale.",
+                "B": "It generates huge business opportunities for plastic manufacturers.",
+                "C": "It has aroused persistent interest among the general public.",
+                "D": "Manufacturers are beginning to explore ways of doing it."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。该段最后一句提到，对于制"
+              },
+              "answer": "D",
+              "analysis": "manufacturers、public等关键词定位到第八段。 造商而言，生产更多的塑料比试图回收更容易， 但由于回收塑料涉及公众利益，导致人们的看法 也发生了巨大变化，所以这些制造商公司也开始 考虑如何恰当地回收这些瓶子，可知D）是对该 句部分信息的转述，故为答案。 【避错】A）是利用定位句的前半部分设置的干扰， 但原句是说制造商大量生产塑料，而不是回收， 故排除：从麦吉汉教授的话中可知，如果单纯考 虑经济利益，制造商与其回收，还不如生产塑料， 而考虑回收是出于公众利益的考虑，不是商机，故 排除B）；定位句中提到回收是出于公众利益，并说 人们的看法改变了，此处应是指制造商的想法出 现了转变，并没有说公众是否一直在关注回收问 题，故排除C）。"
+            },
+            {
+              "num": 55,
+              "stem": "What is Prof. Ad is a Azapagic's advice concerning the application oft he enzyme?",
+              "stemCn": "【定位】由题干中的Prof.AdisaAzapagic定位到",
+              "options": {
+                "A": "Developing technologies to address greenhouse gas emissions.",
+                "B": "Considering the extra cost involved in producing the enzyme.",
+                "C": "Assessing its possible negative impact on the environment.",
+                "D": "Studying the full life cycle of the enzyme as the first step."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。在该段引用这位教授的话"
+              },
+              "answer": "C",
+              "analysis": "最后一段。 中，提及需要进行一个全生命周期的评估，目的在 于确保新的塑料分解技术不会以引起其他环境问 题为代价，可知评估的目的在于这项新技术会不 会对环境造成负面影响，故答案为C）。 【避错】定位句中提到了额外的温室气体排放，是 举例说明新分解技术可能产生的负面环境影响， 而不是要开发减排技术，故排除选项A）；原文只 提到要验证是否有额外的温室气体排放，而未提 到成本问题，故排除B）；原文只提到需要进行一 个全生命周期的评估，并未具体指出全生命周期 评估是什么事项的第一步，D）项扩大了文章意 思，故排除。 （51）科学家偶然制出了一种能分解塑料饮料瓶的酶。这一突破将首次实现塑料瓶的完全回收，从而 有助于解决全球塑料污染危机。 （52）2016年，在日本的一个垃圾场发现了第一种自然进化出的以塑料为食的细菌，从而启发了本项 新研究。科学家现在已经揭示了这种虫子产生的关键酶的详细结构。 （53）随后，一个国际研究小组对这种酶进行了调整，以观察它是如何进化的，但测试结果显示，他们意 外地增强了这种分子分解饮料瓶所用的塑料时的作用。英国朴茨茅斯大学的首席研究员麦吉汉教授说： “事实证明，我们改良了这种酶，这有点令人震惊。” 目前，这种酶尚需几天的时间才能开始分解塑料，这比在海洋中需要几个世纪的时间要快得多，但研 究人员乐观地认为，这一过程还可以进一步加快，并可以大规模进行。 “我们希望用这种酶将塑料变回原来的成分，这样就是真正把它再循环成塑料，”麦克汉说，“这意味 着我们不需要再开采更多的石油，从根本上讲，它应该会减少环境中的塑料含量。 全球每分钟售出约100万个塑料瓶，其中只有14%得以回收，许多塑料瓶最终进入海洋，甚至污染了 最偏远的地区，危害了海洋生物和可能食用海鲜的人。“塑料非常耐降解，”麦吉汉说，“这是神奇材料的一 种，制作得有点太好了。” 目前，这些被回收的瓶子只能变成不透明的纤维，用于制作衣服或地毯，而这种新的酶则表明，有办法 能将旧的透明塑料瓶回收制成新的透明塑料瓶。 “人们总是否认这样一个事实，即石油很便宜，所以塑料也很便宜，”麦吉汉说，（54）“对于制造商而 言，生产更多的塑料比试图回收更容易，但我相信这涉及公众利益：人们的看法正在发生巨大变化，以至于 公司也开始考虑如何恰当地回收这些瓶子。” 英国曼彻斯特大学的阿蒂萨·阿萨帕吉克教授同意这种酶可能是有用的，但他补充说：（55）“需要进 行一个全生命周期的评估，才能确保该技术不会以引起其他环境问题（包括额外的温室气体排放）为代价 来解决一个环境问题，即废物的问题。” PartN Translation Most of the Yunnan-Guizhou Plateau is located in Yunnan and Guizhou provinces. With a total area of about 500, 000 square kilometers and an average elevation of2,000-4,000 meters,it isthe fourth largest plateau in China. Being high in the west andlow in the east with numerous rivers flowing through, the plateau has thus allowed the formation ofmany deep and steep canyons. The fertile soil in many parts of the canyon is very conducive to the growth of many kinds of crops. Theunique naturalenvironment oftheYunnan-GuizhouPlateauhas created biological and cultural diversity.It is notonly an area with abundant types of forest and mineralresources inChina,butalso an important place witnessing the origin of ancienthumans. Besides, it embraces the largest numberof ethnic minorities in China,each of which has preserved its rich and diverse cultural traditions. Karstlandform喀斯特地貌 plain平原 soilerosion土壤侵蚀 waterandsoilloss水土流失 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2022_12_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "云贵高原(theYunnan-GuizhouPlateau)大部分位于云南、贵州省境内，总面积约50万平方公里， 平均海拔2000-4000米，是中国第四大高原。云贵高原西高东低，河流众多，形成了许多又深又陡 的峡谷(canyon)。峡谷中许多地方土壤肥沃，非常有利于多种农作物生长。 云贵高原独特的自然环境造就了生物和文化的多样性。它是中国森林和矿产资源类型十分丰富 的地区，也是古人类起源的重要地区。云贵高原是中国少数民族数量最多的地区，各民族都保留了 自己丰富多彩的文化传统。 2022-12-CET6(第3套)-7 ===== PAGE 8 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

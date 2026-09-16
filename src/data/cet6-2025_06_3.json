@@ -1,0 +1,564 @@
+{
+  "id": "cet6-2025_06_3",
+  "level": 6,
+  "year": 2025,
+  "month": 6,
+  "setNo": "第3套",
+  "title": "2025年6月六级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2025_06_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence“With the increasing application of AI technology, there is a growing concern that it may negatively impact human creativity.”You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+          "review": "第三套 题目要求考生写一篇以“随着人工智能技术应用的日益广泛，人们越来越担心它可能会对人类的创造力 产生负面影响”开头的作文，考生可以通过发表评论、举例子或描述个人经历展开论述。根据题目提示，作文 可以采取以下布局：开头段引出问题；中间段发表观点，列出具体论据；结尾段总结全文。考生写作时可以使 用与“说明重要性”“阐述原因”相关的写作句型。",
+          "sample": "With the increasing application of a i technology, there is a growing concern that it may negatively impact human creativity. Some people worry that a i might discourage people's independent thinking by offering quick solutions. For example, AI-poweredtoolslike Deep seek can write essays quickly, potentially reducing students'motivation to come up with their own ideas. However, AI can greatly enhance human creativity when used correctly. Firstly, AI is good at hand ling repetitive tasks, freeing humans to focus on innovation.AI can help inspire designers to come up with new ideas when they get stuck, or help writers create more interesting stories. Secondly, AI canoffr insights that humans might overlook. For example, in marketing, AI can analyze customer data to findhidden information. Thus, people can create more targeted and effective plans that they might not have thought of otherwise.2 The main factor contributing to people's concern is the over-reliance on AI.How AI affects us depends on how we use it. If used wisely, it can stimulate creativity; ifmisused, it may stifle originality. The key is that we must ensure that AI products are just an aid, not something to be overly dependent on.3",
+          "sampleNote": "1引出话题，指出有人担心通过 提供快速解决方案，人工智能 可能会阻碍人们的独立思考。 2发表观点，分别从“人工智能 擅长处理重复性任务，从而让 人类能够专注于创新”和“人 工智能可以提供人类可能会忽 略的洞见”两个方面指出人 工智能可以极大地提升人类的 创造力，分别由副词Firstly和 Secondly引出。 3总结全文，指出人们对人工智 能的担忧主要源于对其过度依 赖。我们要确保人工智能只是 一个辅助工具，而不是过度依 赖的对象。",
+          "sampleCn": "随着人工智能技术应用的日益广泛，人们越来越担心它可能会对人类的创造力产生负面影响。有人担心 通过提供快速解决方案，人工智能可能会阻碍人们的独立思考。例如，像Deepseek这样的人工智能工具可以快 速写出论文，这可能会削弱学生提出自己想法的动力。 然而，当被正确使用时，人工智能其实是可以极大地提升人类的创造力的。首先，人工智能擅长处理重 复性任务，从而让人类能够专注于创新。当设计师陷入困境时，人工智能可以帮助激发他们的灵感，提出新的 想法，或者帮助作家创作出更有趣的故事。其次，人工智能可以提供人类可能会忽略的洞见。例如，在市场营 销中，人工智能可以分析客户数据以发现隐藏的信息。因此，人们可以创建更有针对性且更有效的计划，而这 些计划他们可能原本想不到。 人们对人工智能的担忧主要源于对其过度依赖。人工智能会怎样影响我们取决于我们如何使用它。如果 使用得当，它可以激发创造力；如果使用不当，它可能会抑制创新。关键在于，我们要确保人工智能产品只是 一个辅助工具，而不是过度依赖的对象。 老师说 本套视频解析中，老师在听力部分讲解听音重点和正确答案信号词，以及如何运用排除法进行综合性解题；翻译部分 教你高效的翻译步骤和策略，快来扫描本页视频课二维码收看吧！",
+          "vocab": [],
+          "patterns": [
+            "·参考范文&点评·",
+            "With the increasing application ofAI technology,there is a growing concern",
+            "thatit may negatively impacthuman creativity.Some people worry thatAI",
+            "might discourage people's independent thinking byoffering quick solutions.For",
+            "example,AI-poweredtoolslike Deepseek can write essays quickly,potentially",
+            "reducing students'motivation to come up with their own ideas.",
+            "However,AI can greatly enhance human creativity when used correctly.",
+            "Firstly,AI is good at handling repetitive tasks,freeing humans to focuson",
+            "innovation.AI can help inspire designers to come up with new ideas when they",
+            "get stuck,or help writers create more interesting stories.Secondly,AI canoffr",
+            "insights that humans might overlook.For example,in marketing,AI can analyze",
+            "customer data to findhidden information. Thus,people can create more targeted",
+            "and effective plans that they might not have thoughtof otherwise.2",
+            "The main factor contributing to people's concern is the over-reliance on",
+            "AI.How AI affects us depends on how we use it.If used wisely,it can stimulate",
+            "creativity;ifmisused,itmay stifle originality.Thekey is that we must ensure that",
+            "AI products are just an aid,not something to be overly dependent on.3",
+            "·范文译文·",
+            "1引出话题，指出有人担心通过",
+            "提供快速解决方案，人工智能",
+            "可能会阻碍人们的独立思考。",
+            "2发表观点，分别从“人工智能",
+            "擅长处理重复性任务，从而让",
+            "人类能够专注于创新”和“人",
+            "工智能可以提供人类可能会忽",
+            "略的洞见”两个方面指出人",
+            "工智能可以极大地提升人类的",
+            "创造力，分别由副词Firstly和",
+            "Secondly引出。",
+            "3总结全文，指出人们对人工智",
+            "能的担忧主要源于对其过度依",
+            "赖。我们要确保人工智能只是",
+            "一个辅助工具，而不是过度依",
+            "赖的对象。",
+            "随着人工智能技术应用的日益广泛，人们越来越担心它可能会对人类的创造力产生负面影响。有人担心",
+            "通过提供快速解决方案，人工智能可能会阻碍人们的独立思考。例如，像Deepseek这样的人工智能工具可以快",
+            "速写出论文，这可能会削弱学生提出自己想法的动力。",
+            "然而，当被正确使用时，人工智能其实是可以极大地提升人类的创造力的。首先，人工智能擅长处理重",
+            "复性任务，从而让人类能够专注于创新。当设计师陷入困境时，人工智能可以帮助激发他们的灵感，提出新的",
+            "想法，或者帮助作家创作出更有趣的故事。其次，人工智能可以提供人类可能会忽略的洞见。例如，在市场营",
+            "销中，人工智能可以分析客户数据以发现隐藏的信息。因此，人们可以创建更有针对性且更有效的计划，而这",
+            "些计划他们可能原本想不到。",
+            "人们对人工智能的担忧主要源于对其过度依赖。人工智能会怎样影响我们取决于我们如何使用它。如果",
+            "使用得当，它可以激发创造力；如果使用不当，它可能会抑制创新。关键在于，我们要确保人工智能产品只是",
+            "一个辅助工具，而不是过度依赖的对象。",
+            "老师说",
+            "本套视频解析中，老师在听力部分讲解听音重点和正确答案信号词，以及如何运用排除法进行综合性解题；翻译部分",
+            "教你高效的翻译步骤和策略，快来扫描本页视频课二维码收看吧！",
+            "·亮点词汇·",
+            "discourage阻碍 get stuck陷入困境",
+            "come up with想出，提出 targeted有针对性的",
+            "inspire激起；赋予灵感 otherwise否则；不然",
+            "图·写作句型·",
+            "The main factor contributing to...is..",
+            "stifle抑制",
+            "originality独创性",
+            "aid辅助工具",
+            "句型意为“ 成…的主要原因是……”“…主要源于……”，常用来分析某件事或者某种现·产生的主",
+            "要原因。",
+            "2]Thekey is thatwemustensurethat...",
+            "句型意为“关键在于，我们要确保……”，常用于强调我们确保要做的事，可用于作文结尾段。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2025_06_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "decisions has significant ___26___ for all the policies that governments ___27___. Female legislators are more likely than men to introduce, speak about and work to pass policies that disproportionately affect women and girls, such as paid family leave, pay ___28___ and gender-based violence. Having more women in Congress also fosters a greater sense of connection between female voters and government. In addition, it ___29___ women’s sense that government cares about their concerns and inspires young women to become more politically engaged. While women are underrepresented in governments around the globe it is a particularly ___30___ problem in the Un i ted States. Currently, the U.S. ranks 73rd in the world when it comes to female representation in government. But the reason women are so ___31___ underrepresented in U.S. government is not because they face resistance from voters or struggle to raise money. On the contrary, decades of research shows that female candidates raise as much money and win as often as male politicians with similar ___32___. Rather the slow progress of women in politics is a tale of two political parties. In the next Congress, there will be 107 female Democratic lawmakers and 42 female Republican lawmakers in the Senate and House combined. In order for women to gain half of the seats in Congress, more women need to run, ___33___ on Republican tickets. This will require the Republican Party as a whole to ___34___ recruiting women — and not just for one election cycle but in a ___35___ way.",
+          "wordBank": {
+            "A": "bolsters",
+            "B": "consequences",
+            "C": "credentials",
+            "D": "dramatically",
+            "E": "enact",
+            "F": "equity",
+            "G": "especially",
+            "H": "evasively",
+            "I": "formidable",
+            "J": "impetus",
+            "K": "lavish",
+            "L": "prioritize",
+            "M": "suffices",
+            "N": "sustained",
+            "O": "tenured"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "语法判断此处为because引导的原因状语从句，其主语为the number of women，而空格前为has significant， 空格后为forallthepolicies，policies后面被that引导的定语从句修饰。由此可知，该原因状语从句缺少宾 语，空格处应填入一个名词，充当has的宾语。 语义判断下一句提到，相较于男性，女性立法者更倾向于提出、讨论并推动通过那些对妇女和女孩影响 尤为显著的政策，前后句具有承接关系，可知空格所在句陈述的应该是女性立法者对国家政策的影响， consequences符合语境，故选B。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "语法判断结合上一题的分析可知此处为that引导的定语从句，修饰policies，而该定语从句中governments为 主语，句子缺少谓语，故空格处应填入一个谓语动词。 语义判断]上文提及女性立法者会对国家政策产生影响，此处应该是指是由政府“制定”的政策，enact符合 语境，故选E。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "语法判断空格前为such as paid family leave，pay，空格后为and gender-based violence，由此可知，此处是由 such as引出的表列举的事项，“pay_28_”应该与paidfamily leave以及gender-based violence一起构成并列 关系，均为名词短语，故空格处应填入一个名词。 语义判断本句提及相较于男性，女性立法者更倾向于提出、讨论并推动通过那些对妇女和女孩影响尤为显 著的政策，此处就是列举对妇女和女孩有影响的政策，由此可知，与“带薪家庭假”“性别暴力”构成并 列关系的应该是“（男女）薪酬平等”，故equity符合语境，本题应选F。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格前为主语it，空格后为名词短语women's sense，由此可知，空格处应填入一个动词，充当谓语。 语义判断本段首句提及增加国会女性席位还能增强女性选民与政府之间的联结感，这是女性从政人数增加 的好处，由that引导的同位语从句thatgovernmentcaresabouttheir concerns（政府关注其诉求）可知，此处 要表达的意思是增加国会女性席位会强化女性对“政府关注其诉求”的认知，bolsters符合语境，故选A。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "语法判断空格前为itis a particularly，空格后为名词problem in theUnitedStates，由此可知，空格处应填入一 个被副词particularly修饰的形容词，充当problem的定语。 语义判断由句首的While表达的让步转折关系和地点状语in governments around the globe可知，此处是说， 尽管全球各国政府普遍存在女性代表不足的现象，但美国的这一问题尤为“严峻”，formidable符合语境， a particularlyformidable problem意为“一个特别让人害怕的问题”，也就是问题比较严重的意思，故选I。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "语法判断空格前是副词so，空格后是形容词underrepresented，由此可知，空格处应填入一个副词，修饰 underrepresented。 语义判断上一段提及美国政府女性代表不足现象尤其严重，本段承接上一段的语义，探讨其中的原因， 可知此处应填入dramatically，表示程度严重，dramaticallyunderrepresented与上一段中的aparticularly formidable problem相呼应，故选D。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "语法判断空格前是withsimilar，空格后是句点，由此可知，空格处应填入一个被similar修饰的名词，充当介 词with的宾语。 语义判断上一句提及，美国政界女性代表严重不足并非选民抵制或筹款困难，本句使用了表示情况相反的 短语Onthecontrary（相反），可知，本句陈述的是女性政客的筹款能力或选民支持情况。由本句中提到的 女性候选人筹款能力与胜选率与男性政客持平的内容可知，此处是说“在资质相当的情况下”，这样两者 才具有可比性，credentials符合语境，故选C。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "语法判断分析本句结构可知，more womenneed to run是主句，句首是目的状语，空格后on Republican tickets是介词短语，也充当状语，故空格处应填入一个副词，充当状语修饰介词短语on Republican tickets。 语义判断下一句提及这要求共和党整体优先招募女性，众所周知，美国是两党制，这里特别提到美国共和 党要招募女性，可知空格所在句是说，为了让女性获得国会半数席位，就需要更多女性参选——尤其是作 为共和党候选人，故especially符合语境，本题应选G。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断空格前是This will require the Republican Party as a whole to，空格后是recruiting women，可知空格 处应填入一个动词原形，与to一起构成不定式短语，表示目的。 语义判断recruitingwomen是该不定式的宾语，意为“招募女性”，再结合全文反复提及的要增加女性在国 会中的席位可知，此处说的是要把招募女性作为优先事项来考虑，prioritize符合语境，故选L。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "evasively（adv.闪烁其词地，推诿地）",
+                "J": "impetus（n.推动，促进，动力）",
+                "K": "lavish（adj.盛大奢华的； 慷慨的）",
+                "M": "suffices（v.足够，足以）",
+                "O": "tenured（adj.有此职责的；职位有保障的）"
+              },
+              "answer": "N",
+              "analysis": "语法判断空格前为ina，空格后为way，由此可知，空格处应填入一个形容词或分词，充当定语修饰名词 way。 语义判断本句为破折号后的内容，表示进一步说明，且采用了notjust...but..的并列结构，表示“不仅…. 而且…”，那么由notjust foroneelectioncycle（不仅仅是在一个选举周期内）可知，but后面的部分应表 示“长期”的含义，sustained表示“持续的”，暗含长期的意味，符合语境，故选N。 干扰项注释"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2025_06_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) They can be immediately implemented with great ease.\nB) They are usually led by organization leaders of vision.\nC) They call for enthusiastic support from the workforce.\nD) They often result from simulation learning experiences.\nA) Allow them to see what could possibly be achieved.\nB) Help them break free from their old paradigms.\nC) Encourage them to rethink their thought models.\nD) Stimulate them to embrace fresh opportunities.\nA) They are generally incapable of changing workers’ behaviors on the job.\nB) They are interventions different from simulations in creating stimuli for change.\nC) They aim at transforming the behaviors of the workers in an organization.\nD) They help managers achieve the full effect of employee development efforts.\nA) Its capability of saving time by accelerating the immersive learning experience.\nB) Its potential for learners to examine their skills, knowledge and learning process.\nC) Its capability of providing all participants with a practical learning experience.\nD) Its potential for learners to explore, experiment and practice without any risk.\nB) Apply promptly what they learn to their jobs.\nD) Strive to connect closely with their leaders.\nA) It should be made sustainable. C) It should be governments’ chief concern.\nB) It is vital to the future of humanity. D) It is an indicator of government performance.\nA) Governments cannot impose happiness on citizens.C) Happiness means different things to different people.\nB) People’s happiness is built upon their own endeavor.D) Happiness depends on sustainable economic growth.\nA) Try to reduce inequality between the rich and the poor.\nB) Provide people with access to resources for a better life.\nC) Change people’s behaviors to put social wealth to better use.\nD) Make use of advanced technologies to improve people’s lives.\nA) Mental health programs cannot be executed without GDP growth.\nB) Psychological interventions are conducive to people’s well being.\nC) Poor mental health is detrimental to a nation’s economic system.\nD) Governments still take economic development as their priority.\nA) Governments’ goal should be prosperity-driven.\nB) Governments’ goal should be people-oriented.\nC) Governments should consider citizens’ views in decision-making.\nD) Governments should set sustained productivity as their top priority.",
+          "analysisOverview": "本文探讨了美国国会女性代表不足的现状及影响，指出女性议员更关注妇女权益政策，能增强女性 选民与政府的联系。尽管女性候选人能力不逊于男性，但两党分化导致性别平等进展缓慢。实现性别平 等需鼓励更多女性参选，尤其是共和党需持续优先推动女性从政。",
+          "translationCn": "女性在民选职位中所占席位的缓慢进步让一些政治观察家和专家感到沮丧——包括我自己。实现国会中 的性别平等是一个重要目标，因为参与立法决策的女性数量对政府[27]制定的所有政策都有重大[26]影响。相 较于男性，女性立法者更倾向于提出、讨论并推动通过那些对妇女和女孩影响尤为显著的政策，例如带薪家庭 假、薪酬[28]平等和性别暴力等。 增加国会女性席位还能增强女性选民与政府之间的联结感。此外，它还能[29强化女性对“政府关注其诉 求”的认知，并激励年轻女性更多地参与政治。 尽管全球各国政府普遍存在女性代表不足的现象，但美国的情况尤为[30]严峻。目前，美国在政府中女性 代表比例的国际排名中仅位列第73位。 然而，美国政界女性代表[31]严重不足的原因并不在于选民抵制或筹款困难。相反，数十年的研究显示， 在[32资质相当的情况下，女性候选人的筹款能力与胜选率与男性政客持平。 确切地说，女性从政进展缓慢是两党的问题。 在下一届国会中，参议院和众议院将共有107名民主党女性议员和42名共和党女性议员。 为了让女性获得国会半数席位，就需要更多女性参选——[33尤其是作为共和党候选人。这要求共和党整 体[34]优先招募女性——不仅仅是在一个选举周期内，而是以一种[35]持续的方式。 42六级2025.6第三套",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Lots of research demonstrates that being socially isolated is harmful to the elderly.",
+              "stemCn": "题干译文大量研究表明，社交孤立对老年人有害。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息Lotsofresearch和harmfulto theelderly定位到C段。该段第二句指出，大量研究 表明了社交孤立的危害，这在人口迅速老龄化的国家被视为一个严重的公共健康问题。由此可知，题干是 对原文的同义转述。题干中的Lotsofresearch对应原文中的Abundantresearch；题干中的theelderly对应原文 中的ageing populations。"
+            },
+            {
+              "num": 37,
+              "stem": "Being alone enables artists to think and observe, which is a must for their creation.",
+              "stemCn": "题干译文独处使艺术家能够思考和观察，这是他们创作的必要条件。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息artists、thinkandobserve和amustfortheircreation定位到H段。该段提到费斯特 的观点：许多艺术家“都在努力理解自己的内心世界，以及理解他们试图通过艺术来表达和赋予意义的大 量内心的个人经历”。独处为这种创作过程所需的反思和观察提供了条件。由此可知，题干是对原文的总 结概括。题干中的artists是原词重现；题干中的thinkandobserve对应原文中的reflectionandobservation；题 干中的amust for their creation对应原文中的necessary for that creative process。"
+            },
+            {
+              "num": 38,
+              "stem": "To one writer, being forced to play with others was a penalty while being kept alone in a room was quite a pleasure.",
+              "stemCn": "题干译文对一位作家来说，被迫与他人一起玩耍是一种惩罚，而被单独关在房间里却是一种相当大的乐趣。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息one writer、being forced to play withothers和beingkeptalone inaroom定位到B 段。该段最后两句作者说：“在锁着门的房间里待着是一种享受。对我来说，被命令和我的表弟路易斯一 起玩游戏才是一种惩罚。”由此可知，题干是对原文的同义转述。题干中onewriter指的就是作者自己；题 干中的being forced to play withothers对应原文中的being ordered to playgames withmycousin Louis；题干中 的beingkept alone in a room对应原文中的Being therebehind a locked door。"
+            },
+            {
+              "num": 39,
+              "stem": "Recent research shows for the first time that there is a specific link between being creative and being un sociable.",
+              "stemCn": "题干译文最新的研究首次表明，创造力与不爱交际之间存在着一种特定的联系。",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "答案I。由题干关键信息Recentresearch、forthefirsttime和a specific linkbetweenbeing creative andbeing unsociable定位到I段。该段第三句指出，鲍克尔及其同事的论文首次表明，一种形式的社交退缩可能有积 极影响——他们发现，创造力与不爱交际有特定联系。由此可知，题干是对原文的同义转述。题干中的 Recentresearch对应原文中的Apaper by Bowkerandhercolleagues；题干中的the first是原词重现；题干中 的aspecific linkbetween being creativeand being unsociable对应原文中的creativity was linked specificallyto unsociability。"
+            },
+            {
+              "num": 40,
+              "stem": "We must be willing to stay alone at least for some time in order to plot our own course.",
+              "stemCn": "题干译文我们必须愿意至少花一些时间独处，以便规划自己的道路。",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "答案M。由题干关键信息willing to stay alone at least for some time和plotour own course定位到M段。该 段引用了苏珊·凯恩的话，其中最后一句指出：“要真正规划自己的道路或愿景，我们必须愿意至少在一 段时间内独处。”由此可知，题干是对原文的同义转述。题干中的Wemustbe willing to stayaloneatleast for some time对应原文中的we have to be willing to isolate ourselves,at leastfor some period oftime；题干中的 plot our own course对应原文中的chart our own path or vision。"
+            },
+            {
+              "num": 41,
+              "stem": "According to new research, for people who prefer being alone, solitude can be beneficial to their work lives and emotional",
+              "stemCn": "题干译文根据新的研究，对于更喜欢独处的人来说，独处对其工作生活和情绪健康是有益的。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息newresearch、people who prefer beingalone和work lives andemotional health定位 到E段。该段第二句指出，对于我们这些只是更喜欢许多独处时间的人来说，新近的研究带来了好消息：独 处是有好处的——无论是对我们的工作生活，还是对我们的情绪健康。由此可知，题干是对原文的同义转 述。题干中的newresearch对应原文中的emerging research；题干中的people whopreferbeing alone对应原文中 的those ofus who justprefer plenty ofalone time；题干中的work lives是原词重现，emotional health对应原文中的 emotional well-being。"
+            },
+            {
+              "num": 42,
+              "stem": "It may tum out to be better for one to cultivate a few steady relationships than to busy themselves social i sing.",
+              "stemCn": "题干译文培养几段稳定的关系，而不是让自己忙于社交，结果可能会更好。",
+              "options": {},
+              "optionCn": {},
+              "answer": "O",
+              "analysis": "答案O。由题干关键信息cultivate a fewsteady relationships和busy themselves socialising定位到O段。该 段第二句指出，培养几段稳固的关系，而无需不断地用无休止的聊天来填充生活，最终可能对你更有益。 由此可知，题干是对原文的同义转述。题干中的cultivatea fewsteadyrelationships对应原文中的Nurturing afew solidrelationships；题干中的busy themselvessocialising对应原文中的constantlypopulateyour lifewith endless chatting。"
+            },
+            {
+              "num": 43,
+              "stem": "All owing your mind to wander freely is conducive to sharpening your focus in the long run.",
+              "stemCn": "题干译文让思绪自由驰骋有助于提升长期专注力。",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "答案L。由题干信息Allowing yourmind to wanderfreely和sharpening your focus in the long run定位到L 段。该段第三句指出，让思绪自由驰骋不仅有助于长期的专注，还能增强你对自己和他人的感知。由此可 知，题干是对原文的同义转述。题干中的Allowing yourmind to wanderfreely对应原文中的Giving freerein to a wandering mind;题干中的sharpening your focus in the long run对应原文中的helps with focus in the long term。 题干译文对艺术家和科学家进行的研究表明，富有创造力的人不怎么喜欢与其他人出去玩。"
+            },
+            {
+              "num": 44,
+              "stem": "Research conducted on artists and scientists indicates that creative people are less interested in hanging out with others.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "G。由题干信息Research conductedonartists and scientists和creative peopleare less interestedin 答案hangingoutwithothers定位到G段。该段最后一句指出，事实上，费斯特对艺术家和科学家的研究表明，富 有创造力的人最显著的特点之一是对社交的兴趣相对较小。由此可知，题干是对原文的同义转述。题干中 的Researchconductedonartistsand scientists对应原文中的Feist’sresearchonbothartists and scientists；题干中 的creativepeople对应原文中的creativefolks；题干中的are less interested in hangingout withothers对应原文中 的their lesser interest in socialising。"
+            },
+            {
+              "num": 45,
+              "stem": "According to Feist, you will have difficulty knowing yourself if you do not stay alone occasionally.",
+              "stemCn": "题干译文根据费斯特的说法，如果你不偶尔独处，你将很难了解自己。",
+              "options": {},
+              "optionCn": {},
+              "answer": "N",
+              "analysis": "答案N。由题干关键信息Feist、have difficultyknowing yourself和do not stayalone occasionally定位到 N段。该段主要介绍了费斯特的观点，其中倒数第二句指出，除非你偶尔独处，否则很难审视自己的思 想、感受和动机，很难做到有自我意识和完全放松。由此可知，题干是对原文的同义转述。题干中的have difficultyknowingyourself对应原文中的It’shard toexamineone'sown thoughts,feelingsandmotives,to beself- 题干中的do not stayalone occasionally对应原文中的unless you have occasional solitude。 aware; Passage One ·概览· 本文节选自https://www.chieflearningofficer.com网站于2011年10月25日发表的一篇标题为“When SimulationIsBetterThanReallity”的文章。文章强调模拟器在核能、航空和手术中的重要性，指出模拟器 可加速学习、提供沉浸式体验并促进行为改变。成功的组织变革需要员工积极参与，模拟器通过创造逼 真环境，帮助员工突破思维定式，将学习成果快速应用于实际工作，推动组织变革。 ·全文翻译· 模拟器最常用于核能、航空和外科手术等领域，因为这些领域一旦 操作失误就会导致灾难性后果。为了最大限度地发挥模拟学习体验的价 值，参与者应当立即将所学知识直接应用于自己所在组织内的具体干预措 施中。 大多数组织都渴望部署重要的变革计划，却发现这些计划几乎无法实 施。[46]这在很大程度上是因为成功的变革不仅需要愿景，还需要一支不 仅不抵制变革，而且会拥抱变革的员工队伍。 要想取得成功，组织必须制订一项转型计划，以便能够迅速在各部门 和各层级之间推行变革。无论高级管理层的承诺程度有多高，除非各个级 别的关键思想领袖都能接受变革，否则这项计划就会枯萎并消亡。[47]为 了激发这种广泛的热情，学习型领导者必须让员工看到变革可能带来的 重难点单词及短语 simulator n.模拟器 ·nuclear adj.核能的 ·aviationn.航空 ·surgery n.外科手术 maximizevt.最大限度地利用 interventionn.干涉，干预 aspirevi.渴望，有志（于） deployvt.部署，调度 implementv执行，实施 图景，这将促使他们重新思考自己的思维模式，让他们摆脱根深蒂固的观 念框架，并抓住学习的机会。 让参与者进入模拟环境能为他们提供体验不同现实情境的机会，这可以 促使他们重新思考自己现有的观念。 对于大多数成年人而言，行为改变并非易事。[48讲座、培训项目和 研讨会能够阐释变革的知识要素，但很少能有效触及重大变革举措核心 的行为层面。此外，在常规工作环境中，管理者很少能看到员工发展举措的 全面成效。正因如此，像模拟这样的干预措施能够为变革提供动力。 作为一种学习工具，有效的模拟要比经验效果更好，因为它能加速时 间，压缩空间，而且与现实不同，它是专门为最大限度地提高参与者的学习 效果而设计的。模拟提供了一种沉浸式的学习体验，在这种体验中，技能、 流程和知识都能以现实无法实现的方式得到突出展现。[49在无限制、无风 险的模型中探索、实验以及反复应用新知识的能力，使模拟成为最有成 效的学习形式之一。 精心设计的模拟可以使个人和团队深入理解他们的决策以及他们对商业 刺激的直觉反应是如何影响其他参与者以及整个组织的。然而，要想获得这 些好处，模拟必须让人感觉如同置身现实。在一次成功的模拟结束时，参 与者必须能够宣称“这就是我们”。如果做不到这一点，他们就会把这种 体验当作一场游戏，很难将其应用到实际工作中，或者更糟糕的是，觉得 它与日常工作毫不相关。[50为了使模拟带来的益处最大化，参与者应该 立即将模拟体验中所学到的知识应用起来，以便在学习和实践之间建立 起顺畅的衔接。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2025_06_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Simulators are most often utilized within industries such as nuclear power, aviation and surgery where failure results in disastrous consequences. To maximize the value from a simulation learning experience, participants should immediately and directly apply their learning to a specific intervention within their organization. Most organizations aspire to deploy significant change programs, only to find them nearly impossible to implement. That is largely because successful change requires more than a vision, it requires a workforce that not only doesn’t resist change, ===== PAGE 4 ===== but embraces it. To achieve success, an organization must build a transformation program that will allow change to be rapidly pulled across its departments and throughout its layers. Regardless of the level of senior management commitment, unless key thought leaders at all levels embrace the change, the initiative will wither and die. To create this kind of widespread passion, learning leaders must expose the workforce to what could be, which will enable them to rethink their mental models, enable them to break free from their deep-rooted paradigms and embrace the opportunity to learn. All owing participants to enter a simulated environment provides them with the opportunity to experience alternative realities which can prompt them to rethink their current beliefs. Behavioral change is not easy for most adults. Lectures, training programs and workshops can explain the intellectual elements of transformation, but they are seldom effective at getting to the behavioral aspects that lie at the heart of a significant change initiative. Further, under normal working conditions, managers rarely see the full effect of their employee development efforts. As such, an intervention like a simulation can provide the stimulus for change. An effective simulation can be better than experience as a learning tool because it accelerates time, compresses space, and unlike reality, is specifically designed to maximize participant learning. Simulations provide an immersive learning experience where skills, processes and knowledge all can be highlighted in a way reality cannot. The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free models is what makes simulation one of the most productive forms of learning. Well-designed simulations can enable individuals and groups to develop a deep level of understanding about how their decisions and intuitive responses to business stimuli affect their fellow participants and the organization as a whole. To reap the benefits, however, simulations must feel like reality. At the end of the successful simulation, participants must declare “this is us.” If they don’t, they will view the experience as a game, which can be difficult to apply on the job, or worse, irrelevant to everyday work tasks. To maximize benefits from simulation, participants should immediately apply the learning from the experience to forge a smooth link between learning and doing.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do we learn about successful changes in organizations?",
+              "stemCn": "关于组织中的成功变革，我们了解到什么？",
+              "options": {
+                "A": "They can be immediately implemented with great ease.",
+                "B": "They are usually led by organization leaders of vision.",
+                "C": "They call for enthusiastic support from the workforce.",
+                "D": "They often result from simulation learning experiences."
+              },
+              "optionCn": {
+                "C": "它们需要员工的热情支持。",
+                "A": "它们可以毫不费力地立即实施。",
+                "B": "它们通常由有远见的组织领导者引领。",
+                "D": "它们通常源于模拟学习体验。"
+              },
+              "answer": "C",
+              "analysis": "visionn.想象；远见卓识 ·workforcen.全体员工；劳动力 ·embracev.拥抱；欣然接受 commitmentn.承诺，许诺 ·initiativen.倡议；新方案 withervi.枯萎，凋谢；破灭 消失 ·widespreadadj.普遍的，广泛的 passion n.激情，热情 paradigm n.范式；模式 workshopn.研讨会；作坊 ·compressv.（被）压紧，压缩 ·immersiveadj.（计算机系统或 图像）沉浸式虚拟现实的 highlightvt.突出，强调 risk-freeadj.无风险的 ·productive adj.富有成效的 ·intuitive adj.直觉的 ·stimulin.促进因素，激励因素 •declarev.宣称，宣告 定位 根据题干信息词successful changes可将答案线索定位至第二段。 第二段提到，成功的变革不仅需要愿景，还需要一支不仅不抵制变革，而且会拥抱变革的员工队伍，换言 之，组织中的成功变革需要员工的热情支持，故C项为正确答案。该段第一句提到，大多数组织的变革计 划几乎无法实施，A项与原文内容相悖，故排除。文中虽然提到了vision，但指的是变革的“愿景”，而 非领导者的“远见”，故B项可排除。原文只是说模拟是一种学习工具，有助于推动变革，并未提及成功 变革通常源于模拟学习体验，D项过度推断，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What should learning leaders do to arouse learners’ passion for change?",
+              "stemCn": "学习型领导者应如何激发学习者的变革热情？",
+              "options": {
+                "A": "Allow them to see what could possibly be achieved.",
+                "B": "Help them break free from their old paradigms.",
+                "C": "Encourage them to rethink their thought models.",
+                "D": "Stimulate them to embrace fresh opportunities."
+              },
+              "optionCn": {
+                "A": "让他们看到可能实现的成果。",
+                "C": "鼓励他们重新思考自己的思维模式。",
+                "B": "帮助他们摆脱旧有范式。",
+                "D": "激励他们拥抱新的机遇。"
+              },
+              "answer": "A",
+              "analysis": "定位根据题干信息词learning leaders和learners’passion可将答案线索定位至第三段。 第三段第三句提到，为了激发这种广泛的热情，学习型领导者必须让员工看到变革可能带来的图景，也就 是让他们看到变革可能实现的成果，A项与原文表述相符，且该选项中的whatcouldpossiblybe与原文中的 whatcouldbe相对应，故为正确答案。其他三项“摆脱旧有范式”“重新思考思维模式”“拥抱新机遇”均 属于“看到变革图景”后的结果，都是员工在受到激励后自身发生的行为变化，而非学习型领导者应采取 的行动，故均排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the passage say about lectures, training programs and workshops?",
+              "stemCn": "关于讲座、培训项目和研讨会，文章说了什么？",
+              "options": {
+                "A": "They are generally incapable of changing workers’ behaviors on the job.",
+                "B": "They are interventions different from simulations in creating stimuli for change.",
+                "C": "They aim at transforming the behaviors of the workers in an organization.",
+                "D": "They help managers achieve the full effect of employee development efforts."
+              },
+              "optionCn": {
+                "A": "它们通常无法改变员工在工作中的行为。",
+                "B": "在为变革创造推动力这方面，它们是不同于模拟的干预措施。",
+                "C": "它们旨在转变组织中员工的行为。",
+                "D": "它们帮助管理者实现员工发展努力的全面效果。"
+              },
+              "answer": "A",
+              "analysis": "定位根据题干信息词lectures，training programs and workshops可将答案线索定位至第五段。 第五段第二句提到，讲座、培训项目和研讨会能够阐释变革的知识要素，但很少能有效触及重大变革举 措核心的行为层面。由此可知，这三种活动只能让员工学到理论知识，通常无法改变员工在工作中的行 为，故A项为正确答案，同时据此排除C项。该段最后一句提到，像模拟这样的干预措施能够为变革提 供动力，但并未提及以上三种活动也能为变革提供动力，故B项排除。原文提到，管理者很少能看到员 工发展举措的全面成效，这说明以上三种活动并未帮助管理者实现员工发展努力的全面效果，D项与原 文内容相悖，故可排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What makes simulation one of the most fruitful forms of learning?",
+              "stemCn": "是什么使模拟成为最有成效的学习形式之一？",
+              "options": {
+                "A": "Its capability of saving time by accelerating the immersive learning experience.",
+                "B": "Its potential for learners to examine their skills, knowledge and learning process.",
+                "C": "Its capability of providing all participants with a practical learning experience.",
+                "D": "Its potential for learners to explore, experiment and practice without any risk."
+              },
+              "optionCn": {
+                "A": "它能通过加快沉浸式学习体验来节省时间。",
+                "B": "它能让学习者检验自己的技能、知识和学习过程。",
+                "C": "它能为所有参与者提供实际的学习体验。",
+                "D": "它能让学习者在没有任何风险的情况下进行探索、实验和实践。"
+              },
+              "answer": "D",
+              "analysis": "定位根据题干信息词one ofthemost fruitful forms of learning可将答案线索定位至第六段，fruitful和最后一句中 的productive为同义词，都可表示“富有成效的”。 第六段最后一句话明确提到，在无限制、无风险的模型中探索、实验以及反复应用新知识的能力，使模拟 成为最有成效的学习形式之一。D项符合原文表述，故正确。A项和B项虽然也是模拟的优点，但不是其 核心优势，不足以支撑它成为最有成效的学习形式之一，故这两项排除。模拟能为员工提供沉浸式学习体 验，但这种体验是在模拟现实情境中进行的，并非现实生活中真正的实际学习体验，故C项排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What should participants do in a simulation to reap the greatest benefits possible?",
+              "stemCn": "为了在模拟中获得最大的收益，参与者应该做什么？",
+              "options": {
+                "A": "Take the experience as a mere game.",
+                "B": "Apply promptly what they learn to their jobs.",
+                "C": "Develop a deep level of understanding.",
+                "D": "Strive to connect closely with their leaders. ===== PAGE 5 ====="
+              },
+              "optionCn": {
+                "A": "把这次体验仅仅当作一场游戏。 C培养深层次的理解能力。",
+                "B": "立即将他们所学到的知识应用到工作中。",
+                "D": "努力与领导者紧密联系。"
+              },
+              "answer": "B",
+              "analysis": "定位根据题干信息词reap thegreatest benefits possible可将答案线索定位至最后一段。 最后一段最后一句话提到，为了使模拟带来的益处最大化，参与者应该立即将模拟体验中所学到的知 识应用起来，以便在学习和实践之间建立起顺畅的衔接。由此可知，为了在模拟中获得最大收益，参 与者应该立即将他们所学到的知识应用到工作中，故B项正确。文中明确反对将模拟体验当作游戏， 因为这很难将其应用到实际工作中，A项与原文内容相悖，故排除。培养深层次理解能力是模拟带来 的益处，而非参与者为获得最大的收益应采取的行动，C项答非所问，故可排除。D项内容原文并未提 及，故排除。 Passage Two ·概览· 这篇文章批判了以GDP增长为核心的发展模式，通过分析“真实财富”理念和心理健康问题，揭示 了当前政策导向的局限性，指出可持续经济只是手段而非目标，主张政府应当以提升公民幸福为根本宗 旨。作者强调，真正的进步需要政府将公民福祉而非经济产出作为终极目标，这一转变要求重构社会价 值体系和政策优先顺序。 ·全文翻译· [51]GDP增长并不能很好地衡量国家的发展水平，也不应成为政府的 主要目标。无限增长是不可持续的，经济理念正转向我们应当追求经济模 式的可持续性。但是，尽管可持续经济对人类的未来至关重要，它也只是 实现目标的手段，而非目标本身。 [52]政府应关注国民幸福的观点受到了一些人的批评。人们担心的是如 何衡量幸福。幸福难道不是转瞬即逝的主观心理状态吗？不同个体的幸福水 平体验难道不是千差万别吗？即便将“幸福”最广义地理解为繁荣或“生活 满意度”，人们的追求也各不相同。 当然，政府无法将生活满意度强加给民众。但我们的幸福依赖于社会协 作。政府的责任在于创造促进繁荣的条件。有充分理由相信这些条件客观存 在、全球适用，并可通过研究发掘。 哲学家朱利安·巴吉尼在近期发表的文章中提出，我们应关注民众的 “真实财富”，而这不依赖于GDP增长。[53关键在于可获得性：人们无需 占有，只需获取能改善生活的资源。技术进步和社会行为变革使我们能更 高效地利用现有资产。关注人们改善生活所需的资源获取途径将有助于减 少不平等现象。 就目前而言，这一主张与“幸福”倡导者提出的方案颇有共通之处。但 它为政府能够且应当为民众做什么设定的标准过低。 例如，“真实财富”经济如何解决困扰我们社会的心理健康危机尚不明 确。至少在西方国家，心理不健康对福祉的损害甚于贫困。除了大力改善心 理健康治疗服务外，政府能够且应当采取预防性措施来提升国民心理健康水 平。世界卫生组织建议建立促进社区参与的机构——开展教育项目和实施干 预措施，以传授促进心理健康所需的技能。[54]然而，世界卫生组织不得不 通过强调改善心理健康的经济效益来说服各国政府其建议措施的投入物有所 值——这一事实本身就说明了很多问题。只要经济仍是政府的首要关注点， 他们就只需确保民众保持持续的生产力，无需更进一步。 [55]要求政府将民众幸福作为最高优先级，实质是要求政府将民众本身 视为终极目标。 ·答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2025_06_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "GDP growth is not a good indicator of how well a country is performing, and should not be the primary goal of governments. Unlimited growth is not sustainable, and economic thinking is moving toward the idea that we should aim for sustain ability in our economic models. But while a sustainable economy is vital to our future, it is a means to an end, not an end in itself. The idea that governments should focus on happiness has its critics. There are concerns about how happiness can be measured. Is happiness not a fleeting and subjective psychological state? Don’t different people experience different levels of happiness? Even on the broadest interpretation of ‘happiness’ as prosperity or ‘life satisfaction’, people want different things. Of course, governments cannot impose life satisfaction on citizens. But our happiness relies on collaborative efforts as a society. A government’s obligation lies in creating conditions that promote prosperity. And there is good reason to suppose that such conditions exist, are globally applicable, and are discover able through research. In a recently published article, philosopher Julian Bag gin i suggests we should focus on ‘real wealth’ for citizens, which does not depend on GDP growth. Access is key: people do not need to own, but rather access things that enable them to live well. Technological advances and changes in social behavior enable us to make more efficient use of the assets that we already have. And focusing on access to the resources people need to live better lives could help reduce inequality. As far as it goes, this has much in common with proposals tabled by ‘happiness’ advocates. But it sets the bar far too low for what governments can and should be doing for their citizens. For example, it’s not clear how a ‘real wealth’ economy would remedy the epidemic of mental ill-health that plagues our society. In Western countries, at least — poor mental health is more detrimental to well being than poverty. Over and above a vastly improved provision of therapeutic mental health care, there are preventative measures for improving mental health that governments could and should adopt. The WHO recommends establishing institutions that facilitate community participation — educational programs and interventions that provide skills for promoting mental well being. It says a lot, however, that the WHO feels the need to appeal to the economic benefits of improving mental health to persuade governments that the cost of taking proposed measures is justified. As long as the economy is their priority, governments need go no further than ensuring citizens’ continued productivity. To demand that governments set the ‘happiness’ of citizens as their highest priority is to demand that they view citizens as ends in themselves.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the passage say is the more recent thinking of economic growth?",
+              "stemCn": "文章指出关于经济增长的最新观点是什么？",
+              "options": {
+                "A": "It should be made sustainable.",
+                "B": "It is vital to the future of humanity.",
+                "C": "It should be governments’ chief concern.",
+                "D": "It is an indicator of government performance."
+              },
+              "optionCn": {
+                "A": "它应具有可持续性。"
+              },
+              "answer": "A",
+              "analysis": "重难点单词及短语 ·indicator n.指标 ·primary goal主要目标 ·unlimited growth无限增长 sustainable adj.可持续的 means to anend达到目的的 手段 fleetingadj.转瞬即逝的 ·subjective adj.主观的 prosperity n.繁荣 impose v.强加 ·collaborative efforts协同努力 •obligation n.责任 •globallyapplicable全球适用的 accessn.获取（权） •technologicaladvance技术进步 •inequality n.不平等 set the bar设定标准 •epidemic n.流行病 ·mentalill-health心理不健康 detrimental adj.有害的 ·therapeutic adj.治疗的 ·preventative measure预防措施 ·mental wellbeing心理健康 •appeal to 诉诸于 •justified adj.合理的 •productivity n.生产力 文章开篇明确指出，GDP增长并非衡量国家发展水平的良好指标，也不应成为政府的主要目标，并提出经 济理念正转向追求经济模式的可持续性。选项A是文章的核心观点——从追求增长转向追求可持续性，故 为正确答案。选项B是可持续经济的特点，但非最新观点；选项C与文中“不应成为政府的主要目标”相 矛盾；文中明确否定了选项D这一传统观点，故排除这三项。"
+            },
+            {
+              "num": 52,
+              "stem": "Why are some people opposed to the idea that governments should focus on happiness?",
+              "stemCn": "为何有些人反对政府应关注幸福的观点？",
+              "options": {
+                "A": "Governments cannot impose happiness on citizens.",
+                "B": "People’s happiness is built upon their own endeavor.",
+                "C": "Happiness means different things to different people.",
+                "D": "Happiness depends on sustainable economic growth."
+              },
+              "optionCn": {
+                "A": "政府无法将幸福强加于民众。",
+                "C": "幸福对不同人群意义不同。",
+                "D": "幸福依赖可持续的经济增长。",
+                "B": "幸福建立在人们的个人努力基础上。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干信息词opposed和governments should focus on happiness，可将答案线索定位于文章第二段，题 干中的opposed对应第二段第一句中的critics。 文章第二段列出了反对理由：一、幸福难道不是转瞬即逝的主观心理状态吗？二、不同个体的幸福水平 体验难道不是千差万别吗？三、即便将“幸福”最广义地理解为繁荣或“生活满意度”，人们的追求也各 不相同。这三点都说明选项C“幸福对不同人群意义不同”，该项准确概括了反对者质疑的原因，即幸福 的主观性和个体差异性使其难以成为政策目标，故为正确答案。文中虽提及政府无法将幸福强加于民众， 但这不是反对的主要理由，故排除选项A。原文未提及幸福是否建立在个人努力之上，故排除选项B。选 项D也不是文章列出的反对理由，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What does philosopher Julian Bag gin i suggest governments do in a recently published article?",
+              "stemCn": "哲学家朱利安·巴吉尼在近期发表的文章中建议政府怎么做？",
+              "options": {
+                "A": "Try to reduce inequality between the rich and the poor.",
+                "B": "Provide people with access to resources for a better life.",
+                "C": "Change people’s behaviors to put social wealth to better use.",
+                "D": "Make use of advanced technologies to improve people’s lives."
+              },
+              "optionCn": {
+                "A": "努力减少富人和穷人间的不平等现象。",
+                "C": "改变人们的行为以更好地利用社会财富。",
+                "B": "为民众提供改善生活的资源获取途径。",
+                "D": "利用先进技术提升人们的生活水平。"
+              },
+              "answer": "B",
+              "analysis": "定位根据题干信息词Julian Baggini suggest governments，可将答案线索定位于文章第四段。 第四段阐述了巴吉尼的观点，即应关注公民的“真实财富”，关键在于可获得性：人们无需占有，只需 获取能改善生活的资源。关注人们改善生活所需的资源获取途径将有助于减少不平等现象。选项B“为民 众提供改善生活的资源获取途径”与巴吉尼的建议相符，故为正确答案。选项A是附带效果而非建议的内 容；选项C，文中提到的“改变行为”指社会行为自然变革，非政府干预重点；选项D“利用技术”是手 段而非政府直接行动建议，故排除这三项。"
+            },
+            {
+              "num": 54,
+              "stem": "Why does the WHO feel the need to appeal to the economic benefits of improving mental health to justify its recommendations?",
+              "stemCn": "为什么世界卫生组织需强调改善心理健康的经济效益来证明其建议的合理性？",
+              "options": {
+                "A": "Mental health programs cannot be executed without GDP growth.",
+                "B": "Psychological interventions are conducive to people’s well being.",
+                "C": "Poor mental health is detrimental to a nation’s economic system.",
+                "D": "Governments still take economic development as their priority."
+              },
+              "optionCn": {
+                "A": "没有GDP增长，心理健康项目无法实施。 C心理不健康损害国家经济体系。",
+                "B": "心理干预措施对民众福祉有益。",
+                "D": "政府仍以经济发展为优先关注点。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干信息词WHO和economicbenefits，可将答案线索定位于文章第六段最后两句。 第六段最后两句指出，世界卫生组织不得不通过强调改善心理健康的经济效益来说服各国政府其建议措施 的投入物有所值——这一事实本身就说明了很多问题。只要经济仍是政府的首要关注点，他们就只需确保 民众保持持续的生产力，无需更进一步。选项D“政府仍以经济发展为优先关注点”与此相符，故为正确 答案。选项A与文中批判GDP的观点相悖；选项B虽是事实，但非题目所问原因；选项C，文中未提及对国 家经济体系的损害，故排除这三项。"
+            },
+            {
+              "num": 55,
+              "stem": "What message does the author try to convey at the end of the passage?",
+              "stemCn": "作者在文末试图表达什么信息？",
+              "options": {
+                "A": "Governments’ goal should be prosperity-driven.",
+                "B": "Governments’ goal should be people-oriented. ===== PAGE 6 =====",
+                "C": "Governments should consider citizens’ views in decision-making.",
+                "D": "Governments should set sustained productivity as their top priority."
+              },
+              "optionCn": {
+                "A": "政府目标应以繁荣为导向。",
+                "C": "政府决策时应考虑民众意见。",
+                "B": "政府目标应以人为本。",
+                "D": "政府应将持续的生产力作为首要任务。"
+              },
+              "answer": "B",
+              "analysis": "定位 7 根据题干信息词theendofthepassage，可将答案线索定位于文章最后一段。 文章结尾的表述具有高度概括性：要求政府将民众幸福作为最高优先级，实质是要求政府将民众本身视为 终极目标。这句话包含两个关键点：将民众幸福作为最高优先级；将民众视为终极目标。选项B“政府目 标应以人为本”与此相符，故为正确答案。选项A是作者批判的传统模式，故排除。选项C虽然也符合事 实，但不是作者在文末讲的内容。选项D正是作者反对的经济发展优先思维。 PartIV Translation ·难词译注· 自古以来since ancient times 宏大grand 分布distribution 水利工程water conservancyproject 解决address 跨区域across regions 实施implement 规划planning 线路route 生态环境ecological environment 极大地significantly 可持续sustainable ·参考译文· Since ancient times,China has faced an uneven distribution of water resources,with the north being water- scarce and the south water-abundant. To effectively address the critical water shortage in the northern regions,the Chinese government implemented the South-to-North Water DiversionProject.This is a grand water conservancy project for allocating water resources across regions.After decades of planning and preparation,construction on the project began in 2002and is divided into threeroutes:East,Central,andWest,with atotal lengthof4350kilometers, benefiting a population of over 400million.Since its operational launch in 2014,the project has transferred more than 50billion cubic meters of water to the north,providing a reliable water supply for the people in northern regions while significantly improving the localecological environment and promoting sustainable andhealthy economic development. ·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2025_06_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "自古以来 ，中国的水资源北缺南丰 ，分布极不均衡。为了有效解决北方严重缺水问题 ，中国政府 实施了 南水北 调工 程(the South-to-North Water Diversion Project) 。这是一项跨区域配置水资源的宏 大水利工程。历经数十年的规划与筹 备，工程于 2002 年开工建设 ，分为东、中、西三条线路 ，总长 4350 公里 ，惠及人口将超过 4亿。自 2014 年通水 以来，工程向北方调水累计已超 500 亿立方米 ，为北方地区的人民提供了可靠的水资源 ，同时也极大地改善了这一 地区的生态环境 ，促进了经济的可持 续健康发展 。 ===== PAGE 7 =====",
+          "terms": [
+            "自古以来since ancient times 宏大grand",
+            "分布distribution 水利工程water conservancyproject",
+            "解决address 跨区域across regions",
+            "实施implement 规划planning",
+            "线路route 生态环境ecological environment",
+            "极大地significantly 可持续sustainable"
+          ],
+          "reference": "Since ancient times, China has faced an uneven distribution of water resources, with the north being water- scarce and the south water-abundant. To effectively address the critical water shortage in the northern regions, the Chinese government implemented the South-to-North Water Diversion project. This is a grand water conservancy project for allocating water resources across regions. After decades of planning and preparation, construction on the project beg an in 2002and is divided into threeroutes: East, Central, and west, with a total length of 4350kilometers, benefiting a population of over 400million. Since its operational launch in 2014,the project has transfer red more than 50billion cubic meters of water to the north, providing a reliable water supply for the people in northern regions while significantly improving the local ecological environment and promoting sustainable and healthy economic development.",
+          "notes": "1.第一句：本句如果侧重“分布极不均衡”，则可将其作为句子主干，把“水资源北缺南丰”作为补充性内 容，翻译为Since ancient times,China has faced an uneven distribution of water resources,with the north being water-scarceand the south water-abundant.；还可翻译为Since ancient times,China’s water resources have been scarce in the north and abundant in the south,with an extremely uneven distribution.。 2.第二句：“为了有效解决北方严重缺水问题”是目的状语，翻译为不定式短语，即Toeffectivelyaddressthe critical water shortage in the northern regions。注意address water shortage已经表达清楚“解决缺水问题”这一 意思，不可再画蛇添足加上problm一词。 3.第三句：“配置水资源”翻译为allocating waterresources。 4.第四句：句子较长，先找句子主干，即“工程于2002年开工建设，分为东、中、西三条线路”，翻译为 constructionontheproject began in2002andis dividedinto three routes:East,Central,andWest；“总长4350公 里”“惠及人口将超过4亿”属于补充性内容，可分别处理为with介词短语和现在分词短语，即withatotal length of4350kilometers,benefitinga populationofover 400million；句首“历经数十年的规划与筹备”是状 语，翻译成介词短语Afterdecades ofplanning and preparation。 5.第五句：本句较长，先进行拆分，句子主干为“工程向北方调水累计已超500亿立方米”，翻译为theproject has transferredmore than 50billion cubicmeters of water to the north，其中transfer本意为“转移”，在此是 “调，调动”的意思；“为北方地区的人民提供了可靠的水资源”和“同时也极大地改善了这一地区的生态 环境，促进了经济的可持续健康发展”之间有“同时”连接，表示并列关系，这两个句子均属于补充说明 性的内容，且含有动词，故应处理为非谓语形式，“同时”可翻译为while，故两者翻译为providingareliable water supplyfor the people in northern regions while significantly improving thelocal ecological environmentand promoting sustainableandhealthyeconomicdevelopment，注意“极大地改善了这一地区的生态环境”和“促 进了经济的可持续健康发展”也为并列关系，用and连接即可。句首“自2014年通水以来”为时间状语，翻 译为Since itsoperational launch in2014。 52 六级2025.6第三套",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

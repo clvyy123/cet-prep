@@ -1,0 +1,365 @@
+{
+  "id": "cet4-2021_12_1",
+  "level": 4,
+  "year": 2021,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2021年12月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Suppose yourschool isorganizinganorientation program to help thefreshmenadapt to the new environment and academic studies. You are now to write a proposal,which may include its aim,duration,participantsandactivities.You will have 3Ominutesto write the proposal. You should write at least120 wordsbut nomorethan180words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) “I used to work very hard. Ilovetocreatethings, growthemandsolveproblems,”saidMengLi, a\nB) Ms. Lisaidher stressledto sleeplessness. When she did sleep, sheexperienced“problem-solving\nC) It'sa common story—one wefrequentlyridiculeandreadily dismiss, for example, byclaiming that\nE) \"The difference, however, is in the nature and scope of these responsibilities in the home\nG) Surface acting is a prime example of \"emotional labor,\" a concept that the writer Jess Zimmerman\nH) Like Ms. Li, many women try to manage the added stress to reach what Dr. Joyce said was an\nI) The stress problem extends beyond mental health when you consider the link between stress, anxiety\nJ) The good news is, women are more likely than men to take charge of their stress and manage it, the\nK) Disconnecting from work and home responsibilities is also obviously important. But it's much easier\nL) Ideally, your spouse or partner will be supportive, rather than dismissive, of your stress. It is",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Some career womenwhoaim high tend to feel guilty if they fail to achieve their goals.",
+              "stemCn": "【定位】由题干中的 guilty和fail to achieve their",
+              "options": {},
+              "optionCn": {
+                "H": "段第四句。"
+              },
+              "answer": "C",
+              "analysis": "到这个理想时，她们会感到内疚；而且甚至压力更 大。题干中的feel guilty与定位句中一致，题干中 的 fail to achieve their goals 是对定位句中 don't reachthisideal的同义转述，故答案为H)。"
+            },
+            {
+              "num": 37,
+              "stem": "The unpaid housework done by women is triple that done by men.",
+              "stemCn": "【定位】由题干中的 unpaid housework和triple定",
+              "options": {},
+              "optionCn": {
+                "E": "段第二句。 E"
+              },
+              "answer": "D",
+              "analysis": "女性做的无偿家务劳动几乎是男性的三倍。题干 中的Theunpaid housework和 triple分别对应定 位句中的unpaiddomesticwork和three times，故 答案为E)。"
+            },
+            {
+              "num": 38,
+              "stem": "It is reported that women consistently suffer more from severe stress than men.",
+              "stemCn": "【定位】由题干中的women consistently suffer",
+              "options": {},
+              "optionCn": {
+                "C": "段第"
+              },
+              "answer": "F",
+              "analysis": "二、三句。 表在《大脑与行为杂志》上的一项研究，女性遭受 严重压力和焦虑的可能性是男性的两倍。题干中 的 suffer more from severe stress than men 对应 定位句中的 twice as likely to suffer from severe stress and anxiety as men,题干中的 consistenttly 与定位句中一致，故答案为C)。"
+            },
+            {
+              "num": 39,
+              "stem": "Womenareadvisedto identify the specific cause soft heir stress so that step scan bet a ken to deal",
+              "stemCn": "【定位】由题干中的 identify 和 specific causes of",
+              "options": {},
+              "optionCn": {
+                "K": "段第三、四句。"
+              },
+              "answer": "I",
+              "analysis": "什么导致了你的压力，这是很重要的。弄清楚具 体是什么让你感到压力。题干中的identify是对 定位句中understand的同义转述，题干中的 specific causes of their stress 对应定位句中的 Get really specific with what's stressing you out,故答 案为K)。"
+            },
+            {
+              "num": 40,
+              "stem": "One study showedthatwomenmanagersoftenexpressedpositiveemotionsthatthey didn'treally",
+              "stemCn": "【定位】由题干中的study、womenmanagers、",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "段第二、三句。 的研究发现，女性管理者比男性管理者更有可能 2021.12/31(第1套) 表现出“表面行为”，或强迫自己的情绪不被他人 完全感知到。研究称：“她们表现出乐观、冷静和 同情，即使这些情绪并不是她们实际感受到的”。 题干中的study指的就是定位句中的Research； 题干中的womenmanagers对应定位句中的 female managers;题干中的 positive emotions是对 定位句中 optimism，calmness and sympathy的归纳 概括;题干中的didn'treally feel对应定位句中的 not the emotions that they were actually feeling。题 干是对定位句的总结概括，故答案为F)。"
+            },
+            {
+              "num": 41,
+              "stem": "Women tend to mistake signs of heart attacks for symptoms of stress.",
+              "stemCn": "【定位】由题干中的signsofheartattacks和",
+              "options": {},
+              "optionCn": {
+                "I": "段第四、五句。 I"
+              },
+              "answer": "G",
+              "analysis": "发作前更有可能经历睡眠不安、焦虑和异常疲劳。 压力是如此的正常化，以至于女性很容易将这些 症状视为压力的后果而不予理睬。题干中的signs of heart attacks 和 symptoms of stress 分别对应 定位句中的 those symptoms 和 the consequences of stress，故答案为I)。"
+            },
+            {
+              "num": 42,
+              "stem": "For a time an app developer in america wassobusyattending to work and family that she suffered",
+              "stemCn": "【定位】由题干中的 an app developer、so busy",
+              "options": {},
+              "optionCn": {
+                "B": "段第一、三句。",
+                "A": "段中介绍，李梦是旧金山 的一位应用软件开发者。"
+              },
+              "answer": "J",
+              "analysis": "attending to work and family 和 suffered from 母后，她很快意识到自己忙于照顾其他人和工作， 以至于她感觉好像迷失了自我。题干中的anapp developer对应定位句中的Ms.Li。题干中的so busy attending to work and family 是对定位句中 so busy caring for other people and work 的归纳 概括。题干中的 suffered from sleeplessness 对应 定位句中的ledtosleeplessness，故答案为B)。 参考译文 说明她忙于工作和家庭而导致失眠，故可以排除。"
+            },
+            {
+              "num": 43,
+              "stem": "The emotional labor womendo is noticedonly when it is not done.",
+              "stemCn": "【定位】由题干中的emotional labor和is noticed",
+              "options": {},
+              "optionCn": {
+                "G": "段第三、四句。"
+              },
+              "answer": "D",
+              "analysis": "述了她们自己在情绪劳动方面的经历：她们被期 望承担的责任，却没有被人们注意到。这些无形 的责任只有在你不去做的时候才会显现出来。题 干中的 emotional labor 和 only when it is not done分别对应定位句中的emotionallabor和 only when you don't do them;题干中的 noticed 是 对定位句中apparent的同义转述，故答案为G)。"
+            },
+            {
+              "num": 44,
+              "stem": "Dr. Joyce suggests that apart from self-care, women should seek professional support if they",
+              "stemCn": "【定位】由题干中的 professional support 和 severe",
+              "options": {},
+              "optionCn": {
+                "J": "段最后一句。"
+              },
+              "answer": "A",
+              "analysis": "越来越大，还要寻求来自各种健康和保健提供者 的专业支持。题干中的 professional support 对应 定位句中的 professional support from various health and wellness providers;题干中的 severe stress是对定位句中stress is becoming increasinglyoverwhelming的同义转述，故答案 为J)。"
+            },
+            {
+              "num": 45,
+              "stem": "Some people believe that there may not exist a stress gap between men and women.",
+              "stemCn": "【定位】由题干中的Some people believe和may",
+              "options": {},
+              "optionCn": {
+                "D": "段第三句。"
+              },
+              "answer": "C",
+              "analysis": "not exist a stress gap between men and women 定 争辩说，这只是报告的数据，他们说，在履行工作 和家庭责任方面，许多男性感受到的压力与女性 相同。题干中的Somepeoplebelieve对应定位句 中的 Some people may argue,题干中的 may not exist a stress gap between men and women 是对 定位句中 men feel the same pressures as women in terms of fulfilling responsibilities at work and home的总结概括，故答案为D)。 男女之间存在压力鸿沟 解决问题。直到我的身心决定罢工，我才真正关心它们。” (42-1)李女士说她的压力导致了失眠。当她真的人睡时，她会做“解决问题的梦”，这让她在醒来时感 觉没有得到休息。(42-2)她说:“当我初为人母后，我很快意识到自己忙于照顾其他人和工作，以至于 我感觉好像迷失了自我。” ——一个我们经常嘲笑和轻易否认的问题，例如，声称女性比男性更容易抱怨， 尽管越来越多的研究强调了这个问题。(38)根据2016年发表在《大脑与行为杂志》上的一项研究，女 性遭受严重压力和焦虑的可能性是男性的两倍。美国心理协会年复一年地报道性别差距，表明女性 持续报告更高的压力水平。显然，压力差距是存在的。 2021.12/32(第1套) 乔伊斯说。“多年来的广泛研究充分证明，大多数焦虑症在女性中的患病率要高于男性。”(45)有些 人可能会争辩说，这只是报告的数据，他们说，在履行工作和家庭责任方面，许多男性感受到的压力与 女性相同。换句话说，我们都是真的、真的压力巨大。 告称，女性做的无偿家务劳动几乎是男性的三倍。问题是，家务劳动作为工作，经常被忽视，尽管它往 往与任何有偿工作一样辛苦(或在某些情况下，更辛苦)。正如学者西尔维亚·费德里奇在1975年指 出的那样，家务劳动的无偿性质强化了“家务劳动不是工作，因此阻止了女性与之抗争”的假设。 “表面行为”，或强迫自己的情绪不被他人完全感知到。研究称:“她们表现出乐观、冷静和同情，即使 这些情绪并不是她们实际感受到的。” 这一概念。这篇文章在互联网社区博客MetaFilter上引发了大量的讨论。（43)数百名女性讲述了她 们自己在情绪劳动方面的经历：她们被期望承担的责任，却没有被人们注意到。这些无形的责任只有 在你不去做的时候才会显现出来。与家务劳动一样，情绪劳动通常被忽视，也不会被贴上工作标签。 但研究表明，它可能和有偿工作一样让人筋疲力尽。情绪劳动会导致睡眠困难和家庭冲突。当然，间 接压力，比如失业，可能会导致同样的问题。但情绪劳动不是与特定环境有关的。这是一种基于女性 社会化性别角色的持久责任。 些职业女性的目标是做到一切。她们想登上公司阶梯的顶端，像超人妈妈一样飞翔。”(36)当女性没 有达到这个理想时，她们会感到内疚；而且甚至压力更大。在她自己与此抗争之后，李女士退了一步， 利用自己的经验创建了理智与自我(Sanity&Self)，一个针对过度工作女性的自我护理应用软件和平 台。她说：“我在这个过程中领悟到的认识帮助我获得了深刻的见解，并最终使我准备好将自我护理 融入日常生活。” 们对心脏病的了解大多来自于对男性的研究。然而，哈佛医学院报道：“有很多理由认为女性的情况 有所不同。”(41)例如，女性在心脏病发作前更有可能经历睡眠不安、焦虑和异常疲劳。压力是如此 的正常化，以至于女性很容易将这些症状视为压力的后果而不予理睬。许多女性在心脏病发作前也 不会像男性那样经历胸痛，这导致更少的女性发现心脏出现问题。哈佛大学报告称，女性“比男性更 有可能在一年内死于心脏病发作”，“许多女性说，她们的医生有时甚至没有辨认出这些症状。” 念，其核心是相当简单的。乔伊斯博士说:“充足的睡眠、健康的饮食和锻炼这些基本的需求是一个很 好的开始。来自信赖关系的支持至关重要。（44)如果压力变得越来越大，还要寻求来自各种健康和 保健提供者的专业支持。” 力，这是很重要的。李女士说:“弄清楚具体是什么让你感到压力。我们经常把压力归因于工作等广 泛的经历。但工作压力有许多不同的形式。同事是否不尊重你的时间？老板是否破坏你对日常决策 的控制？这些都是导致压力的不同原因，可以从不同类型的自我护理中获益。” 之前，先把它们讨论透彻。乔伊斯博士说:“外出工作的女性应该努力与伴侣进行有意识的对话，关于 更公平地分担家务劳动和家庭责任。” 2021.12/33(第1套)"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Asmanyofficeworkersadapttoremote work, citiesmay undergofundamentalchange if offices remain under-utilized. Who will benefit if working from home becomes the norm? Employersarguetheymakeconsiderable savingsonrealestatewhenworkersshiftfromofficeto home work. However, these savings result from passing costs on to workers. Unless employers are fully compensated, this could become a variant of parasitic(寄生的) capitalism, wherebycorporateprofitsincreasinglyrelyonextractingvaluefromthepublic—and now personal—realm, rather than on gene rating new value. Thoughemployers arebackedbyachorusofremote work advocates, othersnotetheloneliness, reduced productivity and inefficiencies of extended remote work. Ifworkingfromhomebecomespermanent, employeeswillhave to dedicatepartoftheirprivate space to work. This requires purchasing desks, chairs and office equipment. It also means having private spacededicated to work: the space must be he a ted, cleaned, maintained and paidfor. That depend son many things, but for purposesofillustration, I have runsomeestimatesfor Montreal. The exercise is simple but important, since itbrings thesecostsoutoftherealmof speculation into the realm of meaningful discussion. Roughcalculations show thatthesavingsmadebyemployerswhentheir staff works from home are of similar value to the compensation workers should receive for setting up offices at home. What does thismeanforoffices in cities?One of twothings may happen: Employers pass these costs onto employees. This would be a form ofexpropriation(侵占),with employees absorbingproduction costs thathavetraditionallybeenpaidbytheemployer. Thisrepresentsa considerabletransferofvalue from employees to employers. When employeesare properlycompensated, employers'real estate savingswillbemodest. If savings 2021-12-CET4(第1套)-6 ===== PAGE 7 ===== are modest, then the many advantagesof working in offices-such as lively atmosphere, rapidity of communication，team-building andacclimatization(适应环境) of new employees—will encourage employersto shelve the idea of remote work and, likeYahooin 2013,encourage employees to work most of the time from corporate office space.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say about working from home?",
+              "stemCn": "【定位】由题干中的 theauthor和 working from",
+              "options": {
+                "A": "It will become the norm sooner or later.",
+                "B": "It requires employees to adapt promptly.",
+                "C": "It benefits employers at the expense of employees.",
+                "D": "Itwillforcecitiesto transformtheirinfrastructure."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。第二段指出，雇主们认为，当"
+              },
+              "answer": "C",
+              "analysis": "home定位到第一、二段。 工作人员从办公室转到家中工作时，他们在房地 产方面节省了大量资金。然而，这些节省下来的 资金来自于将成本转嫁到工人身上。由此可见， 远程工作这一模式虽然使雇主从中受益，但是却 以牺牲雇员的利益为代价，故答案为C)。 【避错】首段最后一句提到，如果这一工作模式常 态化，谁将受益？由此可见，该模式现在只是兴 起，并没有成为常态，故排除A)；首段第一句提 到，很多工作人员适应了远程工作的模式，但是并 没有要求所有员工迅速适应该模式，故排除B)； 首段第一句提到，如果城市办公室不能充分利用 的话，城市将经历根本性的改变，但这并不是作者 对于远程工作的观点，故排除D)。"
+            },
+            {
+              "num": 47,
+              "stem": "Why do some people oppose working from home?",
+              "stemCn": "【定位】由题干中的 some people oppose working",
+              "options": {
+                "A": "It discourages team spirit.",
+                "B": "It invades employees'privacy.",
+                "C": "It undermines traditional values.",
+                "D": "It negatively impacts productivity."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位段提到，尽管雇主得到"
+              },
+              "answer": "D",
+              "analysis": "from home 定位到第四段。 了远程工作倡导者的异口同声的支持，但其他人 注意到长期的远程工作所带来的孤独感、生产率 降低和效率低下。由此可知，远程工作模式并不 是受到大家的一致肯定，也有人持反对意见，而这 些反对意见就包括：孤独感、生产率降低和效率低 下，所以人们反对的原因是认为它会对生产力产 生负面影响，故答案为D)。 【避错】文中并未提及A)“它挫伤了团队士气” 价值观”，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "Why did the author run the estimates for Montreal?",
+              "stemCn": "【定位】由题干中的 the author run the estimates",
+              "options": {
+                "A": "To provide convincing data for serious discussion.",
+                "B": "To illustrate the ongoing change in working patterns.",
+                "C": "To show the impact of remote working on productivity.",
+                "D": "To exemplify how remote working affects the economy."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，这项工作很简"
+              },
+              "answer": "A",
+              "analysis": "forMontréal定位到第六段最后一句。 单但很重要，因为它将这些成本从推测领域带到 了有意义的讨论领域。由此可见，作者之所以对 蒙特利尔进行估算，是为有意义的讨论提供真实 的数据，故答案为A)。 【避错】文章第六段第一句提到，远程工作意味着 要有专门用于工作的私人空间：空间需要供暖、清 扫、维护和支付费用，由此可见，这里只是提到工 作模式的转变，对于是否持续改变，尚无定论，B) 的表述错误，故排除；第四段提到远程工作模式对 生产力的影响，但这并不是作者对蒙特利尔进行 估算的原因，故排除C)；文中未提及D)“为了举 例说明远程工作对经济的影响”，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What can we conclude from the author's calculations?",
+              "stemCn": "【定位】由题干中的the author's calculations定位",
+              "options": {
+                "A": "There is no point in transfer ring office work to working from home.",
+                "B": "Employeescanbenefitasmuchfromremoteworking astheiremployers.",
+                "C": "Employers'gain from remote working should go to employees as compensation.",
+                "D": "Effective measures should bet a ken tomotivateemployeesto set upoffices at home."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位段提到，粗略计算表明，"
+              },
+              "answer": "C",
+              "analysis": "到第七段。 当员工在家工作时，雇主所节省的费用与员工在 家设立办公室所应获得的补偿金额相当。由此可 知，雇主所节省下来的费用应该给予雇员，补偿他 们设立办公室的费用，故答案为C）。 【避错】定位段提到，当员工在家工作时，雇主所节 省的费用与员工在家设立办公室所应获得的补偿 金额相当。由此可见，并非远程工作模式没有意 义，而是创造的价值是一样的，只不过受益人发生 了变化，故排除A)；即使员工收到补偿，也是对自 2021.12/34(第1套) 己创造的价值的回报，不能说他们获取了和其雇 主一样多的收益，故排除B)；文中未提及D)“采取 有效措施激励员工在家设立办公室”，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What is the author's opinion on working from home?",
+              "stemCn": "【定位】由题干中的 author's opinion on working",
+              "options": {
+                "A": "It should be avoided if possible.",
+                "B": "It is only a temporary measure.",
+                "C": "It can reduce companies'real estate costs.",
+                "D": "It may affect employees'corporate loyalty."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位段指出，如果雇员得到"
+              },
+              "answer": "A",
+              "analysis": "from home定位到最后一段。 适当的补偿，雇主的房地产节省的资金就少了，那 么在办公室工作的许多优势，例如活跃的气氛、快 速的沟通、团队建设和新员工对环境的适应，都将 鼓励雇主搁置远程工作的想法，就像2013年的雅 虎一样，鼓励员工大部分时间在公司办公。由此 可见，一旦雇主需要对远程工作的员工进行补偿， 参考译文 那么对于雇主而言，远程工作的弊端就大于利益， 那么远程工作对于雇主和雇员双方都没有太大的 好处。因此，作者支持在办公室工作，故答 案为A)。 【避错】B）项文中没有提及，故排除；文中确实提 及，远程工作模式可以节省雇主的房地产成本，但 是如果给员工补偿的话，这种节约成本就与补偿 相互抵消了，故排除C)；最后一段最后一句提到， 远程工作模式缺少活跃的气氛、快速的沟通、团队 建设和新员工对环境的适应等优点，但是没有提及 影响员工对企业的忠诚度这一话题，故排除D)。 随着许多办公室工作人员适应远程工作，如果办公室没有得到充分利用，城市可能会经历根本性的 变化。如果在家工作成为常态，谁将受益？ （46）雇主们提出，当工作人员从办公室转到家中工作时，他们在房地产方面节省了大量的资金。然 而，这些节省下来的资金来自于将成本转嫁到工作人员身上。 除非雇员得到充分补偿，否则这可能变成寄生资本主义的一种变体，企业利润越来越多地依赖于从 公共领域和现在的个人领域中获取价值，而不是依赖于创造新的价值。 (47)尽管雇主得到了远程工作倡导者的异口同声的支持，但其他人注意到长期的远程工作所带来的 孤独感、生产率降低和效率低下。 如果在家工作成为永久性的，员工将不得不将其私人空间的一部分用于工作。这需要购买办公桌、 椅子和办公设备。 它还意味着要有专门用于工作的私人空间：空间需要供暖、清扫、维护和支付费用。(48)这取决于很 多因素，但为了说明，我对蒙特利尔进行了一些估算。这项工作很简单但很重要，因为它将这些成本从推 测领域带到了有意义的讨论领域。 （49）粗略计算表明，当员工在家工作时，雇主所节省的费用与员工在家设立办公室所应获得的补偿金 额相当。 这对城市的办公室意味着什么？两种情况中的一种可能发生：雇主将这些成本转嫁给雇员。这将是 一种侵占模式，员工承担传统上由雇主支付的生产成本。这代表着价值从雇员向雇主的巨大转移。 （50)如果雇员得到适当的补偿，雇主的房地产节省的资金就少了，那么在办公室工作的许多优势，例 如活跃的气氛、快速的沟通、团队建设和新员工对环境的适应，都将鼓励雇主搁置远程工作的想法，就像 2013年的雅虎一样，鼓励员工大部分时间在公司办公。 Passage Two 【文章来源】本文选自2020年7月19日刊登在www.livescience.com(生活科学网站)上的一篇标题为“Why are humans so curious?\"(《人类为何如此好奇?》)的文章。 【结构框图】 ：第1、2段指出好奇心有利也有弊，但很难对其定义。 本文主要介绍了好奇心对 ：第3—5段以婴儿为例，具体论述了好奇心对人类发展的驱动作用。 人类发展进程的影响。 ！第6—8段通过事例，分析了好奇心有时也会让人类付出代价。 2021.12/35(第1套) 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "The humanthirstforknowledge is the driving forcebehindoursuccessfuldevelopmentas a species. Butcuriositycanalsobedangerous, leading to setbacksorevendownfalls. Given curiosity's complexity, scientists have found it hard to define. Whilepinning down a definitionhasproventricky, the general consensus is it'ssomemeansof information gathering. Psychologists alsoagreecuriosityisintrinsically(内在地) motivated. Curiositycoverssucha largesetofbehaviorsthatthereprobablyisn'tany single\"curiosity gene” that makeshumans wonderaboutandexploretheirenvironment. That said, curiosity does have a genetic component. Genesandtheenvironmentinteract inmanycomplexwaystoshapeindividualsand guide their behavior, including their curiosity. Regardlessoftheirgeneticmakeup, infant shave to learn an incredibleamountofinformationina short time, and curiosity is one oft he tools humans have found to accomplish that gigantic task. Hundredsofstudies show that infantsprefernovelty. It's whatmotivatesnon-humananimals, human infants and probably humanadultsto explore and seek out new thingsbefore growing less interestedin them after continued exposure. But curiosity often comes with a cost. In some situations, thestakesarelow and failure is a healthy part of growth. For instance, many 2021-12-CET4(第1套）-7 ===== PAGE 8 ===== babiesare perfectly proficientcrawlers, butt hey decide to try walkingbecausethere's more to see and do when they stand upright. Butt his milestonecomesatasmallcost. A study of 12-to 19-month-olds learning how to walkdocumentedthatthesechildrenfelldownalot. Seventeentimesperhour, to be exact. Butwalkingis fasterthancrawling, so thismotivatesexpertcrawlers to transition to walking Sometimes, however, testing out a new idea can lead to disaster. For instance, the inuit people oft he Arcticregionshavecreatedincrediblemodestodealwiththechallengesofliving innorthernclimates, butwhatweforgetaboutarethetensofthousandsofpeoplethattriedandfailedtomake it in those challenginglandscapes.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author say about curiosity?",
+              "stemCn": "【定位】由题干中的the author和 curiosity 定位到",
+              "options": {
+                "A": "It is too complex fornon-scientists to understand.",
+                "B": "It is the force that pushes human society forward.",
+                "C": "It is a unique trait specific to the human race.",
+                "D": "It is often the major cause for human failures."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句指出，人类对知识的"
+              },
+              "answer": "B",
+              "analysis": "首段第一句。 渴望是我们作为一个物种成功发展背后的驱动 力。由此可见，作为一个物种，我们之所以不断向 前发展，是因为有好奇心这一驱动力，故答 案为B)。 【避错】首段第三句提到，考虑到好奇心的复杂性， 科学家们发现很难定义它。由此可见，科学家只 是觉得好奇心难以定义，而非无法理解，故排除 们作为一个物种成功发展背后的驱动力，但是这 并不是人类的一种特性，故排除C)；首段第二句 提到，好奇心也可能是危险的，会导致挫折甚至失 败。但这并不能一概而论，说好奇心是人类失败 的主要原因，故排除D)。"
+            },
+            {
+              "num": 52,
+              "stem": "What is the general understanding of curiosity?",
+              "stemCn": "【定位】由题干中的 the general understanding of",
+              "options": {
+                "A": "It motivates people to seek information.",
+                "B": "It is destined to transform human genes.",
+                "C": "It does people more good than harm.",
+                "D": "It underlies all human behaviors."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句提到，虽然事实证明"
+              },
+              "answer": "A",
+              "analysis": "curiosity 定位到第二段第一句。 给好奇心下定义很难，但大家普遍认为好奇心是 一种收集信息的手段。由此可知，好奇心可以激 励人类去寻找信息，故答案为A)。 【避错】文章第三段提到，好奇心涵盖了如此多的 行为，以至于很可能没有任何一种单一的“好奇心 基因”能让人类对自己的环境感到好奇和探索。 这就是说，好奇心确实有基因成分，但并未提及好 奇心能改变人类基因，B)的表述错误，故排除；文 章第一段提到，好奇心虽然是人类成功发展背后 的驱动力，但也可能是危险的，所以说好奇心对人 类有利有弊，但并没有提及是否利大于弊，故排除 及，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What do we learn about how genes shape people's behavior?",
+              "stemCn": "【定位】由题干中的 we learn about how genes",
+              "options": {
+                "A": "They determine people's way of thinking.",
+                "B": "They account for age differences in learning.",
+                "C": "They enable people to undertake massivetasks.",
+                "D": "They work in conjunction with the environment."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，基因和环境以"
+              },
+              "answer": "D",
+              "analysis": "shape people's behavior定位到第三段第三句。 许多复杂的方式相互作用，塑造个体并指导他们 的行为，包括他们的好奇心。由此可见，基因之所 参考译文 以可以影响人类的行为，是与环境相互作用的结 果，故答案为D)。 【避错】A)和B)在文中均未提及，故排除；第四段 提到婴儿必须在短时间内学习大量的信息，而好 奇心是人类完成这一巨大任务的工具之一。也就 是说，是好奇心而不是基因使人们能够承担艰巨 的任务，故排除C)。"
+            },
+            {
+              "num": 54,
+              "stem": "What do numerous studies show about infants?",
+              "stemCn": "【定位】由题干中的numerous studies show about",
+              "options": {
+                "A": "They are far more curious thanadults.",
+                "B": "They prefer to go after all that is novel.",
+                "C": "They have different interests than adults.",
+                "D": "They show non-human animal behaviors."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。第五段第一句提到，数百项"
+              },
+              "answer": "B",
+              "analysis": "infants定位到第五段第一句。 研究表明，婴儿更喜欢新奇的事物。这是促使非 人类动物、人类婴儿，甚至可能是人类成年人探索 和寻找新事物的动力，而在持续接触之后，他们对 新事物的兴趣会减弱。由此可见，婴儿比成年人 更喜欢追求新奇的东西，故答案为B）。 【避错】文章第五段第一句提到，婴儿更喜欢新奇 事物，但是文中并没有提及婴儿比成年人更具好 奇心，故排除A)；第五段第二句提到，这是促使非 人类动物、人类婴儿，甚至可能是人类成年人探索 和寻找新事物的动力，而在持续接触之后，他们对 新事物的兴趣会减弱，由此可见，在好奇心方面， 婴儿、非人类动物以及成年人可能是一样的，故排 除C);D)文章并未提及，故排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the exampleoftheInuitpeopleoftheArctic regions illustrate?",
+              "stemCn": "【定位】由题干中的 the Inuit people of the Arctic",
+              "options": {
+                "A": "The cost of humans'curiosity to explore.",
+                "B": "The incredible harshness of cold weather.",
+                "C": "The innovativeideasstemming from curiosity.",
+                "D": "The importance of learning from past failures. PartIV"
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。最后一段第二句中的For"
+              },
+              "answer": "A",
+              "analysis": "regions定位到最后一段。 instance 说明该句是例证，主要说明第一句的观 点。第一句指出，有时候测试一个新想法可能会 导致灾难。由此可见，驱使人类不断进行探索的好 奇心也会给人类带来负面的影响，故答案为A)。 【避错】最后一段第二句指出，北极地区的因纽特 人创造了令人难以置信的模式来应对生活在北方 的气候的挑战，但我们忘记的是成千上万的人曾 试图在这具有挑战性的环境中生存而未能成功。 由此可见，寒冷天气确实十分严酷，但是这并不是 提及该例子的原因，故排除B)；文中未提及C）和 （51)人类对知识的渴望是我们作为一个物种成功发展背后的驱动力。但好奇心也可能是危险的，会 导致挫折甚至失败。考虑到好奇心的复杂性，科学家们发现很难定义它。 (52)虽然事实证明给好奇心下定义很难，但大家普遍认为好奇心是一种收集信息的手段。心理学家 也同意好奇心是内在的驱动力。 好奇心涵盖了如此多的行为，以至于很可能没有任何一种单一的“好奇心基因”能让人类对自己的环 境感到好奇和探索。这就是说，好奇心确实有基因成分。（53)基因和环境以许多复杂的方式相互作用，塑 造个体并指导他们的行为，包括他们的好奇心。 2021.12/36(第1套) 不管婴儿的基因构成如何，他们都必须在短时间内学习大量的信息，好奇心是人类完成这一巨大任 务的工具之一。 (54)数百项研究表明，婴儿更喜欢新奇的事物。这是促使非人类动物、人类婴儿，甚至可能是人类成 年人探索和寻找新事物的动力，而在持续接触之后，他们对新事物的兴趣会减弱。 但好奇心往往是有代价的。 在某些情况下，风险很低，失败是成长的健康组成部分。例如，许多婴儿都能非常熟练地爬行，但他们 却决定尝试行走，因为当他们站直时，有更多的东西要看和做。但这一里程碑的代价很小。一项对12到 19个月大的孩子学习走路的研究表明，这些孩子经常摔倒。准确地说，每小时17次。但是行走比爬行 快，所以这促使爬行专家转向行走。 （55)然而，有时候，测试一个新想法可能会导致灾难。例如，北极地区的因纽特人创造了令人难以置 信的模式来应对生活在北方的气候的挑战，但我们忘记了成千上万的人曾试图在这些具有挑战性的环境 中生存而未能成功。 Part I Translation The Grand Canal, the longest man-made river the world has ever seen, stretches from Beijing in the north to Hangzhou in the south. It is hailed as one of the most magnificent projects throughout the history of China. Launched inthe 4th century BC, it was completed at the end of the 13th century AD with the original purpose of grain transportation. Later,its scope of shipment included other commodities. Gradually, the areas along the Grand Canal developed into the industrial and commercial hubs of China. Through the ages, it has been playing a prominent part in promoting the economic development of China, greatly enhancing the personnel exchanges and cultural interaction between the northern and southern regions. terrain 地形，地势 construct修建，建设 cultural heritage 文化遗产 surpass 超越 excavate 开凿 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "大运河(GrandCanal)是世界上最长的人工河，北起北京，南至杭州。它是中国历史上最宏伟的 工程之一。大运河始建于公元前4世纪，公元13世纪末建成。修建之初是为了运输粮食，后来也 用于运输其他商品。大运河沿线区域逐渐发展成为中国的工商业中心。长久以来，大运河对中国的 经济发展发挥了重要作用，有力地促进了南北地区之间的人员往来和文化交流。 2021-12-CET4(第1套)-8 ===== PAGE 9 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

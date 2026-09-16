@@ -1,0 +1,989 @@
+{
+  "id": "cet6-2024_12_1",
+  "level": 6,
+  "year": 2024,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2024年12月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "For this part you are allowed 30 minutes to write an essay that begins with the sentence“To increase the likelihood of success, one should set realistic goals and work persistently towards them.”You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+          "review": "",
+          "sample": "To increase the likelihood of success, one should set realistic goals and work persistently towards them.  Unrealistic aspirations often lead to frustration and discouragement when immediate results are not achieved.  A realistic goal, conversely, is attainable, providing a clear path and measurable steps that keep one motivated. It is something one can reasonably aim for given their current abilities and circumstances.  However, merely having a goal is insufficient.  Persistence is equally, if not more, crucial.  The path to success is rarely smooth; it is often filled with obstacles, setbacks, and moments of doubt.  It is the unwavering commitment to continue despite difficulties, learning from failures, and consistently putting in the necessary effort that ultimately leads to achievement.  For example, learning a new language requires consistent daily practice, not just a wish to be fluent.  Combining achievable targets with diligent, sustained effort significantly elevates the probability of turning aspirations into accomplishments.",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_1-L1",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "News Report One",
+          "intro": "Questions 1 to 4 are based on the conversation you have just heard.",
+          "material": "Question 1. What are the speakers most probably doing? Question 2. What does the woman say she appreciates? Question 3. What has given rise to some complaints about the woman? Question 4. Why doesn't the woman like to write long emails? Conversation 2. So tell me. Why do you wish to study medicine? I've always wanted to be a doctor. I come from a small town where health care was never the best, and I think that had a profound effect on me. As a child, I remember thinking how great it would be to serve the community and cure people. What are the people or events in your life of shaped your interest in becoming a doctor? Well, that's hard to say. I would certainly say my parents have been a key factor. They always pushed me to study hard, and I certainly wouldn't be here without their support. I guess I was also immensely fortunate to have good teachers and friends around me. At the end of the day, I've always been surrounded by a positive environment, conducive to my working hard and pursuing my dreams. Is there any medical branch that you would like to specialize in? I haven't decided yet. It's still early days. However, if I had to say, internal medicine. Why internal medicine? I know it's no picnic, but I find it the most intriguing because it covers so much and ties together so many other specialties. Thank you. Now I'd like to address your academic history and projected grades. We like to think of ourselves as a prestigious institution with a highly competitive and promising student body. As you know, to get into our programs you need at least an 85% score in the entrance exam. Do you think you can attain this? I think so, yes. I'm looking at your school grades now, and I'll be honest. It's a bit of a mixed bag. You do get top grades here and there, but you are not very shall we say consistent? I see no problem in making you a conditional offer, but consider yourself warned. Our entrance exam is to use your own words. No picnic.",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What are the speakers most probably doing?",
+              "stemCn": "",
+              "options": {
+                "A": "Preparing for a job interview.",
+                "B": "Writing a work report together.",
+                "C": "Going through a couple of issues the company faces.",
+                "D": "Disc us sing the woman’s annual performance review."
+              },
+              "optionCn": {
+                "D": "【精析】细节归纳题。句(1-1)中，男士对女士说，这"
+              },
+              "answer": "D",
+              "analysis": "是她的年度绩效评估。句（1-2）中，男士对女士说， 他们现在一起把重点内容过一遍。也就是说，两人 正在讨论女士的年度绩效评估。D）项中的annual performance review是录音中yearlyperformance review的同义转述。因此答案为D)。"
+            },
+            {
+              "num": 2,
+              "stem": "What does the woman say she appreciates?",
+              "stemCn": "",
+              "options": {
+                "A": "The overall culture of the company.",
+                "B": "The instruction from her supervisor.",
+                "C": "The honesty of the manager.",
+                "D": "The recognition of her merits."
+              },
+              "optionCn": {
+                "D": "【精析】细节归纳题。男士总结了女士的表现，包"
+              },
+              "answer": "D",
+              "analysis": "括工作努力、守时、勤奋、有很强的分析能力和关注 细节，并提到，公司，包括他自己在内，都对女士的 工作效率和整体表现很满意。句（2）中，女士回应 说自己很感谢这一认可。D)项中的recognition属 于原词复现；merits是对男士关于女士总体表现的 描述的总结。因此答案为D）。"
+            },
+            {
+              "num": 3,
+              "stem": "What has given rise to some complaints about the",
+              "stemCn": "",
+              "options": {
+                "A": "Her inadequate language proficiency。",
+                "B": "Her inability to interact with colleagues properly.",
+                "C": "Her inappropriate behavior at company meetings.",
+                "D": "Her simplistic approach to dealing with others."
+              },
+              "optionCn": {
+                "B": "【精析】细节推断题。句（3）中，男士提到，有人对"
+              },
+              "answer": "B",
+              "analysis": "woman? 女士的沟通方式提出了抱怨。也就是说，她没能做 到用合适的方式与同事互动，从而引起了同事的抱 怨。因此答案为B）。"
+            },
+            {
+              "num": 4,
+              "stem": "Why doesn't the woman like to write long emails?",
+              "stemCn": "",
+              "options": {
+                "A": "To avoid off ending the recipients.",
+                "B": "To show her unique writing style.",
+                "C": "To save time.",
+                "D": "To be frank."
+              },
+              "optionCn": {
+                "C": "【精析】细节推断题。句（4）中，女士说，她不喜欢"
+              },
+              "answer": "C",
+              "analysis": "写冗长的电子邮件是因为她觉得这是浪费时间。 也就是说，她不写冗长的电子邮件是为了节省时 间。因此答案为C)。 Ouestions5to8arebasedontheconversationyouhavejustheard. M:So tell me,why do you wish to study medicine? W:I'vealways wantedtobe a doctor.Icomefrom a smalltown wherehealthcare was never thebest.AndI think that had a profound effect on me.（5)As a child,Iremember thinking how great it would be to serve the communityand cure people! M:What otherpeople or events in your life have shaped your interest inbecoming a doctor? W:Well，that's hard to say.I wouldcertainly saymy parents havebeen akeyfactor.（6）Theyalways pushed 册·2024年12月六级真题（一）2 me to study hard.AndIcertainly wouldn't be here without their support. I guessI was also immensely fortunate to have good teachers and friends around me.At the end ofthe day,I've always been surrounded by apositive environment conducive to my working hardand pursuing my dreams. M:Is there any medicalbranchthat you wouldlike to specialize in? W:Ihaven't decided yet.It’s stillearly days.However,ifI had to say,internal medicine. M:Why internal medicine? W:I know it's no picnic.（7)But I find it the most intriguing,because it covers so much and ties togetherso many other specialties. M:Thank you. NowIdlike toaddress your academic history andprojected grades.Welike to thinkof ourselves as a prestigious institution with a highly competitiveand promising student body.As you know,to get into our programmes,you need atleast 85% score in the entrance exam.Do you thinkyou can attain this? W:I think so.Yes. M:I'mlooking at your school grades now andI'llbe honest.（8)It'sa bit of a mixed bag.You do get top grades here and there,but you are not very...Shall we say \"consistent\"?I see no problem in making you a conditional offer,but consider yourself warned,our entrance exam is,to use your own words,no picnic."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-L5",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "News Report Two",
+          "intro": "Questions 5 to 8 are based on the conversation you have just heard.",
+          "material": "Question 5. What does the woman say? She has always wanted to do since childhood. Question 6. What do we learn about the woman's parents from the conversation? Question 7. Why does the woman say she wants to choose internal medicine as her specialty? Question 8. How does the man describe the woman's school grades?",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What does the woman say she has always wan ted",
+              "stemCn": "",
+              "options": {
+                "A": "Provide medical service to the community.",
+                "B": "Make health care in her hometown the best.",
+                "C": "Obtain a doctoral degree in internal medicine.",
+                "D": "Have a profound impact on people around her."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。句（5）中，女士提到，她还是"
+              },
+              "answer": "A",
+              "analysis": "to do since childhood? 个孩子的时候就在想，如果能服务社区，治愈病人， 那该有多好啊！也就是说，女士从小就希望能为社 区提供医疗服务。因此答案为A）。"
+            },
+            {
+              "num": 6,
+              "stem": "What do we learn about the woman's parents",
+              "stemCn": "",
+              "options": {
+                "A": "They have constantly urged her to study hard.",
+                "B": "They have worked hard to finance her education.",
+                "C": "They have tried to create a positive learning environment.",
+                "D": "They have pursued the family’s dreams together with her."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。根据句（6）可知，女士的父母 总是督促她努力学习。"
+              },
+              "answer": "A",
+              "analysis": "from the conversation? 是录音中alwayspushed的同义转述;studyhard 属于原词复现。因此答案为A）。"
+            },
+            {
+              "num": 7,
+              "stem": "Why does the woman say she wants to choose",
+              "stemCn": "",
+              "options": {
+                "A": "It is a key medical branch conducive to realizing her dreams.",
+                "B": "It connects many other specialties with its broad coverage.",
+                "C": "It has a long history in the man’s prestigious institution.",
+                "D": "It is a medical branch both of her parents specialize in."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。男士问女士为什么想专攻内"
+              },
+              "answer": "B",
+              "analysis": "SectionB Questions9to ll arebased on thepassage youhave justheard. internalmedicineas her specialty? 科，女士在句（7）中回答说，她觉得内科是最有趣 的，因为它涵盖很多内容，而且把许多其他专业联 系在一起。B）项中的connects和broadcoverage 分别是录音中ties together和covers so much的 同义转述。因此答案为B)。"
+            },
+            {
+              "num": 8,
+              "stem": "How does the man describe the woman's school",
+              "stemCn": "",
+              "options": {
+                "A": "Problematic.",
+                "B": "Competitive.",
+                "C": "Inconsistent.",
+                "D": "Trust worthy. Section B Directions: In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句（8)中，男士说，女士的学"
+              },
+              "answer": "C",
+              "analysis": "grades? 习成绩参差不齐。她确实时不时得高分，但并不是 特别稳定。因此答案为C）。 Logging into youremailaccount can sometimesfeellike trying tohack into thePentagon.If youfollowall of the guidelines,you need to use a different password forevery one of your accounts;use an incomprehensible varietyofletters,numbers,and symbols;sign up for two-stepverification;and change every password every time one of them is compromised.（9)More often than not,you then have to choose photos that include a street sign,as this apparently provides solid evidence to your computer that you are,in fact,a human being. It's no small wondermost of us forget our passwords moreoften than ourkeys.（1o)Now a new peer- reviewed studybyresearchersatAalto University inFinland is attempting to figure out why we forget our passwords in order to help put an end to this frustrating phenomenon. Theirfindings suggestthat how likelyyou are to rememberyour password has less to do with the intricacy of the password itself and more to do with how often you anticipate using it.Which is to say:youare farmore likely to remember a complicated password if you know you'll frequently be using it to log into an account than you are to remember a simple password for an account thatyou don'texpectto log into veryoften.（l)Theresearchers advise websites to include more ofan incentive for users to log in more often in order to help them remember their secret codes."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-L9",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Three",
+          "intro": "Questions 9 to 11 are based on the you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 9,
+              "stem": "Why do we often have to choose photos that",
+              "stemCn": "",
+              "options": {
+                "A": "To prevent hackers from cracking our secret codes.",
+                "B": "To show that all the guidelines are being followed.",
+                "C": "To provide evidence that passwords are forgotten.",
+                "D": "To convince our computer that we are human."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。句（9）中提到，通常情况下，"
+              },
+              "answer": "D",
+              "analysis": "include a street sign to log into our email accounts? 你必须选择包含路牌的照片，因为这显然向你的电 脑提供了确凿的证据，证明你实际上是一个人。 册·2024年12月六级真题（一）3 provides solidevidence to your computer的同义 转述。因此答案为D）。"
+            },
+            {
+              "num": 10,
+              "stem": "What do researchers at a university in fin land",
+              "stemCn": "",
+              "options": {
+                "A": "Put an end to the hacking phenomenon.",
+                "B": "Help people remember their passwords.",
+                "C": "Reduce the intricacy of the pass word itself.",
+                "D": "Explain the need for different email accounts."
+              },
+              "optionCn": {
+                "B": "【精析】细节推断题。句(10)中提到，芬兰阿尔托"
+              },
+              "answer": "B",
+              "analysis": "aim to do in their new study? 大学的研究人员进行了一项新的同行评议研究，试 图找出我们忘记密码的原因，以帮助结束这一令人 Questions12 to 15 are based on the passage you have justheard. 沮丧的现象。也就是说，这些研究人员进行研究的 目的是帮助人们记住自己的密码。因此答案为"
+            },
+            {
+              "num": 11,
+              "stem": "What do theresearchers advise websites to do at",
+              "stemCn": "",
+              "options": {
+                "A": "Innovate technologies to ensure the safety of users’ accounts.",
+                "B": "Provide incentives for the application of creative passwords.",
+                "C": "Explore the possibility of using simpler secret codes.",
+                "D": "Take steps to encourage users to log in more often."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。句（11）中提到，研究人员建"
+              },
+              "answer": "D",
+              "analysis": "the end of the passage? 议网站提供更多的激励让用户频繁地登录，以帮助 他们记住自己的密码。因此答案为D）。 （12)Four years ago,Jenny Weiner was in a fitness slump.She wanted to improve herphysical and mental health.However,her workouts lacked intensity without a proper training programme to follow. When she went to the gym,her daily ritual predominantly involvedeasy exercise options like jogging;sheavoidedmore formidable exerciseslikelifting weights.Apersonal trainer whomight pushher was outof thequestion.The extravagantcost was just unaffordable. She then discovered thefitness phone app Slimmeretics.（13)To use the app,you first input your profile about your previous training experiences and preferences,as well as your desired goals. A virtual coach then uses that information to suggest a personalised training regime. After the workout,theapp’s artificial intelligence softwaresystem usesfeedbackfromMs.Weiner and itsother53 million users around theworld toadjustfuture training sessions.（14）NowMs.Weiner finds theworkouts exciting. This is because no two are ever the same. As a result,the app has helpedherto lose more than 25 kilograms. Theapp’s mathematical approach canarrange amoremeticulous workout schedule. This hasledto optimalresults. However,(15)some experts think that apps cannotreplace human personal trainers. An app cannot understand humanbehavior.It will not comprehend that there are competing interests outsideof health and fitness. Additionally,a human trainercanaddcompassion to the workout.He canalsomakeexercisefun and sustainable. Trainers can monitor whether a person is doing exercises correctly. This can safeguard against injuries. An app cannot perceive such subtleties."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-L12",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Conversation One",
+          "intro": "Questions 12 to 15 are based on the passage you have just heard.",
+          "material": "Question 12. What was the problem Jenny Wainer encountered four years ago? Question 13. What can the fitness phone app, slimmeredics, do, according to the passage? Question 14. Why does the passage say, Jenny Wainer now finds the workouts exciting? Question 15. What do some experts think of fitness apps like Glomer Comics.",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "What was the problem Jenny Weiner encountered",
+              "stemCn": "",
+              "options": {
+                "A": "Her work no longer interested her.",
+                "B": "Her training app did not fit her.",
+                "C": "Her fitness fell into a slump.",
+                "D": "Her business deter i or a ted,"
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句（12）中提到，4年前，珍 妮·韦纳陷入了健康低谷。"
+              },
+              "answer": "C",
+              "analysis": "four years ago?"
+            },
+            {
+              "num": 13,
+              "stem": "What can the fitness phoneapp Slimmeretics do",
+              "stemCn": "",
+              "options": {
+                "A": "Help users keep track of their fitness levels.",
+                "B": "Design personalised training programmes.",
+                "C": "Strengthen ties among users worldwide.",
+                "D": "Select well-qualified human coaches."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。句（13）中提到，为了使用该"
+              },
+              "answer": "B",
+              "analysis": "according to the passage? 应用程序，你首先输入你的个人资料，包括你以前 的锻炼经历和偏好，以及你的预期目标。然后一 个虚拟教练使用这些信息来提出一个个性化的锻 炼方案。因此答案为B)。"
+            },
+            {
+              "num": 14,
+              "stem": "Why does the passage say Jenny Weiner now",
+              "stemCn": "",
+              "options": {
+                "A": "They are never repeated.",
+                "B": "They help enrich her life.",
+                "C": "They are of no extreme intensity",
+                "D": "They keep her focused on her goal."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。句(14)中提到，韦纳女士现"
+              },
+              "answer": "A",
+              "analysis": "SectionC finds the workouts exciting? 在发现这些锻炼很令人兴奋，这是因为没有两个 锻炼方案是完全相同的。A）项中的never repeated是录音中no two are ever the same的同 义转述。因此答案为A）。"
+            },
+            {
+              "num": 15,
+              "stem": "What do some experts think of fitness apps like",
+              "stemCn": "",
+              "options": {
+                "A": "They will not be able to take the place of human personal trainers.",
+                "B": "They will not be able to comprehend some of the profiles users put in.",
+                "C": "They cannot lead to optimal results with their mathematical approach.",
+                "D": "They cannot match humans in arranging meticulous work out schedules. Section C Directions: In this section you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。句(15)中提到，一些专家认 为应用程序不能取代人类私人教练。"
+              },
+              "answer": "A",
+              "analysis": "Slimmeretics? notbeableto taketheplaceof是录音中cannot replace的同义转述;humanpersonal trainers属 于原词复现。因此答案为A)。 Questions16to18arebasedontherecordingyouhave just heard. (16)All societies are held together by seven universal moral rules,which include deferring to superiors and respecting the property of others,Oxford University has concluded. Although many cultures are moving towards more liberal, less hierarchical organizations, the new research suggests that traditional power structures andbasic valuesofcharity and brotherhood are the cornerstones of successful societies. The huge studyof60different culturesaround the worldfound thatall communities operate under seven basic moral codes. Those universal rules are:help your family,help your group,return favors,be brave,defer to superiors,divideresources fairly,andrespect the property ofothers. The character traits heldforevery 册·2024年12月六级真题(一） 4 kind of community,be they traditional hunter gatherers or advancedcivilizations,helping to upholdcivilized society and fostersocial cooperation,researchers found.\"Everyone everywhere shares a common moral code,\" said Dr.Oliver Scott Curry,lead author and senior researcher atOxford.\"These seven moralrules appear tobe universalacross cultures,because people face the same socialproblems.Even if someofthese traits look right- wing or conservative,forexample,deferring to authority，left-wing people willstillhavea group loyaltyand deference to someone or something. This shows there really is more that unites us than divides us. (17)The study published in Current Anthropology is the largestandmost comprehensiveand widespread survey of morals ever conducted and aimed to find out whether different societies had different versions of morality. The team accessed the world's bestarchives to analyzeaccounts frommore than 60o sourcesof60 societies aroundthe world. Theyfoundthatthesevenrules were consideredmorallygood inall societiesand were observedacross allcontinents,religions andpolitics. However,some communities valued certainrules more highly than others. Dr.Curry hopes that this research helps to promote mutual understanding between people of different cultures andappreciation of what we have in common and how and why we differ. (18-1)Co-author professor HarveyWhitehouse said social scientists shouldnow setabouttesting the theory in the field,rather than relying on old data.\"This study was based on historical descriptions of cultures around the world,\"he said.\"These descriptions weremade independentofand prior to thetheory we're testing.（18-2)In future,if social scientists are serious abouttesting theoriesof morality,they willneed to gather new data,more systematically,out in the field.\""
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Conversation Two",
+          "intro": "Questions 16 to 18 are based on the recording you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What do we learn from the conclusion of the",
+              "stemCn": "",
+              "options": {
+                "A": "All societies are built upon the cornerstones of basic values.",
+                "B": "Everyone everywhere demonstrates seven character traits.",
+                "C": "All societies are kept together by seven basic moral rules.",
+                "D": "Everyone everywhere shares a universal moral standard."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句（16)中提到，牛津大学得"
+              },
+              "answer": "C",
+              "analysis": "Oxford University researchers? 出结论称，所有社会都是由7条普遍的道德准则 维系在一起的，其中包括服从上级和尊重他人的 财产。C）项中的kepttogether是录音中held together的同义转述。因此答案为C)。"
+            },
+            {
+              "num": 17,
+              "stem": "What did the new study by ox ford researchers",
+              "stemCn": "",
+              "options": {
+                "A": "Ascertain whether defer ring to authority was confined to right-wing people.",
+                "B": "Find out whether different societies had different versions of morality.",
+                "C": "Make clear whether all societies faced the same moral issues.",
+                "D": "Find out whether left-wing people still had a group loyalty."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。句(17)中提到，发表在《当代"
+              },
+              "answer": "B",
+              "analysis": "aim to do? 人类学》上的这项研究是迄今为止规模最大、最全 面、最广泛的道德调查，其目的是找出不同的社会 是否有不同版本的道德观。因此答案为B）。"
+            },
+            {
+              "num": 18,
+              "stem": "What does Harvey White house think social",
+              "stemCn": "",
+              "options": {
+                "A": "Make independent descriptions of cultures around the world.",
+                "B": "Strive to understand the basic differences between peoples.",
+                "C": "Appreciate the foundational value of the existing data.",
+                "D": "Carry out systematic field studies to gather new data."
+              },
+              "optionCn": {
+                "D": "【精析】细节归纳题。根据句（18-1）和句（18-2）可"
+              },
+              "answer": "D",
+              "analysis": "scientists should do to test theories of morality? 知，合著者哈维·怀特豪斯教授认为，社会科学家 现在应该着手实地检验这一理论，而不是依靠旧 数据。如果他们认真对待道德理论的测试，就需 要去实地更系统地收集新数据。因此答案为D）。 Questions19to 21arebasedontherecordingyouhave justheard. When it comes to food,coloris money.Foodcompaniesknow thatbettercolor gives better prices,sothey ensure that theirproducts are attractive incolorto bolster earnings.Oranges,for example.havetomeet specific color standards. Andoranges are just thebeginning.There arecolor standards forfoods including French fries,tomatoes,pumpkins,olives,honey andcherries. Theattention to color isforgoodreason.（19）Forallthetalkofthetongue，oureyesreallymightbethe most important part of the eating experience.A great number of our brain functions are dedicated to processing vision,whileonlyapercentortwo is givenoverto tastefaculties，and theresult is that（2o)coloractually changes how we taste food. Scientists have demonstratedmany times the importanceof color to taste.In a 198Os study,forexample, test participants were asked to name the flavorof the beverage they were drinking without being able to see that beverage.Onlyone in five was able to identify it as orange.Butwhenthey wereallowed to seewhat they were drinking which was orange in color,eachof them identified the orange flavor.And when a drink that was lime flavor was coloredorange,nearly halfofrespondentsidentifiedtheflavorofthebeverageas orange.None made thatmistake when thebeverage was green in color.What’s happening when someone fails to identify the flavor of a beverage theycan't see or thathas an abnormal color?Is it thatparticipants can't discern whatthe flavoris,and sorely onvisualcues?Or doescoloractually changetheexperienceof taste?Thekeyto these questions is the effectof color on expectation.（2l)Thebrainmakes predictions using color.These predictions relyon expectations that comefrom experience.Research shows that we're allborn liking sweet thingsand desire to eat them,but we aren't bornknowing what the sweet things we cravelook like.So weneedtolearn 册·2024年12月六级真题（一）5 this over time.Thebrain gets information from theenvironment. Andwelearn,forexample,that fruitsgo from green and sour to red andripe and sweet. Thus,if we see a greenberry,we equate its color with a sour taste,and justlooking ata redfruitwillactivateourexpectations that itwill taste sweetand delicious."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage One",
+          "intro": "Questions 19 to 21 are based on the recording you have just heard.",
+          "material": "Question 19. What does the speakers say about our eyes? Question 20. What does colour actually do according to this lecture? Question 21. What does the brain use colour to do? Recording 3. Searching for meaning is something many of us experience throughout our lives. For some, this meaning is religious. Some, political and some interpersonal. And having a sense of meaning can bring us happiness. A new study looks at the relationship between meaning and happiness in the context of financial resources. Rear, Casapano, from the University of Toronto, and colleagues find meaning is a far weaker predictor of happiness for rich people than poorer people, suggesting economic resources can impact how we experience meaning. The team analyzed data from over 500,000 people across 123 countries. The first study used data from a daily poll of US residents collected between 2013 and 2015. Well-being was tracked using measures of positive affect. Whether during the day before they were surveyed, participants has smiled or laughed a lot, or experienced a lot of happiness. Meaning was measured through a daily purpose index, which explored the extent to which participants felt that they like what they do every day and are motivated to achieve their goals. Finally, income levels were assessed. The results showed that the correlation between meaning and happiness was strongest among those in lower income brackets. But as income levels increased, the correlation became weaker. The second study looked at world-wide data. Happiness was measured using the same questions as in the first study. While meaning was measured using the single question. Do you feel your life has an important purpose or meaning? Again, the strength of the relationship between meaning and happiness depends on participants' income. Meaning had a greater influence on happiness for those on income compared to those in higher brackets. In the final study, French participants indicated the extent to which they felt they led a purposeful and meaningful life, and how much they considered themselves a happy person. Finally, rather than using specific income brackets, they placed themselves on a social ladder, representing where they stand in society with regard to wealth, education and career. The results from this study jupelicated those of the first two. So, overall, meaning and happiness had a stronger relationship in those with fewer resources than those with more. This might be the case because richer individuals have more access to other sources of happiness, many of which will be external, like lack of stress or community. Thus, a focus on an internal sense of satisfaction, purpose or meaning is less important.",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "What does the speaker say about our eyes?",
+              "stemCn": "",
+              "options": {
+                "A": "They might be the most important part of our eating experience.",
+                "B": "They can activate our brain functions in a most direct fashion.",
+                "C": "They can be vie wed as the windows to our soul.",
+                "D": "They could mislead us in more ways than one."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。句（19)中提到，尽管我们都"
+              },
+              "answer": "A",
+              "analysis": "在谈论舌头，但我们的眼睛确实可能是饮食体验 中最重要的部分。因此答案为A)。"
+            },
+            {
+              "num": 20,
+              "stem": "What does color actually do according to this",
+              "stemCn": "",
+              "options": {
+                "A": "It attracts food companies’ growing attention.",
+                "B": "It adversely impacts one’s eating experience.",
+                "C": "It invariably determines how food sells.",
+                "D": "It changes the way people taste food."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。句(20)中提到，颜色实际上 改变了我们品尝食物的方式。因此答案为"
+              },
+              "answer": "D",
+              "analysis": "lecture?"
+            },
+            {
+              "num": 21,
+              "stem": "What does the brain use color to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Enhance the taste.",
+                "B": "Make predictions.",
+                "C": "Identify distinct flavors.",
+                "D": "Enrich the eating experience. ===== PAGE 3 ====="
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。句（21)中提到，大脑通过颜 色进行预测。因此答案为"
+              },
+              "answer": "B",
+              "analysis": "Questions 22 to 25 arebasedontherecording youhave just heard. （22)Searching for meaning is something many of us experience throughout our lives.For some,this meaning is religious, somepolitical and some interpersonal. And having a sense of meaning can bringus happiness. A new study looks at therelationship between meaning and happiness in the contextof financialresources. （23)Rhia Catapano from theUniversity of Torontoand colleaguesfind meaning is a far weaker predictor of happiness for rich people than poorer people,suggesting economic resources can impact how we experience meaning.The teamanalysed datafrom over 500,000peopleacross 123 countries. Thefirst studyused data froma dailypollofUSresidents collectedbetween2013 and 2015.Well-being wastrackedusing measuresof positive affect—whether,during the daybefore they were surveyed,participants had smiled or laughed a lotor experienced a lot of happiness. Meaning was measured through a daily“purpose index”，which exploredthe extent to whichparticipantsfeltthat they like whattheydoevery dayand are motivatedtoachieve theirgoals. Finally,incomelevels wereassessed.Theresultsshowed thatthecorrelationbetweenmeaningandhappiness was strongest among those in lower incomebrackets.But as incomelevels increased,thecorrelation became weaker.（24)The second study looked at worldwide data. Happiness was measured using the same questionsas in the first study,while meaning was measured using the single question:“Do youfeelyourlife hasan important purpose or meaning?\".Again,the strengthof the relationship between meaning and happiess depended on participants'income:meaning had a greater influenceon happiness for those on lower incomes comparedto those inhigherbrackets.In thefinal study,Frenchparticipants indicatedthe extent to whichthey felt theyleda purposeful andmeaningfullife andhow much they considered themselves a happyperson. Finally,rather than using specific incomebrackets,theyplaced themselves on a“socialladder\"，representing where theystand in society withregard to wealth,education,and career.Theresults from the study duplicated those of the first two. So overall,meaning and happiness had a strongerrelationship in those withfewerresources thanthose with more.（25）This might be the case because rich individuals have more access to other sources of happiness—manyof which willbeexternal,like lackofstress or community.Thus,a focuson an internalsense of satisfaction,purpose or meaning is less important."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Two",
+          "intro": "Questions 22 to 25 are based on the recording you have just heard",
+          "material": "Question 22 What does the speaker say many of us search for throughout our lives? Question 23 What do Rhea Katapano and colleagues find about economic resources? Question 24. What do we learn about Rhea Katopano and colleagues second study? Question 25. Why do meaning and happiness have a weaker relationship in those with more resources? That's the end of listening comprehension.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What does the speaker say many of us search for",
+              "stemCn": "",
+              "options": {
+                "A": "Social status.",
+                "B": "Financial resources.",
+                "C": "Meaning.",
+                "D": "Happiness."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句(22)中提到，寻找意义是我 们许多人一生都在经历的事情。因此答案为"
+              },
+              "answer": "C",
+              "analysis": "throughout our lives?"
+            },
+            {
+              "num": 23,
+              "stem": "What do Rhia Catapano and colleagues find",
+              "stemCn": "",
+              "options": {
+                "A": "Their effect on people’s happiness has long been overstated.",
+                "B": "Their influence on people’s life varies with social contexts.",
+                "C": "They can affect people’s experience of meaning.",
+                "D": "They can ensure people’s overall well-being."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。句(23)中提到，多伦多大学"
+              },
+              "answer": "C",
+              "analysis": "about economic resources? 的瑞亚·卡塔帕诺及其同事发现，意义对富人幸 福感的预测作用远远弱于穷人，这表明经济资源 会影响我们对意义的体验。因此答案为C）。"
+            },
+            {
+              "num": 24,
+              "stem": "What do we learn about Rhia Catapano and",
+              "stemCn": "",
+              "options": {
+                "A": "It used questions totally different from those in their first study.",
+                "B": "It focused on the sense of meaning of French participants.",
+                "C": "It analysed cases from a daily poll of US residents.",
+                "D": "It examined data collected from multiple countries."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。句（24）中提到，第二项研究"
+              },
+              "answer": "D",
+              "analysis": "colleagues'second study? 着眼于全球数据。也就是说，它研究了从多个国 家收集到的数据。因此答案为D）。"
+            },
+            {
+              "num": 25,
+              "stem": "Why do meaning and happiness have a weaker",
+              "stemCn": "",
+              "options": {
+                "A": "They might have more access to external sources of happiness.",
+                "B": "They might focus on an individual sense of satisfaction or meaning.",
+                "C": "They might be less easily affected by a community’s overall feeling.",
+                "D": "They might be less adversely impacted by failure to achieve a purpose."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。3项研究都证明，意义和幸"
+              },
+              "answer": "A",
+              "analysis": "relationship in those with more resources? 福感之间的关系在资源较少的人中比在资源较多 的人中更强。根据句（25）可知，这可能是因为富 有的人有更多的机会获得其他的幸福来源。因此 答案为A)。 册·2024年12月六级真题（一）6"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet6-2024_12_1-A.mp3",
+        "B": "/audio/papers/cet6-2024_12_1-B.mp3",
+        "C": "/audio/papers/cet6-2024_12_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "With the rapid progress in the economy, it is natural that people’s ideology is bound for change. Being ___26___ is no longer a virtue to some people, and they are not alone in holding this view. Each might have different viewpoints on how to lead one’s lifestyle: some prefer simplicity, some love luxuries, some spend ___27___, Some accumulate as much as they can like a country mouse. As I was born poor and in the countryside, the simple rural life seldom loses its ___28___ to me, but as my station changes, I have an opportunity to ___29___ with the newly rich, an experience which has revolutionized my view of lifestyle. It is evil or sinful to spend little and to save much, an idea only recently being revealed to me. Actually the whole world is in a ___30___ to borrow and to spend, with the USA leading the trend. The USA is still the richest and most powerful country in the world, but the ___31___ is that they borrow money from us. Though a ___32___ of economics, at least I know that investing with borrowed money will turn the borrower into the ___33___ rather than the decent and kind lender. An apparent case is real estate. Those who are ___34___ and have got loans from the bank become relatively rich by selling their purchased home at a price several folds higher. Even education is not immune from this theory. Many of those poor parents who have the vision to send their children to college have benefited from this investment. even though they have to ___35___ a living. It is reasonable to conclude that spending is praise worthy, supposing it is not beyond your means.",
+          "wordBank": {
+            "A": "appeal",
+            "B": "extravagantly",
+            "C": "intrinsically",
+            "D": "irony",
+            "E": "layman",
+            "F": "literally",
+            "G": "majestic",
+            "H": "malicious",
+            "I": "meadow",
+            "J": "mingle",
+            "K": "predator",
+            "L": "rage",
+            "M": "scrape",
+            "N": "shrewd",
+            "O": "thrifty"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "thrifty“节约的，节俭的”为答案。"
+              },
+              "answer": "O",
+              "analysis": "0）【语法判断】空格前系动词的现在分词与空格处的 词合在一起作句子的主语，推断空格处是一个形 容词，作系动词的表语。 【语义判断】前一句提到随着经济的飞速发展，人 们的思想观念自然会发生变化，本句承接前一句 进一步指出一些过去的观念现在不再被认为是美 德，下一句接着指出人们对生活的不同观点：有人 喜欢简朴，有人喜欢奢侈品，有人挥霍，有人攒钱。 结合语境可知，这里是指节俭成了不合时宜的观"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格前是动词spend，其后可接名词"
+              },
+              "answer": "B",
+              "analysis": "作宾语，也可跟副词起修饰说明的作用。 【语义判断】空格所在句列举了人们各种各样的生 活方式，为了突出其中的差异，作者用了两两对比 的方式，先用simplicity“简朴”和luxuries“奢侈 品”作对比，再用“spend ”与后面的 accumulate as much as they can作对比，与后面的 “尽力储存”意思相反的是“大力消费”，B) extravagantly“奢侈地，浪费地；过度地，放纵地”修 饰spend，表示挥霍无度，符合语义，故为答案。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前是形容词性物主代词its，据此"
+              },
+              "answer": "A",
+              "analysis": "推断空格处是一个名词，且能够与后面的介词to 搭配使用。 【语义判断】空格所在句开头的as是一个连词，意 思是“因为”，作者用它提出原因：自己出身贫寒， 生在农村，根据因果逻辑关系可推断这里的意思 是：所以“我”很喜欢简朴的农村生活，因此填入 吸引力”，放在本句中表示农村生活对作者很有吸 引力，故为答案。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】空格所在处是have an opportunityto"
+              },
+              "answer": "J",
+              "analysis": "do sth.的结构，因此可知空格处是一个动词。 【语义判断】空格所在句前半句提到作者生在农 村，后半句用but将话锋一转，指出随着社会地位 的变化，作者有了一些机会，这些经历彻底改变了 他的生活观念。可见作者后来接触的是与农村完 全不同的生活，也就是空格后提到的thenewly rich“新富阶层”的生活，J）mingle“（尤指在社交场 所）应酬，交际”，与后面的with搭配表示“与…. 交际”，准确表达了作者与新富阶层交往的情形， 这使得其生活观念被彻底改变，符合文章意思，故 为答案。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前是不定冠词a，可知空格处是"
+              },
+              "answer": "L",
+              "analysis": "一个名词。 【语义判断】空格所在句的前一句提到少花钱多储 册·2024年12月六级真题（一）7 蓄是邪恶或者罪恶的，可见人们现在对这种保守 的消费观念有多摈弃，空格所在句开头的actually “实际上”通常表示下文的语义比前文更进一层， 后面又提到thewholeworld以及toborrowand to spend，可见全世界都在借钱花，大家都在做的 事是一种流行，因此填入L）rage“流行，风行一时 的事物”，恰当概括这一潮流，后面的trend是对 rage的同义替换，前后呼应，语义通顺。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前有定冠词the，“the ”"
+              },
+              "answer": "D",
+              "analysis": "作整句的主语，可知空格处是一个名词。 【语义判断】空格所在句的前半句提到美国仍然是 世界上最富有、最强大的国家，后半句提到美国的 钱是从我们这里借的，前后内容对比明显、反差巨 大，各名词选项里只有irony“具有讽刺意味的情 况”能概括此处语义，故D)为答案。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前有不定冠词a，后面有介词短"
+              },
+              "answer": "E",
+              "analysis": "语ofeconomics作后置定语，可知空格处是一个 名词。 【语义判断】空格前的though意思是“虽然，尽 管”，表让步，后面提到economics“经济学”，下半 句用atleastIknow“至少我还知道”说明作者具 备经济学常识：用借来的钱进行投资会让借款人 变成社会中的……，而不是正直善良的放款人。 可见作者这里使用了欲扬先抑的表达手法，先退 一步表明自己的无知，再说自己具备的知识，所以 填入E）layman“外行，门外汉”，alaymanof economics表示“经济学的门外汉”。 参考译文"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格所在处是turnsb.intosb.的结"
+              },
+              "answer": "K",
+              "analysis": "构，空格前又有定冠词the，综合可推断空格处是 一个名词。 【语义判断】空格前提到用借来的钱进行投资使借 款人的身份发生了变化，变化后的身份与后面正 直善良的放款人形成对比，分析各选项可知K） predator“掠夺者”符合语义，故为答案。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格前是系动词are，其后需要跟名"
+              },
+              "answer": "N",
+              "analysis": "词或形容词作表语。 【语义判断】空格处的词说明借贷买房者的特征， 后面具体说明他们做了什么：通过借贷买房，再以 高出几倍的价格卖出，变得相当富有，可见这些人 非常有头脑，能够概括这些人特点的词是N） shrewd\"精明的”，故为答案。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格所在处是havetodosth.的结"
+              },
+              "answer": "M",
+              "analysis": "构，据此可知空格处是一个动词。 【语义判断】前文举了精明的人借贷投资房地产并 因此变得富有的例子，接着又说教育也不能免俗， 许多有远见的贫困父母将子女送进了大学，并从 这项投资中获益匪浅。与冒着风险借贷投资房地 产类似的行为就是父母艰难维持生计将孩子送入 大学读书，因此填入M）scrape“艰难取得，勉强获 得”，scrapealiving表示“艰难维持生计”，两种投 资行为都是透支目前的生活，为将来作打算，类比 合适，符合文章意思。 随着经济的飞速发展，人们的思想观念自然会发生变化。对一些人来说，节俭不再是一种美德，而且 持这种观点的人并不少。对于如何过好自己的生活，每个人可能都有不同的观点：有人喜欢简朴，有人喜 欢奢侈品，有人挥霍无度，有人像乡下老鼠一样能储存多少就储存多少。我出身贫寒，生在农村，因此简朴 的农村生活对我很有吸引力，但随着社会地位的变化，我有机会与新富阶层打交道，这种经历彻底改变了 我的生活观念。 少花钱多储蓄是邪恶或者罪恶的，我最近才明白这个道理。事实上，全世界都在流行借钱花，美国是 这股潮流的引领者。美国仍然是世界上最富有、最强大的国家，但具有讽刺意味的是，他们的钱是从我们 这里借的。虽然我是经济学的门外汉，但至少还知道，用借来的钱进行投资会让借款人变成社会中的掠夺 者，而不是正直善良的放款人。一个明显的例子是房地产。那些精明的人从银行贷到款后，以高出几倍的 价格出售所购房屋，从而变得相当富有。就连教育也不能免俗。许多有远见的贫困父母将子女送进了大 学，尽管他们不得不勉强维持生计，但也从这项投资中获益匪浅。因此，我们有理由得出结论，只要没有超 出自己的能力范围，消费就是值得称赞的。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) On a small fruit farm near the Straits of Malacca, Lim Kok Ann is down to just one tree growing kedondong, a crunchy,\nB) But less than an hour away in the Malaysian countryside, inside three giant, silver domes, scientists are trying to change\nC) Prof Azam-Ali explains that just four crops --- wheat, maize, rice and soybean --- provide two-thirds of the world’s food\nD) It’s a timely quest. The food sector is already responsible for nearly a third of global greenhouse gas emissions. By 2050\nE) Forgotten crops hold key answers. By investing in neglected local plants, countries can reduce their reliance on imported\nF) Food security experts agree. “There is no food in security in the world, there is food ignorance,” says Cecilia Tortajada, a\nG) Azam-Ali knows that scepticism first hand. He came across alternative crops in the 1980s through the work of women\nH) Un deter red, he ploughed on. Project after project helped prove these crops were viable in different environments as\nI) The roots of these connotations about local foods can run deep. The bambara ground nut, a protein-rich native crop of sub-\nJ) Measuring crops by nutrition instead of yield is at the heart of the forgotten foods enterprise. Ever since the “green\nK) In the bowels of CFF’s third dome, lab manager Gomathy Set hur am an opens a window into the centre’s “crown jewels”,\nL) There is a growing global momentum around forgotten foods, says Danielle Nierenberg, president of Food Tank, a US-\nM) But the rising interest in forgotten foods in some quarters is overt a ken by the global spread of Western-style diets heavy\nN) A key obstacle to promoting fading local crops in Malaysia, for example, is “the obsession with imported products”, says\nO) The argument for forgotten foods feels intuitive. Some analysts say it is in fact inevitable. “Climate change is going to\nA) total mindfulness C) spiritual elevation\nB) extreme excitement D) intense curiosity\nA) They gain experience in overcoming horror in real life.\nB) They find joy in going through simulated horrible experiences.\nC) They have learned from hide-and-seek as kids the thrill involved.\nD) They have evolved to gain pleasure in escaping life-threatening situations.\nA) How to avoid falling prey to an attacker.\nB) How to simulate a predator-prey interaction.\nC) How to keep themselves from catastrophic errors.\nD) How to turn a dangerous scenario into a safe one.\nA) It reminds them of an ancient set of biological defence mechanisms.\nB) It triggers their imagination to travel into dangerous virtual worlds.\nC) It allows them to learn what fear feels like and how to tackle it.\nD) It activates their evolved fear system and their unique fantasy。\nA) A strong sense of clear relevance. C) A profound sense of intense relief.\nB) A profound sense of good fortune. D) A strong sense of being in control.\nA) It dictates the taste of digital media. C) It has us he red in a new awakening.\nB) It has been in the making for years. D) It is defined by social media.\nA) Women are under constant pressure to keep up with beauty models.\nB) Women are encouraged to pursue a beauty ideal that has never existed.\nC) A fight is going on to remove pressure on women to conform to an absurd beauty ideal.\nD) Media outlets have beg un to present as beauty models trendy women without any makeup.\nA) It is now regarded as the new beauty ideal.\nB) It is what most women will go after in 2050.\nC) It is being much talked about on social media.\nD) It is a perfect illustration of the ultimate beauty.\nA) A good many women striving to reach an impossible level of perfection.\nB) An urge to turn the entire game played on the network to one’s advantage.\nC) A tendency to regard one’s body as an object of observation and judgment.\nD) An increasing number of women filtering their images before uploading them.\nA) Cosmetic surgery should be made more accessible to the masses.\nB) Psychological intervention should be introduced to alleviate it.\nC) Their time spent on social media should be strictly controlled.\nD) Its root cause should be meticulously examined and analyzed.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "According to a senior researcher, we will have secure food supply if we rid ourselves of ignorance about native crops.",
+              "stemCn": "【定位】由题干中的secure和ignorance定位到文",
+              "options": {},
+              "optionCn": {
+                "F": "段第二句。"
+              },
+              "answer": "F",
+              "analysis": "立大学水政策研究所高级研究员塞西莉亚·托塔 哈达的话，她认为，世界上没有粮食不安全，只有 对粮食的无知，结合上下文可知，此话的意思是， 一旦消除了对许多替代食物的无知，就能确保粮 食供应。由此可知，题干是对F）段第二句的转 述。题干中的securefood supply对应原文中的 no food insecurity，故答案为F)。"
+            },
+            {
+              "num": 37,
+              "stem": "Most of the world’s food supply comes from a tiny number out of thousands of crops that have been grown for centuries.",
+              "stemCn": "【定位】由题干中的theworld'sfoodsupply和",
+              "options": {},
+              "optionCn": {
+                "C": "段第一、三句。"
+              },
+              "answer": "C",
+              "analysis": "供应的三分之二是仅由4种作物提供，而第三句 则指出，实际上，有7000种作物人类已经种植了 数千年。题干是对上述两处信息的归纳，其中的 most of对应原文中的two-thirds of，thousandsof crops that have been grown for centuries是对原 文中7,0Oo crops we've been farming for thousands ofyears的转述，故答案为C)。"
+            },
+            {
+              "num": 38,
+              "stem": "To provide their family with food when the staple crops failed, some African women farmers grew local crops in their",
+              "stemCn": "【定位】由题干中的Africanwomenfarmers和",
+              "options": {},
+              "optionCn": {
+                "G": "段第二、三句。"
+              },
+              "answer": "G",
+              "analysis": "生的时候，阿扎姆-阿里通过在尼日尔遇到的女农 民的劳作发现了替代作物。当主要庄稼歉收时， 她们在自家后院种植庄稼来养家糊口。题干是对 该部分信息的转述。题干中的providetheir familywithfood是对原文中feedtheirfamilies 的同义转述，题干中的thestaplecrops failed对 应原文中的thebigcropsfailed，故答案为G）。"
+            },
+            {
+              "num": 39,
+              "stem": "High-yielding crops have occupied a dominant position in modern agriculture since the green revolution in the last century.",
+              "stemCn": "【定位】由题干中的high-yielding crops和green",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句。"
+              },
+              "answer": "J",
+              "analysis": "60年代的“绿色革命”以来，高产作物主导了现代 农业，题干显然是对该句的转述。题干中的have occupied a dominant position in modern agriculture是对原文中havedominatedmodern agriculture的转述，题干中的in thelast century 是对原文中the1960s的转述，故答案为J）。"
+            },
+            {
+              "num": 40,
+              "stem": "Growing alternative crops proved feasible in a variety of environments, but the critical question was whether they would",
+              "stemCn": "【定位】由题干中的a varietyofenvironments和",
+              "options": {},
+              "optionCn": {
+                "H": "段第二至四句。"
+              },
+              "answer": "H",
+              "analysis": "一个的项目帮助证明了这些作物在不同的环境中 作为主食的替代品是可行的，但这些作物是否能推 向市场尚存疑问。阿扎姆-阿里说，这是关键所在。 题干中的feasible in a variety of environments是对 原文中viable in different environments的转述，题 干中的the critical question was whether they would be marketable则对应原文中的the questionof whether these crops would be marketableremained 和that’s thecriticalthing，故答案为H)。"
+            },
+            {
+              "num": 41,
+              "stem": "According to a professor, when the yields of staple crops fall, we will have to adapt to eating foods from alternative crops.",
+              "stemCn": "【定位】由题干中的the yields of staplecropsfall",
+              "options": {},
+              "optionCn": {
+                "O": "段最后一句。 0)【精析】同义转述题。"
+              },
+              "answer": "O",
+              "analysis": "学城市学院一位教授的观点，他认为，随着主要作 物的产量下降，我们“必须习惯吃其他作物”。题 干中的adapt to eatingfoods from alternative crops是原文中get used to eating other crops的 同义转述，故答案为O）。"
+            },
+            {
+              "num": 42,
+              "stem": "Urgent measures have to be taken to provide food for the projected world population without aggravating the climate.",
+              "stemCn": "【定位】由题干中的urgent和theprojectedworld",
+              "options": {},
+              "optionCn": {
+                "D": "段第三、四句。"
+              },
+              "answer": "D",
+              "analysis": "年，世界必须多生产50%的粮食来养活预计100 亿全球人口，想要满足这一需求而又不加剧气候 变化，就需要紧急解决方案。题干是对这两处信 息的归纳。题干中的urgent measures have tobe taken对应原文中的calls for urgent solutions，题 干中的withoutaggravating theclimate对应原文 中的without contributing to climate change，故答 案为D）。"
+            },
+            {
+              "num": 43,
+              "stem": "Colonial rule marginalised local crops by punishing Africans who grew them.",
+              "stemCn": "【定位】由题干中的colonialrulemarginalised和",
+              "options": {},
+              "optionCn": {
+                "I": "段第二句提到，在撒哈拉"
+              },
+              "answer": "I",
+              "analysis": "punishing定位到文章I段第二、三句。 以南非洲和东南亚部分地区种植的班巴拉花生是 在殖民统治时期遭到边缘化的，随后一句介绍具 体情况，指出非洲女性会因为种植班巴拉花生而 受到惩罚。根据这两处信息可以推断出，殖民者 对种植当地作物的惩罚措施导致了其边缘化。题 册·2024年12月六级真题（一）9 干中的localcrops所指的就是原文中的bambara groundnut，题干中的 punishing Africans who grew them对应原文中的African women who grewbambara groundnut were actually punished for growing it，故答案为I)。"
+            },
+            {
+              "num": 44,
+              "stem": "As existing crops are endangered by global warming, we can increase food security by bringing back the many forgotten",
+              "stemCn": "【定位】由题干中的existingcrops和bringing",
+              "options": {},
+              "optionCn": {
+                "E": "段第三句。"
+              },
+              "answer": "E",
+              "analysis": "暖威胁现有作物的时候，恢复人类曾经吃过的各 种作物也可以促进粮食安全。题干中的existing crops areendangeredbyglobalwarming是对原 文中warming climates threaten existing crops的 同义转述，题干中的increasefood security对应 参考译文 原文中的boostsfoodsecurity，题干中的many forgottenfoodcrops对应原文中的thevarietyof crops humans onceate，故答案为E)。"
+            },
+            {
+              "num": 45,
+              "stem": "Researchers are trying to find out how higher temperatures and CO2 levels affect the nutritional composition of alternative",
+              "stemCn": "【定位】由题干中的highertemperatures和CO",
+              "options": {},
+              "optionCn": {
+                "K": "段第二句。"
+              },
+              "answer": "K",
+              "analysis": "正在研究高温和二氧化碳水平对替代作物营养组 成的影响。题干中的tryingto findout对应原文 中的arestudying，题干中的affect对应原文中的 impact，题干中的thenutritional composition则 是对原文中thenutritionalmake-up的同义表达， 故答案为K）。 被遗忘的作物是粮食的未来吗？ 浆果，马来西亚人主要用它来做腌菜和沙拉。现年45岁的林说：“这东西没什么人知道。”他更专注于 市场更广阔的龙眼和菠萝。“我们得栽种能够赢利的作物。”他说。 食物的未来。他们正在通过种植和加工诸如番橄榄这类所谓的“替代”作物来突破人类饮食的局限。 在全球研究中心“未来作物”的总部，这种未被充分利用的水果已被转化为无糖果汁，它富含维生素C， 并在口感评价中获得高分。“你在这里看到的任何作物都是被遗忘的。”赛义德·阿扎姆-阿里在谈到 马来西亚首都吉隆坡郊外“未来作物”花园里的丰富植物时说道。 豆。“我们依赖这4种作物，”他说，“(37-2)但实际上，有7000种作物我们已经种植了数千年。而我们忽 略了所有这些作物。”研究人员正试图开发这些被忽视作物的潜力——他们将这些作物称为被遗忘的、 使用不足的或“替代”植物，因为它们被主要作物加工制成的食材所助推的渐趋同一化的饮食所取代了。 年，世界必须多生产50%的粮食来养活预计100亿全球人口。想要满足这一需求而又不加剧气候变 化，就需要紧急解决方案。 碳排放量的供应链。（44）在气候变暖威胁现有作物的时候，恢复人类曾经吃过的各种作物也可以促 进粮食安全。阿扎姆-阿里认为，除此之外，被遗忘的作物是最具气候适应性和营养的作物之一。他的 总结很直白：“饮食多样化对人类的未来至关重要。” 政策研究所高级研究员塞西莉亚·托塔哈达说。“每当我们有本土作物时，我们往往会忽视它们，仿 佛它们没有价值，但它们是有价值的。”她补充道。 现了替代作物。当时还是博士生的他记得，当主要庄稼歉收时，她们在没有技术帮助的情况下，在自 家后院种植庄稼来养家糊口，这让他颇感惊讶。他看到了建立替代粮食系统的巨大机遇。但“阻力是 巨大的”，他回忆道。 替代品是可行的。但这些作物是否能推向市场尚存疑问。他说:“这是关键所在。”在该中心的一个圆 顶建筑中，食品技术专家谭新林用辣木叶粉代替一些小麦粉来烘焙面筋含量较低、营养成分较高的蛋 糕。谭的工作是用这些人们尚不熟悉的食材制作出符合本地口味又符合国际口味的食谱。近年来，她 用在“未来作物”项目中种植的一些被遗忘的作物，如辣木和班巴拉花生，制作了从速溶汤到印度小吃的 各种食物。“我试着让被遗忘的作物现代化，而不是使用旧食谱。”谭说。她也是一名训练有素的厨师。 谭补充说，这是一种策略，吸引世界上不断壮大的，且越来越多地转向快餐和加工食品行业的中产阶级。 这也是一种方法，有助于反驳当地作物被视为“老年人或穷人的食物”或劣质“女性作物”的看法。 册·2024年12月六级真题(一）10 本土作物，在东南亚部分地区也有种植，而其被边缘化的情况可以追溯到殖民统治时期。“种植班巴 拉花生的非洲女性实际上会因种植它而受到惩罚，”阿扎姆-阿里说，“殖民大国说你不能种植它，因为 不能产生油料。我们不能为它找到市场。”但今天，班巴拉“姆鲁咕”（圈圈饼）是“未来作物”项目中评价 最高的食品之一，他们的目标是将其推向杂货店，向潜在投资者表明诸如藜麦等作物的成功。大约30 年前，藜麦在玻利维亚和秘鲁的本土山区外几乎闻所未闻。如今，这种营养丰富的谷物出现在世界各 地高档餐厅的菜单上。 以来，高产作物主导了现代农业。这在一定程度上是当时全球亟须增加粮食供应时，对毁灭性饥荒的 关键回应。阿扎姆-阿里说，如今“营养正在成为一颗定时炸弹”，因为不断增长的二氧化碳水平会夺取 作物中的矿物质。他断言，我们不应该对主要作物进行生物强化，而应该投资于那些已经证实更有营 养的被遗忘的作物。 心“皇冠上的宝石”的窗户，露出在明亮黄色灯光下生长的翼状豆子的藤蔓。（45）这是科学家们研究 高温和二氧化碳水平对替代作物营养组成影响的多个实验室中的一个。阿扎姆-阿里说，这项研究是 “游戏规则的改变者”，它确保“未来的作物”也是温暖气候下最健康的作物。 增强。除了“未来作物”这个自称是世界上第一个专门研究未充分利用作物的研究中心外，还有其他 支持农业多样性的关键团体，包括作物信托、慢食、国际半干旱热带作物研究所和国际生物多样性组 织。她说，除此之外，越来越多的中等收入消费者在寻找营养食品，还有的人则渴望尝试他们祖父母 曾经吃过的未经加工的食物。 品的西式饮食的全球传播。 迷”。她是一家位于吉隆坡富裕郊区的支持当地食品的餐厅的联合创始人。她说，在被视为该国农场 直供餐桌小型餐饮业先驱的“锡特卡”，顾客们仍然将外国食材视为“地位象征”。 城市学院食品政策教授蒂姆·朗表示：“气候变化几乎注定意味着人们的口味将被迫改变。”（41）他 说，随着主要作物的产量下降，我们“必须习惯吃其他作物”。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Imagine you're an alien sent to Earth to document the behaviour of the mammals inhabiting the planet. You stumble into a movie theatre that’s showing the latest Hollywood horror film. Several dozen humans are gathered together in a dark, un decor a ted room. They're all staring at a rectangular area on which patterns of light change rapidly. They are clearly in a state of high arousal. Their heart rate is elevated, they occasionally glance around nervously, and ===== PAGE 6 ===== they sometimes jump collectively in their seats, and emit high-pitched warning calls. Eventually, the lights come up and the rectangular screen goes black. The humans stand up and leave the room, chatting and laughing, and showing signs of pleasure. Why do these humans voluntarily expose themselves to what appears to be a deeply unpleasant experience? And why do they react so strongly to those patterns of light on a screen? I am fascinated with the paradox of horror --- the strange fact that many people seek out scary entertainment. I think the answer to the puzzle lies in human nature. My research suggests that we humans evolved to find pleasure in situations that allow us to experience negative emotions in a safe context. You can see these elements of horror in children’s games. Take hide-and-seek for example, which is a simulation of a predator-prey interaction. The kid hides and the adult pretends to be a predator, searching for the child while how ling like a dangerous beast. This simulation gives the child crucial information about how to avoid becoming prey, and children tend to find that kind of activity deeply satisfying, presumably because it gives them a safe experience of a potentially catastrophic scenario. They find it pleasurable, and pleasure is evolution’s way of motivating us toward adaptive behaviour. Horror is pleasurable to many people because it lets us play with negative emotions and develop coping strategies. We learn what it feels like to be truly afraid, and we learn how to handle negative emotion. How, then, does horror work? My research suggests that horror works by exploiting an ancient set of biological defence mechanisms --- an evolved fear system, which we share with other animals. But humans are uniquely imaginative, and we use our evolved imagination to travel into virtual worlds that are full of danger. There are good reasons for watching a horror film. even if you're not a loyal horror fan. If you make it through the film in one piece. you'll probably experience a strong sense of mastery, a sense that you were able to make it through an appalling experience. Anyway, watching a horror film makes you better at hand ling your own fear, and who knows when that will become critically relevant?",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "The alien finds the audience in the movie theatre clearly in a state of",
+              "stemCn": "【定位】由题干中的clearly ina stateof定位到第 情境：想象自己是一个外星人，看到地球上的人类",
+              "options": {
+                "A": "total mindfulness",
+                "B": "extreme excitement",
+                "C": "spiritual elevation",
+                "D": "intense curiosity"
+              },
+              "optionCn": {
+                "B": "【精析】同义转述题。文章第一、二段设置了一个 clearly in a state ofhigharousal.”，其中的they"
+              },
+              "answer": "B",
+              "analysis": "三段第一句。 看恐怖片的场景。而第三段开头指出“Theyare 册·2024年12月六级真题（一）11 指代的便是第二段中的severaldozenhumans，即 看电影的观众，对应题干中的theaudienceinthe movietheatre。higharousal“高度兴奋”与B）项 extremeexcitement属于同义替换，故答案为B)。 【避错】本题如果不知道higharousal的确切含义 可能会错选其他选项，考生可以通过后文对于观众 状态的具体描述进行词义推测。例如，心跳加快、 C 紧张地环顾四周、从座位上跳起来等，均可以得知 他们的状态是“非常兴奋”的，而非“完全正念”“精 神升华”或是“强烈好奇”的，因此排除A）C）、D）。"
+            },
+            {
+              "num": 47,
+              "stem": "Why do many people seek out scary entertainment, according to the author’s research?",
+              "stemCn": "【定位】由题干中的seekoutscaryentertainment",
+              "options": {
+                "A": "They gain experience in overcoming horror in real life.",
+                "B": "They find joy in going through simulated horrible experiences.",
+                "C": "They have learned from hide-and-seek as kids the thrill involved.",
+                "D": "They have evolved to gain pleasure in escaping life-threatening situations."
+              },
+              "optionCn": {
+                "B": "【精析】细节归纳题。文章第六段提到了作者对于"
+              },
+              "answer": "B",
+              "analysis": "和theauthor’sresearch定位到第八段第一句。 为什么人类会寻求恐怖娱乐很感兴趣，第七段提 到作者对于这个问题的答案，随后在第八段中，作 者详细阐释了自己的答案，并提到了自己的研究 结果：人类在进化过程中，愿意在安全的环境中去 感受负面情绪，并从中寻求乐趣。而根据前5段 中恐怖电影的例子以及第八段后面捉迷藏的例子 可知，“安全的环境”都是一些模拟的恐怖情形。 总结可得，人们能够在模拟的恐怖经历中寻求快 乐，故答案为B）。 【避错】第十一段中提到了恐怖能够让我们与负面 情绪共处，并发展出应对负面情绪的策略，但A） “他们从克服现实生活中的恐惧中获得经验”并非 人类寻求恐怖娱乐的原因，故排除；第九段指出孩 子们能够通过捉迷藏学会如何避免成为猎物，并 没有提到他们感受到了刺激，故排除C）；第八段 作者指出人们愿意在安全的环境中去感受负面情 绪，并从中寻找乐趣，而非在真正遇到生命威胁的 情况下，故排除D）。"
+            },
+            {
+              "num": 48,
+              "stem": "What do children learn from hide-and-seek?",
+              "stemCn": "【定位】由题干中的hide-and-seek定位到第九段。",
+              "options": {
+                "A": "How to avoid falling prey to an attacker.",
+                "B": "How to simulate a predator-prey interaction.",
+                "C": "How to keep themselves from catastrophic errors.",
+                "D": "How to turn a dangerous scenario into a safe one."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。文章第八段第三句开始以儿"
+              },
+              "answer": "A",
+              "analysis": "童游戏中的捉迷藏为例支撑自己的观点。而第九 段开头提到了givesthechildcrucialinformation， 即为孩子们提供了重要信息，可知本句讲述孩子们 能够从捉迷藏游戏中学到的知识，即howtoavoid becomingprey“如何避免成为猎物”，故答案为A)。 【避错】第八段提到了捉迷藏是对捕食者和猎物互 动的一种模拟，但这并非孩子们从中学到的东西， 故排除B）；第九段后半部分提到，孩子们喜欢玩 参考译文 捉迷藏类似的活动是因为这类游戏给了他们一种 安全地体验潜在灾难性场景的经历，与C）选项所 述“避免犯下灾难性错误”以及D）选项所述“把危 险的情况变安全”不同，故排除C）D）。"
+            },
+            {
+              "num": 49,
+              "stem": "Why is horror gratifying to many people?",
+              "stemCn": "【定位】由题干中的gratifying to manypeople定",
+              "options": {
+                "A": "It reminds them of an ancient set of biological defence mechanisms.",
+                "B": "It triggers their imagination to travel into dangerous virtual worlds.",
+                "C": "It allows them to learn what fear feels like and how to tackle it.",
+                "D": "It activates their evolved fear system and their unique fantasy。"
+              },
+              "optionCn": {
+                "C": "。"
+              },
+              "answer": "C",
+              "analysis": "位到第十一段。 【精析】细节归纳题。第十一段开头提到了 “Horror is pleasurable to manypeople...”,其中 pleasurable与题干中的gratifying为近义词，后面 是because引导的原因状语从句，说明原因：这一 情绪让我们与负面情绪共处，并发展出应对策略。 下一句补充说明我们体会到了真正的恐惧是什么 感觉，也学会了如何处理自己的负面情绪，故答案 【避错】第十二段提到了anancientsetof biologicaldefencemechanisms“一套古老的生物 防御机制”、useourevolvedimaginationtotravel into virtual worlds thatare fullofdanger\"运用进 化来的想象力进入充满危险的虚拟世界” “exploiting...anevolvedfear system”“利用进化 的恐惧系统”和humansare uniquely imaginative “人类的想象力是独一无二的”，均是为了解释恐 怖起作用的机制，而非解释恐怖让人高兴的原因， 故排除A）、B）、D）。"
+            },
+            {
+              "num": 50,
+              "stem": "What will one experience if they watch a horror film through without being hurt?",
+              "stemCn": "【定位】由题干中的iftheywatchahorrorfilm",
+              "options": {
+                "A": "A strong sense of clear relevance.",
+                "B": "A profound sense of good fortune.",
+                "C": "A profound sense of intense relief.",
+                "D": "A strong sense of being in control."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。最后一段第二句提到“If"
+              },
+              "answer": "D",
+              "analysis": "throughwithoutbeinghurt定位到文章最后一段 第二句。 you make it through the film in one piece...”，原 文中的make it through和inone piece分别与题 干中的“watch...through”和withoutbeinghurt 为同义词组。因此后半句便是看完整部电影且未 受到伤害的人的感受，即你会体验到astrong sense ofmastery“一种强烈的掌控感”，与D)选项 为同义词组，故答案为D)。 【避错】文章最后一段在讲述看完恐怖电影后的感 受时只提到了掌控感，并未提到astrongsenseof clearrelevance“强烈的明确相关性”、aprofound senseofgoodfortune“强烈的好运感”和a profoundsenseofintenserelief“如释重负感”，因 此排除A）、B）、C）。 想象一下，你是一个外星人，被派到地球上记录居住在这个星球上的哺乳动物的行为。你无意中走进 一家正在放映最新好莱坞恐怖电影的电影院。 （电影院里）几十个人聚集在一个黑暗、未加装饰的房间里。他们都盯着一个长方形区域，在这个区 域，光影的图案变化迅速。 （46）他们显然处于高度兴奋的状态。他们心跳加快，偶尔会紧张地环顾四周，有时会集体从座位上跳 起来，并发出尖锐的警告声 最后，灯光亮起，长方形的屏幕变黑。人们站起来离开房间，谈笑风生，并表现出高兴的样子。 册·2024年12月六级真题（一）12 为什么这些人类会自愿地将自己暴露在一种看起来非常不愉快的经历中？而又是为什么他们对屏幕 上的光影产生如此强烈的反应？ 我对恐怖悖论很感兴趣，即许多人寻求恐怖娱乐这一奇怪的事实。 我认为这个谜题的答案藏在人的本性中。 （47)我的研究调查表明，人类在进化过程中，愿意在安全的环境中去感受负面情绪，并从中寻找乐趣。 你能够在儿童游戏中看到这些恐怖元素。以捉迷藏为例，这是一种模拟捕食者与猎物互动的游戏。孩子 会躲起来，而大人则假装成一个捕食者，一边寻找孩子，一边像危险的野兽一样嚎叫。 （48）这种模拟游戏为孩子们提供了关于如何避免成为猎物的重要信息，孩子们往往会发现这种活动 非常令人满足，大概是因为这类游戏给了他们一种安全地体验潜在灾难性场景的经历。 他们觉得玩这个游戏很愉快，而快乐是人类进化过程中激励我们做出适应性行为的一种方式。 （49）恐怖对许多人来说是愉快的，因为它让我们与负面情绪共处，并发展出应对负面情绪的策略。我 们体会到了真正的恐惧是什么感觉，也学会了如何处理自己的负面情绪。 那么，恐怖是如何起作用的呢？我的研究表明，恐怖是通过利用一套古老的生物防御机制——我们与 其他动物共享的一种进化的恐惧系统——发挥作用的。但人类的想象力是独一无二的，我们可以运用进 化来的想象力进入充满危险的虚拟世界。 即使你不是恐怖片的忠实粉丝，也有充分的理由看恐怖片。（50）如果你能看完这部电影且未受到伤 害，你可能会体验到一种强烈的掌控感，一种你能熬过一段可怕经历的感觉。不管怎样，看恐怖片能让你 更好地应对自己的恐惧，谁知道什么时候这种能力会变得至关重要呢？ Passage Two 【文章来源】本文选自2021年5月5日刊登在PsychologyToday（《今日心理学》）上一篇标题为“TheRiseof Instagram Face'（《“Instagram脸”的兴起》）的文章。 【结构框图】 第一、二段概述了现实世界与数字领域在美丽标准上两种相互对立 但并行的趋势。 第三、四段介绍了科技发展改变了人们对美的看法，使得“半机械 文章主要讨论了当今社会关 人外表”流行，“Instagram脸”成为新的美丽标准。 于美丽标准的两种趋势，介 绍了社交媒体如何塑造美丽 标准，使得“Instagram脸” 第五至八段描述了社交媒体如何通过游戏化互动促使用户内化这一 广受欢迎。 新的美丽标准，并利用各种工具调整自己的形象以符合理想状态。 第九段指出人们盲目追求不可能实现的美丽标准的问题需要心理健 康干预来解决。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2024_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "An awakening has been taking place in the physical world against the beauty model that has been dictated to us for years. But in the digital arena, social media determines what is con side red beautiful. ===== PAGE 7 ===== The two opposing struggles are taking place in parallel. In the physical world, the struggle goes against the underlying pressure exerted on women to conform to an unrealistic beauty ideal. As part of the struggle, various media outlets have presented women whose bodies don’t correspond to the so-called ideal. All those women who had previously been excluded from the covers of magazines, television series and the public agenda, have become “legitimate”. At the same time, a group of influencers have beg un to up load to social media photos of themselves without makeup, and even photos in which they highlight supposed flaws. Technology has reshaped our beauty ideal and is doing a great job communicating that message to the masses. One of the bizarre legacies of the past decade is the popularity of the “cyborg look”, which illustrates what Americans will look like in 2050. The cyborg look spread rapidly. Today, however, the Instagram face has become the new beauty ideal. The internalization of accepted beauty norms is much more effective when there is active involvement in the learning process. The active involvement of users is reflected in the gamified (游戏化的) interaction offered by the social media platforms --- the ability to like, write a comment, compare, share. Once the desired beauty ideal has been internalized, users are given tools or features to change their appearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right background. A survey conducted in the Un i ted States revealed that more than 50% filter the images before posting them. And you will not be surprised to hear that the majority of them are women. One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side. The effect of the filters is already far beyond amiable amusement. The filters and the entire game played on the net works affect the mental health of the users. According to a study, apps like Instagram, Snap chat and Face tune allow users to achieve a level of perfection that was previously only observed in beauty magazines. Even though humanity has always cherished beauty, in the last decade our obsession with looks has reached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn about beauty in the digital arena?",
+              "stemCn": "【定位】由题干中的beauty inthe digital arena定",
+              "options": {
+                "A": "It dictates the taste of digital media.",
+                "B": "It has been in the making for years.",
+                "C": "It has us he red in a new awakening.",
+                "D": "It is defined by social media."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。第一段第二句指出，在数字 领域，社交媒体决定了什么是美。故答案为",
+                "A": "项是针对第一段第一句中的dictated"
+              },
+              "answer": "D",
+              "analysis": "位到第一段第二句。 和第二句中的socialmedia设置的干扰项，文章并 未讨论决定数字媒体的品位的因素，故排除A） 项；第一段第一句指出，在现实世界中，人们正在 觉醒，反抗多年以来强加给我们的美丽标准。存 在多年的是旧的、传统的美丽标准，而现实世界对 这种标准的反抗以及数字世界对美丽标准的塑造 都是近期的新趋势，故排除B）项；第一段和第二 段指出，在现实世界中，人们正在觉醒，反对传统 的美丽标准，但并未提及这种觉醒的来源，而数字 领域对美的标准的塑造是与现实世界的觉醒并行 的，不是这种觉醒的诱因，故排除C）项。"
+            },
+            {
+              "num": 52,
+              "stem": "What does the passage say about beauty in the physical world?",
+              "stemCn": "【定位】由题干中的beauty in the physical world",
+              "options": {
+                "A": "Women are under constant pressure to keep up with beauty models.",
+                "B": "Women are encouraged to pursue a beauty ideal that has never existed.",
+                "C": "A fight is going on to remove pressure on women to conform to an absurd beauty ideal.",
+                "D": "Media outlets have beg un to present as beauty models trendy women without any makeup."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。定位句指出，在现实世界中，"
+              },
+              "answer": "C",
+              "analysis": "定位到第二段第二句。 这场斗争反对向女性施加潜在压力，要求她们符 合不切实际的美丽标准。故答案选C）。 【避错】由第二段可知，在现实世界中，女性要承受 要求她们符合不切实际的美丽标准的潜在压力， 而非跟上美女模特步伐的压力，故排除A）项；原 册·2024年12月六级真题（一）13 文并未提及女性被鼓励去追求从未存在的美丽标 准，故排除B）项：第二段第三句指出，各种媒体展 现了那些身材不符合所谓理想的女性形象，第五 句又提到一些网络红人在网上上传自己的素颜 照，但这并非指媒体把素颜的时尚女性作为美容 模特，故排除D）项。"
+            },
+            {
+              "num": 53,
+              "stem": "What do we learn from the passage about the Instagram face?",
+              "stemCn": "【定位】由题干中的theInstagramface定位到第",
+              "options": {
+                "A": "It is now regarded as the new beauty ideal.",
+                "B": "It is what most women will go after in 2050.",
+                "C": "It is being much talked about on social media.",
+                "D": "It is a perfect illustration of the ultimate beauty."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第四段第二句指出，如今，"
+              },
+              "answer": "A",
+              "analysis": "四段第二句。 “Instagram脸”已成为新的美丽标准。故答案 选A）。 【避错】第三段第二句指出，2050年的美国人可能 拥有“半机械人外表”，B）项与此意思不符，故排 除；C）项未在文中明确提到，虽然“Instagram脸” 是社交媒体上的热门趋势，但文章的重点是它成 了美丽标准，而不是讨论的热点，故排除C）项；文 章并没有说“Instagram脸”准确诠释了什么是终 极的美丽，只是指出它是当前流行的美丽标准，故 排除D）项。"
+            },
+            {
+              "num": 54,
+              "stem": "What has obsessive filtering resulted in?",
+              "stemCn": "【定位】由题干中的obsessivefiltering定位到第七",
+              "options": {
+                "A": "A good many women striving to reach an impossible level of perfection.",
+                "B": "An urge to turn the entire game played on the network to one’s advantage.",
+                "C": "A tendency to regard one’s body as an object of observation and judgment.",
+                "D": "An increasing number of women filtering their images before uploading them."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第七段第三句说明了过度使"
+              },
+              "answer": "C",
+              "analysis": "段第三句。 用滤镜的消极影响：用户有把自己当作被观察和 参考译文 评价的对象的趋势。故答案为C)。 【避错】第七段第一、二句指出现在许多女性在发 布照片前使用滤镜美化，其目的是追求不可能达 到的完美外貌，但这不是过度使用滤镜美化的结 果，故排除A）项；第五段指出，社交媒体用户对美 的追求体现在社交媒体平台上的游戏化互动，并 非指过度使用滤镜导致人们渴望把网络上的整个 游戏变得对自己有利，故排除B）；D）项同样也是 女性在社交媒体上追求美的一种体现，不是过度 使用滤镜的结果，故排除D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author want to emphasize at the end of the passage regarding Americans’ obsession with looks?",
+              "stemCn": "【定位】由题干中的Americans’obsessionwith",
+              "options": {
+                "A": "Cosmetic surgery should be made more accessible to the masses.",
+                "B": "Psychological intervention should be introduced to alleviate it.",
+                "C": "Their time spent on social media should be strictly controlled.",
+                "D": "Its root cause should be meticulously examined and analyzed. ===== PAGE 8 ====="
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。文章结尾强调了人们对外貌"
+              },
+              "answer": "B",
+              "analysis": "looks定位到第九段第二句。 的痴迷已经达到空前的程度，这种对不现实的美 丽标准的追求会对人们的心理健康造成消极影 响。作者指出，解决这一问题的方法不在于整容， 而在于心理健康干预。故答案为B）。 【避错】文章并没有提到用整容手术或控制社交媒 体使用时间等方法来解决因过度追求美貌而产生 的心理健康问题，故排除A）、C）项；文章对美国人 对外表美的痴迷现象给出了分析，结尾指出了解 决措施，并未呼吁探究分析这一现象的根本原因， 故排除D）项。 在现实世界中，人们正在觉醒，反抗多年以来强加给我们的美丽标准。（51）然而，在数字领域中，社交 媒体决定了什么是美。 这两场对立的斗争同时进行着。（52）在现实世界中，这场斗争反对向女性施加潜在压力，要求她们符 合不切实际的美丽标准。作为这场斗争的一部分，各种媒体开始展示那些身材不符合所谓理想的女性形 象。那些曾经被排除在杂志封面、电视剧和公众议题之外的女性，都已经变得“合乎理想”了。与此同时， 一些网络红人开始在网上上传自己的素颜照，有的照片甚至凸显所谓的缺陷。 技术重塑了我们关于美丽的标准，并且成功地将这一信息传播给大众。过去10年的独特遗产之一是 “半机械人外表”的流行，它展示了2050年美国人可能是什么样子。 “半机械人外表”迅速传播。（53）然而，如今，“Instagram脸”已成为新的美丽标准。 当人们积极参与学习时，他们对公认的美的标准的内化就会更有效。用户的积极参与体现在社交媒 体平台提供的游戏化互动上，即点赞、评论、比较和分享照片的能力。 一旦理想的美丽标准被内化，用户就会获得各种工具或功能，例如编辑图片、选择理想的滤镜和合适 的背景来改变自己的外貌，以符合公认的美丽标准。 一项在美国进行的调查显示，超过50%的人会在发布照片前使用滤镜美化。而且其中大多数是女 性，这一结果并不令人惊讶。（54）过度使用滤镜的一个重要影响是，用户开始把自己当作一个被观察和评 判的对象，就像有人从旁边观察和判断一样。 滤镜的作用已经不局限于有利于身心范畴的娱乐。滤镜和社交网络上进行的整个游戏影响了用户的 心理健康。一项研究表明，Instagram、Snapchat和FaceTune等应用程序可以让用户完美到足以出现在 以前的美容杂志上的程度。 尽管人类一直崇尚美丽，但在过去10年里，我们对外貌的痴迷达到了空前的地步。（55）在社交媒体 上花费的时间让人们强烈渴望去达到一种不可能实现的美丽标准。这种渴望异常强烈，唯一的办法不是 整容，而是心理健康干预。 册·2024年12月六级真题（一）14 Part I Translation 参考译文与难点注释 The successfulresearch & development oftheBeidou Navigation SatelliteSystemis a significant scientific and technological achievement thatChina has made sincethe reformandopening-up. Through relentless efforts,the researchers successfully overcame a series of technical challenges and developed the Beidou system which has ultimately achieved global coverage and high-precision positioning, making China one of thefew countries in the world with an independent global satellite navigation system. The Beidou system has now been widely applied to various fields,including transportation, disaster relief, weather forecasting,and public safety. Today,the Beidou system has gained worldwide 4. recognition and begins to provide high-quality services for an increasing number of countries and regions. 卫星轨道satelliteorbit 空间信号spacesignal 全球定位globalpositioning 数据分析dataanalysis 通信技术communicationtechnology 遥感技术remotesensingtechnology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2024_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "北斗(Beidou) 卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经过不懈努力,攻 克了一系列技术难题,北斗系统最终实现了全球覆盖和高精度定位,使中国成为世界上少数几个独立拥有全球卫星导 航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。北斗系统现在 已经在国际上得到广泛认可,开始为越来越多的国家和地区提供优质服务。 ===== PAGE 9 =====",
+          "terms": [],
+          "reference": "The successful research & development oftheBeidou Navigation Satellite system is a significant scientific and technological achievement that china has made since the reform and opening-up. Through relent less efforts, the researchers success fully overcame a series of technical challenges and developed the Beidou system which has ultimately achieved global coverage and high-precision positioning, making China one of the few countries in the world with an independent global satellite navigation system. The Beidou system has now been widely applied to various fields, including transportation, disaster relief, weather forecasting, and public safety. Today, the Beidou system has gained worldwide 4. recognition and begins to provide high-quality services for an increasing number of countries and regions.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

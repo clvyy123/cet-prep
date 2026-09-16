@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>cet-prep · 界面升级方案 — CET 备考助手</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F7F6F3; --surface:#FFFFFF; --ink:#111214;
+  --ink-2:#4A4B50; --ink-3:#8B8C92; --ink-4:#B9BABF;
+  --blue:#0000FF; --blue-soft:#E9E9FF; --amber:#F59E0B;
+  --green:#0E9F6E; --red:#E02424;
+  --line:rgba(17,18,20,.08); --line-2:rgba(17,18,20,.14);
+  --shadow-1:0 1px 2px rgba(17,18,20,.04),0 8px 24px rgba(17,18,20,.06);
+  --shadow-2:0 2px 4px rgba(17,18,20,.05),0 16px 40px rgba(17,18,20,.10);
+  --ease:cubic-bezier(.32,.72,0,1);
+  --sans:"Plus Jakarta Sans","PingFang SC","HarmonyOS Sans SC","Microsoft YaHei",system-ui,sans-serif;
+  --mono:"JetBrains Mono","SFMono-Regular",Consolas,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased}
+::selection{background:var(--blue);color:#fff}
+
+/* ---- 布局 ---- */
+.wrap{max-width:1080px;margin:0 auto;padding:0 32px}
+section{padding:96px 0 24px}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-3);border:1px solid var(--line-2);border-radius:999px;padding:6px 14px}
+.eyebrow i{width:6px;height:6px;border-radius:50%;background:var(--blue);display:inline-block}
+h2{font-size:clamp(28px,4vw,40px);font-weight:800;letter-spacing:-.02em;line-height:1.15;margin:20px 0 10px}
+.lead{color:var(--ink-2);max-width:640px;font-size:16px}
+.mono{font-family:var(--mono)}
+.sec-num{font-family:var(--mono);font-size:12px;color:var(--blue);letter-spacing:.15em;margin-bottom:8px}
+hr.rule{border:0;border-top:1px solid var(--line);margin:56px 0 0}
+
+/* ---- 入场编排：只动 transform/opacity，GPU 安全 ---- */
+.rv{opacity:0;transform:translateY(20px);transition:opacity .7s var(--ease),transform .7s var(--ease);transition-delay:calc(var(--i,0)*90ms)}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){
+  .rv{opacity:1;transform:none;transition:none}
+  *{animation-duration:.01ms !important;animation-iteration-count:1 !important;scroll-behavior:auto}
+}
+
+/* ---- Hero ---- */
+.hero{padding:88px 0 0}
+.hero h1{font-size:clamp(38px,6vw,64px);font-weight:800;letter-spacing:-.03em;line-height:1.08;margin:24px 0 16px}
+.hero h1 em{font-style:normal;color:var(--blue)}
+.hero .sub{font-size:18px;color:var(--ink-2);max-width:560px}
+.board{margin-top:48px;border-radius:24px;background:rgba(17,18,20,.04);border:1px solid var(--line);padding:8px}
+.board-inner{border-radius:17px;overflow:hidden;background:var(--surface)}
+.board-inner img{display:block;width:100%;height:auto}
+.board-cap{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11px;color:var(--ink-3);padding:12px 14px 4px;letter-spacing:.12em}
+
+/* ---- 卡片：双层边框 ---- */
+.shell{background:rgba(17,18,20,.04);border:1px solid var(--line);border-radius:24px;padding:6px;transition:box-shadow .5s var(--ease),transform .5s var(--ease)}
+.shell:hover{box-shadow:var(--shadow-1);transform:translateY(-2px)}
+.core{background:var(--surface);border-radius:19px;padding:24px;box-shadow:inset 0 1px 1px rgba(255,255,255,.6)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:start}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;align-items:start}
+@media(max-width:760px){.grid2,.grid3{grid-template-columns:1fr}.wrap{padding:0 20px}section{padding:64px 0 12px}}
+
+/* ---- 色板 ---- */
+.swatches{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-top:28px}
+@media(max-width:760px){.swatches{grid-template-columns:repeat(2,1fr)}}
+.sw{border-radius:16px;border:1px solid var(--line);overflow:hidden;background:var(--surface)}
+.sw .chip{height:76px}
+.sw .meta{padding:10px 12px}
+.sw .meta b{display:block;font-size:13px}
+.sw .meta span{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+
+/* ---- 排版 ---- */
+.type-row{display:flex;align-items:baseline;gap:20px;padding:18px 0;border-bottom:1px solid var(--line)}
+.type-row:last-child{border:0}
+.type-row .spec{font-family:var(--mono);font-size:11px;color:var(--ink-3);width:180px;flex-shrink:0}
+
+/* ---- 按钮：岛式药丸 + 内嵌圆 ---- */
+.btn{display:inline-flex;align-items:center;gap:12px;border:0;cursor:pointer;font-family:var(--sans);font-weight:600;font-size:14px;border-radius:999px;padding:12px 14px 12px 22px;transition:transform .35s var(--ease),box-shadow .35s var(--ease),background .35s var(--ease);user-select:none}
+.btn:active{transform:scale(.97)}
+.btn:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+.btn-primary{background:var(--blue);color:#fff;box-shadow:0 8px 20px rgba(0,0,255,.18)}
+.btn-primary .orb{width:30px;height:30px;border-radius:50%;background:rgba(255,255,255,.16);display:grid;place-items:center;transition:transform .35s var(--ease)}
+.btn-primary:hover .orb{transform:translate(2px,-1px) scale(1.06)}
+.btn-ghost{background:transparent;color:var(--ink);border:1px solid var(--line-2)}
+.btn-ghost:hover{background:rgba(17,18,20,.04)}
+
+/* ---- Tab 滑动指示器 ---- */
+.tabs{position:relative;display:inline-flex;background:rgba(17,18,20,.05);border-radius:999px;padding:4px}
+.tabs button{position:relative;z-index:1;border:0;background:transparent;font-family:var(--sans);font-weight:600;font-size:13px;color:var(--ink-2);padding:9px 18px;border-radius:999px;cursor:pointer;transition:color .3s var(--ease)}
+.tabs button.on{color:var(--ink)}
+.tabs .pill{position:absolute;top:4px;left:4px;height:calc(100% - 8px);background:var(--surface);border-radius:999px;box-shadow:0 1px 3px rgba(17,18,20,.12);transition:transform .45s var(--ease),width .45s var(--ease)}
+
+/* ---- 测验选项 ---- */
+.opt{display:flex;align-items:center;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:14px 18px;cursor:pointer;transition:transform .3s var(--ease),border-color .3s var(--ease),background .3s var(--ease),box-shadow .3s var(--ease);margin-bottom:10px;user-select:none}
+.opt:hover{transform:translateX(3px);border-color:var(--line-2)}
+.opt .key{width:28px;height:28px;border-radius:9px;background:rgba(17,18,20,.05);display:grid;place-items:center;font-family:var(--mono);font-size:12px;font-weight:600;transition:all .3s var(--ease)}
+.opt.sel{background:var(--blue);border-color:var(--blue);color:#fff;box-shadow:0 8px 20px rgba(0,0,255,.18)}
+.opt.sel .key{background:rgba(255,255,255,.18);color:#fff}
+.opt.ok{animation:pulse .5s var(--ease)}
+@keyframes pulse{0%{transform:scale(1)}40%{transform:scale(1.015)}100%{transform:scale(1)}}
+
+/* ---- 数据表 ---- */
+.dt{font-family:var(--mono);font-size:13px}
+.dt .h,.dt .r{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;padding:12px 14px;align-items:center}
+.dt .h{color:var(--ink-3);font-size:11px;letter-spacing:.08em;border-bottom:1px solid var(--line-2);text-transform:lowercase}
+.dt .r{border-bottom:1px solid var(--line);border-radius:10px;transition:background .25s var(--ease)}
+.dt .r:hover{background:rgba(0,0,255,.03)}
+.dt .num{text-align:right;font-weight:600}
+.dt .up{color:var(--green)} .dt .down{color:var(--red)}
+
+/* ---- 进度条与数字 ---- */
+.track{height:8px;border-radius:99px;background:rgba(17,18,20,.06);overflow:hidden}
+.fill{height:100%;width:0;background:var(--blue);border-radius:99px;transition:width 1.2s var(--ease);transition-delay:.2s}
+.big-num{font-family:var(--mono);font-weight:600;font-size:56px;letter-spacing:-.04em;line-height:1}
+.small{font-size:12.5px;color:var(--ink-3)}
+
+/* ---- 令牌表 ---- */
+.tok{width:100%;border-collapse:collapse;font-size:13.5px}
+.tok td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+.tok td:first-child{font-family:var(--mono);font-size:12px;color:var(--blue);white-space:nowrap}
+.tok td:last-child{color:var(--ink-3);font-size:12.5px}
+
+/* ---- 路线图 ---- */
+.phase{display:grid;grid-template-columns:120px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid var(--line)}
+@media(max-width:760px){.phase{grid-template-columns:1fr}}
+.phase .pn{font-family:var(--mono);font-size:12px;color:var(--blue);letter-spacing:.1em}
+.phase b{display:block;margin-bottom:4px}
+.phase p{font-size:13.5px;color:var(--ink-2)}
+.chg{font-family:var(--mono);font-size:11px;background:var(--blue-soft);color:var(--blue);border-radius:6px;padding:2px 7px;margin-left:6px;vertical-align:1px}
+
+footer{padding:56px 0 72px;color:var(--ink-3);font-size:12.5px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+<!-- HERO -->
+<header class="hero">
+  <span class="eyebrow rv" style="--i:0"><i></i>cet-prep · 界面升级方案 V2.1</span>
+  <h1 class="rv" style="--i:1">练到会为止，<br>每一步都要顺手。<em>.</em></h1>
+  <p class="sub rv" style="--i:2">一套不推翻现有习惯的质感升级：保留 84px 窄轨导航、等宽数据与电光蓝，把「能用」升级为「有物理感、有仪式感、顺手」。</p>
+  <div class="board rv" style="--i:3">
+    <div class="board-inner"><img src="brand-board.png" alt="cet-prep 品牌视觉板"></div>
+    <div class="board-cap"><span>CET-PREP — BRAND KIT</span><span>PRACTICE UNTIL IT STICKS</span></div>
+  </div>
+</header>
+
+<!-- 01 定位 -->
+<section id="s1">
+  <div class="sec-num rv">01 — 设计定位</div>
+  <h2 class="rv" style="--i:1">三条不动摇的原则</h2>
+  <p class="lead rv" style="--i:2">升级的对象是「质感」与「动效」，不是用户已经记住的布局。肌肉记忆是最贵的 UI 资产。</p>
+  <div class="grid3" style="margin-top:36px">
+    <div class="shell rv" style="--i:0"><div class="core">
+      <div class="big-num" style="font-size:30px">①</div>
+      <b style="display:block;margin:10px 0 6px">习惯不推翻</b>
+      <p class="small">84px 侧轨、页面结构、卡片密度、等宽数据全部保留。只升级表面材质与交互反馈。</p>
+    </div></div>
+    <div class="shell rv" style="--i:1"><div class="core">
+      <div class="big-num" style="font-size:30px">②</div>
+      <b style="display:block;margin:10px 0 6px">一色扛全场</b>
+      <p class="small">电光蓝 <span class="mono">#0000FF</span> 仍是唯一强调色。对 = 蓝，错 = 红，中性 = 灰。克制即高级。</p>
+    </div></div>
+    <div class="shell rv" style="--i:2"><div class="core">
+      <div class="big-num" style="font-size:30px">③</div>
+      <b style="display:block;margin:10px 0 6px">动效有质量</b>
+      <p class="small">所有过渡用同一条弹簧曲线，元素像有重量的实体而非透明度开关。宁少勿多。</p>
+    </div></div>
+  </div>
+</section>
+
+<!-- 02 令牌 -->
+<section id="s2">
+  <div class="sec-num rv">02 — 设计令牌</div>
+  <h2 class="rv" style="--i:1">材质：从平面到「实物感」</h2>
+  <p class="lead rv" style="--i:2">核心手法是双层边框（Double-Bezel）：卡片外层是浅灰托盘，内层是白色面板，同心圆角。屏幕上的元素开始像被加工出来的硬件。</p>
+  <div class="grid2" style="margin-top:36px">
+    <div class="rv" style="--i:0">
+      <div class="swatches" style="grid-template-columns:repeat(2,1fr);margin-top:0">
+        <div class="sw"><div class="chip" style="background:#0000FF"></div><div class="meta"><b>电光蓝</b><span class="mono">#0000FF · 主色</span></div></div>
+        <div class="sw"><div class="chip" style="background:#111214"></div><div class="meta"><b>墨黑</b><span class="mono">#111214 · 文字</span></div></div>
+        <div class="sw"><div class="chip" style="background:#F7F6F3;border-bottom:1px solid var(--line)"></div><div class="meta"><b>纸面白</b><span class="mono">#F7F6F3 · 画布</span></div></div>
+        <div class="sw"><div class="chip" style="background:linear-gradient(135deg,#F59E0B 60%,#0E9F6E 60%)"></div><div class="meta"><b>语义色</b><span class="mono">amber / green / red</span></div></div>
+      </div>
+      <div class="shell" style="margin-top:14px"><div class="core" style="padding:18px 20px">
+        <b style="font-size:13.5px">阴影：环境光，不投影子</b>
+        <p class="small mono" style="margin-top:6px">0 1px 2px rgb(0 0 0/.04), 0 8px 24px rgb(0 0 0/.06)</p>
+        <p class="small" style="margin-top:6px">大扩散、低透明度、无硬边。hover 时浮起 2px 并加深，像被托起来。</p>
+      </div></div>
+    </div>
+    <div class="shell rv" style="--i:1"><div class="core" style="padding:10px 20px">
+      <table class="tok">
+        <tr><td>--ease</td><td>cubic-bezier(.32,.72,0,1)</td><td>全局唯一缓动，禁止 linear / ease-in-out</td></tr>
+        <tr><td>--t-fast</td><td>150ms</td><td>hover、按下、选项选中</td></tr>
+        <tr><td>--t-med</td><td>350ms</td><td>卡片浮起、Tab 指示器滑动</td></tr>
+        <tr><td>--t-slow</td><td>700ms</td><td>页面入场、成绩数字滚动</td></tr>
+        <tr><td>--r-card</td><td>外 24 / 内 19</td><td>同心圆角，差值 ≈ 托盘内边距</td></tr>
+        <tr><td>--r-pill</td><td>999px</td><td>按钮、筛选 chip、开关</td></tr>
+        <tr><td>层级</td><td>z: 10 导航 · 40 弹层 · 50 提示</td><td>禁用 z-9999，层级只有三档</td></tr>
+      </table>
+    </div></div>
+  </div>
+</section>
+
+<!-- 03 组件 -->
+<section id="s3">
+  <div class="sec-num rv">03 — 组件升级</div>
+  <h2 class="rv" style="--i:1">四个高频组件，全部可交互</h2>
+  <p class="lead rv" style="--i:2">下面都是活的——点一点，感受一下物理反馈。这些对应现有 <span class="mono">.btn / .tag / .quiz-option / .data-table</span> 的直接升级。</p>
+
+  <div class="grid2" style="margin-top:36px">
+    <div class="shell rv" style="--i:0"><div class="core">
+      <b>按钮 · 岛式药丸</b>
+      <p class="small" style="margin:6px 0 18px">主按钮 = 深色药丸 + 右侧内嵌圆形图标位；hover 时图标「斜向探头」，按下整钮缩至 97%，像真的按下去。</p>
+      <div style="display:flex;gap:12px;flex-wrap:wrap">
+        <button class="btn btn-primary">开始整卷模拟<span class="orb">→</span></button>
+        <button class="btn btn-ghost">不含听力</button>
+      </div>
+    </div></div>
+
+    <div class="shell rv" style="--i:1"><div class="core">
+      <b>测验选项 · 即时点亮</b>
+      <p class="small" style="margin:6px 0 18px">选中瞬间蓝底淹没整行（<span class="mono">.quiz-option</span>），判对时轻微脉冲一次。答案永远用「选项原文」定位的既有逻辑不受影响。</p>
+      <div id="opts">
+        <div class="opt" data-k="A"><span class="key">A</span>The committee reached a <b>unanimous</b> decision.</div>
+        <div class="opt" data-k="B"><span class="key">B</span>His explanation was <b>coherent</b> and convincing.</div>
+        <div class="opt" data-k="C"><span class="key">C</span>She remained <b>ambiguous</b> about her plans.</div>
+      </div>
+      <p class="small" id="optTip">↑ 点击选择（选 C 看判对脉冲）</p>
+    </div></div>
+  </div>
+
+  <div class="grid2" style="margin-top:20px">
+    <div class="shell rv" style="--i:0"><div class="core">
+      <b>分段切换 · 滑动指示器</b>
+      <p class="small" style="margin:6px 0 18px">板块 chip / 筛选 tab 的选中态不再变色，而是一片白磁铁在轨道下滑动——移动的是背景，不是文字。</p>
+      <div class="tabs" id="tabs">
+        <div class="pill"></div>
+        <button class="on">写作 30′</button><button>听力 25′</button><button>阅读 40′</button><button>翻译 30′</button>
+      </div>
+    </div></div>
+
+    <div class="shell rv" style="--i:1"><div class="core">
+      <b>数据表 · 行级反馈</b>
+      <p class="small" style="margin:6px 0 14px">等宽字体与右对齐数字保留（现有 <span class="mono">.data-table</span> 规范），行 hover 加一层 3% 蓝染。</p>
+      <div class="dt">
+        <div class="h"><span>板块</span><span>题数</span><span>正确率</span><span style="text-align:right">较上次</span></div>
+        <div class="r"><span>阅读理解</span><span>20</span><span>85%</span><span class="num up">+6%</span></div>
+        <div class="r"><span>听力</span><span>25</span><span>72%</span><span class="num down">-3%</span></div>
+        <div class="r"><span>选词填空</span><span>10</span><span>60%</span><span class="num up">+12%</span></div>
+      </div>
+    </div></div>
+  </div>
+</section>
+
+<!-- 04 动效 -->
+<section id="s4">
+  <div class="sec-num rv">04 — 动效编排</div>
+  <h2 class="rv" style="--i:1">三个仪式时刻</h2>
+  <p class="lead rv" style="--i:2">本页本身就按这套规范编排：滚动到哪，哪里的元素错峰浮起。应用里对应三个关键时刻——</p>
+
+  <div class="grid3" style="margin-top:36px">
+    <div class="shell rv" style="--i:0"><div class="core">
+      <b>① 进入页面 · 错峰浮起</b>
+      <p class="small" style="margin:6px 0 14px">页面内容按 <span class="mono">90ms</span> 步进依次上浮入场（本页正在演示）。只动 transform + opacity，滚动监听用 IntersectionObserver，不掉帧。</p>
+      <div class="mono small" style="color:var(--blue)">delay: i × 90ms · 700ms · ease</div>
+    </div></div>
+
+    <div class="shell rv" style="--i:1"><div class="core">
+      <b>② 学习进度 · 生长</b>
+      <p class="small" style="margin:6px 0 14px">进度条从 0 生长到目标值，入场后延迟 200ms 启动。柱状图同逻辑（固定轨道 + 目标高度，不用 height% 动画）。</p>
+      <div class="track"><div class="fill" data-w="68%"></div></div>
+      <div class="small" style="margin-top:8px;display:flex;justify-content:space-between"><span>词汇掌握进度</span><span class="mono">68%</span></div>
+    </div></div>
+
+    <div class="shell rv" style="--i:2"><div class="core">
+      <b>③ 成绩揭晓 · 数字滚动</b>
+      <p class="small" style="margin:6px 0 14px">交卷后总分从 0 滚到实际分（1.4s），过 425 分时数字短暂变绿。滚动用 rAF 缓动，而非定时器。</p>
+      <div class="big-num" id="score" style="color:var(--blue)">0</div>
+      <div class="small mono" style="margin-top:6px">/ 710 · rAF count-up</div>
+    </div></div>
+  </div>
+
+  <div class="shell rv" style="margin-top:20px"><div class="core" style="display:flex;gap:24px;align-items:center;flex-wrap:wrap">
+    <b style="flex-shrink:0">已有动效保留</b>
+    <p class="small" style="flex:1;min-width:240px">主题切换的「圆形漾开」（新皮肤从点击处扩散，0.6s）实测零掉帧，是全应用最好的动效——原样保留，只把曲线统一到 <span class="mono">--ease</span>。<span class="mono">prefers-reduced-motion</span> 用户直接跳到终态。</p>
+  </div></div>
+</section>
+
+<!-- 05 路线 -->
+<section id="s5">
+  <div class="sec-num rv">05 — 落地路线</div>
+  <h2 class="rv" style="--i:1">三个阶段，全部落在既有体系上</h2>
+  <p class="lead rv" style="--i:2">不新增文件、不引入 UI 库，改动集中在 <span class="mono">styles.css</span> 的令牌层与第 23/29 节动效区。遵循主题铁律：覆盖块只改几何，绝不在基础类上写背景色。</p>
+  <div style="margin-top:28px" class="shell rv"><div class="core" style="padding:10px 24px">
+    <div class="phase">
+      <div class="pn">PHASE 1<br>令牌层</div>
+      <div><b>材质地基<span class="chg">styles.css :root</span></b><p>新增 --shadow-1/2、--ease、--t-*、双层卡片 .shell/.core 工具类；圆角体系升级（卡片 16→24/19）。spacex 暗色主题的对应覆盖同步。</p></div>
+    </div>
+    <div class="phase">
+      <div class="pn">PHASE 2<br>组件层</div>
+      <div><b>四个高频组件换装<span class="chg">.btn .quiz-option .data-table .section-chip</span></b><p>按钮岛式化（主按钮加内嵌圆图标位）；quiz-option 选中蓝染 + 判对脉冲；Tab 选中态改滑动指示器；表格行 hover 蓝染。侧边栏导航同步滑动指示器。</p></div>
+    </div>
+    <div class="phase" style="border:0">
+      <div class="pn">PHASE 3<br>动效层</div>
+      <div><b>仪式时刻<span class="chg">新 hook useReveal</span></b><p>页面入场错峰浮起（IntersectionObserver 一次性挂载）；进度条/柱图生长；成绩数字滚动；全站曲线统一 --ease。reduced-motion 降级为一瞬直达。</p></div>
+    </div>
+  </div></div>
+</section>
+
+<!-- 06 无障碍 -->
+<section id="s6" style="padding-bottom:0">
+  <div class="sec-num rv">06 — 无障碍与性能底线</div>
+  <h2 class="rv" style="--i:1">快是功能，稳是底线</h2>
+  <div class="grid2" style="margin-top:24px">
+    <div class="shell rv" style="--i:0"><div class="core">
+      <b>可访问性</b>
+      <p class="small" style="margin-top:8px">蓝底白字对比度 8.6:1（WCAG AAA）；所有可交互元素 <span class="mono">:focus-visible</span> 蓝色描边；触达目标 ≥ 40px；<span class="mono">prefers-reduced-motion</span> 全动效降级。</p>
+    </div></div>
+    <div class="shell rv" style="--i:1"><div class="core">
+      <b>性能红线</b>
+      <p class="small" style="margin-top:8px">只动 transform 与 opacity，永不动画 top/left/height；<span class="mono">backdrop-blur</span> 只许用在固定悬浮层；滚动监听一律 IntersectionObserver；入场动画一次性触发后即卸载。</p>
+    </div></div>
+  </div>
+</section>
+
+<footer>
+  <span>cet-prep · UI DESIGN PROPOSAL V2.1 — UI Designer</span>
+  <span class="mono">2026-09-13 · 搭配 brand-board.png 食用</span>
+</footer>
+
+</div>
+
+<script>
+// 错峰入场：IntersectionObserver，一次性触发后卸载
+const io = new IntersectionObserver(es => es.forEach(e => {
+  if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+}), { threshold: .12 });
+document.querySelectorAll('.rv').forEach(el => io.observe(el));
+
+// 进度条生长
+const fio = new IntersectionObserver(es => es.forEach(e => {
+  if (e.isIntersecting) { e.target.style.width = e.target.dataset.w; fio.unobserve(e.target); }
+}), { threshold: .5 });
+document.querySelectorAll('.fill').forEach(el => fio.observe(el));
+
+// 成绩数字滚动（rAF 缓动）
+const sio = new IntersectionObserver(es => es.forEach(e => {
+  if (!e.isIntersecting) return; sio.unobserve(e.target);
+  const el = e.target, end = 586, t0 = performance.now(), D = 1400;
+  const tick = t => {
+    const p = Math.min(1, (t - t0) / D), v = Math.round(end * (1 - Math.pow(1 - p, 3)));
+    el.textContent = v;
+    el.style.color = v >= 425 ? 'var(--green)' : 'var(--blue)';
+    if (p < 1) requestAnimationFrame(tick);
+    else setTimeout(() => el.style.color = 'var(--blue)', 900);
+  };
+  requestAnimationFrame(tick);
+}), { threshold: .5 });
+sio.observe(document.getElementById('score'));
+
+// Tab 滑动指示器
+const tabs = document.getElementById('tabs'), pill = tabs.querySelector('.pill');
+const move = btn => { pill.style.width = btn.offsetWidth + 'px'; pill.style.transform = `translateX(${btn.offsetLeft - 4}px)`; };
+tabs.querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
+  tabs.querySelectorAll('button').forEach(x => x.classList.remove('on'));
+  b.classList.add('on'); move(b);
+}));
+move(tabs.querySelector('.on'));
+addEventListener('resize', () => move(tabs.querySelector('.on')));
+
+// 测验选项：选择 + 判对脉冲
+const tip = document.getElementById('optTip');
+document.querySelectorAll('#opts .opt').forEach(o => o.addEventListener('click', () => {
+  document.querySelectorAll('#opts .opt').forEach(x => x.classList.remove('sel', 'ok'));
+  o.classList.add('sel');
+  if (o.dataset.k === 'C') {
+    void o.offsetWidth; o.classList.add('ok');
+    tip.textContent = '✓ 正确 — ambiguous：模棱两可的（脉冲一次）';
+  } else {
+    tip.textContent = '再想想，或者选 C 看判对脉冲 →';
+  }
+}));
+</script>
+</body>
+</html>

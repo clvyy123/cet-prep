@@ -1,0 +1,1066 @@
+{
+  "id": "cet4-2024_06_2",
+  "level": 4,
+  "year": 2024,
+  "month": 6,
+  "setNo": "第2套",
+  "title": "2024年6月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Suppose your university is seeking students' opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+          "review": "第二套 作文要求考生假设自己所在的大学正在就大学体育设施是否应该向公众开放征求学生的意见。考生需要 就此写一篇文章表达自己的观点。这属于选择论证型作文，考生可以二选其一，展开论述。支持开放，可以从 有助于提高设施利用率、惠及公众、额外创收等方面进行论证。反对开放，可以从可能产生的安全问题和可能 增加学生与公众之间的冲突等方面进行论证。",
+          "sample": "I firmly believe that university sports facilities should be open to the public.I The reasons for doing so are as follows.2 Firstly, this arrangement can greatly enhance the utilization rate oft he facilitiesreducing waste and ensuring they serve a wider range ofcommunitymembers.3 Secondly, it could serve as abridge between the university and the community, fostering stronger ties and promoting mutual understanding.4 Additionally, opening up the facilities to the public could generate additional revenue for the university, which could then be invested in further improving the quality of the facilities. However, it’s crucial to ensure that the facilities remain safe and functional, with proper management and maintenance.6 Moreover, appropriate scheduling should be implemented to avoid any conflicts between students'and the public's use.7 Overall, opening university sports facilities to the public is a beneficial move that can bring multiple benefits to both the university and the community.8",
+          "sampleNote": "",
+          "sampleCn": "我坚信大学体育设施应该向公众开放。这样做的理由如下。 1表明观点：支持大学体育设施向公众开 放。 2过渡句：引出支持对公众开放的理由。 3陈述第一个理由：提高设施利用率，为 更广泛的社区成员服务。 4陈述第二个理由：它可以成为大学与社 区之间的桥梁，促进联系和相互理解。 5陈述第三个理由：带来额外收入，用于 提升设施质量。 6指出应注意的第一个方面：确保设施的 安全和功能，进行管理和维护。 7 指出应注意的第二个方面：实施适当的 时间表，避免学生和公众使用设施时发 生冲突。 8总结全文，指出它是一项有益举措，可 以带来多重益处。 首先，这种安排可以大大提高设施的利用率，减少浪费，并确保它们为更广泛的社区成员服务。其次， 它可以作为大学与社区之间的桥梁，促进更紧密的联系和相互理解。此外，向公众开放这些设施可以为大学带 来额外的收入，这些收入可以用于进一步提高设施的质量。然而，至关重要的是要确保设施的安全和功能，并 进行适当的管理和维护。此外，应实施适当的时间表，以避免学生和公众使用之间的任何冲突。 总的来说，向公众开放大学体育设施是一项有益的举措，可以为大学和社区带来多重益处。",
+          "vocab": [
+            "as follows如下",
+            "foster stronger ties促进更紧密的联系",
+            "enhance提高",
+            "maintenance维护",
+            "implement实施",
+            "promotemutual understanding促进相互理解",
+            "utilizationrate利用率",
+            "generateadditionalrevenue创造额外收入",
+            "老师说",
+            "beneficial有利的",
+            "本套讲解视频中，老师为你讲述如何写好论述型作文的高分写作技巧，讲解通过精听和泛听提升听力的技巧，揭示选",
+            "词填空选项设置的命题特点，介绍中英语言自由切换翻译等技巧，快来扫描二维码观看吧！",
+            "a widerrangeof更广泛的",
+            "serve as作为，充当"
+          ],
+          "patterns": [
+            "1.The reasonsfor..are asfollows.",
+            "invest in投资 multiple benefits多重益处",
+            "crucial至关重要的",
+            "句型意为“……的理由如下”，是用于引出陈述理由的常用句式。",
+            "2.is a beneficialmove that can bring multiple benefits to both.and...",
+            "句型意为“……是一项有.益的举措，可以为…和带来多重益处”，是用于评价某一举措的优势的常",
+            "用句式，起强调的作用。",
+            "SectionA",
+            "News Report One",
+            "·听力原文·"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_2-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1 and 2 are based on the news report you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What do we learn about the Jet blue Airlinesflightfrom the news report?",
+              "stemCn": "",
+              "options": {
+                "A": "It hit a bird shortly after takeoff.",
+                "B": "Its crew members went on strike.",
+                "C": "It narrowly escaped a plane crash when turning around.",
+                "D": "Its captain got slightly injured during the forced landing."
+              },
+              "optionCn": {
+                "A": "飞机起飞后不久就撞上了一只鸟。",
+                "B": "机组人员罢工。",
+                "C": "飞机在掉头时险些坠毁。",
+                "D": "机长在迫降时受了轻伤。"
+              },
+              "answer": "A",
+              "analysis": "从新闻报道中，我们了解到关于捷蓝航空公司航班的什么信息？ 新闻开头提到，周日上午，捷蓝航空公司一架从西棕榈滩飞往纽约的飞机在撞上一只鸟后被迫掉头降落。 7 由此可知，选项A为正确答案。其余选项新闻中均未提及，故排除。"
+            },
+            {
+              "num": 2,
+              "stem": "How did the passengers feel when the plane came to a stop, according to Brian Healy?",
+              "stemCn": "",
+              "options": {
+                "A": "Panic.",
+                "B": "Nervous.",
+                "C": "Relieved.",
+                "D": "Con ten ted."
+              },
+              "optionCn": {
+                "A": "恐慌。",
+                "B": "紧张。"
+              },
+              "answer": "C",
+              "analysis": "据布莱恩·希利称，当飞机停稳后，乘客们有什么感受？ 新闻末尾部分引述乘客布莱恩·希利的话提到：“那就像一瞬间的恐慌…造成飞机上乘客的紧张反应。 人们完全安静了下来，当飞机停稳后才松了一口气。”由此可知，选项C为正确答案。题目问的是飞机停 稳后乘客的反应，恐慌、紧张是发生事故后乘客的第一反应，选项A、B答非所问，故排除。D选项新闻中 未提及，故排除。 News Report Two ·听力原文· Adeadly snake,which had finally been tracked down after escaping a zoo,has slipped away for the second time. The poisonous snake forced the closure of the attraction last week when staff noticed the disappearance. After six daysofdesperate searching,he was eventually foundand placed in a supposedly secure area.[3] But it seems the animal is no fan ofthe zoo,because yet againhe is outontheloose.[4] The snake is a relative newcomerto the zoo but has already been frustrating its staff.The staffbelieve he squeezed himselfout ofa gap located around new energy-saving bulbs installed inside the snake house.He was onlyfound the first time around because staffbrought ina special machine to trace him inside a wallopening. Thiskindof snake is one ofthe most deadlyand poisonous in thewild,andtheycanrange from3to5metersin length."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 3 and 4 are based on the news report you have just heard.",
+          "material": "A deadly snake, which had finally been tracked down after escaping a zoo, has slipped away for the second time. The poisonous snake forced the closure of the attraction last week when staff noticed the disappearance. After six daysofdesperate searching, he was eventually found and placed in a supposedly secure area.[3] But it seems the animal is no fan oft he zoo, because yet again he is out on the loose.[4] The snake is a relative newcomer to the zoo but has already been frustrating its staff. The staff believe he squeezed himself out of a gap located around new energy-saving bulbs installed inside the snake house. He was only found the first time around because staffbrought in a special machine to trace him inside a wall opening. This kind of snake is one oft he most deadly and poisonous in the wild, and they can range from 3to 5metersin length.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What do we learn about the deadly snake from the news report?",
+              "stemCn": "",
+              "options": {
+                "A": "He is now kept in a secure area.",
+                "B": "He has escaped the zoo once again.",
+                "C": "He has been caught a second time.",
+                "D": "He finally disappeared six days ago."
+              },
+              "optionCn": {
+                "A": "它现在被关在一个安全的地方。",
+                "C": "它再次被捉。",
+                "B": "它又一次逃出了动物园。",
+                "D": "他最终在六天前失踪了。"
+              },
+              "answer": "B",
+              "analysis": "从新闻报道中，我们了解到这条致命的蛇的什么信息？ 新闻开头部分提到，一条致命的蛇在逃离动物园后终于被找到，但它又第二次溜走了。新闻接下来详细描 述这条蛇两次逃离的细节：第一次逃跑后，这条蛇经过工作人员六天的拼命搜寻后终于被找到，并被安置 在一个据说安全的区域，但是它再一次出逃。直到新闻最后都没有提及这条蛇是否再次被找到，所以选项 B为正确答案，同时排除选项C。选项A错误，新闻中提到，这条毒蛇第一次逃跑并被找到后，被安置在一 个安全的地方，而这并不是当下这条蛇的境况，故排除。选项D错误，新闻中提到，这条毒蛇第一次逃跑 后，动物园经过六天的搜寻终于找到了它，而根据新闻所述，这条蛇被安置后又再次出逃，可见D项的说 法不准确，故排除。"
+            },
+            {
+              "num": 4,
+              "stem": "How have the zoo staff been feeling about the snake？",
+              "stemCn": "对于这条蛇，动物园的工作人员有什么感受？",
+              "options": {
+                "A": "Squeezed.",
+                "B": "Threatened.",
+                "C": "Disappointed.",
+                "D": "Frustrated."
+              },
+              "optionCn": {
+                "A": "受挤压的。",
+                "C": "失望的。",
+                "B": "受到威胁的。",
+                "D": "受挫的。"
+              },
+              "answer": "D",
+              "analysis": "新闻后面提到，这条蛇对动物园来说是新来者，但它已经让动物园的工作人员感到挫败了，故选项D为正 确答案。A项Squeezed是新闻中提到的一个词，描述的是工作人员猜测它再次出逃是通过挤进新安装的 节能灯泡周围的缝隙实现逃脱的，不是工作人员对这条蛇的感受，故排除。其余两项新闻中均未提及，也 排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Three",
+          "intro": "Questions 5 to 7 are based on the news report you have just heard.",
+          "material": "Electric bike shave been the craze in downtown Jacksonville since they were first introduced earlier this month as a one-year pilot program.[5] But they're leading to safety concerns, mainly at night when some riders don't follow the rules of the road. As the night goes on, groups ofriders are often seen traveling in just about every direction in the streets and on pedestrian paths. That is increasing the probability of dangerous accidents. [6] Electric bikeriders have to follow all the samerules as you would if you were in an automobile. That means no running red lights or traveling in the opposite direction of traffic on one-way streets. [7] City council MemberAnna Cumber was instrumental inintroducing the electric bikes to Jacksonville as a way to bring new life into downtown. And she's aware oftheconcerns. Cumber said, People can have fun, but both driver sand ridersare responsible for paying attention while on the road. And never assume the driver is going to stop or see you”",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What do we learn from the news report about the introduction of electric bikes into Jacksonville?",
+              "stemCn": "",
+              "options": {
+                "A": "It is condemned as a crazy idea.",
+                "B": "It is enriching the city’s night life.",
+                "C": "It is questioned by local residents.",
+                "D": "It is giving rise to safety concerns."
+              },
+              "optionCn": {
+                "A": "它被指责是一个疯狂的想法。",
+                "B": "它丰富了城市的夜生活。",
+                "C": "它受到了当地居民的质疑。",
+                "D": "它引发了安全担忧。"
+              },
+              "answer": "D",
+              "analysis": "关于杰克逊维尔市引入电动自行车的新闻报道，我们从中可以了解到什么？ 新闻开头提到，自杰克逊维尔市中心推出为期一年的电动自行车试点项目以来，电动自行车在市中心掀起 了一股热潮，但它们也引发了安全担忧。由此可知，选项D为正确答案。根据新闻报道，电动自行车引发 了安全担忧，即人们担心会出现安全问题，但并未提及当地居民质疑引入电动自行车这一举措，故排除选 项C。其余两项新闻中均未提及，故排除。"
+            },
+            {
+              "num": 6,
+              "stem": "Whatareelectricbikeriderssupposedtodo?",
+              "stemCn": "电动自行车骑行者应当做什么？",
+              "options": {
+                "A": "Avoid entering one-way streets",
+                "B": "Ensure the safety of pedestrians.",
+                "C": "Follow all the traffic rules drivers do.",
+                "D": "Give way to automobiles at all times."
+              },
+              "optionCn": {
+                "A": "避免进入单行道。",
+                "B": "确保行人安全。"
+              },
+              "answer": "C",
+              "analysis": "新闻中提到，电动自行车骑行者必须遵守和开车一样的规则。这意味着不能闯红灯，也不能在单行道上逆 行。由此可知，选项C为正确答案。新闻中提到，电动自行车不能在单行道上逆行，并非不让其进入单行 道，故排除选项A。其余两项新闻中均未提及，故排除。"
+            },
+            {
+              "num": 7,
+              "stem": "Why didCityCouncilmemberAnna Cumberadvocate the introduction of electric bikes into Jacksonville?",
+              "stemCn": "",
+              "options": {
+                "A": "To ease the city’s busy traffic.",
+                "B": "To bring new life into the city.",
+                "C": "To add a new means of transport.",
+                "D": "To reduce the city’s air pollution. Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "缓解城市繁忙的交通。",
+                "B": "为城市带来新的活力。",
+                "C": "增加一种新的交通工具。",
+                "D": "减少城市空气污染。"
+              },
+              "answer": "B",
+              "analysis": "为什么市议员安娜·坎伯提倡将电动自行车引入杰克逊维尔市？ 新闻末尾部分提到，市议员安娜·坎伯在将电动自行车引入杰克逊维尔，为市中心带来新的活力方面发挥 了重要作用。由此可知，选项B为正确答案。其余选项新闻中均未提及，故排除。 SectionB"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L8",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation One",
+          "intro": "Questions 8 to 11 are based on the conversation you have just heard.",
+          "material": "M:What’s the best way to teach children how to save and spend their money? W:[8] You should make money a regular topic of discussion. It’s best to start young, so it’s instinctive rather than a scary subject. M:In our family, we talk openly about things like the budget for holidays, how taxes reduce your income, and how to shop around for the best deals. W:Indeed.[9] It’s also essential tomakemoneyrealforchildrenthroughpracticalexamples. Working out how much we save using discount pizza coupons, for example, is much more relevant than abstract sums. M:[1o] We also give ourkids pocket money, and the amount they get is linked to chores, such as putting the bins out and emptying the dishwasher. W:[10] We do that too, and it’s paid according to their age. Two pounds for each year so they can see some progression. M:Teaching them to save is important. We opened a savings account when they were young. After birthdays and Christmas, they would go to the branch and deposit their gif money. W:Oh, I hadn't con side red doing that. In our house, we have transparent money boxes for them to put small change in, so they can see their savings grow. M:When the time is right, I'll start talking to our children about investing and show them how the money savedfor their further education has grown. W:[11] I am always talking to my elder daughter about the importance of saving into a pension. She's just star ted a part-time job and was thinking of not contributing to her pension. Luckily, I managed to persuade her otherwise. M:Yes, it’s such an important lesson to learn.",
+          "questions": [
+            {
+              "num": 8,
+              "stem": "What should we do with the topic of money, according to the woman?",
+              "stemCn": "",
+              "options": {
+                "A": "Take it seriously.",
+                "B": "Discuss it regularly.",
+                "C": "Make it sound scary.",
+                "D": "Talk about it openly."
+              },
+              "optionCn": {
+                "A": "认真对待它。",
+                "B": "经常讨论它。"
+              },
+              "answer": "B",
+              "analysis": "根据女士的观点，我们应该如何对待“钱”这个话题？ 对话一开始，男士询问女士教孩子们如何存钱和消费的最佳方法是什么，女士建议男士应该把钱作为一个 经常讨论的话题，所以答案是B项。A项在对话中找不到相关信息，故排除；女士说最好从孩子们很小的 时候就开始经常讨论这个话题，这样这个话题就不会成为一个可怕的话题，据此可排除C项；男士提到在 他们家，他们经常公开讨论一些有关钱的问题，但这不是女士的观点，所以排除D项。"
+            },
+            {
+              "num": 9,
+              "stem": "How does the womansaymoneycanbemadereal for children?",
+              "stemCn": "女士说如何让孩子们真正了解钱？",
+              "options": {
+                "A": "By shopping around for the best deals.",
+                "B": "By making abstract sums relevant.",
+                "C": "By citing concrete examples.",
+                "D": "By visiting discount stores."
+              },
+              "optionCn": {
+                "A": "通过货比三家以获得最佳优惠。",
+                "B": "通过让抽象的金额变得有意义。",
+                "C": "通过列举具体的例子。",
+                "D": "通过逛折扣店。"
+              },
+              "answer": "C",
+              "analysis": "在对话中，女士提到，通过实际例子让孩子们真正了解钱也很重要，然后她举了算出使用披萨折扣券能省 → 多少钱的例子，所以答案为C项。男士提到他们家会公开讨论如何货比三家以获得最佳优惠，这不是女 士的观点和做法，故排除A项；B项曲解了女士所举的例子，故排除；D项在对话中找不到相关信息，故 排除。"
+            },
+            {
+              "num": 10,
+              "stem": "What is the common practice between them an and the woman？",
+              "stemCn": "男士和女士之间的共同做法是什么？",
+              "options": {
+                "A": "Paying their kids to help with housework.",
+                "B": "Setting kids a good example by sharing chores.",
+                "C": "Giving kids pocket money according to their needs.",
+                "D": "Urging kids to deposit some of their gift money."
+              },
+              "optionCn": {
+                "A": "付钱让孩子们帮忙做家务。",
+                "B": "通过分担家务为孩子们树立好榜样。"
+              },
+              "answer": "A",
+              "analysis": "在对话中，男士提到他们也会给孩子们零花钱，而且孩子们得到的零花钱数额与家务劳动挂钩，女士说他 们也是这么做的，而且是根据孩子们的年龄支付的。也就是说，女士家也给孩子们零花钱，以让孩子们帮 忙做家务，所以答案为A项。B项在对话中找不到相关信息，故排除；C项的“根据孩子们的需求”与对话 内容不符，故排除；D项提到的做法是男士家里的做法，女士说自己还没考虑过这么做，故排除D项。 11Whatis the womanalways talkingaboutto herelderdaughter?女士总是和她的大女儿谈论什么？ 在对话最后，女士提到她经常跟她的大女儿谈论储蓄养老金的重要性，所以答案是D项。A、B两项在对 话中没有相关信息，故排除；C项的“存款增长”在对话中提到了，但这并非女士经常和大女儿谈论的话 题，故排除。"
+            },
+            {
+              "num": 11,
+              "stem": "What is the woman always talking about to her elder daughter?",
+              "stemCn": "",
+              "options": {
+                "A": "The importance of cutting down family expenses.",
+                "B": "The need to learn important lessons from her elders.",
+                "C": "The delight in seeing their savings grow.",
+                "D": "The necessity of saving into a pension. ===== PAGE 2 ====="
+              },
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "根据听力原文，W: I am always talking to my elder daughter about the importance of saving into a pension. She has just started a part-time job and was thinking of not contributing to her pension. Luckily I managed to persuade her otherwise.（女：我总是跟大女儿讲存养老金的重要性。她刚开始做兼职，原本不打算交养老金。幸好我成功说服了她）。因此，女士总是跟大女儿讲存养老金的必要性。选项 D 正确。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L12",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation Two",
+          "intro": "Questions 12 to 15 are based on the conversation you have just heard.",
+          "material": "W:Welcome to Books in Review.[12] Our guest today is John Banks, the author of the best selling new book, Rewarding Success. M:Glad to be here, Jane. W:Your book hassold 2million copies, but before we discuss why it's getting so much attention, let’s talk about your background. You're an economist and spent two decades teaching at universities? M:I spent 25 years as a professor, actually. And then, for the last 10years, I've worked as a political consultant, advising politicians at the national level about problems in our country. W:You discuss three of those problems in the book, improving public education, reducing our nation's health care burden, and increasing personal savings.[13] But your ideas about education are the most controversial. M:Absolutely. A lot of people think I'm trying to punish students who aren'tdoing well,[14] when actually my goal is to give all students more incentive to succeed. 24四级2024.6第二套 W:I'm not sure i agree with you. Your proposal to pay cashrewards to students who get good grades is a particular problem. What about students who don't get good grades?It seems like you're blaming them for not succeeding, when poor performance in school isn'ta child's fault. M:But my proposal is not just to reward students with good grades, but also students who show improvements. W:Okay, another criticism oft he plan is the cash rewards themselves. Where will the money come from? M:Ifstudents do better, we'll spend less on schooling. So, in the end, the rewards will pay for themselves. W:What about now? How will we fund the rewards in the meantime? M:Well,[15] by increasing taxes ormoving money from other area soft he budget into education.",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "What do we learn about them an？",
+              "stemCn": "关于男士，我们了解到什么？",
+              "options": {
+                "A": "He is a successful businessman.",
+                "B": "He reviews books on political affairs.",
+                "C": "He has published a new best seller.",
+                "D": "He has worked in several banks."
+              },
+              "optionCn": {
+                "A": "他是一名成功的商人。",
+                "C": "他出版了一本新的畅销书。",
+                "B": "他评论有关政治事务的书籍。",
+                "D": "他曾在几家银行工作过。"
+              },
+              "answer": "C",
+              "analysis": "在对话一开始，女士介绍男士时提到，男士是畅销新书《奖励成功》的作者，所以答案为C项。根据对话 中对男士的背景介绍可知，男士并不是一名商人，故排除A项；男士提到自己在过去的10年里，一直在做 政治顾问，就国家问题向国家层面的政治家提供建议，据此排除B项；D项是根据男士的名字中的Banks 设置的干扰项，故排除。"
+            },
+            {
+              "num": 13,
+              "stem": "What does the woman say is the most controversial?",
+              "stemCn": "女士说什么是最有争议的？",
+              "options": {
+                "A": "The man's ideas about education.",
+                "B": "The man's academic background.",
+                "C": "The man's attempts at drawing public attention.",
+                "D": "The man's proposals to solve economic problems."
+              },
+              "optionCn": {
+                "A": "男士关于教育的观点。 C男士试图引起公众注意。",
+                "B": "男士的学术背景。",
+                "D": "男士提出的解决经济问题的建议。"
+              },
+              "answer": "A",
+              "analysis": "但是他关于教育的观点是最有争议的，所以答案是A项。其他三个选项据此可以直接排除。"
+            },
+            {
+              "num": 14,
+              "stem": "What does them an say is his real goal?",
+              "stemCn": "男士说他的真正目标是什么？",
+              "options": {
+                "A": "To reduce students' financial burden.",
+                "B": "To motivate all students to be successful.",
+                "C": "To give students incentive to excel in economics.",
+                "D": "To provide remedies for students' poor performance."
+              },
+              "optionCn": {
+                "A": "减轻学生的经济负担。",
+                "C": "激励学生在经济学方面取得优异成绩。",
+                "B": "激励所有学生取得成功。",
+                "D": "为学生的糟糕成绩提供补救措施。"
+              },
+              "answer": "B",
+              "analysis": "的动力，所以答案是B项。其他三个选项据此直接排除。"
+            },
+            {
+              "num": 15,
+              "stem": "What will be one option for funding the proposedrewardsaccording to them an?",
+              "stemCn": "",
+              "options": {
+                "A": "Improving school budgeting.",
+                "B": "Increasing tuition fees.",
+                "C": "See king donations.",
+                "D": "Raising taxes. Section C Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "改进学校预算。",
+                "C": "寻求捐助。",
+                "B": "增加学费。",
+                "D": "增加税收。"
+              },
+              "answer": "D",
+              "analysis": "根据男士的说法，为提议的奖励提供资金的一种选择是什么？ 在对话结尾，女士问男士如何为奖励提供资金，男士提到通过增加税收或将预算中其他方面的资金转入教 育，D项的“增加税收”是其中一个方法，故选D。其他选项在对话中均未提及，故排除。 Section"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage One",
+          "intro": "Questions 16 to 18 are based on the passage you have just heard.",
+          "material": "I met three different people today, and each time, when I asked,\"How are you?The reply was exactly the same. \"Im busy\".Honestly, I hear the same answer from the vast majority of people I meet. So I star ted to think:\"Guess what? Everybody's busy!”I'm busy, you're busy, everybody's busy. So you being busy doesn't make me sympathetic at all. Because“busy”is the state of the world. [16] So Im launching a campaign to stop people complaining about being“busy.\"It may sound harsh, but the truth is, nobody cares. In a busy world,\"being busydoesn't stand out, nor does it mean productive, creative, accomplished, or professional. SteveMarabolionce said,\"When someone tells you they are too busy'it's not a reflection of their schedule; it's a reflection of your spot on their schedule. DonnaLynnHope has also remarked,\"Busy doesn'tmean better. Ive never envied a busy person-the one who likes to point out their busy lives to others.\" The reality is, nobody is too busy-it’s just about priorities.[17 So the next time someone asks you how you are, maybe respond differently.[18] In my experience, the“I'm busy response is really covering up the fact that they'renot actually accomplishingtheir real purpose. And“being busy”is the lie they tell themselves about why they can't achieve it.",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "Why is the speaker launching a campaign?",
+              "stemCn": "为什么说话者要发起一场运动?",
+              "options": {
+                "A": "To show his sympathy towards people always being busy.",
+                "B": "To prevent people from complaining about being “busy”.",
+                "C": "To call on busy people to take care of themselves.",
+                "D": "To help busy people to sort out their priorities."
+              },
+              "optionCn": {
+                "A": "对总是很忙的人表示同情。 C呼吁忙碌的人们照顾好自己。",
+                "B": "防止人们抱怨“忙碌”。",
+                "D": "帮助忙碌的人们理清事情的轻重缓急。"
+              },
+              "answer": "B",
+              "analysis": "在录音中，说话者提到自己发起了一场运动，让人们停止抱怨“忙碌”。由此可知，选项B与此一致，故 为正确答案。说话者提及，大家都很忙，所以忙碌的人并没有让他人产生任何同情心，故排除选项A。说 话者最后提到，没有人真的太忙——只是事情的轻重缓急而已，但这并不是说要帮助忙碌的人们理清事情 的轻重缓急，故排除选项D。选项C录音中未提及，故排除。"
+            },
+            {
+              "num": 17,
+              "stem": "What does the speaker advise us to do next time someone asks how we are?",
+              "stemCn": "",
+              "options": {
+                "A": "Avoid saying we are busy.",
+                "B": "Reflect on their true purpose.",
+                "C": "Describe our schedule in detail.",
+                "D": "Respond as most busy people do."
+              },
+              "optionCn": {
+                "A": "避免说我们很忙。",
+                "C": "详细描述我们的日程安排。",
+                "B": "反思他们的真正目的。",
+                "D": "像大多数忙碌的人一样回应。"
+              },
+              "answer": "A",
+              "analysis": "下次有人问起我们的近况时，说话者建议我们怎么做？ 说话者在开头提到，每当自己问别人“你好吗？”得到的回答都一模一样——“我很忙”，而且大多数人 都会这样回答。说话者最后提到，下次有人问你过得怎么样时，也许可以换一种方式回答，即避免说“我 很忙”。综合两处信息可知，选项A与说话者讲述的内容一致，因此为正确答案。选项B、C和D均与讲话 内容不符，故排除。"
+            },
+            {
+              "num": 18,
+              "stem": "Why do many people make the\"I'm busy”response according to the speaker?",
+              "stemCn": "",
+              "options": {
+                "A": "To show their achievements resulted from great efforts.",
+                "B": "To prove they stand out as accomplished professionals.",
+                "C": "To cover up their failure to achieve some purpose.",
+                "D": "To tell others a complete lie about their inability."
+              },
+              "optionCn": {
+                "A": "表明他们的成就是巨大努力的结果。",
+                "C": "为了掩饰自己未能实现某些目标。",
+                "B": "证明他们作为有成就的专业人士脱颖而出。",
+                "D": "就自己的无能对他人撒一个弥天大谎。"
+              },
+              "answer": "C",
+              "analysis": "根据说话者的看法，为什么很多人会给出“我很忙”的回答？ 说话者最后提到，根据自己的经验，“我很忙”这个回答其实是在掩盖一个事实，那就是他们并没有实现 自己真正的目标。选项C与此内容一致，因此为正确答案。说话者提到，“忙碌”是他们对自己说的一个 谎言，用来解释为什么他们无法实现目标，而不是针对他人的，故排除D项。选项A和B讲话中未提及，故 排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Two",
+          "intro": "Questions 19 to 21 are based on the passage you have just heard",
+          "material": "More and more people are taking up extreme sports, like snowboarding, skateboarding, mountain biking, and many more. Why are these sports becoming so popular? One thing that extreme sports do better than perhaps anything else is to help you stop being afraid.[19] It may sound strange to say that theirmainfunctionistoreducefear. But afteratimeyourfearresponsetootherthingsin life will be dramaticallyreduced. Afterallifyoucanjumpoutofaplane or off abridge, then you can face anything else easily. [20] When doing extreme sports, you have to become more focused. You'll be pushed to your limits, and if you aren't focused youllmake dangerousmistakes. Learning to be this focused when enjoying extreme sports will help you to be focused at work, keeping you more productive and ultimately more successful. It's great to stay fit and healthy, but standard exercise routine sand sports only work the same muscles repeatedly. [21] With extremesports, youll be workingentirely differentmuscles, and that means you get an all-over work out. 26四级2024.6第二套 Extreme sports also burn a lot more calories than other sports. Skateboarding, for example, can burn as many as 500 caloriesper hour. Basketballburns around 300 in the same time. When you find that you can overcome the physical or mental challenges involved in extreme sports, youll feel super human and your self-confidence will be at an all-time high.",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "What may sound strange to say about extreme sports?",
+              "stemCn": "谈及极限运动，有什么听起来很奇怪的吗?",
+              "options": {
+                "A": "They will help one reduce fear.",
+                "B": "They should become so popular.",
+                "C": "They will be less challenging after a time.",
+                "D": "They should cover so many different types"
+              },
+              "optionCn": {
+                "A": "它们会帮助人们减少恐惧。",
+                "C": "一段时间后，它们的挑战性会降低。",
+                "B": "它们应该大受欢迎。",
+                "D": "它们应该涵盖许多不同的类型。"
+              },
+              "answer": "A",
+              "analysis": "文章中提到，极限运动可能优于其他任何运动的一点就是帮助你消除恐惧。说它们的主要功能是减少恐 惧，听起来可能有些奇怪。选项A与文章内容一致，因此为正确答案。文章开头就提到，极限运动目前变 得很受欢迎，故排除选项B。极限运动的确涵盖许多不同的类型，如滑雪板运动、滑板运动、山地自行车 等，这听起来并不奇怪，故排除选项D。选项C文章中并未提及，可排除。"
+            },
+            {
+              "num": 20,
+              "stem": "Why should one be highly focusedwhen doing extreme sports?",
+              "stemCn": "",
+              "options": {
+                "A": "To break one's ultimate limits.",
+                "B": "To stop being extremely afraid.",
+                "C": "To avoid dangerous mistakes.",
+                "D": "To enjoy the sports to the full."
+              },
+              "optionCn": {
+                "A": "打破自己的极限。",
+                "C": "避免危险的错误。",
+                "B": "不再极度恐惧。",
+                "D": "充分享受运动的乐趣。"
+              },
+              "answer": "C",
+              "analysis": "为什么人们在进行极限运动时注意力要高度集中？ 文章中提到，在进行极限运动时，你必须变得更加专注。你会被推到极限，如果你不集中注意力，你就会 犯下危险的错误。选项C与文章内容一致，因此为正确答案。选项A、B和D均不是文章中提及的进行极限 运动时要高度集中注意力的原因，故排除。"
+            },
+            {
+              "num": 21,
+              "stem": "How can extreme sports benefit us more than standard exercise routines and sports?",
+              "stemCn": "",
+              "options": {
+                "A": "By all owing our motivation to be at an all-time high.",
+                "B": "By stopping us hurting the same muscles repeatedly.",
+                "C": "By burning as many as 300 calories per hour.",
+                "D": "By enabling us to get an all-over work out."
+              },
+              "optionCn": {
+                "A": "让我们的积极性达到前所未有的高峰。 C每小时燃烧多达300卡路里的热量。",
+                "B": "阻止我们重复损伤同一块肌肉。",
+                "D": "让我们得到全面锻炼。"
+              },
+              "answer": "D",
+              "analysis": "相较于常规的锻炼方式和体育运动，极限运动如何能给我们带来更多好处？ 文章中提到，保持身体健康固然很好，但常规的锻炼方式和体育运动只是反复锻炼同一块肌肉。而在极限 运动中，你会锻炼到完全不同的肌肉，这意味着你将得到全面的锻炼。选项D与文章内容一致，因此为正 确答案。根据文章内容，当我们可以克服极限运动中的身体或心理挑战时，我们的自信心也会达到前所未 有的高度，这不是说我们的积极性达到前所未有的高峰，故排除选项A。由文章可知，常规的锻炼方式和 体育运动只是反复锻炼同一块肌肉，并未提及反复锻炼同一块肌肉是否会对其造成损伤，更未提及极限运 动是否会阻止我们重复损伤同一块肌肉，故排除选项B。文章提及篮球运动每小时可消耗约300卡路里， 但它并不是极限运动，故排除选项C。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Three",
+          "intro": "Questions 22 to 25 are based on the passage you have just heard.",
+          "material": "[22] Most of us have been in teams or organizations where we've had conflict with the people that we're working with around the ideas or decisions that we're disc us sing. Conflict is natural. We all bring different life and work experiences to the table. We all have different personality preferences and tendencies. We're not all going to have the same ideas on how to approach policies, programs or problems. [23] But too often we get caught in this place where conflict is perceivedto be negative—something we want to avoid so that we can maintain the harmony of our workplace. This could be because some people want to avoidconlict at allcosts, after all they still have to work together. Butthiskindofartificialharmony isn't the answer. [24] Productive conflict is a vitalpartofteams andorganizations that want to push forward and do more. Without conflict, we're oftenstuck in this artificial harmony where people don'texpress potentially innovative ideas for fear that they may start conflict with others. [25] But if you're in a place where you have a basis of trust, conflict can be extremely productive. It can lead to increased innovation and greater trust on teams. It may be an uncomfortable process, but good leaders and healthy teams recognize that productive and healthy conflict is an important part of how they function.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What does the passage say about conflict in organizations?",
+              "stemCn": "关于组织中的冲突，这篇文章说了什么？",
+              "options": {
+                "A": "It is natural.",
+                "B": "It is instrumental.",
+                "C": "It is personal",
+                "D": "It is vital."
+              },
+              "optionCn": {
+                "A": "它是正常的。",
+                "B": "它是起到重要作用的。"
+              },
+              "answer": "A",
+              "analysis": "文章开头提到，我们中的大多数人都曾在团队或组织中，围绕我们正在讨论的想法或决策，与一起工作的 人发生过冲突。冲突是正常的。选项A与文章内容一致，因此为正确答案。根据文章内容可知，富有成效 的冲突是那些想要推进和做更多事情的团队和组织的重要组成部分，这并不是指所有的冲突都发挥着重要 的作用、具有至关重要性，故排除选项B和D。选项C文章未提及，故排除。"
+            },
+            {
+              "num": 23,
+              "stem": "Why do some people want to avoid conflict at all costs?",
+              "stemCn": "为什么有些人想要不惜一切代价避免冲突？",
+              "options": {
+                "A": "To guard against being perceived negatively.",
+                "B": "To prevent themselves from being isolated.",
+                "C": "To conceal personality preferences.",
+                "D": "To maintain workplace harmony."
+              },
+              "optionCn": {
+                "A": "防止别人对自己产生负面看法。",
+                "B": "防止自己被孤立。",
+                "C": "隐藏个性偏好。",
+                "D": "保持工作场所的和谐。"
+              },
+              "answer": "D",
+              "analysis": "文章中提到，我们往往会陷入这样一种境地，即我们认为冲突是不好的—我们想要避免冲突，以保持工作 场所的和谐。这可能是因为有些人想要不惜一切代价避免冲突，毕竟他们还要一起工作。选项D与文章内容 一致，因此为正确答案。选项A、C是根据文中词汇杜撰的信息，选项B文章未提及，故三者均可排除。"
+            },
+            {
+              "num": 24,
+              "stem": "Why is productive conflict important for teams and organizations?",
+              "stemCn": "",
+              "options": {
+                "A": "It helps to enhance team spirit.",
+                "B": "It stimulates innovative ideas.",
+                "C": "It helps to resolve problems.",
+                "D": "It facilitates policy-making."
+              },
+              "optionCn": {
+                "A": "它有助于增强团队精神。",
+                "B": "它可以激发创新想法。"
+              },
+              "answer": "B",
+              "analysis": "为什么富有成效的冲突对团队和组织很重要？ 文章中提到，富有成效的冲突是那些想要推进和做更多事情的团队和组织的一个重要组成部分。没有冲 突，团队就会陷入这种人为的和谐之中，人们因为害怕与他人发生冲突而不敢表达潜在的创新想法。由此 可知，富有成效的冲突之所以重要是因为它有利于激发创新想法，选项B与文章内容一致，因此为正确答 案。选项A、C和D文章中未提及，故排除。"
+            },
+            {
+              "num": 25,
+              "stem": "What doesproductiveconflictneedas a basis?",
+              "stemCn": "富有成效的冲突需要什么作为基础？",
+              "options": {
+                "A": "An innovative mind.",
+                "B": "Corporate culture.",
+                "C": "Mutual trust.",
+                "D": "A healthy mentality."
+              },
+              "optionCn": {
+                "A": "创新意识。",
+                "B": "企业文化。",
+                "C": "相互信任。",
+                "D": "健康的心态。"
+              },
+              "answer": "C",
+              "analysis": "文章最后提到，如果你处于一个有信任基础的地方，冲突可以非常富有成效。选项C与文章内容一致，因 此为正确答案。根据文章内容，富有成效的冲突可以提高团队的创新能力和信任度，但这并不是说创新意 识是其基础，故排除选项A。选项B和D文章中均未提及，故排除。 PartⅢII Section ·概览·"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2024_06_2-A.mp3",
+        "B": "/audio/papers/cet4-2024_06_2-B.mp3",
+        "C": "/audio/papers/cet4-2024_06_2-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_2-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "the tendency of people to use “abstract speech that focuses on the broader picture and ___26___ purpose of action rather than concrete speech focusing on details and the means of ___27___ action.” Interestingly, they found that men were far more likely to speak in the abstract than were women. To arrive at this ___28___, the researchers examined the linguistic (语言的) patterns of men and women in over 600,000 blog posts written on websites. To do this, the researchers computed abstractness ratings for ___29___ 40,000 commonly used words in the English language. Words con side red to be concrete could be easily visualized such as “table” or “chair”. Words that were more ___30___ to visualize, for example, “justice” or “morality” were con side red to be more abstract. They found that men used ___31___ more abstract language in their blog posts. What is the ___32___ of this effect? The researchers suggest that power differences between the genders — that is, men having more power in society — might be a key determinant (决定因素) .For instance, in a follow-up study conducted with a sample of 300 students, the researchers ___33___ power dynamics in an interpersonal setting to see if this would influence communicative abstraction. They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power inter vie wee role. This suggests that communicating more abstractly does not reflect a ___34___ tendency of men or women but rather ___35___ within specific contexts.",
+          "wordBank": {
+            "A": "approximately",
+            "B": "attaining",
+            "C": "conclusion",
+            "D": "difficult",
+            "E": "emerges",
+            "F": "fixed",
+            "G": "ignored",
+            "H": "legally",
+            "I": "manipulated",
+            "J": "recommended",
+            "K": "refraining",
+            "L": "signals",
+            "M": "significantly",
+            "N": "source",
+            "O": "ultimate"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "O",
+              "analysis": "语法判断空格前是名词短语the broader picture和连词and，空格后是名词短语purpose ofaction，由此可知， 空格处应填入一个形容词或分词，充当purpose的定语。 语义判断本段提出“交际抽象”这一术语，空格句具体介绍抽象语言的特点，即更关注大局和最终目标， 而非细节和手段。ultimate purpose意为“最终目标”，故ulltimate符合语境。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "语法判断空格前是介词of，空格后是名词action，由此可知，空格处应填入一个形容词或分词，充当action 的定语。 语义判断该句意为“研究人员认为，交际抽象反映了人们更愿意使用专注于更大格局和行动最终目标的 抽象语言，而非专注于细节和 行动的手段的具象语言”的倾向，代入选项可知，attaining符合语境。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "语法判断空格前是代词this，空格后是逗号，由此可知，空格处应填入一个名词。 语义判断上文阐述了研究结论，即男性比女性更喜欢用抽象的语言表达。本段介绍如何通过研究调查得出 这一结论，因此conclusion符合语境。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格所在句子主谓宾结构完整，故空格处应填入一个副词，起修饰和限制作用。 语义判断该句意为“为此，研究人员计算了 4万个英语常用单词的抽象性等级”，故approximately 符合语境。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "40.A 41.K 42.E 43.L 44.B 45.G 50.B 51.D 52.B 53.A 54.C 55.C"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "语法判断空格所在句子主谓宾结构完整，故空格处应填入一个副词，修饰形容词比较级more。 语义判断该句意为“他们发现，男性在博客文章中 使用了更多的抽象语言”，代人选项可知， significantly符合语境。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "N",
+              "analysis": "语法判断空格前是定冠词the，空格后是介词短语ofthis effect，由此可知，空格处应填入一个名词。 29 语义判断前文提到与女性相比，男性明显使用更多抽象语言。空格句后面的内容表明，本段在追溯这种研 究结果的原因。故source符合语境。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "语法判断空格前是句子的主语theresearchers，空格后是宾语power dynamics，空格所在句子时态为过去时， 由此可知，空格处应填入动词的过去式，充当句子的谓语。 语义判断前一句指出，两性之间的权力差异可能是导致男性使用更多抽象语言的一个关键的决定因素。空 格所在句子通过一个实验来验证这一结论：在一项针对300名学生进行的后续研究中，研究人员在人际场 景中操纵权力动态，来看这样做是否会影响交际抽象。故manipulated符合语境。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "语法判断空格前是不定冠词a，空格后是名词tendency，由此可知，空格处应填入一个形容词或分词，充当 tendency的定语。 语义判断前文提到权力的差异会对交际抽象产生影响，即交际抽象并不在性别上体现一个固定趋势，而是 在特定的环境下产生。fixedtendency意为“固定趋势”，故fixed符合语境"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "ignored（v.忽略；不顾）",
+                "H": "legally（adv.法律上；合法地）",
+                "J": "recommended（adj.被推荐的v.推荐， 介绍；建议）",
+                "K": "refraining（v.克制，节制）",
+                "L": "signals（n.信号v发信号）"
+              },
+              "answer": "E",
+              "analysis": "语法判断空格位于“not..butrather..”结构中，前后句子成分并列，前面是does notreflect，则butrather后 面应使用动词的第三人称单数形式。 语义判断由前面的分析可知，交际抽象并不在性别上体现一个固定趋势，在一些特定场景下，如权力发生 变化时，交际抽象也会出现，故emerges符合语境。 干扰项注释 SectionB ·概览· 本文主要探讨了如何更好地朝着长期目标努力。研究显示，人们在设定目标时倾向于长远利益而忽 视即时满足。文章通过多个实验案例说明，就个人目标的实现而言，享受过程而非着眼于长期的利益更 能促使人们坚持追求目标。比如关注运动当下的乐趣而非健康收益能增加运动量，专注于食物的美味而 非其长期的益处则能促进健康饮食。文章还提到，把未来的自己仍然视作自己，可以帮助我们做出更好 的长期决策，从而有助于更好地实现长期目标。 如何更好地朝着长期目标努力 整体来说，人们的寿命在延长。从逻辑上讲，他们将需要更多的钱才能在退休后的日子里舒适地生活。然 而，近几十年来美国的储蓄率却不升反降。 如“可敬”或“有趣”等各种不同特征在多大程度上适用于他们当前的自己、未来的自己、当前的他人 或未来的他人。当参与者给出答案时，赫什菲尔德的团队记录下他们大脑的哪些部分被激活。[44不出所 料，人们在思考当前的自己时大脑最活跃，而在思考当前的他人时大脑最不活跃。但研究团队发现，参与 者在思考未来的自己时的大脑活动更接近于他们在思考当前的他人时的大脑活动，而不是更接近于思考当 前的自己时的大脑活动。 夫特或对邮递员的印象一样。按照这种方式理解，为退休储蓄相当于把钱完全送给别人。 点也不简单。 得非常有道理。我们可以享受我们的行为带来的非常具体而直接的好处，而其他人（也就是我们未来的自 己）却要承受虚幻而遥远的后果。因此，我们为现在的自己所做的决定往往与我们为未来的自己所做的决 定大相径庭。我们相信明天会不一样。我们相信，明天的我们会不一样；[42]但在这样做的过程中，我们 优先考虑的是我们当前的情绪，而不是我们的不作为会给未来的自己带来的后果。 去做现在的自己不想做的事情。[39]第二是让现在的自己相信，未来的自己实际上还是你。如果核心问题 是我们把未来的自己当成了其他人，那么，试图更加认同未来的自己将鼓励我们做出更好的长期决策。 多资金。他和他的团队给研究参与者拍了照片，然后用图像处理技术让照片上的他们看起来变老。然后， 参与者被置于一种虚拟现实环境中，在那里他们可以照镜子，看到年老的自己在回望着自己。[45]看到年 老时的自己的参与者表示，他们会比对照组为退休多存30%的工资。 位来考虑你的最后期限，可以帮助你关注未来到底有多近。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wan ted to know why people weren't\nB) To help explain this seemingly irrational behavior, Hershfield and his team scanned the brains of study participants\nC) Put in practical terms, when thinking of yourself in a month or a year or a decade, your brain registers that person in\nD) In light of Hershfield’s study, one simple question arises: Is it possible to make our present selves give a damn about\nE) Seen through the lens of the present self versus the future self. our self-defeating actions — like choosing to watch\nF) Understanding our procrastination (拖延) through the lens of the present and future selves, we're left with three\nG) In a follow-up study, Hershfield wan ted to explore ways to bridge the disconnect between the present and future\nH) Whatever your long-term goals may be—getting in better shape, launching your own business, writing a book —\nI) The third solution is to forget about your future self and use your present self’s love of instant gratification (满足感)\nJ) Take writing this article, for instance. It’s easy for me to imagine how amazing it will feel at the end of the workday\nK) “In one study, we asked people online about the goals they set at the beginning of the year. Most people set goals to\nL) This pattern held true across a wide variety of goals from exercising to studying to eating healthier foods. For example,\nM) These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than\nA) Keep it under control. C) Learn from entrepreneurs.\nB) Apply it continuously. D) Aim at success determinedly.\nB) With determination. D) By self-discipline\nA) Practising it on a day-to-day basis.C) Possessing a reasonable amount of talent\nB) Associating it with improving health.D) Foreseeing the desired outcome it will yield.\nA) By all owing us to remain clear-headed permanently.C) By enabling us to take positive actions\nB) By enabling us to alter our behaviors constantly.D) By all owing us to avoid taking risks.\nA) Most of us are not in the habit of exercising self-control.\nB) We may not get immediate rewards from self-control.\nC) Self-control tends to be associated with pains.\nD) Self-control only brings about small benefits.\nA) They have little access to government funding.C) They can do amateur work in their own fields\nB) They can do research with limited resources.D) They have no means for large-scale research.\nA) They would be totally unbiased. C) They would be responsibly conducted.\nB) They would be independently funded. D) They would be strictly supervised.\nA) They try hard to pull down the safeguards for research.\nB) They make extra efforts to research their own products.\nC) They provide valuable resources for scientific research.\nD) They reap the most benefits from scientific research\nA) Its recommendations should be examined for feasibility.\nB) Its misleading results should be corrected in time.\nC) Its validity should be checked with additional care.\nD) Its hidden biases should be identified independently",
+          "analysisOverview": "本文主要探讨了如何更好地朝着长期目标努力。研究显示，人们在设定目标时倾向于长远利益而忽 视即时满足。文章通过多个实验案例说明，就个人目标的实现而言，享受过程而非着眼于长期的利益更 能促使人们坚持追求目标。比如关注运动当下的乐趣而非健康收益能增加运动量，专注于食物的美味而 非其长期的益处则能促进健康饮食。文章还提到，把未来的自己仍然视作自己，可以帮助我们做出更好 的长期决策，从而有助于更好地实现长期目标。 如何更好地朝着长期目标努力 A） 加州大学洛杉矶分校安德森管理学院的心理学家哈尔·赫什菲尔德想知道人们为什么不为退休储蓄。[40] 整体来说，人们的寿命在延长。从逻辑上讲，他们将需要更多的钱才能在退休后的日子里舒适地生活。然 而，近几十年来美国的储蓄率却不升反降。 B) 为了帮助解释这种看似不理性的行为，赫什菲尔德和他的团队扫描了研究参与者的大脑，同时询问他们诸 如“可敬”或“有趣”等各种不同特征在多大程度上适用于他们当前的自己、未来的自己、当前的他人 或未来的他人。当参与者给出答案时，赫什菲尔德的团队记录下他们大脑的哪些部分被激活。[44不出所 料，人们在思考当前的自己时大脑最活跃，而在思考当前的他人时大脑最不活跃。但研究团队发现，参与 者在思考未来的自己时的大脑活动更接近于他们在思考当前的他人时的大脑活动，而不是更接近于思考当 前的自己时的大脑活动。 C)[37]从实际来说，当你想到一个月、一年或十年后的自己时，你的大脑对那个人的印象就像对泰勒·斯威 夫特或对邮递员的印象一样。按照这种方式理解，为退休储蓄相当于把钱完全送给别人。 D)根据赫什菲尔德的研究，一个简单的问题出现了：有没有可能让现在的自已去在意未来的自己呢？答案一 点也不简单。 30四级2024.6第二套 E）从现在的自己和未来的自己的角度来看，我们被自己打败——比如选择看电视而不是去健身房——突然变 得非常有道理。我们可以享受我们的行为带来的非常具体而直接的好处，而其他人（也就是我们未来的自 己）却要承受虚幻而遥远的后果。因此，我们为现在的自己所做的决定往往与我们为未来的自己所做的决 定大相径庭。我们相信明天会不一样。我们相信，明天的我们会不一样；[42]但在这样做的过程中，我们 优先考虑的是我们当前的情绪，而不是我们的不作为会给未来的自己带来的后果。 F）通过现在的自己和未来的自己来看我们的拖延症，我们会有三种可能的解决方案：一种是强迫未来的自己 去做现在的自己不想做的事情。[39]第二是让现在的自己相信，未来的自己实际上还是你。如果核心问题 是我们把未来的自己当成了其他人，那么，试图更加认同未来的自己将鼓励我们做出更好的长期决策。 G）在一项后续研究中，赫什菲尔德想探索如何弥合现在和未来的自我之间的鸿沟，并鼓励人们为退休储蓄更 多资金。他和他的团队给研究参与者拍了照片，然后用图像处理技术让照片上的他们看起来变老。然后， 参与者被置于一种虚拟现实环境中，在那里他们可以照镜子，看到年老的自己在回望着自己。[45]看到年 老时的自己的参与者表示，他们会比对照组为退休多存30%的工资。 H）无论你的长期目标是什么——改善身材、创办自己的企业、写一本书——以天为单位而不是以月或年为单 位来考虑你的最后期限，可以帮助你关注未来到底有多近。 1）第三个解决办法是忘掉未来的自己，将现在的自己对即时满足感的喜爱为你所用。虽然上述两种手段可以 有效地做出更好的长期选择，但归根结底，你还是在与人性作斗争。[36我们的大脑天生就喜欢即时满足 感。与其与现在的自己对即时回报的需求作斗争，为什么不利用它来为自己谋利呢？当我们大多数人设定目 标时，我们关注的是我们希望看到的长期结果，比如减肥、获得晋升、安享晚年等。尽管这些对未来自我的 憧憬可能是鼓舞人心的，但在实际开展日常工作时，从眼前或至少是近期的回报角度重新规划活动可能会 更有效。 J) 就拿写这篇文章来说吧。我很容易想象，在一天的工作结束时，完成这篇文章的感觉会有多棒。这不仅仅 是我个人的想法。康奈尔大学的凯特琳·伍利和芝加哥大学的阿耶莱特·菲什巴赫这两位研究伙伴以研究 人们实现的目标和落空的目标之间的差异为职业。 K) “在一项研究中，我们在网上询问了人们在年初设定的目标。大多数人设定的目标都是为了实现延迟的、 长期的利益，如职业晋升、偿还债务或改善健康状况。我们询问了这些人追求目标的过程有多令人愉 快，以及他们的目标有多重要。我们还询问了他们在设定目标的两个月后是否仍在为目标而努力。[41] 我们发现，与他们对目标重要性的评价相比，（过程的）享受更能预测目标设定两个月后人们的坚持情 况，”伍利说。 L）从锻炼、学习到吃更健康的食物，这一模式广泛适用于各种目标。[43]例如，当人们被引导专注于食物的 美味而非长期的健康益处时，他们摄入的健康食品量会增加50%。其他研究表明，那些被告知要享受当下 运动的乐趣而非未来的健康收益的人，运动量会更大。 M)[38这些发现表明，在实现目标这件事上，享受过程本身比追求长期利益更为重要。换句话说，现在的自 我战胜未来的自我。谁说即时满足一定是件坏事呢？当然可以为未来的自己设定雄心勃勃的长期目标，但 当涉及实际的日常执行时，确保你现在的自己也知道这对“她”有什么好处。",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Our brains are genetically determined to satisfy immediate desires.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "46.B 47.A 48.D 49.C 5.D 6.C 7.B 8.B 9.C 10.A 15.D 16.B 17.A 18.C 19.A 20.C"
+            },
+            {
+              "num": 37,
+              "stem": "Taken in a practical way, saving for post-work years is like giving money away to others.",
+              "stemCn": "题干译文从实际来看，为退休后的生活存钱就像把钱送给别人一样。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息inapractical way、saving for post-work years和giving money away to others位 到C段。该段首句提到，从实际来说，当你想到一个月、一年或十年后的自己时，你的大脑对那个人的印 象就像对泰勒·斯威夫特或对邮递员的印象一样。紧接着第二句提到，按照这种方式理解，为退休储蓄 相当于把钱完全送给别人。题干是对该句内容的同义转述。其中Taken ina practical way对应原文中的Put in practical terms，而saving for post-work years对应原文中的saving forretirement，而giving money awayto others对应原文中的giving money away to someone else entirely。"
+            },
+            {
+              "num": 38,
+              "stem": "Research found that, as regards achievement of one’s goals, it is important to focus more on enjoying the process than the",
+              "stemCn": "题干译文研究发现，就个人目标的实现而言，更重要的是享受过程本身，而非着眼于长期的利益。",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "答案M。由题干关键信息focus more on enjoying the process than the long-term benefits定位到M段。该段 首句提到，这些发现表明，在实现目标这件事上，享受过程本身比追求长期利益更为重要。换句话说， 就个人目标的实现而言，更重要的是享受过程本身，而非着眼于长期的利益。题干是对该句内容的概括 总结。题干中的Research found that对应原文中的These findings suggest that，而as regards achievementof one’s goals对应原文中的when it comes to achieving your goals，而it is important to focus more on enjoying the process than the long-term benefits对应原文中的enjoying the process itself is more important than wanting the long-term benefits。"
+            },
+            {
+              "num": 39,
+              "stem": "Regarding our future selves as still being ourselves will help us make better long-term decisions.",
+              "stemCn": "题干译文把未来的自己视作仍然是自己，将帮助我们做出更好的长期决策。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案F。由题干关键信息Regarding our future selves as stillbeing ourselves和make better long-term decisions定位到F段。该段提到拖延症的三种可能的解决方案，其中第二种解决方案是让现在的自己相信， 未来的自己实际上还是你，如果核心问题是我们把未来的自己当成了其他人，那么，试图更加认同未来的 自己将鼓励我们做出更好的长期决策。换言之，把未来的自己视作仍然是自己，将帮助我们做出更好的长 期决策。题干是对该段最后两句的概括总结，其中Regardingourfutureselves as stillbeingourselves对应原 文中的convinceyourpresentselfthatyourfutureselfis,infactstillyou，而willhelp us makebetter long-term decisions对应原文中的will encourage us to make better long-term decisions。"
+            },
+            {
+              "num": 40,
+              "stem": "Savings rates in America have dropped in recent decades even though people’s life expectancy has increased.",
+              "stemCn": "题干译文尽管人们的预期寿命有所延长，但近儿十年来美国的储蓄率却有所下降。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息Savingsrates in America、dropped in recent decades和people’s life expectancy定 位到A段。该段第二句提到，整体来说，人们的寿命在延长，从逻辑上讲，他们将需要更多的钱才能在退 休后的日子里舒适地生活。紧接着第三句提到，然而，近几十年来美国的储蓄率却不升反降。题干是对原 文内容的同义转述，其中Savingsrates inAmerica对应原文中的savingsrates in theU.S.，而have droppedin recentdecades对应原文中的havegonedown inrecent decades，而people’s lifeexpectancy hasincreased对应原 文中的people are livinglonger。"
+            },
+            {
+              "num": 41,
+              "stem": "Researchers found that enjoyment rather than importance enabled people to persist in their goals.",
+              "stemCn": "题干译文研究人员发现，相比目标的重要性，享受过程更能促使人们坚持追求目标。",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "答案K。由题干关键信息Researchers found that、enjoymentrather than importance和persist in their goals定 位到K段。该段主要介绍的是一项关于人们设定和坚持目标的研究。最后一句提到：我们发现，与他们对 目标重要性的评价相比，过程的享受更能预测目标设定两个月后人们的坚持情况，即相比目标的重要性， 享受过程更能促使人们坚持追求目标。题干是对原文内容的同义转述。题干中的Researchersfoundthat对 应原文中的Wefoundthat，而enjoyment属于原词重现，importance对应原文中的howimportant，而enabled people to persist in their goals对应原文中的predicted people’s goal persistence。"
+            },
+            {
+              "num": 42,
+              "stem": "When making decisions, we give priority to our current frame of mind without thinking much of the consequences.",
+              "stemCn": "题干译文在做决定时，我们优先考虑当前的心境，而不太考虑后果。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息making decisions、givepriority to、current frame ofmind和the consequences定位 到E段。该段第三句提到，我们为现在的自己所做的决定往往与我们为未来的自己所做的决定大相径庭。 最后一句转折提到，但在这样做（即做决定）的过程中，我们优先考虑的是我们当前的情绪，而不是我们 的不作为会给未来的自己带来的后果。题干是对该句内容的同义转述。其中Whenmakingdecisions对应原 文中的in doing so,而we give priority to our current frameofmind without thinking muchof the consequences对 应原文中的we prioritize our currentmood over the consequences ofour inaction for the future self。"
+            },
+            {
+              "num": 43,
+              "stem": "People ate more of a healthy food when they focused on its good taste instead of its long-term benefits.",
+              "stemCn": "题干译文当人们专注于健康食品的美味而非其长期的益处时，他们吃得更多。",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "答案L。由题干关键信息Peopleatemore ofa healthyfood、focusedonits goodtaste和its long-term benefits 定位到L段。该段第二句提到，当人们被引导专注于食物的美味而非长期的健康益处时，他们摄入的健康 食品量会增加50%，即当人们专注于健康食品的美味而非其长期的益处时，他们吃得更多。题干是对原文 的同义转述。题干中的People atemore ofa healthyfood对应原文中的peopleate 50%more ofa healthyfood， 而when they focused on its good taste instead of its long-term benefits对应原文中的whendirected to focus on the goodtaste rather than the long-term health benefits。 题干译文正如预期的那样，当人们想到当前的自己时，（研究人员）观察到他们的大脑变得更加活跃。"
+            },
+            {
+              "num": 44,
+              "stem": "As was expected, when people thought of their present selves, their brains were observed to become more active.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息when people thoughtoftheir present selves、theirbrains和more active定位到B 段。该段第三句提到，不出所料，人们在思考当前的自己时大脑最活跃，而在思考当前的他人时大脑最不 活跃。题干是对原文此处内容的同义转述。题干中的Aswasexpected对应原文中的Unsurprisingly，而when people thoughtoftheirpresent selves对应原文中的when thinking about their current selves，而their brains were observed to become more active对应原文中的people’s brains were most active。"
+            },
+            {
+              "num": 45,
+              "stem": "Researchers found that participants who saw the images of their aged selves would save more for their later years than",
+              "stemCn": "题干译文研究人员发现，与没有看到自己年老时的形象的参与者相比，看到自己年老时的形象的参与者会",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "为晚年存更多的钱。 答案G。由题干关键信息participants who saw the images oftheir aged selves和save more for their later years定位到G段。该段最后一句提到，看到年老时的自己的参与者表示，他们会比对照组为退休多存30% 的工资。题干是对原文内容的概括总结。题干中的participants who saw the images oftheir aged selves对应原 文中的Participants who saw theiragedselves，而would savemore for their lateryearsthanthose who didnt对应 原文中的would save 30%moreof their salary forretirement than the control group。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "People often wonder why some entrepreneurs have greater success than others. Is it habits, connections, luck, work ethic or any other behavior? I believe the key to success is will power. Will power is the ability to control yourself. It is a strong determination that allows you to do something difficult. It is a behavior we are born with more than one we learn. However, it is possible to not only learn it, but also strengthen it with constant exercise. Will power is just like a muscle, to keep it strong you need to constantly exercise it. People with a great amount of will power have the discipline to develop positive, successful habits. Even with an incredible amount of talent, without the discipline and motivation to create positive habits, it can be difficult to achieve success. Will power and habits go hand in hand. It is critical to create good habits and take the actions necessary to stick to those habits day in and day out for greater success. Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis. The best way to create and stick to a habit is to have strong motivation. It's easier to change your habits to lose weight if you have a health issue and you want to be around longer for your kids, or if your business is something you're passionate about. Having a valuable outcome associated with a habit will help you stick to that habit permanently. The art of self-control is one that most successful individuals have mastered. Self-control enables you to avoid behaviors that don't contribute to your success and adopt those that do. Because there is a delayed satisfaction associated with self-control, it can be easy to get off track. However, if you work on sticking to those small positive habits one day at a time, it becomes easier to stay strong and achieve that delayed reward. Once a reward is achieved, it is much easier to continue sticking to your habits.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say we need to do to strengthen our will power?",
+              "stemCn": "作者说我们需要做些什么来增强我们的意志力？",
+              "options": {
+                "A": "Keep it under control.",
+                "B": "Apply it continuously.",
+                "C": "Learn from entrepreneurs.",
+                "D": "Aim at success determinedly."
+              },
+              "optionCn": {
+                "A": "让它处于控制之下。",
+                "C": "向企业家学习。",
+                "B": "持续地运用它。",
+                "D": "坚定地以成功为目标。"
+              },
+              "answer": "B",
+              "analysis": "顺序与原文顺序基本一致的原则，先从第一、二段寻找答案。 ·automatically adv.自动地 valuableadj.有益的；有价值的 ·permanentlyadv.永远地 ·master v.掌握 ·adoptv.采取 delayv.延迟 ·get offtrack脱离轨道 在文章第一段中，作者指出成功的关键是意志力，并介绍了什么是意志力。但是关于如何增强意志力作者 并没有提及。接着往下读，第二段第一句提到，意志力就像肌肉一样，要想保持强大的意志力，必须不断 地加以锻炼。也就是说，人们要靠不断地运用意志力，来使其变得更强大，故本题选B。其他三项的内容 都不符合原文，均排除。"
+            },
+            {
+              "num": 47,
+              "stem": "How are almost half of our daily actions performed according to the passage?",
+              "stemCn": "根据文章，我们儿乎一半的日常行为是怎样做出的？",
+              "options": {
+                "A": "Out of habit.",
+                "B": "With determination.",
+                "C": "Like muscle building.",
+                "D": "By self-discipline"
+              },
+              "optionCn": {
+                "A": "出于习惯做出的。"
+              },
+              "answer": "A",
+              "analysis": "C像肌肉锻炼一样做出的。 根据题干关键词almosthalfofourdailyactions可以将答案定位到第三段第三句。 第三段第三句指出，我们的日常行为当中几乎有一半是源于我们的习惯，也就是说我们几乎一半的日常行 为是出于习惯做出的，故本题选A。其他三项均与原文不符，都排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What will help people stick to doing something constructive automatically?",
+              "stemCn": "什么将会帮助人们自然而然地坚持做一些有助益的事情？",
+              "options": {
+                "A": "Practising it on a day-to-day basis.",
+                "B": "Associating it with improving health.",
+                "C": "Possessing a reasonable amount of talent",
+                "D": "Foreseeing the desired outcome it will yield."
+              },
+              "optionCn": {
+                "A": "每天进行练习。",
+                "C": "具备一定的天赋。",
+                "B": "将其与改善健康联系起来。",
+                "D": "预见它将产生的理想结果。"
+              },
+              "answer": "D",
+              "analysis": "一句。 第四段最后一句指出，将一个习惯和有益的结果关联起来，会有助于你长久地坚持这个习惯。换句话说， → 预想一个习惯能带来的理想结果，可以帮助我们坚持做有助益的事，故本题选D。选项中的thedesired outcome与原文中的avaluableoutcome属于同义替换。其他三个选项虽然都有原文词汇，但是答非所问， 均排除。尤其是B项，文章中的一个例子只是提到了改善健康，但不是所有的习惯都与健康有关，这属于 以偏概全。"
+            },
+            {
+              "num": 49,
+              "stem": "How does the art of self-control help us succeed?",
+              "stemCn": "自制力这门艺术是如何帮助我们成功的？",
+              "options": {
+                "A": "By all owing us to remain clear-headed permanently.",
+                "B": "By enabling us to alter our behaviors constantly.",
+                "C": "By enabling us to take positive actions",
+                "D": "By all owing us to avoid taking risks."
+              },
+              "optionCn": {
+                "A": "通过让我们永远保持头脑清醒。",
+                "C": "通过使我们能够采取积极的行动。",
+                "B": "通过使我们能够不断地改变我们的行为。",
+                "D": "通过让我们避免冒险。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词the art ofself-control help us succeed可以将答案定位到倒数第二段第二句。 倒数第二段第二句指出，自制力能让你避免做出那些无助于你成功的行为，而让你采取那些有助于你成功 的行为。也就是说，自制力可以让我们采取积极的行动，从而帮助我们成功，故本题选C。原文中的adopt those that do属于省略，答对这道题需要正确理解这句话，这句话还原之后应该是adopt those behaviorsthat contribute to your success（采取有助于你成功的行为），这与选项中的take positive actions是同义替换。其 余三个选项原文未提及，均排除。"
+            },
+            {
+              "num": 50,
+              "stem": "Why can it be difficult for us to maintain self-control?",
+              "stemCn": "为什么我们很难保持自制力？",
+              "options": {
+                "A": "Most of us are not in the habit of exercising self-control.",
+                "B": "We may not get immediate rewards from self-control.",
+                "C": "Self-control tends to be associated with pains.",
+                "D": "Self-control only brings about small benefits. ===== PAGE 6 ====="
+              },
+              "optionCn": {
+                "C": "自制力往往与痛苦有关。",
+                "A": "我们大多数人都没有养成锻炼自制力的习惯。",
+                "B": "我们可能无法从自制力中获得立竿见影的回报。",
+                "D": "自制力只能带来微小的益处。"
+              },
+              "answer": "B",
+              "analysis": "根据题干关键词difficult for us to maintain self-control可以将答案定位到最后一段第一句。 定位 最后一句段第一句指出，因为自制力带来的满足感常常是延迟的，所以很容易偏离轨道。这里的“偏离轨 道”就是指无法保持自制力，人们是因为自制力不能带来立竿见影的回报，所以无法保持自制力，故本题 选B。其余三个选项原文都没有提及，故排除。 Passage Two ·概览· 本文节选自伯克利大学UnderstandingScience网站发表的一篇题为“Whopays for science?”的文章。 文章指出，如今大多数科学研究是由政府拨款、研发公司和非营利性基金会资助的。行业和特殊利益团 体的资助可能会给研究带来偏见，应该更加谨慎地审查这类研究，以识别出偏见。 ·全文翻译· [51]如今，大多数科学研究都是由政府拨款、研发公司以及非营利 性基金会资助的。作为一个社会，我们从这些科学研究中收获了回报， 但我们也在为其付出。你通过你缴纳的税款、你购买的产品和服务以及 你所做的捐赠间接地支持了科学研究。 对科学研究的资助随着时代变迁而发生了改变。从历史上看，科学 研究获得的支持主要有私人资助、教会赞助，或干脆自费研究。如今， 研究人员可能会得到来自不同政府部门、机构和基金会的混合赞助金。 其他研究则由私企资助。这种企业赞助在某些领域非常普遍。美国近75% 的临床医学试验都是由私企支付费用的。当然，如今一些研究人员仍然 自掏腰包来资助一些小规模的研究。我们大多数人都负担不起将核研究 作为个人爱好的费用，[52]但是鸟类观察者、岩石收藏者和其他人可以在 有限的预算下进行真正的研究。 [53]在一个完美的世界里，金钱并不会成为问题——所有的科学研 究都是完全客观的。但在现实世界中，提供资金可能会带来偏见。与政 府拨款或慈善组织赞助的研究相比，由制药行业赞助的药物研究最终更 有可能偏祖所研究的药物。同样，与独立资助的研究相比，由食品行业 赞助的营养研究最终更有可能偏祖所研究的食品。 那么我们应该如何看待这一切呢？我们应该忽视任何由公司或特殊 利益团体资助的研究吗？当然不是。[54这些团体为科学研究提供了极为 宝贵的资金。此外，科学有许多保障措施来揪出影响研究结果的偏见情 况。最终，随着科学的进步，误导性的结果将会被纠正；然而，这个过 程需要时间。[55]与此同时，要特别谨慎地审查由行业或特殊利益团体资 助的研究，这是值得的。其结果是否与其他独立资助的研究一致？其他 科学家对这项研究有什么看法？稍加审查就十分有助于我们识别出与资 金来源相关的偏见。 重难点单词及短语 ·fundv.赞助，资助 grantn.拨款；补助金 foundationn.基金会 ·reapv.获得；收获；收割 purchasev.购买 ·donation n.捐献 ·historicallyadv历史上 ·sponsorshipn.赞助（金）；资金 支持 corporate adj.公司的 ·clinicaltrial临床试验 small-scaleadj.小规模的 ·introducev.引入 underconsideration在研究中； 在考虑中 make of看待；理解 ·invaluableadj.无价的；非常宝 贵的 payv.受益；值得 consistent with与……一致 go a long way towards对… 帮助很大 ·答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_06_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Today, most scientific research is funded by government grants, companies doing research and development and non- profit foundations. As a society, we reap the rewards from this science but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make. Funding for science has changed with the times. Historically, science has been largely supported through private patronage (资助 ), church sponsor ship or simply paying for the research yourself. Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsor ship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can’t afford to do nuclear research as a private hobby, but bird watchers, rock collectors, and others can do real research on a limited budget. In a perfect world, money wouldn’t matter — all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical (制药的) industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research. So what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds, however, this process takes time. Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the passage mainly discuss regarding scientific research?",
+              "stemCn": "关于科学研究，这篇文章主要讨论了什么？",
+              "options": {
+                "A": "Its foundation.",
+                "B": "Its rewards.",
+                "C": "Its prospect.",
+                "D": "Its funding."
+              },
+              "optionCn": {
+                "A": "它的基础。",
+                "B": "它的回报。",
+                "C": "它的前景。",
+                "D": "它的资金。"
+              },
+              "answer": "D",
+              "analysis": "题干问文章主要讨论了科学研究的什么，属于主旨题，最保险的做法是通读文章后再解答此题。不过，本 文开篇就指出了文章的主题。 第一段第一句指出，如今，大多数科学研究都是由政府拨款、研发公司以及非营利性基金会资助的。再通 读下文可知，整篇文章围绕科学研究的资金以及由此可能产生的偏见问题展开论述，故选项D正确。其他 三个选项都不是文章主要讨论的内容，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What do we learn from the passage about researchers like birdwatchers and rock collectors?",
+              "stemCn": "关于鸟类观察者和岩石收集者等研究人员，从这篇文章中我们能了解到什么？",
+              "options": {
+                "A": "They have little access to government funding.",
+                "B": "They can do research with limited resources.",
+                "C": "They can do amateur work in their own fields",
+                "D": "They have no means for large-scale research."
+              },
+              "optionCn": {
+                "A": "他们几乎无法获得政府资助。",
+                "B": "他们可以利用有限的资源进行研究。"
+              },
+              "answer": "B",
+              "analysis": "第二段最后一句指出，鸟类观察者、岩石收藏者和其他人可以在有限的预算下进行真正的研究。这与选项 B表达的意思一致，选项中的doresearch with limitedresources与原文中的dorealresearch ona limitedbudget 属于同义替换，有限的资源指的就是有限的预算或资金，故选项B正确。选项A和C原文没有提及，可以排 除。选项D属于混淆概念，原文说，一些研究人员仍然自掏腰包来资助一些小规模的研究，鸟类观察者和 岩石收藏者可以在有限的预算下进行真正的研究，并没有说，鸟类观察者和岩石收藏者无法进行大规模的 研究，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What would scientific studies look like in a perfect world according to the author?",
+              "stemCn": "根据作者的说法，在完美的世界里，科学研究会是什么样子的？",
+              "options": {
+                "A": "They would be totally unbiased.",
+                "B": "They would be independently funded.",
+                "C": "They would be responsibly conducted.",
+                "D": "They would be strictly supervised."
+              },
+              "optionCn": {
+                "A": "它们将是完全公正的。",
+                "B": "它们将获得独立资助。",
+                "C": "人们将负责任地进行科学研究。",
+                "D": "它们将受到严格监督。"
+              },
+              "answer": "A",
+              "analysis": "说，在完美的世界里，科学研究是完全公正的，故选项A正确。其他三个选项原文都没有提及，均可以排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author say about companies and special interest groups?",
+              "stemCn": "关于公司和特殊利益团体，作者说了什么？",
+              "options": {
+                "A": "They try hard to pull down the safeguards for research.",
+                "B": "They make extra efforts to research their own products.",
+                "C": "They provide valuable resources for scientific research.",
+                "D": "They reap the most benefits from scientific research"
+              },
+              "optionCn": {
+                "A": "它们竭力破坏研究的保障措施。",
+                "B": "它们付出额外的努力来研究自己的产品。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词companies and special interest groups可以将答案定位到最后一段第二至四句。 最后一段第二句提问：我们应该忽视任何由公司或特殊利益团体资助的研究吗？第三、四句给出回答：当 然不是。这些团体为科学研究提供了极为宝贵的资金。由此可知，公司和特殊利益团体为科学研究提供了 宝贵的资金，资金也就是资源，故选项C正确。其余三个选项原文都没有提及，均可以排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author think of research funded by industry or special interest groups?",
+              "stemCn": "作者如何看待由行业或特殊利益团体资助的研究？",
+              "options": {
+                "A": "Its recommendations should be examined for feasibility.",
+                "B": "Its misleading results should be corrected in time.",
+                "C": "Its validity should be checked with additional care.",
+                "D": "Its hidden biases should be identified independently ===== PAGE 7 ====="
+              },
+              "optionCn": {
+                "A": "应审查其建议的可行性。",
+                "B": "应及时纠正其误导性的结果。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词research funded by industry or special interest groups可以将答案定位到最后一段。 在最后一段作者指出，我们不能忽视由公司或特殊利益团体资助的研究，因为它们为科学研究提供了极为 宝贵的资金。倒数第四句指出可以采取的措施，要特别谨慎地审查由行业或特殊利益团体资助的研究，这 是值得的。由此可知，选项C正确。选项A和D原文都没有提及，可以排除。选项B与原文不符，原文虽然 提到了随着科学的进步，误导性的结果最终将会被纠正，但是这是行业的客观现实，而非作者对于由行业 或特殊利益团体资助的研究的看法，故排除。 PartIV ·难词译注· 起源于originate in 制定formulate 运行规律movements Translation 日常生活dailly lives 农作物crops 记录日期recorddates 基于be based on 安排农活arrange farmwork 组成部分component 在……中发挥着重要作用play an importantrole in 农业生产agriculturalproduction ·参考译文 最有效地利用make themostefficientuseof 产量和质量yieldandquality The lunar calendar,whichoriginated inChina thousands ofyears ago,was formulated based on the movementsof the sun and the moon.For a long time,the lunar calendar has played an importantrole in agricultural production and people's daily lives.Ancient people recorded dates and arranged farm work according to the lunar calendar in order to make the most efficient use ofnaturalresources and climaticconditions to improve the yield and quality ofcrops.The Chinese Spring Festival,Mid-Autumn Festival andothertraditionalfestivalsare basedonthe lunar calendar.Itisan important componentoftraditionalChinese cultureand is stillwidely used today. 四·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_06_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "农历(the lunar calendar) 起源于数千年前的中国 ,根据太阳和月亮的运行规律制定。长期以来 ,农历在农业生产和人们 日常生活中发挥着重要作用。古人依据农历记录日期、安排农活 ,以便最有效地利用自然资源和气候条件 ,提高农作 物的产量和质量。中国的春节、中秋节等传统节日的日期都基于农历。农历是中国传统文化的重要组成部分 ,当今依 然广为使用。 ===== PAGE 8 =====",
+          "terms": [],
+          "reference": "最有效地利用make the most efficient use of",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

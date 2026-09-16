@@ -1,0 +1,996 @@
+{
+  "id": "cet4-2021_06_1",
+  "level": 4,
+  "year": 2021,
+  "month": 6,
+  "setNo": "第1套",
+  "title": "2021年6月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:For this pa.rt, you are allowed 30 minutes to write an essay titled ''Are people becoming addicted to technology?\".The statement given below is for your reference. You should write at least 120 words but no more than180 words. Numerous studies claim that addiction to technology is real and it has the same eff ect on the brain as drug addiction.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_1-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1 and 2 are based on the news report yon have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What did Joe's parents decide to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Enrol him in a Newcastle football club.",
+                "B": "Send him to an after-school art class.",
+                "C": "Forbid him to draw in his workbook.",
+                "D": "Help him post his drawings online."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。新闻开头提到，9岁男孩乔被"
+              },
+              "answer": "B",
+              "analysis": "告知不要在课堂上画画，却得到了一份用他的画装 饰餐厅的工作。乔的父母没有改掉他在学校练习 册上画画的习惯，而是决定送他去参加一个课外艺 术班来鼓励他的创造力，因此答案为B)。"
+            },
+            {
+              "num": 2,
+              "stem": "What did the restaurant \"Number 4\" do?",
+              "stemCn": "",
+              "options": {
+                "A": "Contacted Joe to decorate its dining-room.",
+                "B": "Hi red Joe to paint all the walls of its buildings.",
+                "C": "Renovated its kitchen and all the dining-rooms.",
+                "D": "Asked Joe for permission to use his online drawings."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。新闻中提到，纽卡斯尔“4号”"
+              },
+              "answer": "A",
+              "analysis": "餐厅联系了乔的老师，询问乔能否用自己的绘画作 品来装饰其餐厅。此后，乔的父亲每天在他放学后 开车送他去餐厅画画做装饰用，故答案为A)。 Questions 3 and 4 are based on the news report you have just heard. (3)Kirsteen Marshall,a 34-year-old mum of one,posted a tearful video on social media Wednesday, begging for the safe return of her beloved pet dog. After combing through the security video outside a Gorbals shop, Kirsteen has now posted an image of a man suspected of stealing the dog. The image appears to show a man carrying the dog in his arms. Kirsteen also believes the video obtained from the shop shows the dog being stolen by a man before driving off in a car which had been waiting nearby. (4)The family is now offering a £5,000 reward for the safe return of the dog after launching a social media campaign to find the thief. The dog is six and a half years old and was last seen wearing a red collar. Kirsteen said: \"We'll pay that to anyone who brings him home as long as they are not responsible for his disappearance.\" Police are investigating the incident. 月10"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 3 and 4 are based on the news report yon have just heard.",
+          "material": "Question 3. What is Christine Marshall trying to do? Question 4. What does the news report say about Christine Marshall's family? News Report 3. London's eggs and bread cafe offers boiled eggs, toast, jam and bacon, as well as tea, coffee, and orange juice. But at the end of the meal, customers don't have to worry about the bill. Hungry customers can pay whatever amount they can afford to eat at the cafe or nothing at all. Owner, Guy Wilson, says his cafe aims to build community rather than profits. He wants to provide a bridge for people to connect, in an area that has been divided by class and wealth, by providing affordable breakfast. The cafe is open in the mornings every day of the year, and has two members of staff or supervisors on shift every day. The cafe doesn't use volunteers, but pays its staff to ensure consistency in its service. It doesn't take donations, and doesn't want to be seen as a charity. Mr. Wilson says when people start to know other people around them, they realize they're not that different, and whatever their financial background, or their educational background, most people will have something in common with each other. He says it's important that his cafe can offer his customers security and permanence. Question 6. What does the news reports say about eggs and bread cafe? Question 7 What happens when people start to know each other according to Guy Wilson?",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What is Kirsteen Marsh all trying to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Get her pet dog back.",
+                "B": "Beg for help from the police.",
+                "C": "Identify the suspect on the security video.",
+                "D": "Post pictures of her pet dog on social media."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。新闻开头提到，一位34岁的"
+              },
+              "answer": "A",
+              "analysis": "母亲克里斯汀·马歇尔周三在社交网站上传了一 个声泪俱下的视频，祈求她的宠物狗能平安回家， 因此答案为A)。"
+            },
+            {
+              "num": 4,
+              "stem": "What does the news report say about Kirsteen",
+              "stemCn": "",
+              "options": {
+                "A": "It is suffering a great deal from the incident.",
+                "B": "It is helping the police with the investigation.",
+                "C": "It is bringing the case to the local district court.",
+                "D": "It is offering a big reward to anyone who helps."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。新闻中提到，克里斯汀·马"
+              },
+              "answer": "D",
+              "analysis": "Marshall's family? 歇尔的家人在社交媒体上发起了寻找小偷的活动， 并悬赏5,000英镑给帮助自己爱犬安全回家的人， 因此答案为D)。 Questions 5 to 7 are based on the news report you have just heard. London's Eggs & Bread café offers boiled eggs,toast,jam,and bacon,as well as tea,coffee and orange juice. But at the end of the meal,customers don't have to worry about the bill. Hungry customers can pay whatever amount they can afford to eat at the café,or nothing at all. (5)Owner Guy Wilson says his café aims to build community,rather than profits. He wants to provide a bridge for people to connect in an area that has been divided by class and wealth by providing affordable breakfasts. The café is open in the mornings every day of the year and has two members of staff or supervisors on shift every day.(6)Thecafé doesn't use volunteers,but pays its staff to ensure consistency in its service.It doesn't take donations and doesn't want to be seen as a charity. Mr. Wilson says,(7)when people start to know other people around them,they realize they're not that different. And whatever their financial background,or their educational background,most people will have something in common with each other. He says it's important that his café can offer his customers security and permanence."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Three",
+          "intro": "Questions 5 to 7 are based on the news report yon have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What does Guy Wilson say his café aims to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Provide free meals to the local poor.",
+                "B": "Help people connect with each other.",
+                "C": "Help eliminate class difference in his area.",
+                "D": "Provide customers with first-class service."
+              },
+              "optionCn": {
+                "B": "【精析】目的原因题。新闻开头提到，伦敦的一家咖"
+              },
+              "answer": "B",
+              "analysis": "啡馆提供早餐，顾客用餐后可支付他们所能支付的 任何价格，或者完全不用支付。咖啡馆主人 盖伊·威尔逊说他开咖啡馆目的不是赚钱，而是通过 提供人们可以吃得起的早餐，为具有不同阶级和经济 背景的人们搭建沟通的桥梁。因此，答案为B)。"
+            },
+            {
+              "num": 6,
+              "stem": "What does the news report say about Eggs & Bread",
+              "stemCn": "",
+              "options": {
+                "A": "It does not supervise its employees.",
+                "B": "It donates regularly to a local charity.",
+                "C": "It does not use volunteers.",
+                "D": "It is open round the clock. Im 2021 1¥ 6 1 ===== PAGE 2 ====="
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。新闻中提到，这家鸡蛋面包咖"
+              },
+              "answer": "C",
+              "analysis": "café? Section B 啡馆每天早上提供服务，全年无休。咖啡馆由两名 员工或主管轮流值班，不使用志愿者，但会付给员 工费用以保证服务的连续性，咖啡馆不接受捐款。 与各选项信息比对，答案为C)。"
+            },
+            {
+              "num": 7,
+              "stem": "What happens when people start to know each",
+              "stemCn": "",
+              "options": {
+                "A": "They will realise the importance of communication.",
+                "B": "They will come to the cafe even more frequently.",
+                "C": "They will care less about their own background.",
+                "D": "They will find they have something in common. Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked a),"
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。新闻末尾提到，当人们开始了"
+              },
+              "answer": "D",
+              "analysis": "other according to Guy Wilson? 解周围的人时，他们会意识到他们与别人并无太大 不同，不管他们的经济、教育背景怎样，大多数人都 有共同之处，因此答案为D）。 Questions 8 to 11 are based on the conversation you have just heard. M:(8-1)So what time do you think we should have the party on Saturday? W:How about inviting people to come at 6:00 p. m.? Then we'll have the afternoon to prepare food and drink, and stuff like that. M: Yes, I was thinking that around 6:00 would be good too. (8-2)What food should we provide? W:Well, I had thought about baking a cake,and some biscuits. And now I think we should prepare some sandwiches and snacks,and some other kinds of food,so that people can just help themselves,rather than getting everyone to sit down at the table to eat a meal.I think that's a bit too formal.(9)It's better to let people walk around and talk to each other,or sit where they like. M: Yes,that sounds good. I'll go to the supermarket to get some drinks. I think I might try that big new supermarket on the other side of town and see what they have. I've not been there before. I think we should get some beer and wine,and some fruit juice,and other soft drinks. What do you think? W:Sounds great. I think those drinks will be enough.(10)And I heard that the new supermarket offers some big discounts to attract customers. So going there should be a great idea.(8-3) What should we do about music? M:(11)Maybe we should ask Paul to bring his computer and speakers,so that we can play some music. He has a great collection of different stuff. W:Yes. All right."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L8",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation One",
+          "intro": "Questions 8 to 11 are based on the conversation you have just heard.",
+          "material": "Question 8. What are the speakers mainly talking about? Question 9. Why does the woman say it is good idea to serve foods that guests can help themselves to? Question 10. What does the woman say about the new supermarket? Question 11. What is the man suggest they ask Paul to do? I'm thinking of buying a car. I wouldn't need to use it every day, but I think it would be very convenient to have one for the weekends. That's exciting. Would this be your first car? No. I actually owned a car for a little while when I lived in Miami. You see, in America, many cities don't have good public transport. So most people need their own car to get around. I see. So have you got your mindset on a specific model? No, not really. I've heard that German cars are very reliable, but I haven't decided on a specific model yet. I'd also like it to be small so that it's easy to drive in the city. I have a friend who sells secondhand cars. In fact, I think his family owns the business. He's a really nice guy, and he knows a lot about cars. I could give you his phone number if you want, and you could call him and ask him questions. Hmm, that's nice of you, but I don't want to feel obliged to buy one of his cars. Oh no, he's not like that. He's a good friend of mine, and he would never try to press you, or cheat you. Well, if you trust him, then I guess it should be okay. To be honest, I could use some help deciding what type of vehicle would best suit my needs. Speaking to an expert would be a good idea. Exactly. You have nothing to worry about. He's a lovely guy and he'll be happy to help.",
+          "questions": [
+            {
+              "num": 8,
+              "stem": "What are the speakers mainly talking a out?",
+              "stemCn": "",
+              "options": {
+                "A": "A surprise party for Paul's birthday.",
+                "B": "Travel plans for the coming weekend.",
+                "C": "Preparations for Saturday's get-together.",
+                "D": "The new market on the other side of town."
+              },
+              "optionCn": {
+                "C": "【精析】主旨大意题。对话开头，男士询问女士周"
+              },
+              "answer": "C",
+              "analysis": "六聚会的具体时间，女士建议下午六点，这样他们 有足够的时间进行准备，随后对话双方进一步讨论 了聚会需要准备的食物、音乐等。因此，双方主要 讨论的是聚会的准备工作，答案为C)。"
+            },
+            {
+              "num": 9,
+              "stem": "Why does the woman say it is a good idea to serve",
+              "stemCn": "",
+              "options": {
+                "A": "Itmakes the hostess's job a whole lot easier.",
+                "B": "It enables guests to walk around and chat freely.",
+                "C": "Itsaves considerable time and labor.",
+                "D": "Itrequires fewer tables and chairs."
+              },
+              "optionCn": {
+                "B": "【精析】目的原因题。男士询问女士准备什么食物"
+              },
+              "answer": "B",
+              "analysis": "foods that guests can help themselves to? 时，女士说本想烘焙蛋糕和饼干，但现在想想还是 提供三明治和点心，这样客人可以来回走动，互相 交流，因此答案为B)。"
+            },
+            {
+              "num": 10,
+              "stem": "What does the woman say about the new",
+              "stemCn": "",
+              "options": {
+                "A": "It offers some big discounts.",
+                "B": "It is quite close to her house.",
+                "C": "It is more spacious and less crowded.",
+                "D": "Itsells local wines and soft drinks."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。对话中女士提到，她听说这"
+              },
+              "answer": "A",
+              "analysis": "supermarket? 家新超市为了吸引顾客提供了很大折扣，因此答 案为A)。"
+            },
+            {
+              "num": 11,
+              "stem": "What does the man suggest they ask Paul to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Cook a dish for the party.",
+                "B": "Arrive 10 minutes earlier.",
+                "C": "Prepare a few opening remarks.",
+                "D": "Bring his computer and speakers."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。对话末尾女士询问准备什么"
+              },
+              "answer": "D",
+              "analysis": "音乐，男士建议让保罗带着电脑和扬声器，这样他 们就可以放点音乐了，因此答案为D)。 Questions 12 to 15 are based on the conversation you have just heard. W:I'm thinking of buying a car.(12)I wouldn't need to use it every day, but I think it would be very convenient to have one for the weekends. M:That's exciting. Would this be your first car? W:No, I actually owned a car for a little while when I lived in Miami. You see in America, many cities don't have good public transport. So, most people need their own car to get around. M: I see. So have you got your mind set on a specific model? W: No, not really.(13)I've heard that German cars are very reliable, but I haven't decided on a specific model yet. I'd also like it to be small,so that it's easy to drive in the city. M:(14)I have a friend whosells second-hand cars.In fact,I think his family owns the business. He's a really nice guy,and he knows a lot about cars. I could give you his phone number if you want,and you could call him and ask him questions. W:Hmm, that's nice of you,but I don't want to feel obliged to buy one of his cars. M:(15-1)Oh,no,he's not like that. He's a good friend of mine, and he would never try to pressure you or cheat you. W:Well,if you trust him,then,I guess it should be OK. To be honest, I could use some help in deciding what type of vehicle would best suit my needs. Speaking to an expert would be a good idea. M:(15-2)Exactly. You have nothing to worry about. He's a lovely guy,and he'll be happy to help."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L12",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation Two",
+          "intro": "Questions 12 to 15 are based on the conversation you have just heard.",
+          "material": "Question 12. Why does the woman want to have a car? Question 13. What does the woman say about German cars? Question 14. What does the man recommend the woman do? Question 15. What do we learn about the man's friend from the conversation?",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "Why does the woman want to have a car?",
+              "stemCn": "",
+              "options": {
+                "A": "For commuting to work.",
+                "B": "For long-distance travel.",
+                "C": "For getting around in Miami.",
+                "D": "For convenience at weekends."
+              },
+              "optionCn": {
+                "D": "【精析】目的原因题。对话开头女士说自己想买辆"
+              },
+              "answer": "D",
+              "analysis": "车，虽然她不需要每天都用车，但是她认为周末有 辆车出行会很方便，因此答案为D)。"
+            },
+            {
+              "num": 13,
+              "stem": "What does the woman say about German cars?",
+              "stemCn": "",
+              "options": {
+                "A": "They are reliable.",
+                "B": "They are compact.",
+                "C": "They are spacious.",
+                "D": "They are easy to drive."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。对话中女士提到，她听说德 国汽车很可靠，因此答案为"
+              },
+              "answer": "A",
+              "analysis": "原文: I've heard that German cars are very reliable...\n翻译: 我听说德国车非常可靠……\n解释: 女士提到她听说德国车很可靠（reliable）。因此，选项A是正确的。"
+            },
+            {
+              "num": 14,
+              "stem": "What does the man recommend the woman do?",
+              "stemCn": "",
+              "options": {
+                "A": "Buy a second-hand car.",
+                "B": "He can be trusted.",
+                "C": "Seek advice from his friend.",
+                "D": "Look around before deciding. Tlll_s! her ownjudge_!lt. -t ---- - -"
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。对话中，女士并不确定自己"
+              },
+              "answer": "C",
+              "analysis": "买哪款车，但她希望买车身小的，以便于驾驶：男 士说自己有个卖二手车的朋友，他对汽车非常了 解，女士可以给他打电话问一下汽车方面的问题。 由此推断，男士建议女士可以请教他的朋友，因此 答案为C)。"
+            },
+            {
+              "num": 15,
+              "stem": "What do we learn about the man's friend from",
+              "stemCn": "",
+              "options": {
+                "A": "He sells new cars.",
+                "B": "He can be trusted.",
+                "C": "He is starting a business.",
+                "D": "He is a successful car dealer."
+              },
+              "optionCn": {
+                "B": "【精析】细节推断题。对话末尾，女士在听到男士"
+              },
+              "answer": "B",
+              "analysis": "Section C Questions 16 to 18 are based on the passage you have just heard. the conversation? 的建议后有些迟疑，她不愿意被迫购买男士朋友 的二手车。男士说朋友绝不会施加任何压力，让 女士不用担心，而且男士的朋友很乐意帮忙。由 此推断，男士的朋友是值得信任的，因此答 案为B)。 (16)Pigs are not native to North America. They were first introduced to California by Spanish and Russian explorers and settlers many centuries ago. In the early times,pigs were allowed to wander freely in search of. food. This practice also allowed many pigs to escape from farms and live in the wild, which became a problem. In fact,as one of the most damaging invasive species on the continent,(17)wild pigs cause millions of dollars in crop damage yearly. They also harbor dozens of diseases that threaten both humans and farm animals. Forest patches with wild pigs have been found to have considerably reduced plant and animal diversity. In addition to either eating other animals or their food supply,wild pigs damage native habitats by rooting up grasses and rubbing on trees. Their activities may also create opportunities for invasive plants to colonize these areas. Wild pigs will eat almost anything containing calories. Mice,deer,birds, snakes and frogs are among their victims. They can also harm other wild species through indirect competition,rather than eating them or shrinking their food supply. On one particular United States island, wild pigs themselves became an attractive food source for a species of mainland eagle.(18)The eagles began breeding on the island, and also feeding on a species of native fox. The foxes were almost wiped out completely."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage One",
+          "intro": "Questions 16 to 18 are based on the passage you have just heard.",
+          "material": "Question 16. What do we learn about early pigs in North America? Question 17. Why are wild pigs a threat to humans? Question 18. What does the passage say about the native foxes on a US island? Passage 2. A pair of entrepreneurs are planning to build and launch a spacecraft that would carry and roast coffee beans in outer space. The craft will use the heat of re-entry to roast coffee beans as they float inside it in a pressurized tank. The effect would to roast the beans all over and produce perfect coffee. The businessmen say that on earth beans can easily break apart and get burned in the roaster. But if gravity is removed, the beans float around in a heated oven, receive 360 degrees of evenly distributed heat, and roast to near perfection. The spacecraft will reach a height of around 200 kilometers. The beans would then be roasted in the heat generated by the crafts 20 minute re-entry into Earth's atmosphere. Temperatures in the pressurized tank will be kept to around 200 degrees Celsius. Once back on Earth, the planets first space-roasted beans would be used to make coffee that would be sold for the first time in Dubai. This is where the pair's company is based. It is not clear how much they would charge for a cap. Surprisingly, the space roaster concept should it go ahead will not be the first attempt to take coffee into space. In 2015, two Italian companies collaborated on the construction of a similar type of spacecraft, which was the first coffee machine designed for use in space.",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What do we learn about early pigs in North",
+              "stemCn": "",
+              "options": {
+                "A": "Many escaped from farms and became wild.",
+                "B": "They were actually native to North America.",
+                "C": "Many got killed in the wild when searching for food.",
+                "D": "They were hunted by Spanish and Russian explorers."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。短文开头指出，猪并非原产"
+              },
+              "answer": "A",
+              "analysis": "America? 于北美，它们最初是由来自西班牙和俄罗斯的探 险者和定居者引入加利福尼亚的。在早期，人们 允许猪自由走动寻找食物，这种做法也使得许多 猪从农场逃到野外生活。因此，答案为A)。"
+            },
+            {
+              "num": 17,
+              "stem": "Why are wild pigs a threat to humans?",
+              "stemCn": "",
+              "options": {
+                "A": "They often make sudden attacks on people.",
+                "B": "They break up nature's food supply chain.",
+                "C": "They cause much environmental pollution.",
+                "D": "They carry a great many diseases. fil}20216J=j 2 ===== PAGE 3 ====="
+              },
+              "optionCn": {
+                "D": "【精析】目的原因题。短文提到，野猪每年造成数"
+              },
+              "answer": "D",
+              "analysis": "Questions 19 to 21 are based on the passage you have just heard. 百万美元的作物损失，它们还携带着许多威胁人 类和家畜的疾病，因此答案为D)。"
+            },
+            {
+              "num": 18,
+              "stem": "What does the passage say about the native foxes",
+              "stemCn": "",
+              "options": {
+                "A": "They lived peacefully with wild pigs.",
+                "B": "They ran out of food completely.",
+                "C": "They fell victim to eagles.",
+                "D": "They reproduced quickly."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。短文末尾提到，在美国的一"
+              },
+              "answer": "C",
+              "analysis": "on the US island? 个小岛上，野猪本身就成了一种陆地鹰的有吸引 力的食物来源。这些鹰在岛上繁殖，以本土狐狸 为食，狐狸几乎被灭绝了，因此答案为C)。 (19)A pair of entrepreneurs are planning to build and launch a spacecraft that would carry and roast coffee beans in outer space. The craft will use the heat of re-entry to roast coffee beans as they float inside it in a pressurised tank. The effect would be to roast the beans all over,and produce perfect coffee.(20)The businessmen say that on Earth, beans can easily break apart and get burned in the roaster. But if gravity is removed,the beans float around in a heated oven,received 360 degrees of evenly distributed heat and roast to near perfection. The spacecraft will reach a height of around 200 km. The beans would then be roasted in the heat generated by the craft's 20-minute re-entry into Earth's atmosphere. Temperatures in the pressurised tank will be kept to around 200℃. Once back on Earth,the planet's first space-roasted beans would be used to make coffee that would be sold for the first time in Dubai. This is where the pair's company is based. It is not clear how much they would charge for a cup. Surprisingly,the Space Roaster concept—should it go ahead—will not be the first attempt to take coffee into space. (21)In 2015, two Italian companies, collaborated on the construction of a similar type of spacecraft,which was the first coffee machine designed for use in space."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Two",
+          "intro": "Questions 19 to 21 are based on the passage you have just heard.",
+          "material": "Question 19. What are a pair of entrepreneurs planning to do? Question 20. What does the passage say about coffee beans roasted on earth? Question 21. What did the two Italian companies do in 2015? Passage 3. In cold and snowy Alaska, there's a village called Takotna. It has a population of a mere 49 souls. Each March, this tiny village swells up in numbers because it is located in the middle of a race that takes place every year. It is a seven-day race called the Iditerod Trail and participants stop at Takotna for their bligatory 24-hour rest. Lucky For them, Tacotna is famous for its delicious fruit pies. Weaks before the competitors arrive, the residents of Tacotna start preparing for what is without question their biggest event of the year. The whole village chips into help, including the kids, who end up developing their baking skills at an early age. The exhausted and hungry racers are greeted with delightful pies of all kinds, such as apple, orange, lemon or banana. They consume the pies as stomach warming race fuel. The toughness of the race allowed racers to eat pretty much whatever they want. The more calories the better. To Cotna has gained a reputation for its dessert-based hospitality since the 1970s. It's starter with one person, Jan Newton. Jan moved from Idaho with her husband in 1972, an open-to-restrant. Her rich and filling fruit pies quickly got the racers' attention, and the village gained some fame as a result. Proud residents then started to refer to Jan as Queen of Tacotna. Question 23 What is the village of Takatna famous for? Question 24. Who comes to help with the event of the year? Question 25. What does the passage say about Jan Newton? That's the end of listing comprehension.",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "What are a pair of entrepreneurs planning to do?",
+              "stemCn": "",
+              "options": {
+                "A": "Taste coffee while in outer space.",
+                "B": "Roast coffee beans in outer space.",
+                "C": "Develop a new strain of coffee bean.",
+                "D": "Use a pressurised tank to brew coffee."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。短文开头提到，两名企业家"
+              },
+              "answer": "B",
+              "analysis": "正计划建造并发射一艘宇宙飞船，该飞船将携带 咖啡豆并在外太空烘焙，因此答案为B)。"
+            },
+            {
+              "num": 20,
+              "stem": "What does the passage say about coffee beans",
+              "stemCn": "",
+              "options": {
+                "A": "They can easily get burned.",
+                "B": "They float around in the oven.",
+                "C": "They have to be he a ted to 36D°C.",
+                "D": "They receive evenly distributed heat."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。短文中提到，在地球上烘焙"
+              },
+              "answer": "A",
+              "analysis": "roasted on Earth? 咖啡豆，咖啡豆容易在烤炉中裂开烤焦，因此答案 为A)。"
+            },
+            {
+              "num": 21,
+              "stem": "What did the two Italian companies do in 2015?",
+              "stemCn": "",
+              "options": {
+                "A": "They charged a high price for their space-roasted coffee beans.",
+                "B": "They set up a branch in Dub a i to manufacture coffee roasters.",
+                "C": "They collaborated on building the first spacC;! coffee machine.",
+                "D": "They abandoned the attempt to roast coffee beans in space."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。短文末尾提到，2015年，两"
+              },
+              "answer": "C",
+              "analysis": "家意大利公司合作建造了一个类航天器，那是第 一个专门为在太空使用而设计的咖啡机。由此可 知，意大利两家公司合作制造了第一台太空咖啡 机，因此答案为C)。 Questions 22 to 25 are based on the passage you have just heard. In cold and snowy Alaska,there's a village called Takotna. It has a population of a mere 49 souls.(22)Each March,this tiny villageswells up in numbers,because it is located in the middle of a race that takes place every year. It is a seven-day race,called the Iditarod Trailand participants stop at Takotna for their obliatory 24-hour rest. Lucky for them,(23)Takotna is famous for its delicious fruit pies. Weeks before the competitors arrive,the residents of Takotna start preparing for what is without question their biggest eventof the year.(24) The wholevilage chips in to help,including the kids,who end up developing their baking skills at an early age. The exhausted and hungry racers are greeted with delightful pies of all kinds,such as apple,orange,lemon or banana. They consume the pies as stomach warming race fuel. The toughness of the race allows for racers to eat pretty much whatever they want. The more calories,the better. Takotna has gained a reputation for its dessert-based hospitality since the 197Os.It started with one person, Jan Newton.(25)Jan moved from Idaho with her husband in 1972 and opened a restaurant. Her rich and filling-fruit pies quickly got the racers'attention,and the village gained some fame as a result. Proud residents then started to refer to Jan as Queen of Takotna."
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Three",
+          "intro": "Questions 22 to 25 are based on the passage you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "Why do a lot of people come to the village of",
+              "stemCn": "",
+              "options": {
+                "A": "It is the best time for sightseeing.",
+                "B": "A race passes through it annually.",
+                "C": "They come to clean the Id it a rod Trail.",
+                "D": "It is when the villagers choose a queen."
+              },
+              "optionCn": {
+                "B": "【精析】目的原因题。短文开头提到，阿拉斯加州"
+              },
+              "answer": "B",
+              "analysis": "Takotna every March? 的塔科特纳村虽然仅有49人，但每年三月人数会 暴增，因为有一个为期7天的比赛要求参赛者在 此地停下来休息24小时，因此答案为B)。"
+            },
+            {
+              "num": 23,
+              "stem": "What is the village of Takotna famous for?",
+              "stemCn": "",
+              "options": {
+                "A": "Its children's baking skills.",
+                "B": "Its unique winter scenery.",
+                "C": "Its tasty fruit pies.",
+                "D": "Its great food variety."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。短文提到，塔科特纳村因其 美味的水果派闻名，因此答案为"
+              },
+              "answer": "C",
+              "analysis": "原文: Lucky for them, Takotna is famous for its delicious fruit pies.\n翻译: 幸运的是，Tacotna以其美味的水果派而闻名。\n解释: 文中明确提到Tacotna以其美味的水果派（delicious/tasty fruit pies）而闻名。因此，选项C是正确的。"
+            },
+            {
+              "num": 24,
+              "stem": "Who comes to help with the event of the year?",
+              "stemCn": "",
+              "options": {
+                "A": "The contestants.",
+                "B": "The entire village.",
+                "C": "Jan New ton and her friends.",
+                "D": "People from the state of Idaho."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。短文提到，全村所有的人，包"
+              },
+              "answer": "B",
+              "analysis": "括那些年纪幼小但已经学会烘焙的小孩，都会帮 忙办好赛事，因此答案为B)。"
+            },
+            {
+              "num": 25,
+              "stem": "What does the passage say about Jan New ton?",
+              "stemCn": "",
+              "options": {
+                "A": "She owned a restaurant in Idaho.",
+                "B": "She married her husband in 1972.",
+                "C": "She went to Alaska to compete in a race. '",
+                "D": "She helped the village to become famous."
+              },
+              "optionCn": {
+                "D": "【精析】细节推断题。短文最后提到，简·牛顿和"
+              },
+              "answer": "D",
+              "analysis": "丈夫在1972年从爱达荷州搬到此地，并开了一家 餐馆，她做的水果派很快得到竞赛者的关注，村子 也由此名声在外。由此可知，简·牛顿对村子的 成名有重要作用，因此答案为D)。 14"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2021_06_1-A.mp3",
+        "B": "/audio/papers/cet4-2021_06_1-B.mp3",
+        "C": "/audio/papers/cet4-2021_06_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit. But for the Saharan silver ant, ___1L from their underground nests into the sun's brutal rays to _JJ__ for food, this is the perfect time to seek lunch. In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the � heat tracking the ants and digging out their nests. The goal was simple, to discover how the� adapted to the kind of heat that can� melt the bottom of shoes. Back in Belgium, the scientists looked at the ants under an electronic microscope and found that their _l!_, triangular hair reflects light like a prism (�4.t), giving them a metallic reflection and protecting them from the sun's awful heat. When Ph.D. student Quentin Willot 32 the hair from an ant with a � knife and put it under a heat lamp, its temperature jumped. The ants' method of staying cool is _l!_ among animals. Could this reflective type of hair protect people? Willot says companies are interested in _lL these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer. Im� 20211¥ 6 J] 3 ===== PAGE 4 =====",
+          "wordBank": {
+            "A": "adapting",
+            "B": "consciously",
+            "C": "crawling",
+            "D": "crowded",
+            "E": "extreme",
+            "F": "hunt",
+            "G": "literally",
+            "H": "moderate",
+            "I": "remote",
+            "J": "removed",
+            "K": "species",
+            "L": "specimens",
+            "M": "thick",
+            "N": "tiny",
+            "O": "unique"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格位于介词词组from...into之"
+              },
+              "answer": "C",
+              "analysis": "前，而且本句的主干是 this is theperfect time to seek lunch，因此空格处需要填入动词的-ing形式 或-ed形式。 【语义判断】空格所在部分意思是：从它们的地下 巢穴 到酷热的阳光下。根据常识可知， 蚂蚁是爬行动物，因此空格处应填入含有“爬行” 意义的动词，故本题答案为C)crawling。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格位于动词不定式符号to之后，介"
+              },
+              "answer": "F",
+              "analysis": "词短语forfood之前，因此空格处需要填人动词 原形。 【语义判断】空格所在部分意思是：但对于撒哈拉 银蚁来说，从它们的地下巢穴爬到酷热的阳光下 食物，这是寻找午餐的完美时机。由后 面的seek可知，空格处应填入含有“寻找，搜寻”意 义的动词，故本题答案为F)hunt。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格后是名词heat，因此空格处需要"
+              },
+              "answer": "E",
+              "analysis": "填人形容词。 【语义判断】由句意可知，来自比利时的科学家在 撒哈拉沙漠中研究撒哈拉银蚁，inthe heat是说明撒哈拉沙漠的环境。众所周知，撒哈 拉沙漠是极度炎热的，因此空格处应填入含有“非 常的，极度的”意义的形容词，故本题答案 为E) extreme。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】分析句子结构可知，how引导的宾语"
+              },
+              "answer": "K",
+              "analysis": "从句缺少主语。空格位于定冠词the之后，因此 空格处需要填入名词。 【语义判断】空格所在部分意思是：目的很简单，就 是发现这种 是如何适应高温的。由上文 可知，此处the 指的是撒哈拉银蚁，因此 空格处应填人含有“动物，物种”意义的名词，故本 题答案为K）species。在备选名词中，L) 15 specimens 容易与 species 混淆，specimens 指的是 用于测试或检验的样品，不符合语境，因此排除。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格位于can和动词melt之间，因此"
+              },
+              "answer": "G",
+              "analysis": "空格处需要填入副词。 【语义判断】空格所在句是一个定语从句，修饰前 面的heat,句意为“能够 熔化鞋底的高 温”。由上文可知，这里的heat指的是撒哈拉沙漠 的高温，它的确能将鞋底熔化，因此空格处应填人 含有“的确，确实”等强调意义的副词，故本题答案 为G)literally。另一个备选副词B)consciously 不符合语义，因此排除。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格位于名词hair之前，因此空格处"
+              },
+              "answer": "M",
+              "analysis": "需要填入形容词，与triangular共同修饰 hair。 【语义判断】空格所在部分的句意为：它们的 、三角形毛发像三棱镜一样反射光线，产 生金属般的反射效果，保护它们免受太阳可怕的 热量的伤害。由句意可知，这种蚂蚁的毛发可以 反射光线，而毛发越多，反射效果越好，才能达到 “金属般的反射效果”，因此空格处应填入含有“多 的，浓密的”意义的形容词，故本题答案为M) thick。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "J": "【语法判断】空格位于主语QuentinWillot之后， :"
+              },
+              "answer": "J",
+              "analysis": "宾语thehair之前，因此空格处需要填入动词作 谓语。 【语义判断】空格所在部分的句意为：当博士生昆 汀·维洛特用一把刀从一只蚂蚁身上 毛 参考译文 发。由句意可知，昆汀·维洛特把毛发从蚂蚁身 上取下，然后把蚂蚁放到加热灯下，以验证毛发的 隔热效果。因此空格处应填入含有“取下，移除” 意义的动词，故本题答案为J)removed。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格位于不定冠词a之后，名词knife"
+              },
+              "answer": "N",
+              "analysis": "之前，因此空格处需要填入形容词。 【语义判断】空格所在部分的句意为：当博士生昆 汀·维洛特用一把刀从一只蚂蚁身上清 除毛发。因为蚂蚁身体很小，所以用的刀子应该 也是很小的，因此空格处应填入含有“小的”意义 的形容词，故本题答案为N)tiny。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "【语法判断】空格位于系动词is之后，因此空格处"
+              },
+              "answer": "O",
+              "analysis": "需要填人形容词或动词的分词形式。 【语义判断】空格所在部分的句意为：蚂蚁保持凉 爽的这种方法在动物中是 。本句说明了 这种方法的特点，在备选项中，只有O)unique是 形容性质特点的，故为本题答案。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格位于固定搭配 are interested in"
+              },
+              "answer": "A",
+              "analysis": "之后及名词短语theseants'method之前，因此空 格处需要填入动词的-ing形式。 【语义判断】空格所在部分的句意为：一些公司有 兴趣将这些蚂蚁的防热方法 人类。前一 句提到，这种反光型的毛发能保护人们吗？所以 本句是在说，将这种方法应用到人类身上，因此空 格处应填入含有“应用于，使用于”意义的动词，故 本题答案为A)adapting。 当撒哈拉沙漠的温度飙升至120华氏度时，大多数动物都会寻找阴凉处。但对撒哈拉银蚁来说，从它 们的地下巢穴爬到酷热的阳光下搜寻食物，这是寻找午餐的完美时机。2015年，比利时两所大学的科学 家们进入沙漠，加入到了这些蚂蚁的队伍中。他们在酷热中待了一个月，跟踪蚂蚁并挖出它们的巢穴。目 的很简单，就是发现这种物种是如何适应这种的确能够熔化鞋底的高温的。 回到比利时，科学家们用电子显微镜观察这些蚂蚁，发现它们浓密的三角形毛发像三棱镜一样反射 光线，产生金属般的反射效果，保护它们免受太阳可怕的热量的伤害。当博士生昆汀·维洛特用一把小 刀从一只蚂蚁身上清除毛发，并把它放在加热灯下时，蚂蚁的体温急剧上升。 蚂蚁保持凉爽的这种方法在动物中是独一无二的。这种反光型的毛发能保护人类吗？维洛特说，一 些公司有兴趣将这些蚂蚁的防热方法应用于人类的方方面面，包括从有助于保护消防队员的生命到在夏 天保持房屋凉爽的物品。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) This month, more than 4 million students across the nation will begin high school. Many will do well.\nB) This should matter a great deal to parents, teachers and policymakers. IBtimately it should matter to\nC) In the new global economy, students who fail to finish the ninth grade with passing grades. in college\nD) The consequences of doing poorly in the ninth grade can impact more than students' ability to find a\nE) In addition, studies find the first year of high school typically shows one of the greatest increases in\nF) Given all that's riding on having a successful ninth grade experience, it pays to explore what can be\nG) In one recent study, we examined 360 adolescents' beliefs about the nature of \"smartness\"-that is,\nH) We also investigated the social side of the high school transition. In this study, instead of teaching\nI) Experiment results showed that students who were not taught that people can change showed poor\nJ) These findings lead to several possibilities that we are investigating further. First, �e are working to\nA) They seek advice from technology companies to achieve teaching goals.\nB) They have been successful in preparing the workforce for companies.\nC) They help students acquire the skills needed for their future success.\nD) They partner with technology companies to enhance teaching efficiency.\nA) By blending them with traditional, stimulating activities.\nB) By inviting business leaders to help design curriculums.\nC) By enhancing students' ability to think in a critical way.\nD) By showing students the best way to learn is through play.\nA) By engaging in activities involving specific technologies.\nB) By playing with things to solve problems on their own.\nC) By familiarizing themselves with high-tech gadgets.\nD) By mastering basic principles through teamwork.\nA) Stimulate their interest as early as po.ssible.\nB) Spend more time playing games with them.\nC) Encourage them to make things with hands.\nD) Allow them to tinker freely with calculators.\nA) Train students to be makers to meet future market demands.\nB) Develop students' creative skills with the resources available.\nC) Engage students with challenging tasks to foster their creativity.\nD) Work together with companies to improve their teaching facilities.\nA) It is envied by many. C) It is financially rewarding.\nB) It does not appeal to him. D) It does not match his abilities.\nC) Many employees are deeply frustrated by IT.\nD) Most employees rely heavily on IT in their work.\nA) There is a big boost in employees' work efficiency.\nB) Employees become more dependent on machines.\nC) There are no longer any boring or repetitive tasks.\nD) Employees become more confident in their work.\nA) Consider the various expectations of their customers.\nB) Draw up a list of the efficiencies to be promised.\nC) Assess the swollen cost of training the employees.\nD) Think about the possible effects on their employees.\nA) By designing systems that suit their needs.\nB) By ensuring that their mental health is sound.\nC) By adjusting their work to suit the IT system.\nD) By offormg tliem regular·m-serv 1ce trammg.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "The number of people experiencing depression shows a sharp increase in the first year of high school.",
+              "stemCn": "【定位】由题干中的depression、increase和the",
+              "options": {},
+              "optionCn": {
+                "E": "段第一句。"
+              },
+              "answer": "E",
+              "analysis": "一年级通常是人一生中抑郁症增加最多的年份之 一。题干中的 The number of people experiencing depression shows a sharp increase 对应原文中的 one of the greatest increases in depression of any year over the lifespan,故答案 为E)。"
+            },
+            {
+              "num": 37,
+              "stem": "According to one study, students' academic performance is not the only decisive factor of their stress",
+              "stemCn": "【定位】由题干中的theonlydecisivefactor和",
+              "options": {},
+              "optionCn": {
+                "G": "段倒数第二句。"
+              },
+              "answer": "G",
+              "analysis": "激动的结果，因为它表明身体的应激反应并非仅 仅取决于一个人的成绩。题干中的nottheonly decisive factor 对应定位句中的 not determined solely,题干中的 students'academic performance 指的就是定位句中的one's grades，故答案为G)。"
+            },
+            {
+              "num": 38,
+              "stem": "Researchers would like to explore further how parents and schools can help ninth graders by changing",
+              "stemCn": "【定位】由题干中的parents and schools和help定",
+              "options": {},
+              "optionCn": {
+                "J": "【精析】细节归纳题。定位句指出，我们还希望了"
+              },
+              "answer": "",
+              "analysis": "位到文章J段倒数第二句。 解老师、家长或学校辅导员如何帮助学生正确看 待持续存在的学业或社交困难。题干中的 Researchers 和 parents and schools 分别对应定位 句中的 We 和teachers, parents or school counselors,题干中的 can help ninth graders by changing their mindset 是对定位句中 can help students keep their ongoing academic or social difficulties in perspective的概括归纳，故答 案为J)。"
+            },
+            {
+              "num": 39,
+              "stem": "According to one study, each high school graduate contributes at least 500, OOO dollars to the local",
+              "stemCn": "【定位】由题干中的onestudy、highschool",
+              "options": {},
+              "optionCn": {
+                "C": "段倒数第二句。"
+              },
+              "answer": "C",
+              "analysis": "graduate,500,000 dollars和 the local economy 定 【精析】同义转述题。定位句指出，一项研究估测， 每多一名完成高中学业的学生，其对当地经济产 生的终生收益为50万美元或更多。题干中的 According to one study 和 each high school graduate 分别对应定位句中的 One study has calculated that 和 a single additional student who completes high school,题干中的 contributes at least 500,000 dollars to the local economy 是对定 位句中 the lifetime benefit to the local economy...is half a million dollars or more 的同 义转述，故答案为C)。"
+            },
+            {
+              "num": 40,
+              "stem": "In one study, students were told their social position in school is not unchangeable.",
+              "stemCn": "【定位】由题干中的onestudy、students、their",
+              "options": {},
+              "optionCn": {
+                "H": "段第二句。"
+              },
+              "answer": "H",
+              "analysis": "social position 和 not unchangeable 定位到文章 研究人员没有教学生他们的聪明才智可以改变， 而是告诉他们，他们的社会地位可以随着时间的 推移而改变。题干中的studentsweretold和 their social position分别对应定位句中的we taught them 和 their social standing,题干中的 is not unchangeable 是对定位句中 can change over time的同义转述，故答案为H)。"
+            },
+            {
+              "num": 41,
+              "stem": "It is reported that depression results in enormous economic losses worldwide.",
+              "stemCn": "【定位】由题干中的depression、losses和",
+              "options": {},
+              "optionCn": {
+                "E": "段最后一句。"
+              },
+              "answer": "E",
+              "analysis": "报告称，从治疗总成本和生产力损失来看，抑郁症 是全世界负担最重的疾病。题干中的Itis reported that 对应定位句中的 The World Health Organization reports that,题干中的 depression results in enormous economic losses worldwide 是 对定位句中 depression has the greatest burden of disease worldwide,in terms of the total cost of treatment and the loss of productivity 的概括归 I 纳，故答案为E)。"
+            },
+            {
+              "num": 42,
+              "stem": "One study showed that friendships among ninth graders were far from stable.",
+              "stemCn": "【定位】由题干中的One study,friendships among",
+              "options": {},
+              "optionCn": {
+                "D": "段"
+              },
+              "answer": "",
+              "analysis": "最后一句。 级学生的研究发现，九年级学生中有50%的友谊 从一个月到下个月就发生了变化，这表明友谊存 在显著的不稳定性。题干中的friendships among ninth graders 对应定位句中的 friendships among ninth graders，题干中的 far from stable 是对定位 句中striking instability的同义转述，故答 案为D)。"
+            },
+            {
+              "num": 43,
+              "stem": "More than half of students will find their academic performance declining sharply when they enter the",
+              "stemCn": "【定位】由题干中的academic performance",
+              "options": {},
+              "optionCn": {
+                "A": "段第四句。"
+              },
+              "answer": "A",
+              "analysis": "declining sharply 和 the ninth grade 定位到文章 学生会经历“九年级冲击”，这是指学生的学业成 绩急剧下降。题干中的Morethanhalfof students 对应定位句中的 nearly two-thirdsof students,题干中的 their academic performance declining sharply 是对定位句中 a dramatic drop 参考译文 in a student's academic performance 的同义转 述，故答案为A)。"
+            },
+            {
+              "num": 44,
+              "stem": "Researchers found through experiments that students could be taught to respond to stress in a more",
+              "stemCn": "【定位】由题干中的 experiments、respond to stress",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "和positive定位到文章I段最后两句。 【精析】细节归纳题。定位句指出，当学生们被教 导人是可以改变的，他们就能更好地应对压力，部 分原因是他们觉得自己有能力来应对苛刻的状 况。接受成长思维模式干预的学生血管收缩更 少，他们的心脏输送的血液更多——这两者都有 助于更多的氧气进入大脑，最终，在语言和心算任 务上表现更好。题干中的respond to stress in a more positive way 是对定位句中 when students were taught that people can change,they had better responses to stress的概括归纳，故答案为D。"
+            },
+            {
+              "num": 45,
+              "stem": "It is beneficial to explore ways to cope with the challenges facing students entering high school.",
+              "stemCn": "【定位】由题干中的beneficial、explore、the",
+              "options": {},
+              "optionCn": {
+                "F": "段第"
+              },
+              "answer": "F",
+              "analysis": "一句。 些都依赖于一个成功的九年级经历，探索能够做 些什么来迎接过渡到高中所面临的学业、社交和 情感的挑战是值得的。题干中的Itisbeneficial 和 explore ways to cope with the challenges 对应 定位句中的 it pays 和 explore what can be done to meet the academic, social and emotional challenges。题干是对定位句的同义转述，故答案 为F)。 一开始上高中不必有压力 想，近三分之二的学生会经历“九年级冲击”，这是指学生的学业成绩急剧下降。一些学生通过逃避挑 战来应对这种冲击。例如:他们可能会放弃困难的课程。其他人可能会经历一种绝望，导致他们的核 心课程，如英语、科学和数学不及格。 这对家长、老师和政策制定者来说应该非常重要。归根结底，这对学生本人和整个社会都很重要，因 为学生过渡到九年级的经历不仅会对学生本人，而且会对他们的家庭社区都产生长期影响。作为研 究学校和家庭如何帮助年轻人茁壮成长的研究心理学家，我们做出了这些观察。 在新的全球经济中，那些在大学预科课程中成绩不及格而未能完成九年级学业的学生不太可能按时 毕业，并继续找工作。(39)一项研究估测，每多一名完成高中学业的学生，其对当地经济产生的终生 收益为50万美元或更多。这是以更高的收入和避开医疗、犯罪、福利依赖和其他方面的成本为基 础的。 九年级成绩不好的后果影响的不仅仅是学生找到好工作的能力。它还会影响他们享受生活的程度。 当学生从八年级升到九年级时，他们失去了许多原本可以寻求支持的朋友。（42)一项针对九年级学 生的研究发现，九年级学生中有50%的友谊从一个月到下个月就发生了变化，这表明友谊存在显著 的不稳定性。 释是，在学业要求提高的同时，与朋友的联系中断了。此外，大多数成人临床抑郁症病例首先出现在青 春期。（41)世界卫生组织报告称，从治疗总成本和生产力损失来看，抑郁症是全世界负担最重的疾病。 学业、社交和情感的挑战是值得的。到目前为止，我们的研究已经得出了一个主要的见解:学生关于改 变的信念他们对于人们是否永远被困在一条路上，或者人们是否可以改变他们的性格和能力的信 念——与他们应对问题、取得学业成功和保持良好心理健康的能力有关。过去的研究称这些信念为 “思维模式”，其中“固有思维模式”是指人们无法改变的信念，而“成长思维模式”是指人们可以改变的 信念。 式。然后，我们通过检查他们的应激激素来评估成绩下降的学生的生物应激反应。那些相信智力是固 定的学生——如果你在学校里苦苦挣扎，你就会被困在“不聪明”的状态下——在九年级一开始成绩 就下降时，表现出了更高水平的应激激素。如果学生相信智力可以提高也就是说，当他们对智力 持有更多的成长思维模式时——他们在成绩下降时表现出的应激激素水平较低。（37)这是一个令人 激动的结果，因为它表明身体的应激反应并非仅仅取决于一个人的成绩。相反，在那些认为不断下降 的成绩是一种永久和无望状态的学生中，下降的成绩只预示着更严重的应激激素。 而是告诉他们，他们的社会地位也就是说，他们是否被霸凌或被排斥或被忽视—可以随着时间 的推移而改变。然后，我们研究了高中生对日常社交困难的应激反应。也就是说，我们教给他们一种 关于社交生活的成长思维模式。在这项研究中，学生们走进实验室，被要求在高年级学生面前发表公 开演讲。演讲的主题是什么让一个人在高中受欢迎。在此之后，学生们必须在同一批高年级学生面前 完成一项艰巨的心算任务。 的血管收缩，他们的心脏向身体输送的血液减少这两种反应都是身体在受到物理威胁后准备遭受 伤害或失败时表现出来的。然后他们做了更糟糕的演讲，犯了更多的数学错误。（44)但是当学生们被 教导人是可以改变的，他们就能更好地应对压力，部分原因是他们觉得自己有能力来应对苛刻的状况。 接受成长思维模式干预的学生血管收缩更少，他们的心脏输送的血液更多——这两者都有助于更多的 氧气进人大脑，最终，在语言和心算任务上表现更好。 这些发现。我们想知道在哪些类型的学校和哪种类型的学生身上，这些成长思维的想法帮助年轻人适 应高中的挑战。(38)我们还希望了解老师、家长或学校辅导员如何帮助学生正确看待持续存在的学业 或社交困难。我们想知道，如果学校帮助把对改变和改善潜力的信念作为整个学校文化的一个更大的 特征，尤其是对初入九年级的学生来说，会发生什么。 星火英语App"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Educators and business leaders have more in common than it may seem. Teachers want to prepare students for a successful future. Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry. How can they work together to achieve these goals? Play may be the answer. Focusing on STEM skills is important, but the reality is that SIBM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. This combination is proving to be the best way to prepare today's children to be the makers and builders of tomorrow. That is why technology companies are partnering with educators to bring back good, old-fashioned play. In fact many experts argue that the most important 21st-century skills aren't related to specific technologies or subject matter, but to creativity; skills like imagination, problem-finding and problem solving, teamwork, optimism, patience and the ability to experiment and take risks. These are skills 1-- - - - - -acquired-when -kids-tinker (-it.fib 1•-fu-;f;-} ;--High 4ech industries-such-as-NASA's-Jet-Propulsion- Laboratory - - - - - have found that their best overall problem solvers were master tinkerers in their youth. There are cognitive ( -iA � {JI.;) benefits of doing things the way we did as children-building something, tea ring it down, then building it up again. Research shows that given 15 minutes of free play, four- and five-year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities. This type of play-especially with building blocks-helps children discover and develop key principles in math and geometry. If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, sofostering (;J:.g-$f.) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older. Secondly, it doesn't take 21st-century technology to foster 21st-century skills. This is especially important for under resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. And anyone, anywhere, can do it.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author say about educators?",
+              "stemCn": "【定位】由题干中的educators定位到首段前两句。",
+              "options": {
+                "A": "They seek advice from technology companies to achieve teaching goals.",
+                "B": "They have been successful in preparing the workforce for companies. [9f;&20211:p 6 JJ 6 ===== PAGE 7 =====",
+                "C": "They help students acquire the skills needed for their future success.",
+                "D": "They partner with technology companies to enhance teaching efficiency."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，教育工作者和 商界领袖的共同点比看起来要多。教师希望为学"
+              },
+              "answer": "C",
+              "analysis": "生成功的未来做好准备。Teachers“教师”指的就 是educators“教育工作者”，由此可见，教育工作者 帮助学生为成功的未来做好准备，即帮助学生获 得未来成功所需的技能，故答案为C)。 【避错】文章并没有提及教育工作者向科技公司征 求意见，故排除A)。首段第三句提到，科技公司 有兴趣培养一支具有推动企业发展和行业发展所 需的STEM技能的员工队伍，并非教育工作者为 企业成功储备了人才，故排除B)。第二段最后一 句提到，教育工作者和科技公司合作，重新引人优秀 的老式游戏，但不是为了提高教学效率，故排除D)。"
+            },
+            {
+              "num": 47,
+              "stem": "How can educators better develop students' SIBM skills, according to the author?",
+              "stemCn": "【定位】由题干中的betterdevelopstudents",
+              "options": {
+                "A": "By blending them with traditional, stimulating activities.",
+                "B": "By inviting business leaders to help design curriculums.",
+                "C": "By enhancing students' ability to think in a critical way.",
+                "D": "By showing students the best way to learn is through play."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句提到，专注于STEM"
+              },
+              "answer": "A",
+              "analysis": "STEMskills定位到第二段第一、二句。 技能很重要，但当STEM技能与传统的动手创造 性活动相结合时，这些技能会增强。事实证明，这 种结合是让今天的孩子成为明天的创造者和建设 者的最佳方式。换言之，通过将培养STEM技能 与传统的、趣味盎然的活动相结合，能够更好地培 养学生的STEM技能，故答案为A)。 【避错】文章第二段最后一句提到，科技公司与教 育工作者合作，重新引人优秀的老式游戏，而非由 商界领袖设计课程，故排除B)。文中并没有提及 培养学生的批判性思考能力，故排除C)。第二段 第一句提到，要提高STEM技能，应让学生参与有 创意的活动，并非简单地向学生展示游戏的重要 性，故排除D)。"
+            },
+            {
+              "num": 48,
+              "stem": "How do children acquire the skills needed for the 21st century?",
+              "stemCn": "【定位】由题干中的children acquire the skills",
+              "options": {
+                "A": "By engaging in activities involving specific technologies.",
+                "B": "By playing with things to solve problems on their own.",
+                "C": "By familiarizing themselves with high-tech gadgets.",
+                "D": "By mastering basic principles through teamwork."
+              },
+              "optionCn": {
+                "B": "。"
+              },
+              "answer": "B",
+              "analysis": "needed for the 2lst century 定位到第三段第一、 二句。 【精析】推理判断题。定位句指出，许多专家认为 21世纪最重要的技能与特定的技术或主题无关， 而是与创造力有关；如想象力、发现问题和解决问 题的能力、团队合作、乐观、耐心以及做实验和冒 险的能力。这些都是孩子们鼓捣小玩意时获得的 技能。由此可见，孩子们可以通过摆弄东西来自 己解决问题，从而获得21世纪所需的技能，故答 【避错】文章第三段第一句指出，许多专家认为21 世纪最重要的技能与特定的技术或主题无关，故 排除A)。文中并未提及熟悉高科技产品和掌握 基本原则，故排除C)和D)。"
+            },
+            {
+              "num": 49,
+              "stem": "What can we do to help children learn the basics of math and geometry?",
+              "stemCn": "【定位】由题干中的 basics of math and geometry",
+              "options": {
+                "A": "Stimulate their interest as early as po.ssible.",
+                "B": "Spend more time playing games with them.",
+                "C": "Encourage them to make things with hands.",
+                "D": "Allow them to tinker freely with calculators."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位句提到，这种类型的游"
+              },
+              "answer": "C",
+              "analysis": "定位到第四段最后一句。 戏——特别是搭积木——帮助孩子们发现和掌握 数学和几何学的关键原理。由此可见，鼓励孩子 们动手做东西可以帮助孩子们学习数学和几何的 基础知识，故答案为C)。 【避错】文章并未提及尽早激发他们的兴趣，故排 除A)。文章第四段第二句提到，给孩子自由玩耍 的时间，并非花时间和他们做游戏，故排除B)。 文中并未提到摆弄计算器，故排除D)。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author advise disadvantaged schools and communities to do?",
+              "stemCn": "【定位】由题干中的 disadvantaged schools and",
+              "options": {
+                "A": "Train students to be makers to meet future market demands.",
+                "B": "Develop students' creative skills with the resources available.",
+                "C": "Engage students with challenging tasks to foster their creativity.",
+                "D": "Work together with companies to improve their teaching facilities."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句指出，这一点对于资"
+              },
+              "answer": "B",
+              "analysis": "communities定位到文章最后一段最后三句。 源不足的学校和社区尤其重要。利用手边的任何 材料，让孩子们去鼓捣小玩意，这是运用那些重要 的“制造者”技能的一个简单方法。任何人在任何 地方都能做到。换言之，资源不足的学校和社区 应尽可能地利用现有资源，故答案为B)。 【避错】文章最后一段第一句后半部分指出，孩子 参考译文 天生就是建设者、制造者和创造者，故排除A)。 文中并未提及让学生参与有挑战性的任务和与公 司合作改善教学设施，故排除C)和D)。 (46)教育工作者和商界领袖的共同点比看起来要多。教师希望为学生成功的未来做好准备。科技公 司有兴趣培养一支具有推动企业发展和行业发展所需的STEM（科学、技术、工程和数学）技能的员工队 伍。他们如何共同努力实现这些目标？玩可能就是答案。 (47)专注于STEM技能很重要，但现实情况是，当与传统的动手创造性活动相结合时，STEM技能会 增强，而且更有相关性。事实证明，这种结合是让今天的孩子成为明天的创造者和建设者的最佳方式。这 就是为什么科技公司正在与教育工作者合作，重新引入优秀的老式游戏。 (48)事实上，许多专家认为21世纪最重要的技能与特定的技术或主题无关，而是与创造力有关；如想 象力、发现问题和解决问题的能力、团队合作、乐观、耐心以及做实验和冒险的能力。这些都是孩子们鼓捣 小玩意时获得的技能。像美国航空航天局喷气推进实验室这样的高科技行业已经发现，他们最好的整体 问题解决者，年轻时都是一流的修补匠。 像小时候那样做事有认知上的好处建造某个东西，把它拆掉，然后重新再造。研究表明，如果给 四、五岁的孩子15分钟的自由玩要时间，他们会把三分之一的时间用于空间、数学和建筑活动。(49)这种 类型的游戏—特别是搭积木—帮助孩子们发现和掌握数学和几何学的关键原理。 .* 如果游戏和建筑对21世纪的技能发展至关重要，那么这真是个好消息，原因有两个:孩子天生就是建 设者、制造者和创造者，因此培养21世纪的技能可能很简单，就是给孩子们提供玩要、鼓捣小玩意和不断 尝试的空间，即使他们长大了。其次，培养21世纪的技能并不需要21世纪的技术。(50)这一点对于资源 不足的学校和社区尤其重要。利用手边的任何材料，让孩子们去鼓捣小玩意，这是运用那些重要的“制造 者”技能的一个简单方法。任何人在任何地方都能做到。 Passage Two 【文章来源】本文选自2020年1月10日发表在www.smh.com.au(悉尼先驱晨报网站)上一篇标题为“Waking up to why workers can't get no IT satisfaction”(《了解员工不满意信息技术的原因》)的文章。 【结构框图】 第1、2段指出信息技术工作者的难处，由此引出一项调查——员工对企业信息 技术很不满。 本文主要分析了员工 不满意信息技术的原 第3段介绍了信息技术正常运转与否对员工造成的影响。 因，以及企业应当如 何改进。 第4、5段说明企业应当如何改进信息技术，从而更有利于员工工作。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2021_06_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Being an information technology, or IT, worker is not a job I envy. They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working. They have to tolerate the bad tempers of colleagues frustrated at the number of times they've had to call the help desk for the same issue. They are also the ones who know there are systems that are more powerful, reliable and faster, but their employer simply will not put up the funds to buy them. According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. Through no fault of their own, they can suddenly find their productivity deteriorating or quality control non-existent. And there's little they can do about it. The experience of using IT penetrates almost the entire work field. It has become a crucial part of employees' overall work experience. When IT is operating as it should, employee self-confidence swells. Their job satisfaction, too, can surge when well-functioning machines relieve them of dull tasks or repetitive processes. But if there's one thing that triggers widespread employee frustration, it's an IT transformation project gone wrong, where swollen expectations have been popped and a long list of promised efficiencies have been reversed. This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user. Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. Adequate and timely IT support should also be available to enable users to cope with Im� 2021 ip 6 fJ7 ===== PAGE 8 ===== technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT. Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author say about working in IT?",
+              "stemCn": "【定位】由题干中的working inIT定位到第一段",
+              "options": {
+                "A": "It is envied by many.",
+                "B": "It does not appeal to him.",
+                "C": "It is financially rewarding.",
+                "D": "It does not match his abilities."
+              },
+              "optionCn": {
+                "B": "【精析】推理判断题。定位句提到，“我”并不羡慕"
+              },
+              "answer": "B",
+              "analysis": "第一句。 信息技术工作者，或者说IT工作者的工作。由此 可知，作者对这样的工作不感兴趣，故答案为B)。 【避错】文章第一段第一句提到，“我”并不羡慕信 息技术工作者的工作，第二、三句接着举例说明了 信息技术工作者的艰难处境，由此可知，这样的工 作并不让人羡慕，故排除A)；文中并未提及信息 技术行业的收入，以及是否与作者的能力匹配，故 排除C)和D)。"
+            },
+            {
+              "num": 52,
+              "stem": "What is the finding of a recent survey on employees who have a job reliant on IT support?",
+              "stemCn": "【定位】由题干中的 a job reliant on IT support 定",
+              "options": {
+                "A": "IT helps boost productivity.",
+                "B": "IT helps improve quality control.",
+                "C": "Many employees are deeply frustrated by IT.",
+                "D": "Most employees rely heavily on IT in their work."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位段提到，根据最近的一"
+              },
+              "answer": "C",
+              "analysis": "位到第二段。 项调查，那些自身工作依赖信息技术支持的员工 认为，信息技术是他们工作不满意的主要原因。 他们自己毫无过错，却突然发现生产效率在下降， 或质量控制不起作用。他们对此几乎无能为力。 由此可知，答案为C)。 【避错】A)和B)与定位段意思相悖，故排除；第二 段第一句提到，针对自身工作依赖信息技术支持 的员工做了调查，但未提及这类员工数量的多少 以及他们对信息技术的依赖程度，故排除D)。"
+            },
+            {
+              "num": 53,
+              "stem": "What is said to happen when IT is functioning properly?",
+              "stemCn": "【定位】由题干中的IT is functioning properly定",
+              "options": {
+                "A": "There is a big boost in employees' work efficiency.",
+                "B": "Employees become more dependent on machines.",
+                "C": "There are no longer any boring or repetitive tasks.",
+                "D": "Employees become more confident in their work."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，当信息技术正"
+              },
+              "answer": "D",
+              "analysis": "位到第三段第三、四句。 常运作时，员工的自信心就会增加。当运转良好 的机器将他们从枯燥的任务或重复性的流程中解 放出来时，他们的工作满意度也会激增。换言之， 当信息技术正常运行时，员工对自己的工作更有 信心，故答案为D)。 【避错】第三段并未提及信息技术正常运行是否能 够大幅提高员工的工作效率，也未提及员工是否 更加依赖机器，故排除A)和B)。第三段第四句虽 然提到，运转良好的机器可以把员工从枯燥的任 务或重复性的流程中解放出来，但C)的说法太过 绝对，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What should business leaders do before implementing new IT initiatives?",
+              "stemCn": "【定位】由题干中的implementingnewIT",
+              "options": {
+                "A": "Consider the various expectations of their customers.",
+                "B": "Draw up a list of the efficiencies to be promised.",
+                "C": "Assess the swollen cost of training the employees.",
+                "D": "Think about the possible effects on their employees."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。定位句指出，当业务领导在"
+              },
+              "answer": "D",
+              "analysis": "initiatives定位到第三段最后一句。 实施信息技术计划时很少考虑这些更改将如何影 响终端用户时，就会发生这种情况。结合本段倒 参考译文 数第二句可知，这种情况指的是一旦信息技术改 造项目出问题，会导致满满的期望破灭，一长串承 诺提高效率的方法被推翻。因此，业务领导在实 施信息技术计划时，应考虑对员工可能产生的影 响，故答案为D)。 【避错】文章第三段主要讲了信息技术对员工造成 的影响，并非针对公司客户，故排除A)。文章第 三段倒数第二句提到，一旦信息技术改造项目出 问题，就会导致满满的期望破灭，一长串承诺提高 效率的办法被推翻，并非需要拟定要承诺的提高 效率的办法清单，故排除B)。文章未提及需要评 估培训员工的膨胀成本，故排除C)。"
+            },
+            {
+              "num": 55,
+              "stem": "How can a business help improve its employees' experience in using IT?",
+              "stemCn": "【定位】由题干中的 business、improve its employees'",
+              "options": {
+                "A": "By designing systems that suit their needs.",
+                "B": "By ensuring that their mental health is sound.",
+                "C": "By adjusting their work to suit the IT system.",
+                "D": "By offormg tliem regular·m-serv 1ce trammg."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。文章最后一段指出，企业需"
+              },
+              "answer": "A",
+              "analysis": "experience inusingIT定位到文章最后一段。 要建立自己的信息技术基础设施，使其设计能够 适应员工的工作，而不是让员工调整自己的工作 以适应公司的信息技术系统。即企业应设计适合 员工工作需求的系统，故答案为A)。 【避错】由文章第四段倒数第一句可知，信息技术 工作者需要了解员工在使用信息技术时的心理体 验，并非心理健康，由此可排除B)。文中提到企 业需要建立自己的信息技术基础设施，使其设计 能够适应员工的工作，而不是让员工调整自己的工 作以适应公司的信息技术系统，故排除C)。文中 并未提及为员工提供定期的在职培训，故排除D)。 (51)我并不羡慕信息技术工作者，或者说IT工作者的工作。正是他们，在某个关键的会议进行到一 半的时候，被要求立即修复不再工作的投影仪。因同一问题而一次又一次给服务台打电话，这使同事们 感到懊恼，而信息技术工作者不得不忍受他们的坏脾气。信息技术工作者也知道有更强大、更可靠和更 快的系统，但他们的雇主根本不会拿出资金购买它们。 (52)根据最近的一项调查，那些自身工作依赖信息技术支持的员工认为，信息技术是他们工作不满意 的主要原因。他们自己毫无过错，却突然发现生产效率在下降，或质量控制不起作用。他们对此几乎无能 为力。 信息技术的使用几乎渗透到整个工作领域。它已成为员工整体工作经历的重要组成部分。(53)当信 息技术正常运行时，员工的自信心就会增加。当运转良好的机器将他们从枯燥的任务或重复性的流程中 解放出来时，他们的工作满意度也会激增。但是，如果有一件事引发了员工的普遍不满，那就是信息技术 改造项目出错，在这种情况下，满满的期望破灭，一长串承诺提高效率的办法被推翻。(54)当业务领导在 实施信息技术计划时很少考虑这些更改将如何影响终端用户时，就会发生这种情况。 这就是为什么管理者应该意识到信息技术用户体验对他们的员工有多大的影响，并付出巨大的努力来 确保他们的信息技术团队消除编程错误和应用程序崩溃。还应提供充分和及时的信息技术支持，使用户能 够处理工作中的技术问题。更重要的是，信息技术工作者需要了解员工在使用信息技术时的心理体验。 (55)因此，企业需要建立自己的信息技术基础设施，使其设计能够适应员工的工作，而不是让员工调 整自己的工作以适应公司的信息技术限制。 Part Translation Tieguanyin,one of the most favored types of tea in China,is native to Xiping Town, Anxi County, Fujian Province. Now planted throughout Anxi County, the tea varies in its flavor in different regions of the county. Tieguanyin can be gathered through all seasons, tasting the best particularly when picked in spring and fall. The complex processing of the tea calls for specialized skills and abundant experience. The drink, rich in vitamins and with a distinct taste, helps prevent heart diseases, lower blood pressure and enhance memory if consumed regularly. black tea 红茶 semi-fermented半发酵的 aftertaste 回味 tea set/teaware 茶具 teapot茶壶 星火英语App 扫码看视频 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2021_06_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "should write your answer onAnswer Sheet 2. )t.Jt-t(Tieguanyin) Jt_ 'fmli{l,j:31x_l[f.z-, 1#-/L -fif&,Jm 4c--!-iffl 3:f4Ji., -Jtμ4'-4c--!-{¥-Mi#ifli., -!-Mg±fE-*-txo *-t-*,*ifl 1:!o 4JoiJt-t-JJri.:r..J=.'t.i.-1#'-t f1 ;}t;i(.;fl7-f\" 't 0*'Jt-t* ff, #ift± -t' p*- 0 Ji# 0 -t-tk45t5!Jt-t ]jJ -t-ffi , M. , 1*1tJu.a, 51 ii ·ri:JJ 0 [g 2021&f 6 Jj 8",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

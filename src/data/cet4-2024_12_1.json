@@ -1,0 +1,1090 @@
+{
+  "id": "cet4-2024_12_1",
+  "level": 4,
+  "year": 2024,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2024年12月四级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Suppose the business school of your university is conducting a survey to collect students’opinions on the express delivery service industry in China. You are to write a response about its recent development and its impact on people's lives. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+          "review": "作文要求考生假设自己所在大学的商学院正在调查学生对中国快递行业的看法。考生需要就该行业近期 的发展及其对人们生活的影响写一份反馈。该作文属于观点论证型，考生应紧紧把握中国快递行业的最新发展 和它对人们生活的影响这两个方面，就此发表自己的看法。",
+          "sample": "The express delivery service industry in china has undergone remarkable development in recent years, revolutionizing how people conduct business and manage their dailylives.1 This rapid evolution is characterizedby increased efficiency, expandedcoverage, and enhanced technology integration. The industry's growth has facilitated seam less e-commerce transactions, enabling consumers to enjoy convenient door step deliveries.2 This boom has significantly impacted individuals andbusinesses alike.3 Consumers now experience unparalleled shopping convenience, with goods reaching them swiftly across vast distances. Meanwhile, small enterprises have gainedbroadermarketaccessthanks to reliablelogistics support.4 However, this rapid growth also poses challenges, such as environmental impact due to excessive packaging and increased vehicle emissions, and the strain onlaborresources caused by long working hours and high delivery volumes.5 Overall, the express delivery service industry's progress is a testament to China's economic vitality.6 However, to ensure its sustained development and positive societal impact, continuous innovation and responsible management are essential.7",
+          "sampleNote": "1从总体上指出中国快递行业的最新 发展及其影响。 2进一步指出该行业发展的特点（高 效、覆盖面广、技术整合增强）和 它为电子商务交易、消费者带来的 便利。 3综述其繁荣发展对个人和企业产生 了重要的影响。 4阐述其繁荣发展给消费者和企业带 来的积极影响。 5笔锋一转，指出其迅猛发展给环 境、劳动力资源等方面带来了挑 战。 6总结全文，指出快递服务业的发展 是中国经济活力的体现。 7提出展望与建议：要实现快递行业 的持续发展及其积极的社会影响这 两大目标，持续创新与负责任的管 理必不可少。",
+          "sampleCn": "近年来，中国快递服务业经历了显著发展，彻底改变了人们开展业务和管理日常生活的方式。这种快速 发展的特点是效率提高、覆盖范围扩大和技术整合增强。该行业的发展促进了无缝的电子商务交易，使消费者 能够享受便捷的送货上门服务。 这一繁荣对个人和企业都产生了重大影响。消费者现在可以体验到无与伦比的购物便利，商品可以跨越 遥远的距离迅速到达他们手中。与此同时，由于有了可靠的物流支持，小企业获得了更广阔的市场准入。然 而，这种快速增长也带来了诸多挑战，比如过度包装以及车辆尾气排放增加所造成的环境影响，还有长时间工 作和高送货量给劳动力资源带来的压力。 老师说 本套讲解视频中，老师教你如何就某一行业谈论其发展态势及给人们生活带来的影响，为你讲解听音时利用选项设置快速 排除干扰项的做题技巧，帮你掌握利用因果关系解答阅读题型的做题方法，为你呈现隐藏被动句的翻译技巧。快来扫码观看吧！ 总体而言，快递服务业的进步证明了中国的经济活力。然而，为确保其持续发展以及对社会产生积极影 响，持续创新和负责任的管理至关重要。",
+          "vocab": [
+            "undergo经历",
+            "technologyintegration技术整合",
+            "logistics support物支持",
+            "remarkable显著的",
+            "facilitate促进",
+            "pose challenges带来诸多挑战",
+            "revolutionize彻底改变",
+            "seamless无缝的",
+            "testament证明",
+            "conductbusiness开展业务",
+            "doorstepdeliveries送货上门",
+            "sustaineddevelopment可持续发展",
+            "be characterized by以……为特征",
+            "unparalleled无与伦比的",
+            "societalimpact社会影响",
+            "expandedcoverage覆盖范围扩大",
+            "market access市场准入",
+            "essential必不可少的"
+          ],
+          "patterns": [
+            "1.The...industry inChina has undergoneremarkable development.….,revolutionizing...",
+            "句型意为“中国……行业经历了显著发展，彻底改变了……”，是用来阐述中国某行业显著发展、给社会",
+            "带来彻底变革的常用句式，其中revolutionizing..是现在分词短语，表示结果或伴随情况。",
+            "2.Overall,….progress is a testament toChina's...",
+            "句型意为“总体而言，……的进步证明了中国……”，是总结某项进步是中国某种特征的证明的常用句",
+            "式，往往用来总结全文。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_1-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1 and 2 are based on the news report you have just heard.",
+          "material": "The city ofFayetteville ismaking a special effort to recognize its bus drivers ahead oft he newly proclaimed Transit Driver Appreciation Day happening Saturday.[1] As part oft he event, the city is celebrating its longest-serving driver on the force. [1] That driver is SherryChristian. Christian has been ad river for 25years. The Fayettevillenativebelieves driving a school bus allows her to give back to her community. She says that the best part of the job is watching the children who ride her bus grow up. Transit Driver Appreciation Day has been celebrated across the country as far back as 209.However, this week, theCityofFayetteville issued a proclamation fort he day to take place march 18th.[2] Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6millionriders a year.",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What do we learnaboutSherryChristian?",
+              "stemCn": "我们了解到关于谢丽·克里斯蒂安的什么信息?",
+              "options": {
+                "A": "She is making a special effort to be recognized.",
+                "B": "She has been living in Fayetteville for 25 years.",
+                "C": "She has been driving a school bus ever since 2009.",
+                "D": "She is the longest-serving bus driver in Fayetteville."
+              },
+              "optionCn": {
+                "A": "她格外努力以获得认可。",
+                "C": "她从2009年开始开校车。",
+                "B": "她已经在费耶特维尔生活了25年。",
+                "D": "她是费耶特维尔服务时间最长的公交司机。"
+              },
+              "answer": "D",
+              "analysis": "新闻开头提到，费耶特维尔市在“公交司机感恩日”到来之前，特意组织了一场公交司机表彰活动。作为 活动的一部分，该市将表彰在职时间最长的司机。这位司机是谢丽·克里斯蒂安。由此可知，选项D为正 确答案。新闻中提到，谢丽·克里斯蒂安已经当了25年的司机，是本地人，但并没有提到她在费耶特维尔 生活了多少年，故排除选项B。选项C是利用新闻细节信息asfarbackas2009设置的干扰项，新闻说的是早 在2009年，全国各地就开始庆祝“公交司机感恩日”，而非谢丽·克里斯蒂安从2009年开始开校车，故排 除选项C。选项A新闻中未提及，可排除。"
+            },
+            {
+              "num": 2,
+              "stem": "Whatdidcityofficials ofFayetteville want bus driverstobeawareof?",
+              "stemCn": "",
+              "options": {
+                "A": "The importance of their service to the city.",
+                "B": "The number of riders they serve in the city.",
+                "C": "The new proclamation issued early this week.",
+                "D": "The significance of the event to take place March 18."
+              },
+              "optionCn": {
+                "A": "他们的服务对城市的重要性。",
+                "B": "他们在该市服务的乘客数量。",
+                "C": "本周初发布的新公告。",
+                "D": "3月18日活动的意义。"
+              },
+              "answer": "A",
+              "analysis": "费耶特维尔市的官员希望公交司机知道什么？ 新闻最后一句提到，费耶特维尔市的官员们表示，他们希望公交车司机知道他们对费耶特维尔有多么重 要，这些司机每年为近160万名乘客提供服务。由此可知，选项A为正确答案。其余三项均是利用新闻细 节信息设置的干扰项，与题干不符，均排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 3 and 4 are based on the news report you have just heard.",
+          "material": "[3] The WiltonSchoolBoard hasproposeda 5.99% spending increase. Ifapproved, it wouldbethelargestjump in at least eight budget cycles. The 5.99%request more than doubles the highest previous year-over-year increase in the last eight years, which was 2.99% fort he 2021-2022school year. Thebiggestdriverofthe $91.8millionproposed budget remains teachersalaries. These account for 64%oft he total request at $59million. The $59millionis up from the $56.7millionbudgetedfor the current school year. There are some factors that could affect thebudgetmoving forward. One of those is total enrollment. The district will have a total enrollment of 3,742students. Almost all of these students will be in kindergarten through high school, but 66 will be in prekindergartenandotherprograms. Thisrepresents 47fewerstudents than the current year. [4] Fewer studentsmeanlessfederal and state funding.",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What does the news report saytheWiltonSchoolBoardhas done？",
+              "stemCn": "新闻报道中提到威尔顿学校董事做了什么？",
+              "options": {
+                "A": "Budgeted $56.7 million for the coming school year.",
+                "B": "Requested to raise teachers’ salaries by 3 percent.",
+                "C": "Proposed a spending increase by 5.99 percent.",
+                "D": "Kept raising funds for at least 8 budget cycles."
+              },
+              "optionCn": {
+                "A": "为下一学年编制了5670万美元的预算。",
+                "B": "要求将教师工资提高3%。",
+                "C": "提议增加5.99%的开支。",
+                "D": "为至少8个预算周期持续筹集资金。"
+              },
+              "answer": "C",
+              "analysis": "的预算金额为5670万美元，而非下一学年，故排除选项A。其余两个选项在新闻中没有依据，可排除。"
+            },
+            {
+              "num": 4,
+              "stem": "What will a decline in the total enrollment lead to?",
+              "stemCn": "总入学人数的减少将导致什么？",
+              "options": {
+                "A": "Decrease in salaries for school administrators.",
+                "B": "Reduction in federal and state funding.",
+                "C": "Firing of less qualified faculty members.",
+                "D": "Closing down of some less competitive schools."
+              },
+              "optionCn": {
+                "A": "学校行政人员的工资减少。",
+                "B": "联邦拨款和州拨款减少。",
+                "C": "解雇资质较差的教职员工。",
+                "D": "关闭一些竞争力较弱的学校。"
+              },
+              "answer": "B",
+              "analysis": "新闻最后一句提到，学生人数的减少意味着联邦拨款和州拨款的减少，故选项B为正确答案。其余三个选 项在新闻中均未提及，可排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Three",
+          "intro": "Questions 5 to 7 are based on the news report you have just heard.",
+          "material": "A rare thunder snow event has taken place in scotland. Andalarmedlocals contactedpolice, thinking they had heardbombs going off. The phenomenon happens when thunder and lightning mix with a heavy snowstorm— [5] sometimes causing loud claps that can be confused with explosions. One person described it as a loud boom, similar to a plane crash. Another person was woken up in the middle of the night by what he thought was early construction work starting. The noise was powerful enough to shake buildings and set off car alarms. The police were flooded with many calls from the public.[6] And they sentouta message as king people to remain calm. The police assured everyone that it was just thunder and lightning rather than some military exercise. The weather was the coldestithadbeenfortheseason,[7] so people were warned to be careful when traveling outside. In particular, dangerous conditions such as icyroads or wet ground could cause difficulty for drivers. The rail service also announced potential disruptions to trains due to the deep snow. Some roads were also closed because of the severe weather.",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What do we learnaboutthundersnowsfromthe report?",
+              "stemCn": "关于雷雪，我们从新闻报道中了解到什么?",
+              "options": {
+                "A": "They often take place in the Scottish Highlands.",
+                "B": "They usually happen in the middle of the night.",
+                "C": "Their damage can be as serious as that of bombs.",
+                "D": "Their loud claps can be confused with explosions."
+              },
+              "optionCn": {
+                "A": "它们通常发生在苏格兰高地。",
+                "C": "它们造成的破坏会和炸弹一样严重。",
+                "B": "它们通常发生在半夜。",
+                "D": "它们的巨响可能与爆炸声相混淆。"
+              },
+              "answer": "D",
+              "analysis": "新闻开头提到，苏格兰发生了罕见的雷雪事件。惊慌失措的当地人以为听到了炸弹的爆炸声，于是报警 了。当雷电与暴风雪交织在一起时，就会发生这种现象，有时会产生巨大的响声，让人误以为是爆炸声。 由此可知，D为正确答案。新闻中虽提及雷雪产生的巨响威力足以让建筑物晃动，并触发汽车警报，但这 并不等于它造成的破坏跟炸弹一样严重，故排除选项C。其余两项新闻中并未提及，可排除。"
+            },
+            {
+              "num": 6,
+              "stem": "What did the police do whentheyreceivedthe localresidents'phone calls?",
+              "stemCn": "",
+              "options": {
+                "A": "They sent out a message to calm them down.",
+                "B": "They promised to stop the construction work.",
+                "C": "They told them the military exercise was over.",
+                "D": "They set off to inspect the site of the plane crash."
+              },
+              "optionCn": {
+                "A": "他们发公告让民众冷静下来。",
+                "C": "他们告诉民众军事演习结束了。",
+                "B": "他们答应阻止施工。",
+                "D": "他们出发去检查飞机失事现场。"
+              },
+              "answer": "A",
+              "analysis": "警方接到当地居民的电话后做了什么？ 新闻中提到，许多民众在听到巨响后报警，警方发出公告，让人们保持冷静，并向民众保证，这只是雷电 现象，而不是什么军事演习，由此可知，选项A为正确答案，同时可排除选项C。其余两项新闻中并未提 及，可排除。"
+            },
+            {
+              "num": 7,
+              "stem": "What were peopleadvisedto dowhentravelingoutside?",
+              "stemCn": "人们外出时被建议做什么？",
+              "options": {
+                "A": "Keep warm.",
+                "B": "Take caution.",
+                "C": "Avoid driving.",
+                "D": "Use rail service. Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "注意保暖。",
+                "C": "不要开车。",
+                "B": "注意安全。",
+                "D": "乘坐火车。"
+              },
+              "answer": "B",
+              "analysis": "新闻最后提到，雷雪天气，气温极低，相关部门警告人们外出时要当心，故选项B为正确答案。选项C和选 项D是利用新闻细节信息设置的干扰项，与新闻描述不符，故排除。选项A在新闻中并未提及，可排除。 SectionB"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L8",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation One",
+          "intro": "Questions 8 to 11 are based on the conversation you have just heard.",
+          "material": "M:I'm going to the city centre to buy a new phone today. W:Didn't you buy a new phone just two months ago? M:It was thre months ago, and i already know what you're going to say. You're thinking i shouldntreplacemy phone this soon. W:No,[8] actually, I was wondering how you could possibly afford a new phone. But now that you mention it, I do think getting another phone so soon is wasteful, regardless of the cost. M:Maybe you're right,[9] but the thing is, everyone at the office has a nice, expensive phone, and i'ma little embarrassed by mine. I just gota credit card, so I thought i might as well buy a new phone. W:I don'tthink buyinga phone on credit is a good idea. Look, you'veonlybeen working for five months now. People understand that you are a recent graduate, and I doubt anyone cares about your phone other than yourself. M:Maybe you're right,[10] but the credit card has a very good special offer, where i don't pay any interest for six months.I'llbeable to pay fort he phone well before that period is over. W:I still think it’sabadideato use a credit card for something you don'tneed.[1] Oneofmycolleaguesboughtalot ofthings on credit during her first year of work, and itbecame a bad habit, and sheaccumulated a lot of debt. M:Well, I can see how that might happen to someone, an dim sure she regrets it, but i know it won't happen to me. 4四级2024.12第一套",
+          "questions": [
+            {
+              "num": 8,
+              "stem": "What does the woman say she was actually wondering about?",
+              "stemCn": "女士说她实际上在好奇什么？",
+              "options": {
+                "A": "Why the man is so anxious to buy a new phone.",
+                "B": "How the man could possibly afford a new phone.",
+                "C": "How the man got into the habit of being wasteful.",
+                "D": "Why the man is so fond of using his credit card."
+              },
+              "optionCn": {
+                "A": "为何男士如此急切地想买一部新手机。",
+                "C": "男士如何养成了浪费的习惯。",
+                "B": "男士怎么可能买得起一部新手机。",
+                "D": "为何男士如此喜欢使用他的信用卡。"
+              },
+              "answer": "B",
+              "analysis": "部新手机，所以答案是B项。其他三项与对话内容不符，故均排除。"
+            },
+            {
+              "num": 9,
+              "stem": "Why is the man a little embarrassed by the phone he's using now?",
+              "stemCn": "",
+              "options": {
+                "A": "It is not in fashion any more.",
+                "B": "It goes out of order frequently.",
+                "C": "It is not as fancy as his colleagues’.",
+                "D": "It lacks functions office work requires."
+              },
+              "optionCn": {
+                "A": "它已经不再流行了。",
+                "C": "它不像同事们的手机那样贵。",
+                "B": "它经常出故障。",
+                "D": "它缺少办公所需的功能。"
+              },
+              "answer": "C",
+              "analysis": "为什么男士对自己现在用的手机有点难为情？ 在对话中，男士提到办公室里每个人都有一部很不错、价格昂贵的手机，他对自己的手机有点难为情。 由此可知，男士认为自己的手机比不上同事们的手机，没有同事们的手机那么好、那么贵，所以答案是C 项。A、B、D三项在对话中没有相关信息，故均排除。"
+            },
+            {
+              "num": 10,
+              "stem": "What does them an say about the credit card he just got?",
+              "stemCn": "关于他刚办的信用卡，男士说了什么？",
+              "options": {
+                "A": "It enables him to buy a new phone at a more favorable price.",
+                "B": "It is a special offer to recent college graduates working in offices.",
+                "C": "It is available to office workers who have a good enough credit score.",
+                "D": "It allows him to borrow money without paying interest for six months. ===== PAGE 2 ====="
+              },
+              "optionCn": {
+                "A": "它能让他以更优惠的价格买到一部新手机。",
+                "B": "它是针对在办公室工作的应届大学毕业生的一项特别优惠。",
+                "C": "它适用于信用评分足够好的办公室职员。",
+                "D": "它允许他在六个月内借钱不用支付利息。"
+              },
+              "answer": "D",
+              "analysis": "在对话中，男士提到刚办的这张信用卡有个很不错的优惠活动，六个月内不用付利息，所以答案是D项。 对话中并没有提及这张信用卡能够让他在买新手机时享受更优惠的价格，故排除A项；B项拼凑了对话中 的几处信息，不符合对话内容，故排除；C项在原文中没有相关信息，也排除。"
+            },
+            {
+              "num": 11,
+              "stem": "What do we learn about one of the woman's colleagues?",
+              "stemCn": "关于女士的一位同事，我们了解到什么？",
+              "options": {
+                "A": "She borrowed money to pay her debt.",
+                "B": "She developed a habit of overspending.",
+                "C": "She enjoys buying a lot of fancy things.",
+                "D": "She regrets ignoring the woman’s advice."
+              },
+              "optionCn": {
+                "A": "她借钱来偿还债务。",
+                "C": "她喜欢买很多昂贵的东西。",
+                "B": "她养成了过度消费的习惯。",
+                "D": "她后悔忽视了女士的建议。"
+              },
+              "answer": "B",
+              "analysis": "在对话最后，女士提到她的一个同事在工作第一年用信用卡买了很多东西，结果就养成了坏习惯，累积了 很多债务，故选B。A项在对话中没有相关信息，故排除。女士提到她的同事买了很多东西，但并没有说 是昂贵的东西，故排除C项；对话中男士提及女士的那位女同事肯定后悔了，但这只是男士的猜测，而且 ………………………… 对话并未提女士是否给那位女同事提建议，故D项也排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L12",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation Two",
+          "intro": "Questions 12 to 15 are based on the conversation you have just heard.",
+          "material": "W:Welcome to The morning Show. Our guest today is a popular blog writer and a major figure in the tiny home community. Welcome, Bob Jones. M:Hi, Mary. W:Hi, Bob. You're an advocate of the tiny home movement.A lot of people don'tknow about this movement. Can you tell our audience what it's about? M:[12] Well, it’smainlyabout increassinghomeownershipand protecting the environment. W:Of course, those are great goals. But i've seen your blog, and you write abouthouses that are as small as 20 square meters.[13] That’s not a realistic sizeforfamilies. M:I do talk about very smallhomes, butt here's no set definition of a tiny home. And other people include homes that are much larger, say,60 square meters. And you'd be surprised many families of four are happy living in houses that are under 30 square meters. W:But i think most of us want spacious homes. The average new house in this area is 150 square meters. And that's what people dream of owning. M:Yes,[14] but i think that dream needs to change, considering the cost of housing. W:Housing costs are high, but do people really save that much by having a smaller home? M:Absolutely. Many people who can only afford to rent a large home are able to buy a tiny home. In this city, the average home costs $200,000,and a tiny home costs just $50,000. W:Those are huge savings. M:[15] So, tiny homes might not be for everyone, but they're a good option form any. W:Youmentioned theenvironmentearlier. How does this benefit the planet? M:Well, if people have smallerhomes, they useless land andfewer resources to build them.",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "Whatdoesthetinyhomemovementmainlyadvocate？",
+              "stemCn": "小户型住宅运动主要倡导什么？",
+              "options": {
+                "A": "Blog writing and natural resources saving.",
+                "B": "Joint efforts to improve the local community.",
+                "C": "Audience participation in The Morning Show.",
+                "D": "Home ownership and environmental protection."
+              },
+              "optionCn": {
+                "A": "博客写作与节约自然资源。",
+                "B": "共同努力改善当地社区。"
+              },
+              "answer": "D",
+              "analysis": "在对话开头，女士告诉男士很多人不了解小户型住宅运动，所以请他告知观众这项运动是关于什么的，男 士回答说这项运动主要是关于增加自有住房率以及环境保护的，所以答案是D项。A、B两项对话中没有提 到，故排除；C项是利用对话细节设置的干扰项，故也排除。"
+            },
+            {
+              "num": 13,
+              "stem": "What does the woman say abouthouses as small as 20 square meters?",
+              "stemCn": "",
+              "options": {
+                "A": "Not a realistic size for families.",
+                "B": "Not welcomed by most Americans.",
+                "C": "Only fit for families of four or less.",
+                "D": "Only suitable for renting to the poor."
+              },
+              "optionCn": {
+                "A": "对很多家庭来说面积不太现实。",
+                "B": "不受大多数美国人欢迎。"
+              },
+              "answer": "A",
+              "analysis": "关于面积小至20平方米的房子，女士说了什么？ 在对话中，女士提到她看过男士的博客，他所写的那些房子面积小到只有20平方米，然后她评价道，对于 很多家庭来说，这样的面积并不现实，所以答案是A项。虽然对话中女士提到大多数人想要宽敞的房子， 但不能由此推出面积小至20平方米的房子不受大多数美国人欢迎，B项过度推断，故排除；对话中男士提 到很多四口之家住在不到30平方米的房子里也过得很开心，但是女士对此并没有作任何评价，故排除C 项；D项对话中没有相关信息，故排除。"
+            },
+            {
+              "num": 14,
+              "stem": "What does them an think about the dreamofowning a 150-square-meter house?",
+              "stemCn": "",
+              "options": {
+                "A": "It should be changed.",
+                "B": "It isn’t easy to realize.",
+                "C": "It will come true sooner or later.",
+                "D": "It doesn’t appeal to average families."
+              },
+              "optionCn": {
+                "A": "它应该被改变。"
+              },
+              "answer": "A",
+              "analysis": "男士对拥有150平方米房子的梦想有什么看法？ 4 在对话中，女士提到150平方米的房子才是人们梦想拥有的房子，男士对此的评价是，考虑到住房成本， 这个梦想需要改变了，所以答案是A项。其他三项对话中没有相关信息，故均排除。"
+            },
+            {
+              "num": 15,
+              "stem": "What does them an say about tiny homes?",
+              "stemCn": "关于小户型住宅，男士说了什么？",
+              "options": {
+                "A": "They help to lower housing prices.",
+                "B": "They help to save up for larger houses.",
+                "C": "They are a good choice for many people.",
+                "D": "They are vital to reducing waste worldwide. Section C Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "它们有助于降低房价。",
+                "B": "它们有助于为购买更大的房子存钱。"
+              },
+              "answer": "C",
+              "analysis": "在对话中，男士总结道小户型住宅可能并不适合所有人，但对很多人来说是个不错的选择，所以答案是C 项。虽然男士提到小户型住宅对环境有益处，即建造时使用更少的土地和资源，但并没有强调其对减少全球 浪费至关重要，对此没有相关的明确表述，故排除D项；A、B两项对话中没有相关信息，故均排除。 Section"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage One",
+          "intro": "Questions 16 to 18 are based on the passage you have just heard.",
+          "material": "Kids need time every day to run, jump, stretch and play. These experiences have been shown to build children's confidence and pleasure in physical activities, develop their motor skills, and even improve emotional well-being. [16] To begin with, childrenseem to have a natural desire to overcome challenges and take risks. Taking healthy risks through physical movement builds children's confidence and ability to solve problems and persist through frustration. Secondly, movement activities build children'sbig body skillssuchas coordination and balance, as well as the fine motor skills they need for tasks like writing, tying their shoes, or throwing andcatching a ball.[17] Thirdly, according to the AmericanPsychologicalAssociation, regularphysicalactivity(andespeciallyoutdooractivity) reduces children's stress and depression, and improves their ability to focus and learn. Regular exercise can significantly improve self-regulation and decrease disciplinaryconsequencesfor negative behavior. Physical activity providesa positiveoutletforfrustration, anxiety, or anger and canbecomeahealthycoping skill throughout life.[18] Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early. Childrenaremorelikely to develop a lifelong loveofphysicalactivityfromfrequent positive early experiences. Noteverychildenjoys competitive sports or playing withballs and that'sOK.There are plenty of other options such as imaginative play, non-competitive games, and gardening or nature experiences.",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What dochildrenseem to have a natural desire to do?",
+              "stemCn": "孩子们似乎天生就渴望做什么？",
+              "options": {
+                "A": "Play outdoors and enjoy themselves.",
+                "B": "Beat challenges and take risks.",
+                "C": "Take care of their well-being.",
+                "D": "Grow up strong and healthy."
+              },
+              "optionCn": {
+                "A": "在户外玩耍，尽情享受。",
+                "C": "照顾好自己的健康。",
+                "B": "战胜挑战，勇于冒险。",
+                "D": "茁壮成长，身体健康。"
+              },
+              "answer": "B",
+              "analysis": "文章中提到，首先，孩子们似乎天生就有克服挑战、冒险的欲望。B项与文章内容一致，故为答案。其余 三项的内容是否是孩子们天生就渴望做的事，文章中未提及，故排除。"
+            },
+            {
+              "num": 17,
+              "stem": "According to the American Psychological Association, what doesregularphysicalactivity do to children?",
+              "stemCn": "",
+              "options": {
+                "A": "Enable them to develop their motor skills.",
+                "B": "Help them to conceal their frustration.",
+                "C": "Reduce their stress and depression.",
+                "D": "Prevent them from feeling lonely."
+              },
+              "optionCn": {
+                "A": "使他们能够发展运动技能。",
+                "C": "减轻他们的压力和抑郁情绪。",
+                "B": "帮助他们掩饰沮丧情绪。",
+                "D": "防止他们感到孤独。"
+              },
+              "answer": "C",
+              "analysis": "根据美国心理协会的说法，规律的体育活动对孩子们有什么作用？ 文章中提到，根据美国心理协会的研究，经常进行体育活动（尤其是户外活动）能够减轻孩子们的压力 和抑郁情绪。C项与文章内容一致，故为答案。A项文中虽提及，但未提及是美国心理协会的说法，故排 除。文中并未提及掩饰情绪和防止儿童感到孤独的内容，故排除B、D。"
+            },
+            {
+              "num": 18,
+              "stem": "What does the passage sayaboutcultivating the habit of physical activity?",
+              "stemCn": "",
+              "options": {
+                "A": "It begins early.",
+                "B": "It proves demanding.",
+                "C": "It calls for lifelong efforts.",
+                "D": "It lies in nature experiences."
+              },
+              "optionCn": {
+                "A": "它开始得很早。",
+                "C": "它需要终身努力。",
+                "B": "它被证明要求很高。",
+                "D": "它在于亲近自然的体验。"
+              },
+              "answer": "A",
+              "analysis": "关于培养体育活动的习惯，文章说了什么？ 文章中提到，我们都知道体育活动对我们的身心健康十分重要，而培养体育活动的习惯开始得很早。孩子 们更有可能从频繁的积极早期体验中养成终身热爱体育活动的习惯。A项与文章内容一致，故为答案。B项 文中未提及，故排除。文中并未提及终身努力的内容，故排除C。D项中亲近自然的体验文中虽提及，但这 说的是当孩子们不喜欢竞技运动或球类游戏时可以选择的其他活动之一，故排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Two",
+          "intro": "Questions 19 to 21 are based on the passage you have just heard.",
+          "material": "[19] Anew study finds that job seekers are even willing to explore jobs with lower salaries whencompaniesare more diverse. It finds that sharing information about diversity makes job postings more attractive to job seekers, even when pay is lower. To conduct the study, the team partnered with an online joblistings platform whichemails postingsrelevantto individuals and their job search criteria. For the course oft hell-week study, the platformemailed joblistings to some 180,000users placed inoneoftwoconditions.[20] In the base line condition, participants saw emails in the normal format, with no information on diversity; inthediversitycondition, participantssawadiversityscoreforeachlisting: information about the race, gendereducationandlanguageskillsofacompany'sworkforcecomparedtoothers in the same sector and location. Information was thengatheredonwhethertheemail wasopened, and whichjoblistings wereclickedon by each user. Participants in the diversity conditiontended to clickonjoblistingsfromcompanies with slightly higher diversity scores than those in the base line condition:[21] that is, participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing. And the team also found that participants were willing to look at listings with lower salariesifthey came from companies with a higherdiversity score.",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "When are jobseekers willing to explore jobs withlowersalaries, according to a new study?",
+              "stemCn": "",
+              "options": {
+                "A": "When companies share their information online.",
+                "B": "When their job search criteria are met fully.",
+                "C": "When companies embrace greater diversity",
+                "D": "When they find job postings visually attractive."
+              },
+              "optionCn": {
+                "A": "当公司在网上分享它们的信息时。",
+                "C": "当公司接纳更高程度的多元化时。",
+                "B": "当他们的求职标准完全得到满足时。",
+                "D": "当他们觉得招聘信息具有视觉吸引力时。"
+              },
+              "answer": "C",
+              "analysis": "根据一项新的研究，求职者在什么时候愿意去考虑薪资较低的工作？ 文章开头就提到，一项新研究发现，当企业更加多元化时，求职者甚至愿意考虑薪资较低的工作。C项与 ……… 文章内容一致，故为正确答案。"
+            },
+            {
+              "num": 20,
+              "stem": "What did participants see in the base line condition of the study?",
+              "stemCn": "",
+              "options": {
+                "A": "Emails in the normal format.",
+                "B": "Major companies in one location.",
+                "C": "All companies in the same sector",
+                "D": "Various aspects of a company’s workforce."
+              },
+              "optionCn": {
+                "A": "常规格式的电子邮件。",
+                "C": "同一行业的所有公司。",
+                "B": "同一地点的大公司。",
+                "D": "公司员工的各个方面。"
+              },
+              "answer": "A",
+              "analysis": "在这项研究的基准条件组中，参与者看到了什么？ 文章中提到，在基准条件组中，参与者看到的是常规格式的邮件，邮件中没有关于多元化的信息。A项与 ……… 文章内容一致，故为正确答案。"
+            },
+            {
+              "num": 21,
+              "stem": "What does the passage sayparticipants seemtobepaying attention to?",
+              "stemCn": "文章中提到参与者似乎在关注什么呢?",
+              "options": {
+                "A": "Job security",
+                "B": "Potential pay raises.",
+                "C": "Minimum base salary.",
+                "D": "Information about diversity."
+              },
+              "optionCn": {
+                "A": "工作保障。",
+                "C": "最低基本工资。",
+                "B": "潜在涨薪。",
+                "D": "关于多元化的信息。"
+              },
+              "answer": "D",
+              "analysis": "文章中提到，参与者似乎更关注多元化方面的信息，并以此决定是否点击招聘信息。D项与文章内容一 致，故为正确答案。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Three",
+          "intro": "Questions 22 to 25 are based on the passage you have just heard.",
+          "material": "[22][23] Anew studyfromOregonStateUniversityfound thatdogs tendtomatchtheirbehaviorwiththe children in their family. The findings are important because there is a growing body of evidence that dogs can help children in many ways. These include helping with social development, increasing physical activity, managing anxiety or serving as a source of attachment in the face of changing family structures. Yet, very littleresearchhasfocusedonhowdogsperceiveandsociallyengagewithchildren.[24]\"The great news is that this study suggests dogs are paying a lot of attention to thekidsthatthey live with, saidMoniqueUdellthe lead author oft he study.\"One interesting thing wehaveobservedisthatdogsare matchingchildren'sbehavior, butess frequently than what we have seenbetween dogs and adults. Thissuggests that whiledogs may viewchildrenas social companions, there are also some differences that we need to understand better. While research has found dogs can have a lot of positive impact son a child’s life, there are alsorisksassociated with the dog-child relationship. For example, other studies have found dogsare more likely to bite children versus adults.\"We stillhavealottolearnaboutthedog-child relationship,\"Udellsaid.[25]\"Butresearchdoesshowthatkids are very capable of training dogs.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What does the passage say about the findings of a new study from oregon State university?",
+              "stemCn": "",
+              "options": {
+                "A": "Positive.",
+                "B": "Original.",
+                "C": "Important.",
+                "D": "Surprising."
+              },
+              "optionCn": {
+                "A": "积极的。",
+                "B": "新颖的。",
+                "C": "重要的。",
+                "D": "令人惊讶的。"
+              },
+              "answer": "C",
+              "analysis": "文章怎么评价俄勒冈州立大学一项新研究的发现？ → 文章开头提到，俄勒冈州立大学的一项新研究发现，狗往往会使其行为与家中孩子的行为相匹配。这些发 现很重要。C项与文章内容一致，故为正确答案。"
+            },
+            {
+              "num": 23,
+              "stem": "What does a growing body of evidence show according to the passage?",
+              "stemCn": "",
+              "options": {
+                "A": "Dogs match their behavior with kids as much as with adults.",
+                "B": "Kids and adults alike find in dogs a source of attachment.",
+                "C": "Kids’ attitude to dogs is influenced by adults.",
+                "D": "Dogs can help kids in many ways."
+              },
+              "optionCn": {
+                "A": "狗与孩子的行为匹配频次和与成年人的行为匹配频次是一样的。",
+                "B": "孩子和成人都把狗当作情感寄托的来源。",
+                "C": "孩子对狗的态度受成人影响。",
+                "D": "狗能在诸多方面帮助孩子。"
+              },
+              "answer": "D",
+              "analysis": "根据文章内容，越来越多的证据表明了什么？ 文章中提到，越来越多的证据表明，狗能在诸多方面帮助孩子，包括助力社交发展、增加身体活动量、缓 解焦虑，或是在家庭结构发生变化时成为情感寄托的对象。D项与文章内容一致，故为正确答案。文中研究 人员提到，我们观察到的一个有趣的现象是，虽然狗会配合孩子的行为，但相较于狗与成年人之间的互动 情况，这种配合的频率更低一些。由此可知，A项错误。文中虽然明确提到狗会在家庭结构发生变化时成为 孩子情感寄托的对象，然而并没有信息提及这同样适用于成人，故排除B项。C项文章中未提及，故排除。"
+            },
+            {
+              "num": 24,
+              "stem": "WhatdidMoniqueUdellsaytheirstudysuggests?",
+              "stemCn": "莫妮克·乌德尔说他们的研究表明了什么？",
+              "options": {
+                "A": "Dogs pay much attention to the kids they live with.",
+                "B": "Dogs view both adults and kids as social companions.",
+                "C": "Kids differ from adults in their behavior towards dogs.",
+                "D": "Kids need to be aware of the risks in playing with dogs."
+              },
+              "optionCn": {
+                "A": "狗非常关注和它们一起生活的孩子。",
+                "C": "孩子对待狗的行为与成人不同。",
+                "B": "狗把成人和孩子都视为社交伙伴。",
+                "D": "孩子需要意识到和狗玩要时存在的风险。"
+              },
+              "answer": "A",
+              "analysis": "文章中提到，莫妮克·乌德尔说这项研究表明狗会非常关注和它们一起生活的孩子。A项与文章内容一 致，故为正确答案。文中仅提及狗可能将孩子视为社交伙伴，B项的表述超出了原文所给信息，存在过度 推断的问题，故排除。C项和D项文章中未提及，故排除。"
+            },
+            {
+              "num": 25,
+              "stem": "What does research showkidsare very capableofdoing?",
+              "stemCn": "研究显示孩子们非常有能力做什么？",
+              "options": {
+                "A": "Understanding dogs.",
+                "B": "Training dogs.",
+                "C": "Taking care of dogs.",
+                "D": "Associating with dogs. ===== PAGE 3 ====="
+              },
+              "optionCn": {
+                "A": "了解狗。",
+                "C": "照顾狗。",
+                "B": "训练狗。",
+                "D": "与狗相处。"
+              },
+              "answer": "B",
+              "analysis": "解文章最后提到，研究确实表明，孩子非常有能力训练狗。B项与文章内容一致，故为正确答案。 …………… 析"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2024_12_1-A.mp3",
+        "B": "/audio/papers/cet4-2024_12_1-B.mp3",
+        "C": "/audio/papers/cet4-2024_12_1-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "Her first novel was not published until she was 39, and her last appeared when she was 84. And Morris on was not ___26___ in this regard. Numerous writers produce masterpieces well into their 70s and beyond. Such ___27___ accomplishments highlight an important point. Our capacity to speak, write and learn new vocabulary does not seem to ___28___ with age. Our eyesight may dim and our recall may weaken, but by comparison, our ability to produce and to ___29___ language is well preserved into older adulthood. Indeed, the latest research that has emerged on language and aging shows that language mastery is a ___30___ that we begin as infants and continue on for the rest of our lives. Some aspects of our language abilities, such as our knowledge of word meanings, ___31___ improve during middle and late adulthood. One study, for example, found that adults over sixty had an average vocabulary size of over 21,000 words. The researchers also studied a ___32___ of college students and found that their average vocabulary contained ___33___ 16,000 words. In another study, older adults, with an average age of 75, ___34___ better than participants in their youth or middle years on tasks that required them to determine the meaning of words. Thus, language seems to be a skill that, contrary to what many might ___35___, does not weaken with age.",
+          "wordBank": {
+            "A": "actually",
+            "B": "approximately",
+            "C": "assume",
+            "D": "component",
+            "E": "comprehend",
+            "F": "deteriorate",
+            "G": "equivalent",
+            "H": "journey",
+            "I": "literary",
+            "J": "performed",
+            "K": "rarely",
+            "L": "sample",
+            "M": "undermined",
+            "N": "unique",
+            "O": "unit"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "N",
+              "analysis": "语法判断空格前是was not，空格后是介词短语in thisregard，由此可知，空格处应填入一个形容词或分词， 充当句子的表语成分。 语义判断上文提到，莫里森并非早期就获得了成功，她的第一部小说直到39岁才出版，最后一部小说是在 她84岁时问世的。空格后面一句提到，许多作家在70多岁甚至更年长的时候仍能创作出杰作。也就是说， 莫里森并不是孤例，许多人与她的情况一样。代入选项可知，unique符合语境。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "语法判断空格前是限定词such，空格后是名词accomplishments，由此可知，空格处应填入形容词或分词， 充当accomplishments的定语。 语义判断空格前面一句提到，许多作家在70多岁甚至更年长的时候仍能创作出杰作。空格所在句句意为 “这样的_成就突出了重要的一点”。此句承上启下，引出下面的观点。literary accomplishment意为 “文学成就”，符合此处语境，故答案为literary。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "语法判断 空格前是does not seem to，空格后是介词短语with age，故空格处应填入一个动词原形，构成seem to do的结构。 语义判断上文提到“许多作家在70多岁甚至更年长的时候仍能创作出杰作。这样的文学成就突出了重要的 一点”，那么本句阐述这一点是什么，即“我们说话、写作和学习新词汇的能力似乎不会随着年龄的增长 而 ”。70多岁仍能创作出杰作说明写作能力并不因年龄的增长而减弱，故deteriorate符合语境。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "语法判断空格前是ourability to produce and to，空格后是名词language，由此可知，此处考查短语ability to dosth.（做某事的能力），故空格处应填入动词原形，与前面的produce并列。 语义判断该句句意为“我们的视力可能会变差，记忆力可能会减弱，但相比之下，我们产生和 语言 的能力却能完好地保存到老年”。本句继续解释说明前一句“我们说话、写作和学习新词汇的能力似乎不 会随着年龄的增长而下降”的观点。abilitytoproduce and to comprehend language意为“产生和理解语言的 能力”，与上文语境相符，故comprehend为答案。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "语法判断空格前是不定冠词a，空格后是that引导的定语从句，由此可知，空格处应填入一个名词，充当该 定语从句的先行词。 语义判断空格后面that引导的定语从句作所填词的定语，故该句意为“事实上，关于语言和衰老的最新研究 表明，掌握语言是一段我们从婴儿时期开始并持续一生的 ”，故journey符合此处语境。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格所在句子主谓宾结构完整，故空格处应填入一个副词，起修饰和限定作用。 语义判断该句句意为“我们语言能力的一些方面，例如我们对单词含义的理解， 在中年和晚年期间 会有所提高”。下文举例论证这一说法，60岁以上的成年人的平均词汇量比大学生群体的平均词汇量要 高，而且与中青年人相比，老年人对单词含义的理解更好。代人选项可知，actually符合语境。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断空格前是不定冠词a，空格后是介词短语ofcollege students，由此可知，空格处应填入一个名词。 语义判断前面一句提到了一项研究的结果，此句阐述另一项研究及其结果。该句句意为“研究人员还研 究了大学生 ,发现他们的平均词汇量包含 16000个”，study a sampleof意为“研究……的样 本”，符合此处语境，故答案为sample。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "语法判断空格所在句子主谓宾结构完整，故空格处应填入一个副词，起修饰和限定作用。 语义判断上文提到“我们语言能力的一些方面，例如我们对单词含义的理解，实际上在中年和晚年期间会 有所提高”。此处针对该观点进行举例说明，即60岁以上的成年人的平均词汇量超过21000个，而大学生 群体的平均词汇量大约为16000个，故approximately符合语境。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "语法判断空格所填词作句子的谓语，句子主语为olderadults，句子在讲述一项研究结果，发生在过去，故 时态为一般过去时，空格处应填入动词过去式。 语义判断此处阐述另一项研究结果，句意为“在另一项研究中，平均年龄为75岁的老年人在要求他们确定 单词含义的任务中比青年或中年的参与者 得更好”，故performed符合语境。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "component（n.组成部分adj.组成的；成分的）",
+                "G": "equivalent（adj.相同的；相当的n.等同物）",
+                "K": "rarely（adv.很少）",
+                "M": "undermined（v.逐渐削弱）",
+                "O": "unit（n.单元；单位）"
+              },
+              "answer": "C",
+              "analysis": "语法判断空格前是情态动词might，空格后是逗号，由此可知，空格处应填入动词原形。 语义判断前面举例之后，该句再次总结观点，句意为“因此，语言似乎是一种技能，与许多人可能 的相反，它不会随着年龄的增长而减弱”。代入选项可知，assume符合语境。 干扰项注释 00 ·概览· 本文节选自londondaily.com上一篇题为“Whyit’s wrong tolookat work-lifebalanceasan achievement”的文章。作者探讨了工作与生活的平衡这个被长久讨论的职场话题，指出将其视为一种成 就或目标的看法可能是错误的。通过引用纽约大学管理学临床副教授阿纳特·莱希纳的观点，作者强调 了实现工作与生活的平衡并没有那么简单，而是一个需要自我意识、不断反思和及时调整的持续过程。 ·全文翻译· 为什么把工作与生活的平衡看作一种成就是错误的 业展开的讨论，尤其是对于职场父母而言。这个概念通常被呈现为要实现的东西或者要达成的目标。一旦 你已经达成这个目标，恭喜你：你成功了；你是21世纪的成功人士。 括我的家庭、我的爱好、我的锻炼、我的一切，”纽约大学管理学临床副教授阿纳特·莱希纳说，“我认 为这不是一个简单的公式。” 衡视为一项你要么达到，要么没有达到的成就。相反，他们认为它可能更像是一个终身的过程—一个需 要自我意识和及时调整的、持续且永无止境的练习。研究人员伊万娜·卢普和迈拉·鲁伊斯-卡斯特罗认 为，工作与生活的平衡是“一个循环，而不是一项成就”。在2020年的研究中，研究人员采访了伦敦两家 公司的近80名员工，男女人数相同，年龄在30到50岁之间，他们都至少有一个孩子需要抚养，且都担任中 层或高层管理岗位。 工作。与此同时，其他受访者都工作很长时间，因为他们认为这是成功的专业人士应该做的。 : 平衡方面实际上有着惊人相似的策略。他们倾向于以自我意识的名义反思和质疑假设，并定期采取措施调 整阻碍他们实现工作与生活平衡的事情。 首先，他们会停下来重新审视“我是专业人士，所以我应该工作、工作、工作”等信念，然后问自己“目 前是什么让我感到有压力呢？”等问题。其次，在明确原因后，他们会将注意力集中在由此产生的情绪 上。他们感到愤怒、悲伤还是充满活力？第三，他们重新确定优先事项，比如，他们会问自己“长时间工 作真的值得减少与家人共度的时间吗？”第四，他们会考虑替代方案：工作中是否有什么可以改变的地 方，来适应这些新的优先事项呢？最后，他们会实施这些改变，比如要求上司给予他们更大的灵活性，或 者决定不接手每个找上门来的项目。 活，使之与个人生活更好地协调。[40]卢普说：“意识到自己的情绪状态对于决定你想在工作和生活中做 出的改变至关重要。” 身房、孩子和家务上。[44]如果压力的潜在情绪来源仍然存在，那么你在家里度过的时间可能并不愉快。 她说：“我们回到家，尽管身体在家里，但精神上我们可能仍然在处理工作中发生的事情。我们并不是真 的在家。”我们所说的“工作与生活的平衡”实际上只是获得成就感和满足感的一种替代品。 究表明，在为员工创造更好的环境方面，企业和管理者可以发挥关键作用。在其著作《超负荷：好工作是 如何变糟的以及如何应对》中，艾琳·凯利和合著者菲利斯·莫恩将一家财富500强公司的1000多名员工 分成两组，一组在经过重新设计的管理结构下工作，另一组继续在现有的管理结构下工作。 精疲力竭的情况。管理者定期被提醒要明确支持他们的员工。允许员工做出改变，比如取消上午9点的会 议。所有这些都是为了提高工作满意度和给予员工更大的灵活性，并向员工保证这是管理层所承诺的。 [37]不出所料，凯利和莫恩发现，在管理结构重新设计组的员工报告的压力和倦怠程度更低。他们辞职的 可能性更小；的确，在接下来的四年里，他们辞职的可能性比那些继续在旧政策下工作的员工要低40%。 K 凯利说：“工作与生活的平衡被理解为个人的反应，所以人们认为如何管理我疯狂的工作生活由我自己 来定’”。但企业需要审视他们对员工提出的要求。“根本问题不在于工作和生活是如何结合在一起的。 而是我们对工作上被要求做的事情抱有不切实际的期望。”[42]如果你的工作场所从一开始就不是一个工作 与生活可能达到平衡的环境，那么你在个人层面上为平衡工作与生活所做的任何努力都将是徒劳的。 活和个人生活方面发挥重要作用。如果找到完美的平衡似乎仍然很难实现，专家们表示，保有一些展望 会有所帮助。[39]对于数百万人来说，工作就是为了能够养家糊口。莱希纳表示，谈论工作与生活的平衡 “是一种富有特权性质的对话”。“如果我们正在反思，也许我们也应该反思一下这一点。 ” ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Few topics have been so endlessly analysed as work-life balance. The quest to attain this mysterious state has dominated\nB) But the problem is that we often tell ourselves: “I'm going to put in eight hours’ worth of work, and then I'm going to put\nC) And, according to new findings, it may not be. Some researchers are now encouraging us to stop thinking about work-life\nD) Although it sounds like the respondents had a lot in common, here’s what separated them: about 30% of the men and 50%\nE) Lupu and Ruiz-Castro looked at those who rejected the long hours and they found that those workers actually had strikingly\nF) Lupu and Ruiz-Castro identified five steps that the respondents in the study who had better work-life balance used in their\nG) This five-step process is something anyone can adopt. Going through the steps, and constantly checking in with yourself\nH) New York University’s Lechner agrees that finding that balance is an ongoing pursuit. It’s not simply about dividing up\nI) Of course, finding that balance probably shouldn’t be something you have to do by yourself. Research by Erin Kelly,\nJ) Under the management redesign, many steps were taken to ensure better work-life balance and prevent burn out (精疲力\nK) “Work-life balance is understood to be an individual’s response, so people think ‘it’s up to me to manage the craziness of\nL) That’s a conversation that appears to be gathering pace. The new prevalence of remote and flexible working models will\nA) The year 2020 was a big turning point in human history.\nB) Economic growth benefits people little in the long run.\nC) It is un wise to weaken the human connection to nature.\nD) It is harmful to mankind to use human-made materials.\nA) It is increasingly detached from the natural world.\nB) It is filled with all kinds of video game characters.\nC) It is especially appealing to the taste of teenagers.\nD) It is still impacted by the hit songs of the 1950s.\nA) Take measures to ensure sustainable food development\nB) Reconnect with nature through the right to grow.\nC) Stand by the parliament in fighting social diseases.\nD) Cover public spaces with fruit trees and vegetable plants.\nA) It all star ted in 1649 in Southern England.\nB) It is protected by US government regulations.\nC) It has long been used to increase food supply and improve urban landscape.\nD) It has been popularized worldwide with the increasing influence of social media.\nA) Raise people’s environmental awareness. C) Act as the first defense against natural disasters.\nB) Add to the great variety of plant species. D) Enhance people’s community spirit.\nA) It has seen a change in attitude towards women engineers since 1979.\nB) It witnessed a significant increase in women engineers in the 1970s.\nC) It has experienced the gradual weakening of male dominance.\nD) It boasted the largest number of engineering majors in 2000.\nA) Not to feel superior to less qualified male engineers.\nB) Not to take seriously all the messages she was getting.\nC) Not to think highly of her qualifications when promoted or given a pay raise.\nD) Not to lose self-confidence though constantly discouraged or unfairly treated.\nA) Disqualified on many levels. C) Overworked by their organizations.\nB) Excluded from the group. D) Looked down upon by male colleagues.\nA) Their success in gaining an equal footing. C) The change in their responsibilities.\nB) Their ability to balance work and family. D) The increase in their number.\nA) They take great pride in their chosen career.\nB) They have reaped the benefits of being flexible.\nC) They enjoy doing engineering to the best degree.\nD) They have proved capable of doing almost anything.",
+          "analysisOverview": "",
+          "translationCn": "托妮·莫里森于2019年去世，世界失去了其最具影响力的作家之一。但莫里森并非早期就获得了成功。 她的第一部小说直到39岁才出版，最后一部小说是在她84岁时问世的。在这方面，莫里森并不是[26]独一无二 的。许多作家在70多岁甚至更年长的时候仍能创作出杰作。这样的[27]文学成就突出了重要的一点。我们说 话、写作和学习新词汇的能力似乎不会随着年龄的增长而[28下降。我们的视力可能会变差，记忆力可能会减 弱，但相比之下，我们产生和[29]理解语言的能力却能完好地保存到老年。 事实上，关于语言和衰老的最新研究表明，掌握语言是一段我们从婴儿时期开始并持续一生的[30]旅程。 我们语言能力的一些方面，例如我们对单词含义的理解，[31实际上在中年和晚年期间会有所提高。例如，一 项研究发现，60岁以上的成年人的平均词汇量超过21000个。研究人员还研究了一批大学生[32]样本，发现他 们的平均词汇量[33]约为16000个。在另一项研究中，平均年龄为75岁的老年人在要求他们确定单词含义的任 务中比青年或中年的参与者[34]表现得更好。因此，语言似乎是一种技能，与许多人可能[35]认为的相反，它 不会随着年龄的增长而减弱。",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "According to a management expert, work-life balance is not as simple as giving equal amounts of time to work and",
+              "stemCn": "题干译文根据一位管理专家的说法，工作与生活的平衡并非给予工作和个人生活同等的时间那么简单。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息a management expert、simple、equal amounts of time和work and personal life 定位到B段。该段提到，但问题是我们经常告诉自己：“我要投入8小时的时间去工作，然后投入8小时 的个人时间’，这包括我的家庭、我的爱好、我的锻炼、我的一切，”纽约大学管理学临床副教授 阿纳特·莱希纳说，“我认为这不是一个简单的公式。”由此可见，题干是对该段的概括总结，其中a managementexpert对应原文中的AnatLechner,clinical associateprofessorofmanagement，而isnotassimpleas 对应原文中的don'tthink it’s such a simpleformula，而giving equal amountsoftimeto work andpersonallife是 对原文中引语“I'm going to put in eight hours’worth ofwork,and then I'm going to put in eight hours’worthof metime'…”的概括总结。"
+            },
+            {
+              "num": 37,
+              "stem": "Research found that those who are given greater flexibility at work are less stressed and more likely to stay in their jobs.",
+              "stemCn": "题干译文研究发现，那些在工作中获得更大灵活性的人压力更小，而且更有可能留在工作岗位上。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息greater flexibilityatwork和less stressedandmore likely tostay in their jobs定位到J 段。该段最后两句提到，不出所料，凯利和莫恩发现，在管理结构重新设计组的员工报告的压力和倦怠程 度更低。他们辞职的可能性更小。由此可知，题干是对这两句内容的同义转述。其中Researchfound对应 原文中的Kelly andMoenfound，而those whoare givengreater flexibility at work对应原文中的employees in the redesign group，而are less stressed andmore likely to stay in their jobs对应原文中的reportedless stress and less burnout和werelesslikelyto quittheir jobs。"
+            },
+            {
+              "num": 38,
+              "stem": "Workers who rejected working long hours tended to make regular adjustments in order to achieve work-life balance.",
+              "stemCn": "题干译文拒绝长时间工作的员工倾向于做定期调整，以实现工作与生活的平衡。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息rejected workinglong hours和makeregularadjustments定位到E段。该段指出， 卢普和鲁伊斯-卡斯特罗对那些拒绝长时间工作的人进行了研究……他们倾向于以自我意识的名义反思和 质疑假设，并定期采取措施调整阻碍他们实现工作与生活平衡的事情。由此可知，题干是对该段内容的 概括。题干中的Workers whorejected working long hours对应原文中的those whorejected the long hours，而 tended to对应原文中的hadatendencyto,而makeregularadjustments inorder toachieve work-lifebalance对应 原文中的regularlytook steps to adjust the things standing intheirway to work-life balance。"
+            },
+            {
+              "num": 39,
+              "stem": "Talking about work-life balance is said to be a privilege reserved for the better-off, not for those who barely make a living.",
+              "stemCn": "题干译文据文章所说，谈论工作与生活的平衡是留给富人的特权，而不是那些勉强维持生计的人的特权。",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "答案L。由题干关键信息Talking about work-life balance、aprivilege reservedfor the better-off和those who barelymakealiving定位到L段。该段倒数第二、三句提到，对于数百万人来说，工作就是为了能够养家糊 口。莱希纳表示，谈论工作与生活的平衡“是一种富有特权性质的对话”。换言之，谈论工作与生活的 平衡是留给富人的特权，而不是那些勉强维持生计的人的特权，由此可见，题干是对这两句的概括总结， 其中Talkingabout work-lifebalance属于原词重现，而is saidto bea privilege reservedfor thebetter-off对应原 文中的“isa veryprivilegedconversation”saysLechner，而barelymake a living对应原文中的being aletoput food on the table。"
+            },
+            {
+              "num": 40,
+              "stem": "Knowing one’s emotional state is of utmost importance in deciding what changes to make for a better work-life balance.",
+              "stemCn": "题干译文了解自已的情绪状态对于决定做出什么改变来更好地平衡工作和生活至关重要。",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息one's emotional state、utmost importance和deciding what changes to make fora betterwork-lifebalance定位到G段。该段最后一句提到，卢普说：“意识到自己的情绪状态对于决定你想在 工作和生活中做出的改变至关重要。”由此可知，题干是对原文内容的同义转述。其中题干中的Knowing one'semotional state is ofutmost importance对应原文中的Awareness ofyouremotionalstate isessential，而 deciding whatchanges tomake fora better work-life balance对应原文中的determine the changes you wantto make in yourwork and in yourlife。"
+            },
+            {
+              "num": 41,
+              "stem": "More female professionals reported being reluctant to work overtime than their male counterparts.",
+              "stemCn": "题干译文与男性专业人士相比，更多的女性专业人士表示不愿意加班。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案D。由题干关键信息More female professionals、being reluctant to workovertime和male counterparts 定位到D段。该段第一句提到，尽管听起来受访者有很多共同点，但他们之间的区别是：大约30%的男性 和50%的女性称抵制长时间工作。即与男性专业人士相比，更多的女性专业人士表示不愿意加班。由此可 知，题干是对原文内容的概括总结。题干中的Morefemaleprofessionals reported..thantheirmalecounterparts 对应原文中的about30%ofthe menand50%ofthe womenreported，而beingreluctantto workovertime对应原 文中的resisting workinglong hours。"
+            },
+            {
+              "num": 42,
+              "stem": "Without organisational support, any personal effort to maintain work-life balance will be unsuccessful.",
+              "stemCn": "题干译文没有组织的支持，任何维持工作与生活平衡的个人努力都不会成功。",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "答案K。由题干关键信息Without organisational support、any personal effort和unsuccessful定位到K段。 该段最后一句提到，如果你的工作场所从一开始就不是一个工作与生活可能达到平衡的环境，那么你在个 人层面上为平衡工作与生活所做的任何努力都将是徒劳的。由此可知，题干是对该句内容的同义转述。其 中Withoutorganisational support对应原文中的Ifyour workplace isn'tan environment where work-life balanceis possiblein the firstplace，而anypersonaleffortto maintain work-lifebalancewillbeunsuccessful对应原文中的 any effortyou attempt tomaketoward iton a personallevel willbe in vain。"
+            },
+            {
+              "num": 43,
+              "stem": "The question of how to achieve work-life balance has long been the main subject of discussion among workers.",
+              "stemCn": "题干译文长期以来，如何实现工作与生活的平衡这一问题一直是员工们讨论的主要话题。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息The question of howto achieve work-life balance和the main subject of discussion amongworkers定位到A段。该段前两句提到，很少有话题像工作与生活的平衡这样被无休止地分析。多年 来，对这种神秘状态的追求主导了围绕职业展开的讨论。由此可知，题干是对原文内容的概括总结。其中 题干中的work-life balance属于原词重现，Thequestionofhowto achieve work-lifebalance对应原文中的The quest to attain thismysterious state，而has long beenthemain subjectofdiscussionamong workers对应原文中的 has dominated discussion around careers for years。"
+            },
+            {
+              "num": 44,
+              "stem": "You may not actually experience emotional well being at home if you remain occupied with what happened at work.",
+              "stemCn": "题干译文如果你仍然想着工作中发生的事情，那么你在家里可能不会真正体验到情感上的幸福。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息not actually experience emotional wellbeing at home和remainoccupied withwhat happenedatwork定位到H段。该段第三句提到，如果压力的潜在情绪来源仍然存在，那么你在家里度过的 时间可能并不愉快。接着文章引用莱希纳的话提到：“我们回到家，尽管身体在家里，但精神上我们可能 仍然在处理工作中发生的事情。我们并不是真的在家。”由此可知，题干是对原文内容的概括总结。其中 Youmay not actually experienceemotional wellbeing at home对应原文中的the time you actually spend at home may not beenjoyable,而ifyouremainoccupied with what happened at work对应原文中的mentally we stillmay be processing things that happened at work。"
+            },
+            {
+              "num": 45,
+              "stem": "Some researchers suggest that work-life balance is not a goal to achieve, but a process for life to be adjusted promptly.",
+              "stemCn": "题干译文",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "一些研究人员认为，工作与生活的平衡不是一个要实现的目标，而是一个需要及时调整的终身 过程。 答案C。由题干关键信息Some Researchers、work-life balance is not a goal to achieve和a process for lifeto beadjustedpromptly定位到C段。该段第二、三句提到，一些研究人员现在鼓励我们不要再把工作与生活 的平衡视为一项你要么达到，要么没有达到的成就。相反，他们认为它可能更像是一个终身的过程——一 个需要自我意识和及时调整的、持续且永无止境的练习。由此可知，题干是对原文内容的概括总结，其中 Someresearchers、work-lifebalance和suggest属于原词重现，work-life balance is nota goal to achieve对应原 文中的stopthinking about work-lifebalanceas anachievementthat youeither hitordont，而aprocess for lifeto be adjusted promptly对应原文中的alifelongprocess…timely adjustments。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "The weakening of the human connection to nature might be good for economic growth but is bad for people. A tipping point was reached in 2020 when human-made materials — such as steel, concrete and plastic — were found to weigh more than all life on Earth. Continuing to grow concrete forests rather than real ones is short sigh ted. Simply being in the nearest wood has such health benefits that the Wood land Trust success fully lobbied for it to be prescribed by doctors. Yet slipping from popular culture is the wonder and beauty of the natural world. For every three nature-related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later. It is not a moment too soon that teenagers will be able to take a natural history test given that for decades children have been able to name more video game characters than wildlife species. Part of remedying this social disease would be for parliament to pass a “right to grow” law, all owing anyone to turn under used public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil — while producing food sustainably. Vegetable planting has a respectable tradition. In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green to ok off in 1970s New York, and has been revived (使复活) by green-thumbed ( 有园艺才能的 ) social media influencers who defy local US regulations in a war on ugly spots in cities. Apart from the urgent task of providing more healthy nutrients to those who increasingly can’t afford them. Publicly accessible fruit and vegetable gardens connect what we eat to where it comes from—the means of production, if you will. They can make un lovely spaces lovely, and marry use and beauty as well as help promote a sense of community. Plants are also, of course, our first defense against species loss and climate change. Such planting is a small step for humanity — in the right direction.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author want to emphasize in the first paragraph?",
+              "stemCn": "作者在第一段中想强调什么？",
+              "options": {
+                "A": "The year 2020 was a big turning point in human history.",
+                "B": "Economic growth benefits people little in the long run.",
+                "C": "It is un wise to weaken the human connection to nature.",
+                "D": "It is harmful to mankind to use human-made materials."
+              },
+              "optionCn": {
+                "C": "削弱人与自然的联系是不明智的。",
+                "A": "2020年是人类历史上的一个重大转折点。",
+                "B": "从长远来看，经济增长对人们几乎没有益处。",
+                "D": "使用人造材料对人类有害。"
+              },
+              "answer": "C",
+              "analysis": "sustainably adv.可持续 性地 ·respectable adj.值得尊 敬的 ·vacantadj.未被占用的 ·defy v.违抗 ·nutrient n.营养物 accessible adj.可进入 的，可使用的 定位 根据题干关键词in the first paragraph定位到第一段。 文章第一段指出，人类与自然联系的弱化可能有利于经济增长，但对人类不利。接着提到，2020年，人造 材料的总重量超过了地球上所有生物的重量，这凸显了环境问题的严重性。第一段围绕着人类与自然的联 系弱化这一现象及其不良后果展开，强调了削弱人类与自然的联系是不明智的。选项C与原文意思一致， 故为答案。其他三项与原文内容不符，可排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What did researchers find about popular culture?",
+              "stemCn": "研究人员对大众文化有何发现？",
+              "options": {
+                "A": "It is increasingly detached from the natural world.",
+                "B": "It is filled with all kinds of video game characters.",
+                "C": "It is especially appealing to the taste of teenagers.",
+                "D": "It is still impacted by the hit songs of the 1950s."
+              },
+              "optionCn": {
+                "A": "它越来越脱离自然界。",
+                "C": "它特别迎合青少年的口味。",
+                "D": "它仍然受到20世纪50年代热门歌曲的影响。",
+                "B": "它充斥着各种电子游戏角色。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词popular culture可将答案定位到第二段。 第二段首句指出，自然界的神奇与美丽却在大众文化中逐渐消失，随后对比了20世纪50年代热门歌曲中与 自然相关的词汇和50年后的情况，以及孩子们能说出更多电子游戏角色而非野生动物物种的名字，这些都 体现出流行文化与自然界的脱节。选项A与原文意思一致，故为答案。文章中只提到孩子们能说出更多游 戏角色的名字，并非说流行文化充满游戏角色，可排除B。选项C的内容文中未提及，可排除。选项D是利 用文中片面信息杜撰的错误选项，可排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the author propose people do?",
+              "stemCn": "作者建议人们做些什么？",
+              "options": {
+                "A": "Take measures to ensure sustainable food development",
+                "B": "Reconnect with nature through the right to grow.",
+                "C": "Stand by the parliament in fighting social diseases. ===== PAGE 6 =====",
+                "D": "Cover public spaces with fruit trees and vegetable plants."
+              },
+              "optionCn": {
+                "C": "站在议会一边，与社会弊病作斗争。",
+                "A": "采取措施确保粮食的可持续发展。",
+                "B": "通过种植权重新与大自然建立联系。",
+                "D": "在公共场所种植果树和蔬菜。"
+              },
+              "answer": "B",
+              "analysis": "第三段指出，议会应该通过一项“种植权”的法律，允许任何人将未充分利用的公共空间变成蔬果园， 而这一想法的目的是让人们重新与土地建立联系，同时可持续地生产食物。选项B是对该段内容的概括总 结，符合题意，故为答案。选项A、C、D的说法在文中没有依据，可排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What do we learn from the passage about vegetable planting?",
+              "stemCn": "关于蔬菜种植，我们从文章中了解到什么？",
+              "options": {
+                "A": "It all star ted in 1649 in Southern England.",
+                "B": "It is protected by US government regulations.",
+                "C": "It has long been used to increase food supply and improve urban landscape.",
+                "D": "It has been popularized worldwide with the increasing influence of social media."
+              },
+              "optionCn": {
+                "C": "它长期以来被用于增加食物供应和改善城市景观。",
+                "A": "它始于1649年的英格兰南部。",
+                "D": "随着社交媒体影响的不断扩大，它已在全球范围内普及。",
+                "B": "它受到美国政府法规的保护。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词vegetable planting定位到第四段。 第四段首先举出1649年英格兰南部居民通过种菜应对食物短缺的例子，然后提到20世纪70年代纽约用投掷 种子炸弹的方式来绿化空地的做法，现在这种做法又被有园艺才能的社交媒体影响人士复兴，可见蔬菜种 植长期以来被用于增加食物供给以及改善城市景观。选项C是对原文内容的概括总结，故为答案。其他三 项均与原文不符，可排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions?",
+              "stemCn": "除了实用功能外，公众可使用的蔬果园还能做些什么？",
+              "options": {
+                "A": "Raise people’s environmental awareness.",
+                "B": "Add to the great variety of plant species.",
+                "C": "Act as the first defense against natural disasters.",
+                "D": "Enhance people’s community spirit."
+              },
+              "optionCn": {
+                "A": "提高人们的环保意识。",
+                "C": "作为抵御自然灾害的第一道防线。",
+                "B": "增加植物种类的多样性。",
+                "D": "增强人们的社区精神。"
+              },
+              "answer": "D",
+              "analysis": "定位根据题干关键词publicly accessible fruit and vegetable gardens定位到最后一段第二、三句。 最后一段第二句提到公众可使用的蔬果园可以让不可爱的空间变得可爱，将使用和美观结合起来，并有助 于增强社区意识。选项D中community spirit是原文asense ofcommunity的同义转述，故选D。选项A和B文 中未提及，可排除。本段第三句提到植物是应对物种损失和气候变化的第一道防线，而非公众可使用的蔬 果园可以作为抵御自然灾害的第一道防线，C项与原文不符，可排除。 Passage Two ·概览· 本文节选自网站https://www.ien.com2021年10月20日发表的一篇题为“TrailblazingWomenwhoBroke intoEngineeringinthe197OsReflectonWhat'sChanged”的文章。文章探讨了美国工程职业中女性参与度 的增长停滞现象。文章指出，尽管50年前女性在工程职业的参与度有所上升，但自2000年以来几乎没有 变化。通过调查，女性工程师在晋升、加薪和兼顾家庭和工作等方面面临挑战。尽管如此，随着女性工 程师数量的增加，她们逐渐获得了更多的接纳和认可。 ·全文翻译· 长期以来，美国的工程职业一直由男性主导。50年前，这种情况似乎有可能 改变。 [51]1970年，主修工程学的女性比例不到1%。1979年，这一数字达到了9%。许 多人希望女性能继续以同样的速度进入这一领域。但事实并非如此。如今，只有21% 的工程专业学生是女性，这个数字自2000年以来基本没有变化。 我是一名历史学家，我和同事对251名在20世纪70年代大学毕业的女性工程师进 行了调查。这些先驱们回顾了她们所面临的挑战，并对今天进入这一领域的女性 提出了建议。 [52]一位接受调查的人解释说：“对我来说，最大的挑战是，在我得到的所有信息 都表明，我受到重视、得到晋升或加薪的速度永远赶不上显然不如我有资格、也不如 我聪明的男性的时候，继续相信自己。” 一位在制造业工作的化学工程师也认为：“你必须证明自己，就因为你是女性。你 必须加倍努力工作！” 一位土木工程师说：“我们是女工程师’。人们不会把男人称为男工程 师’——（只会说）他是工程师。[53]我们经常被提醒，我们并不真正属于这个群 体。”另一位土木工程师说：“在很多层面上，你永远都不是这个群体中的一员”。 女性还谈到了照顾家庭的责任。一位来自一家大型化工企业的退休副总裁说：“年 轻的女工程师在有孩子之前是平等的，然后她们就会艰难地平衡工作和家庭——与没 有同样家庭责任的男性竞争。” 但这些年来，情况发生了很大变化。[54]年轻的女工程师被更多人接受，主要是 因为她们的人数增多了。 [55]许多女工程师为自己选择的职业所带来的好处欢呼雀跃。一位制造业的项目 经理说，工程学是最好的学位。[55]一位机械工程师说：“它能让你灵活地做几乎任何 事情。看到自己所做工作产生的成效也会让人感到满足。” @重难点单词及短语 dominate v.主导， 支配 •pioneer n.开拓者 largely adv.基本 上；在很大程度上 ·qualified adj.符合 资格的 manufacturingn制 造业 •civil engineer土木 工程师 constantly adv.始终 caregiving n.看护， 照顾 hailv.赞扬 flexibilityn.灵活性 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Engineering in the U.S. has long been a male-dominated profession. Fifty years ago, it looked like that might change. In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that’s not what happened. Today, only 21% of engineering majors are women, a number largely unchanged since 2000. I am a historian who, along with my colleagues, surveyed 251 women engineers who graduated from college in the 1970s. These pioneers reflected on the challenges they faced — and had advice for women entering the field today. One survey taker explained, “The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart as I was.” A chemical engineer who worked in manufacturing a greed, “You have to prove yourself just because you are female. And you have to work twice as hard!” A civil engineer said, “We are ‘women engineers.’ People don’t refer to a man as a ‘man engineer’ — he’s an engineer. We are constantly reminded that we don’t truly belong.” Another civil engineer stated, “On many levels, you’re never quite one of the groups.” Women also talked about family caregiving responsibilities. A retired vice president from a major chemical company stated, “Young women engineers are on an equal footing until they have children, then they struggle to balance work and family—and compete with men who don’t have the same household responsibilities.” But over the years, things have changed a lot. Young women engineers are more accepted mostly because there are just more of them. Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, “It will give you the flexibility to do almost anything. It is also satisfying to see the effects of what you have done.”",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the passage say about the engineering profession in the Un i ted States?",
+              "stemCn": "关于美国的工程职业，文章说了些什么？",
+              "options": {
+                "A": "It has seen a change in attitude towards women engineers since 1979.",
+                "B": "It witnessed a significant increase in women engineers in the 1970s.",
+                "C": "It has experienced the gradual weakening of male dominance.",
+                "D": "It boasted the largest number of engineering majors in 2000."
+              },
+              "optionCn": {
+                "C": "工程职业经历了男性主导地位的逐渐削弱。",
+                "A": "自1979年以来，人们对女工程师的态度发生了变化。",
+                "B": "20世纪70年代，女工程师人数大幅增加。",
+                "D": "2000年，美国拥有的工程专业学生最多。"
+              },
+              "answer": "B",
+              "analysis": "根据题干关键词engineering profession in the UnitedStates定位到文章前两段。 文章第一段指出，美国的工程职业长期以来由男性主导，接着第二段提到在1970年女性主修工程学的比例 不到1%，到1979年这一数字达到了9%，这说明在20世纪70年代女性工程师数量有显著的增加。B项与原 文表述一致，故为答案。其他三项均与文章内容不符，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What does one survey taker say was her greatest challenge?",
+              "stemCn": "一位受访者说她最大的挑战是什么？",
+              "options": {
+                "A": "Not to feel superior to less qualified male engineers.",
+                "B": "Not to take seriously all the messages she was getting.",
+                "C": "Not to think highly of her qualifications when promoted or given a pay raise.",
+                "D": "Not to lose self-confidence though constantly discouraged or unfairly treated."
+              },
+              "optionCn": {
+                "A": "不要觉得自己比资质较低的男性工程师优越。",
+                "B": "不认真对待她收到的所有信息。",
+                "C": "在晋升或加薪时，不要自视甚高。",
+                "D": "即使经常受到挫折或不公平对待，也不能失去自信。"
+              },
+              "answer": "D",
+              "analysis": "根据题干关键词one survey take和greatest challenge定位到第四段。 定位第四段引述的一位受访者的原话中提到，在她收到的所有信息都是关于自己受重视、获得晋升或加薪的速 度永远也赶不上显然不如自己有资格、也不如自己聪明的男性时，她最大的挑战是要继续相信自己。也就是 说，她最大的挑战是即使经常受到挫折或不公平对待，也不能失去自信。D项与原文一致，故为答案。选项A 和B文中未提及，可排除。原文中表达的是在收到不利消息时仍保持自信，C项与原文不符，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "How do women engineers frequently feel according to the two civil engineers?",
+              "stemCn": "根据这两位土木工程师的说法，女工程师经常会有什么感觉?",
+              "options": {
+                "A": "Disqualified on many levels.",
+                "B": "Excluded from the group.",
+                "C": "Overworked by their organizations.",
+                "D": "Looked down upon by male colleagues."
+              },
+              "optionCn": {
+                "A": "在很多层面上都不合格。",
+                "B": "被团体排斥。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干关键词two civil engineers定位到第六段。 第六段中提到，一位土木工程师说人们称呼她们是“女工程师”，而男性不会被称为“男工程师”，感觉 自己不属于这个群体，另一位土木工程师也提到在很多层面上自己从来都不是其中的一员。这都体现出她 们感觉自己被排除在群体之外。B项符合原文，故为答案。其他三项文中均未提及，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What probably makes young women engineers more accepted nowadays?",
+              "stemCn": "如今，让年轻的女性工程师更容易被接受的原因可能是什么？",
+              "options": {
+                "A": "Their success in gaining an equal footing.",
+                "B": "Their ability to balance work and family.",
+                "C": "The change in their responsibilities.",
+                "D": "The increase in their number. ===== PAGE 7 ====="
+              },
+              "optionCn": {
+                "A": "她们成功地获得了平等地位。",
+                "B": "她们平衡工作和家庭的能力。",
+                "C": "她们责任的变化。",
+                "D": "她们人数的增加。"
+              },
+              "answer": "D",
+              "analysis": "倒数第二段明确指出，年轻的女工程师被更多人接受，主要是因为她们的人数增多了。选项D与原文一 致，故为答案。其他三项均不是年轻女性工程师如今更易被接受的原因，均可排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What can we conclude about many female engineers from the statement of a mechanical engineer?",
+              "stemCn": "从一位机械工程师的陈述中，我们可以得出关于许多女工程师的什么结论？",
+              "options": {
+                "A": "They take great pride in their chosen career.",
+                "B": "They have reaped the benefits of being flexible.",
+                "C": "They enjoy doing engineering to the best degree.",
+                "D": "They have proved capable of doing almost anything."
+              },
+              "optionCn": {
+                "A": "她们为自己选择的职业感到自豪。",
+                "B": "她们已经从灵活性中获益。",
+                "C": "她们喜欢把工程做到最好。",
+                "D": "她们已经证明自己几乎无所不能。"
+              },
+              "answer": "A",
+              "analysis": "根据题干关键词amechanical engineer定位到末段结尾句。 定位最后一段第一句提到，许多女工程师为自己选择的职业所带来的好处欢呼雀跃。最后一段结尾句引述了一 位机械工程师的原话，即“它（工程学）能让你灵活地做几乎任何事情。看到自己所做工作产生的成效也 会让人感到满足”。从以上两点可以推断，女工程师们对自己所选的职业感到自豪。选项A符合原文，故 为答案。选项B中的beingflexible虽与原文中的flexibility同义，但这是该机械工程师的直接陈述，无需推 断，故排除。C项和D项与原文不符，故排除。 PartIV Translation ·难词译注· 十分重视place great emphasis on 一系列 a series of 全球环境保护globalenvironmental protection 环境保护environmentalprotection 大力vigorously 重要贡献significantcontributions 显著成效remarkableprogress 共享单车shared cycling 不断continuously 垃圾分类garbage classification 生活环境livingenvironment 参与国际合作participate in internationalcooperation ·参考译文· TheChinese government places greatemphasis on environmental protection.Inrecent years,China has made remarkable progress in reducing air,water,and soil pollution.To continuously enhance people's living environment, China has implemented a series of effective measures,such as vigorously developing clean energy,improving public transportation,promoting shared cycling,and introducing garbage classification. Through these initiatives,China's cities and rural areas are becoming greener and more beautiful.Additionally,China actively participates in international cooperation,making significant contributions to global environmental protection. 四·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "中国政府十分重视环境保护。 近年来 ,中国在减少空气、 水和土壤污染上取得了显著成效。 为了不 断改善人们的生活 环境,中国采取了一系列有效措施 ,包括大力发展清洁能源 ,改善公共交通 ,推广共 享单车 ,实施垃圾分类。通过这 些 措施,中国的城市和农村正在绿起来、美起来。中国还积极参与国际 合作,为全球环境保护做出了重要贡献。 ===== PAGE 8 =====",
+          "terms": [
+            "十分重视place great emphasis on 一系列 a series of 全球环境保护globalenvironmental protection",
+            "环境保护environmentalprotection 大力vigorously 重要贡献significantcontributions",
+            "显著成效remarkableprogress 共享单车shared cycling",
+            "不断continuously 垃圾分类garbage classification",
+            "生活环境livingenvironment 参与国际合作participate in internationalcooperation"
+          ],
+          "reference": "The chinese government places great emphasis on environmental protection. In recent years, China has made remarkable progress in reducing air, water, and soil pollution. To continuously enhance people's living environment, China has implemented a series of effective measures, such as vigorously developing clean energy, improving public transportation, promoting shared cycling, and introducing garbage classification. Through these initiatives, China's cities and rural are as are becoming greener and more beautiful. Additionally, China actively participates in international cooperation, making significant contributions to global environmental protection.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

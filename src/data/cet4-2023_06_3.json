@@ -1,0 +1,506 @@
+{
+  "id": "cet4-2023_06_3",
+  "level": 4,
+  "year": 2023,
+  "month": 6,
+  "setNo": "第3套",
+  "title": "2023年6月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Suppose the student unionof your university is organizing an online discussion on college students doing community service.You are to writeanessay on itsbenefitsand the service you can provide to thecommunity. You willhave 30minutes forthe task.You should write at least 120 wordsbut no more than 180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a listofchoicesgiven in a word bank following the passage. Read the passage through care fully beforemaking yourchoices. Each choice in the bank is identifiedby a letter. Please mark the corresponding letter for each item on answer Sheet 2 with a singlelinethroughthecentre. You may not use any of the words in the bank more than once. Whether you're just having a down day or a down period, taking a walk can instantly lift your mood, especially when you go outdoors. Not only can walking make you less depressed, but according to a new study, depression sufferers who to ok a_26__walk showed just as much improvement in their_27__as people taking medicine. In fact,60-70percentof theparticipants in the study could no longer even be_ 28_as depressed. Bone density may notbeoneofthemostexciting healthbenefitsofwalking, but it'sanimportant one. People with stronger bones avoidosteoporosis（骨质疏松症) and all the problems that_29_ with it, likebreaksandotherdisabilities. Andthebestwaytogetstrong, healthybonesisby doing weight-bearing exercises like running, dancing andwalking, according to a large study. But as regards bones, it's_30___use it or lose it: To keep your bones strong you have to keep exercising. The researchersfoundthatadults whowalkedregularlyhadbetterbonedensity throughouttheirlivesthan their__31___friends. Taking a walk can be great for_32__your head or blowingoff some steam. It also provides a great opportunity to__33__with friends and family, far away from electronics and other__34__at home. Even better, you set a powerful example because when they see you_35___the benefitsof walking, theyllbeencouragedto walk more, too. 2023年6月四级真题第3套第1页，共6页 ===== PAGE 2 =====",
+          "wordBank": {
+            "A": "accompany",
+            "B": "approved",
+            "C": "bond",
+            "D": "classified",
+            "E": "clearing",
+            "F": "come",
+            "G": "daily",
+            "H": "distractions",
+            "I": "exclusively",
+            "J": "happenings",
+            "K": "inactive",
+            "L": "occurrences",
+            "M": "reaping",
+            "N": "symptoms",
+            "O": "typical"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前有动词took和不定冠词a，空"
+              },
+              "answer": "G",
+              "analysis": "格后是名词walk，因此本空应填人形容词修饰 walk。 【语义判断】空格所在句的意思是，散步不仅可以 缓解你的抑郁，而且根据一项新的研究， 散步的抑郁症患者的 改善程度和吃药的 人一样。将备选形容词分别代人句中，只有G）daily “每日的，每天的”符合句意，故为答案。备选的其 他形容词均不能使句意通顺，因此排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格前有形容词性物主代词their，因"
+              },
+              "answer": "N",
+              "analysis": "此本空应填入名词。 【语义判断】空格所在句的意思是，散步不仅可以 缓解你的抑郁，而且根据一项新的研究，每天散步 的抑郁症患者的 改善程度和吃药的人一 样。备选名词中，只有N)symptoms“症状”符合句 意，故为答案。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格前有动词be，而且本句的主语"
+              },
+              "answer": "D",
+              "analysis": "60-70percentoftheparticipants与空格后的as depressed存在逻辑上的被动关系，因此本空应填 入动词的-ed形式。 【语义判断】空格所在句的意思是，事实上，这个研 究中有60%到70%的参与者甚至不再被 为抑郁症患者。由上一句可知，该研究表明，抑郁 症患者每日散步之后病情有所改善，所以他们不再 被认为患有抑郁症，因此本空应填入含有“认为，划 分”意义的动词-ed形式，由此确定答案为D） classified。备选的其他动词-ed形式均没有此含 义，因此排除。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格所在部分是that引导的定语从"
+              },
+              "answer": "F",
+              "analysis": "句，其先行词是可数名词的复数形式problems，在 定语从句中作主语，因此本空应填入动词原形作定 语从句的谓语。 【语义判断】空格所在句的意思是，骨骼强壮的人 可以避免骨质疏松症和随之 的所有问题， 比如骨折和其他残疾。根据常识可知，骨折通常是 由骨质疏松导致的，因此本空应填入含有“发生，引 起”意义的动词原形。备选动词中，A)accompany 与F)come均有此义，但是A)accompany是及物 动词，其后直接跟名词作宾语，不能与with连用， 由此确定答案为F）come。备选的其他动词均没 有此含义，因此排除。 第2页，共9页"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格前有动词is，后面是两个并列的"
+              },
+              "answer": "H",
+              "analysis": "动词词组，因此本空应填人副词。 【语义判断】空格所在句的意思是，但就骨骼而言， 它 是用进废退：为了保持骨骼强壮，你必 须坚持锻炼。由冒号之后的句子可知，如果不锻 炼，骨骼就无法保持强壮，即冒号前提到的useit orloseit这种二选一的情况。由此可知，useitor loseit是一定会发生的，因此本空应填人含有“一 定地，确定地”意义的副词，由此确定答案为H） definitely。备选的其他副词均没有此含义，因此 排除。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格前是形容词性物主代词their，空"
+              },
+              "answer": "K",
+              "analysis": "格后有名词friends，因此本空应填入形容词。 【语义判断】空格所在句的意思是，研究人员发现， 经常走路的成年人一生的骨密度要比他们 朋友高。本段指出，散步可以提高骨密 度，而且要保持骨骼强壮，必须坚持锻炼。由此可 以推断，经常走路的成年人的骨密度比不常锻炼的 人要高，因此本空应填入含有“不活动的，不锻炼 的”意义的形容词，由此确定答案为K）inactive。 备选的其他形容词均没有此含义，因此排除。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前有介词for，空格后是名词词组"
+              },
+              "answer": "E",
+              "analysis": "your head，而且后面有or连接的并列的动词-ing 形式blowing，因此本空应填入动词的-ing形式。 【语义判断】空格所在句的意思是，散步可以很好 地 你的头脑或释放压力。由句意可知，散 步对改善情绪有好处，可以使大脑清晰，理清思路， 因此本空应填入含有“使清晰，清理”意义的动词 -ing形式，由此确定答案为E）clearing。备选的其 参考译文 他动词-ing形式均没有此含义，因此排除。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格所在部分是一个动词不定式短"
+              },
+              "answer": "C",
+              "analysis": "语，修饰opportunity，空格前是to，空格后是介词 with，因此本空应填入动词原形。 【语义判断】空格所在句指出，它还提供了一个与 朋友和家人 的好机会。备选动词原形中， 语，不能与with连用，故排除；F）come代入句中 不符合句意，也可排除；C）bond“（与某人）培养一 种特殊的关系”符合句意，故为答案。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "【语法判断】空格前是并列连词and和可数名词复"
+              },
+              "answer": "H",
+              "analysis": "数形式electronics，因此本空也应填入名词复数。 【语义判断】空格所在句的意思是，它还提供了一 个与朋友和家人建立联系的好机会，远离电子产品 和家里的其他 。由句意可知，电子产品会 妨碍人们与朋友、家人建立联系，是一种干扰，那么 本空应填入含有“干扰，分心”意义的名词，由此确 定答案为I）distractions。备选的其他名词复数没 有此含义，因此排除。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格前是代词you作宾语，空格后是"
+              },
+              "answer": "M",
+              "analysis": "一个名词词组，该词组与空格所填的词共同作you 的宾语补足语，因此本空应填入动词。 【语义判断】空格所在句的意思是，更好的是，你树 立了一个强有力的榜样，因为当他们看到你从散步 中 益处时，他们也会受到鼓励，愿意多走 路。根据句意可知，通过走路可以获得好处，因此 本空应填入含有“获得”意义的动词，由此确定答案 为M)reaping。备选的其他动词均没有此含义， 因此排除。 无论你是某天心情不好还是某段时间心情不好，散步都能立刻改善你的情绪，尤其是在户外散步。散 步不仅可以缓解你的抑郁，而且根据一项新的研究，每天散步的抑郁症患者的症状改善程度和吃药的人一 样。事实上，这个研究中有60%到70%的参与者甚至不再被界定为抑郁症患者。 骨密度可能不是散步最令人兴奋的健康益处之一，但它是一个重要的好处。骨骼强壮的人可以避免 骨质疏松症和随之而来的所有问题，比如骨折和其他残疾。一项大型研究表明，获得强壮、健康骨骼的最 佳方式是进行诸如跑步、跳舞和散步等负重运动。但就骨骼而言，它绝对是用进废退：为了保持骨骼强壮， 你必须坚持锻炼。研究人员发现，经常走路的成年人一生的骨密度要比他们不怎么活动的朋友高。 散步可以很好地清理你的头脑或释放压力。它还提供了一个与朋友和家人建立联系的好机会，能够 远离电子产品和家里的其他干扰。更好的是，你树立了一个强有力的榜样，因为当他们看到你从散步中获 益时，他们也会受到鼓励，愿意多走路。 第3页，共9页"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "B) They deem these exercises counter-productive.\nC) They see suchexercises as harmful to harmony.\nD) They find these exercises too demanding.\nA) Theyrelocatedteamleadersandtheiroffices.\nB) They rearranged the staff and office spaces.\nC) They redesignedthestaff's work schedules.\nD) Theyreintroduced some cohesiveactivities.\nA) They were intended to share personalattitudesandrelationships.\nB) They implicitlyadded to thevulnerabilityofteammembers.\nC) They invariably strengthenedconnectionsamong colleagues.\nD) They were regarded as an intrusion into employees' private lives.\nA) By all owing participants freedom to express themselves.\nB) By applying it to employees who volunteer to participate.\nC) By arranging in proper order the questions participants face.\nD) By guiding employees through a series of steps in team building.\nA) Theymustbeusedincombinationforanentirecollective.\nB) They prioritise some psychological aspects over others.\nC) They place too much stress on individual relationships.\nD) Theyhavetobeappliedcautiously to be effective.\nC) To fund the development of local infrastructure.\nD) To narrow the gap between the rich and the poor.\nA) They seldom meet the descriptionsof homelessness.\nB) They are the victims of fast economic development.\nC) They are responsible fort heir own condition.\nD) They account for the majority of drug addicts.\nA) They find it increasingly difficult to afford a place to live.\nB) The divorce rate in the county has been on a steady rise.\nC) They have beencompelled to take low-paying jobs.\nD) The society fails to forgive them for their mistakes.\nA) Supplying enough jobopportunitiesfor the homeless remains a challenge.\nB) Everyone is pul ling in the same direction to solve the homelessness problem.\nC) The increase in new housing falls short oft he demand of thegrowing homeless population.\nD) LosAngeles'homeless condition is deteriorating faster than many people predict.\nA) They are increasinglyashamedabout its scale.\nB) They find it no more scaring than it appears.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "The lion dancers perform from door to door to bring New Year wishes to business people.",
+              "stemCn": "【定位】由题干中的liondancers、fromdoorto",
+              "options": {},
+              "optionCn": {
+                "F": "段第一句。"
+              },
+              "answer": "F",
+              "analysis": "door to bringNew Year wishes和business people 人街，从一家店到另一家店，为来年带来好运。题 干中的from door to doortobring NewYear wishes tobusiness people对应定位句中的from business to business to bring good luck for the comingyear，故答案为F)。"
+            },
+            {
+              "num": 37,
+              "stem": "The New York dance club also serves as a place for entertainment where youngsters can enjoy",
+              "stemCn": "【定位】由题干中的TheNewYorkdanceclub、",
+              "options": {},
+              "optionCn": {
+                "C": "段第二句。"
+              },
+              "answer": "C",
+              "analysis": "俱乐部同时也是一个娱乐中心和安全庇护所，在 这里随处可见电子游戏。题干中的servesasa place forentertainment对应定位句中的actsasa recreation center，题干中的youngsters canenjoy themselves safely是对定位句中safehavenfor teenagers和withvideo games readily available的 概括归纳，故答案为C）。"
+            },
+            {
+              "num": 38,
+              "stem": "Lion dancers need to have a little imagination to perform well.",
+              "stemCn": "【定位】由题干中的Liondancers和imagination",
+              "options": {},
+              "optionCn": {
+                "J": "段第三句。"
+              },
+              "answer": "J",
+              "analysis": "格的舞狮者，需要有一种想象力。题干中的have alittleimagination和performwell分别对应定位 句中的there's a sense ofimagination involved和 makes you a competent lion dancer，故答案为J)。"
+            },
+            {
+              "num": 39,
+              "stem": "There are a number of different versions about the origin of the lion dance.",
+              "stemCn": "【定位】由题干中的differentversions和the",
+              "options": {},
+              "optionCn": {
+                "E": "段第二句。"
+              },
+              "answer": "E",
+              "analysis": "源有各种各样的故事，但大多数故事都与一个叫 “年”的怪物有关。题干中的anumberof different versions about the origin of thelion dance是对定位句中Stories varyabouthowlion dancing cametobe的同义转述，故答案为E)。"
+            },
+            {
+              "num": 40,
+              "stem": "Some 50% of the members of a New York lion dance club are teenagers.",
+              "stemCn": "【定位】由题干中的50%ofthemembers定位到",
+              "options": {},
+              "optionCn": {
+                "B": "段倒数第二句。"
+              },
+              "answer": "B",
+              "analysis": "狮团的一半，其中很多人从14岁开始舞狮。题干 中的Some50%ofthemembers对应定位句中的 comprise abouthalfofthe group，故答案为B)。"
+            },
+            {
+              "num": 41,
+              "stem": "One club member says he feels proud of his cultural tradition.",
+              "stemCn": "【定位】由题干中的feelsproud和cultural",
+              "options": {},
+              "optionCn": {
+                "L": "段倒数第二、三句。"
+              },
+              "answer": "L",
+              "analysis": "亚裔美国人，乐先生珍视自己的文化和传统，并为 此感到非常自豪。题干中的Oneclubmember指 的是乐先生，题干中的feelsproudofhis cultural tradition是对定位句中valuemycultureandtradition 和havealotofpride的概括归纳，故答案为L）。"
+            },
+            {
+              "num": 42,
+              "stem": "Two dancers coordinate their movements, one manipulating the lion's head and the other its body.",
+              "stemCn": "【定位】由题干中的Twodancers、thelion'shead",
+              "options": {},
+              "optionCn": {
+                "G": "段第一、二句。"
+              },
+              "answer": "G",
+              "analysis": "巴由两个人操作。当一个人控制狮头时，第二个 人在代表狮子身体的织物下面跟着。题干中的 Twodancers对应定位句中的twopeople，题干中 的onemanipulating the lion's head and theother its body是对定位句中oneperson controls the head,a secondfollows under a train of fabric representing thebody的概括归纳，故答案为G)。"
+            },
+            {
+              "num": 43,
+              "stem": "One lion dancercompares their New York dance club to a family.",
+              "stemCn": "【定位】由题干中的comparestheirNewYork",
+              "options": {},
+              "optionCn": {
+                "D": "段第三句。"
+              },
+              "answer": "",
+              "analysis": "为他们是一个大家庭，并在进门时与其他成员握 手。题干中的Onelion dancer指的是阿尔文·周， 题干中的compares theirNewYorkdanceclubto 第4页，共9页 afamily对应定位句中的We'reabig family，故答 案为D）。"
+            },
+            {
+              "num": 44,
+              "stem": "Lion dance should be handeddown to future generations as part of chinese culture.",
+              "stemCn": "【定位】由题干中的generations和Chineseculture",
+              "options": {},
+              "optionCn": {
+                "I": "【精析】细节归纳题。定位句提到，陈先生认为舞"
+              },
+              "answer": "I",
+              "analysis": "定位到文章I段倒数第二、三句。 狮代代相传至关重要，我们需要传承传统和文化， 这是我们文化的一部分。题干中的Liondance shouldbe handeddowntofuture generations对应 定位句中的passingthe dance from one generation to the next，题干中的 as part of Chineseculture对应定位句中的apartofour 参考译文 culture，故答案为I)。"
+            },
+            {
+              "num": 45,
+              "stem": "One lion dancerlearnedhow to perform from his elders.",
+              "stemCn": "【定位】由题干中的Oneliondancer和hiselders",
+              "options": {},
+              "optionCn": {
+                "L": "段第二、三句。"
+              },
+              "answer": "L",
+              "analysis": "一个舞狮家庭，他的叔叔和父亲都是舞狮俱乐部 成员，他在成长过程中，总是看着家人舞狮，慢慢 地对它产生了兴趣。题干中的Oneliondancer指 的是乐先生，题干中的learnedhowto perform fromhiselders是对定位句中watchmyfamily and see the lion dance, and I slowly grew interestedinit的概括归纳，故答案为L）。 一个舞狮和传统扎根的俱乐部 嘭嘭声。就在入口处，巨大的狮子面具随着鼓声扭动、旋转着。在最近的一个周五晚上，这群青少年 在工作室的地板上穿梭着练习中国舞狮。 再来一次。”这个由60名成员组成的舞狮团全年都在表演，但现在正在准备其最大的活动——中国农 历新年庆祝活动，该活动将于周六开始，并于2月15日结束。（40）青少年约占舞狮团的一半，其中很 多人从14岁开始舞狮。这个舞狮团自1956年以来一直在表演。220个舞狮团将参加2月5日在曼哈 顿唐人街举行的第18届农历新年游行。这个舞狮团中大约100名现任和前任成员就是其中的一部分。 方先生从15岁开始加人该团体，三年前开始教授舞狮。（37）但对青少年来说，俱乐部同时也是一个 娱乐中心和安全庇护所，在这里随处可见电子游戏。放学来这里的学生多达20人。“经常待在这里 的基本要求是你必须学会舞狮，”方先生说。虽然这不是成为会员的正式要求，但每个人都有办法参 加农历新年游行，无论是跳舞、举旗还是打鼓。 感兴趣才加人的。（43)“我们是一个大家庭，”他说，并在进门时与其他成员握手。“你认识每个人。” “年”的怪物有关，它会恐吓一个村庄。村民们最终联合起来，用鞭炮和鼓声把怪物吓跑。虽然狮子并 不是中国本土的动物，但在一些版本的故事中，村民们自己创造了一个狮子形状的怪物来击退怪物“年”。 （36）今天，舞狮者穿越唐人街，从一家店到另一家店，为来年带来好运。根据中国农历，新年将于周六 开始，标志着鸡年的到来，鸡被认为是积极的象征。“这几乎就像黑夜即将结束，太阳即将升起，”美国 华人博物馆的数字藏品协调员邓亚勇说，“希望我们将有新的一天。”邓女士说，公鸡和鸡不是特别强 壮的动物，但它们的数量很多。“在某种程度上，”她说，公鸡“代表我们老百姓。'” （42）狮子的头和尾巴由两个人操作。当一个人控制狮头时，第二个人在代表狮子身体的织物下面跟 着。舞狮者们模仿动物在野外的自然动作，包括攻击时的侵略性，他们的动作和谐。一个狮头重不到 10磅，端正地坐在舞狮者的肩膀上。在里面，舞狮者操纵绳子，让狮子的眼睛睁开、闭上，摇动它的耳 朵，张开它的嘴，露出一个火焰橙的舌头。 “一个好的舞狮者会模仿活生生的动物，”59岁的陈卡林说，他是该运动俱乐部社区公共关系负责人。 “我从小就开始舞狮，”他说。“那时的唐人街要小得多，人们会放烟花和鞭炮来庆祝，这给它增添了很 多味道和意义。” I 陈先生每年到中国旅游时都会买一个新的狮头。一个狮头大约要1，500美元。“如果你想要好的东 西、高质量的东西，你必须自己去看，”他说。“在我们把狮头放进集装箱并运过来之前，我会先检查一 下。”（44）陈先生加入该俱乐部已近50年，他说，舞狮代代相传至关重要。“你需要传承传统和文化， 这是我们文化的一部分，”他说。“这是促进文化理解和交流的好方法；我们对此表示欢迎。” 第5页，共9页 途径。“舞狮始于2，000年前——这太不可思议了，”她说。“(38)但要成为一名合格的舞狮者，需要有 一种想象力。正因为如此，舞狮可以教授领导能力。你会不断地强迫自己超越极限。 越过搭档的头顶。房间的天花板太低，不适合戴上狮头进行跳跃练习，所以在他的搭档头顶上时，乐 先生举起双臂，好像顶着狮头一般。 俱乐部成员。“在我的成长过程中，我总是看着家人舞狮，我慢慢地对它产生了兴趣。”14岁时，他正式 加入了运动俱乐部的舞狮团体。（41）“作为中国人或亚裔美国人，我珍视自己的文化和传统。我为此 感到非常自豪。”他说。“我想为社会做贡献，回馈社区。”"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Team-buildingexerciseshavebecomepopularformanagerstrying to increaseorganisationaland teamharmonyandproductivity. Unfortunatelymanyemployeesresentcompulsorybondingandoften regard these exercises as a nuisance. Apaperpublishedthis weekbyUniversityofSydneyresearchers inSocialNetworkshasreported participants'feelingsaboutteam-buildinginterventions（干预),revealingethicalimplicationsinforcing employees to take part. \"Many people see team-building activities as a waste of time, so wedecidedto look in more depth at what'sbehindthis,\"saidthepaper'sleadresearcher, DrPeterMatous. \"Teamsareformed, combinedandrestructured. Staffarerelocatedandofficespacesredesigned. All this isdonewiththeaimofimprovingworkplaceefficiency, collaborationandcohesion. But does any of this work?\" said DrMatous. The study found that team-buildingexercises whichfocusedonthe sharing of and intervening into personalattitudes andrelationshipsbetweenteammembers were con side red too heavy-handedand intrusive, althoughtheresearchers say some degreeofopennessandvulnerability is often necessary to make deep, effective connections withcolleagues. \"Some participants were against team-building exercisesbecausethey were implicitly compulsory. Theydidn'twelcomemanagement's interestintheirlivesbeyondtheir direct work performance,\"said Matous.\"Many people don't want tobeforcedinto havingfunormaking friends, especially not on top oftheirbussy jobs. They feel management is being too nosy or trying to control their lives too much.\" In this study the researchers recommended a self-disclosure （表露) approach where participants were guided through a series of questions that allowed them to increasingly disclose personal informationandvalues. The method is well-testedandhasbeenshowntoincrease interpersonal closeness. However, to be successful it must be voluntary. Theresearchers saidthere arenumerousschoolsof thought thatproposediffering psychological methodsfor strengthening relationships.\"With caution, manyrelationalmethodsto improveteams and organisations canbeborrowedfromotherfields. The question is how to apply them effectively to strengthenanentirecollective, which is more than justthesumofindividualrelationships,\"saidDr Matous.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "Why are manyemployeesopposed to team-building exercises?",
+              "stemCn": "【定位】由题干中的employees和opposedto",
+              "options": {
+                "A": "They consider such exercises annoying.",
+                "B": "They deem these exercises counter-productive.",
+                "C": "They see suchexercises as harmful to harmony. 2023年6月四级真题第3套第4页，共6页 ===== PAGE 5 =====",
+                "D": "They find these exercises too demanding."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，不幸的是，许多"
+              },
+              "answer": "A",
+              "analysis": "team-buildingexercises定位到第一段第二句。 员工对于这种强制性的感情联络感到反感，且经 常将其视为令人讨厌的事情，故答案为A）。 【避错】B）“他们认为这些活动会适得其反”、C) “他们认为这些活动有碍于和谐”和D）“他们发现 这些活动费时费力”在文中均未提及，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "WhatdidDrMatousandhis team do to find out whether team-buildingactivitieswouldimprove productivity?",
+              "stemCn": "【定位】由题干中的DrMatousandhisteam和",
+              "options": {
+                "A": "Theyrelocatedteamleadersandtheiroffices.",
+                "B": "They rearranged the staff and office spaces.",
+                "C": "They redesignedthestaff's work schedules.",
+                "D": "Theyreintroduced some cohesiveactivities."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句提到，形成、结合、重"
+              },
+              "answer": "B",
+              "analysis": "improveproductivity定位到第四段第一至三句。 组团队，重新安置员工以及重新设计办公室。所 有的这些都是为了提高工作效率，提升合作及团 队凝聚力，故答案为B）。 【避错】A）“他们重新安置了团队领导和他们的办 公地点”、C）“他们重新设计了员工的时间表”和 提及，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What did the study by Matous'team find about some team-building exercises?",
+              "stemCn": "【定位】由题干中的Matous’team和someteam-",
+              "options": {
+                "A": "They were intended to share personalattitudesandrelationships.",
+                "B": "They implicitlyadded to thevulnerabilityofteammembers.",
+                "C": "They invariably strengthenedconnectionsamong colleagues.",
+                "D": "They were regarded as an intrusion into employees' private lives."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位段表明，研究发现，专注"
+              },
+              "answer": "D",
+              "analysis": "buildingexercises定位到第五段。 于分享和干预团队成员之间的个人态度和关系的 团建活动被认为是拙劣且有侵犯性的，尽管研究 人员表明一定程度上的开放性及脆弱性对于和同 事发展深入的、有效的关系是有必要的，故答案 为D）。 【避错】第五段中提到，专注于分享和干预团队成 员之间的个人态度和关系的团建活动被认为是拙 劣且有侵犯性的，这不能说明团建活动就是为了 分享个人态度和关系，故排除A）。B）“它们会隐 性地增加团队成员的脆弱性”和C）“它们一直能够 强化同事之间的关系”在文中并未提及，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "How can the self-disclosure approach succeed in increasing interpersonal closeness?",
+              "stemCn": "【定位】由题干中的theself-disclosureapproach",
+              "options": {
+                "A": "By all owing participants freedom to express themselves.",
+                "B": "By applying it to employees who volunteer to participate.",
+                "C": "By arranging in proper order the questions participants face.",
+                "D": "By guiding employees through a series of steps in team building."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句提到，然而，想要成 功，这必须是自愿的，故答案为",
+                "A": "“通过让参与者们自由地表达自我”和",
+                "C": "“通过按适当的顺序安排参与者要面对的问题”"
+              },
+              "answer": "B",
+              "analysis": "和interpersonalcloseness定位到第七段最后 一句。 在第七段中有所提及，但并非此方法成功的关键， 故排除。D）“通过引导员工完成团队建设的一系 列步骤”在文中并未提及，故排除。 第6页，共9页"
+            },
+            {
+              "num": 50,
+              "stem": "What does Matous think oft he various psychologicalmethodsborrowedfromotherfieldsfor strengthening relationships?",
+              "stemCn": "【定位】由题干中的the various psychological",
+              "options": {
+                "A": "Theymustbeusedincombinationforanentirecollective.",
+                "B": "They prioritise some psychological aspects over others.",
+                "C": "They place too much stress on individual relationships.",
+                "D": "Theyhavetobeappliedcautiously to be effective."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出马图斯博士的观"
+              },
+              "answer": "D",
+              "analysis": "methods和otherfields定位到最后一段第二句。 点：在谨慎的情况下，很多相关的优化团队及组织 的方法可以借鉴其他领域，故答案为D）。 参考译文 【避错】文中提及了如何有效地运用这些心理方法 来加强整个集体，但并不是说必须把这些方法结 合起来用于整个集体，故排除A）。B）“它们优先 考虑一些心理方面的因素”和C）“它们过于强调 个人之间的关系在文中并未提及，故排除。 团建活动对于试图提高组织性、团队和谐以及生产力的管理者来说已经变得很流行。（46）不幸的是， 许多员工对于这种强制性的感情联络感到反感，且经常将其视为令人讨厌的事情。 本周，悉尼大学的研究人员在《社交网络》上发表了一篇论文，报告了参与者对团队建设干预的感受， 揭示了强迫员工参与团建活动的道德问题。 这篇论文的主要研究者彼得·马图斯博士说:“很多人认为团建活动是浪费时间，所以我们决定更加 深入地研究这背后的原因。” （47）马图斯博士说：“形成、结合、重组团队，重新安置员工以及重新设计办公室。所有的这些都是为 了提高工作效率，提升合作及团队凝聚力。但是这些有用吗？” （48）研究发现，专注于分享和干预团队成员之间的个人态度和关系的团建活动被认为是拙劣且有侵 犯性的，尽管研究人员表明一定程度上的开放性及脆弱性对于和同事发展深入的、有效的关系是有必要 的。 马图斯博士说:“一些参与者反对团建活动，因为它们实际上是强制性的。他们并不欢迎管理者们对 他们的生活感兴趣，除了直接的工作绩效。很多人不想被强制获得乐趣或是结交朋友，尤其是不想在繁忙 的工作之余做这些。他们认为管理者们太爱管闲事并试图过多地控制他们的生活。” 在这项研究中，研究者们推荐了一种自我表露方法，参与者们被引导回答一系列问题，这些问题让他 们逐渐地透露自己的个人信息和价值观。这种方法经过了充分的测试且已被证明可以提升人际关系的亲 密度。（49）然而，想要成功，这必须是自愿的。 研究者们说，有众多的流派提出不同的心理学方法来加强人际关系。（50）马图斯博士说：“在谨慎的 情况下，很多相关的优化团队及组织的方法可以借鉴其他领域。问题是，如何有效地运用它们来加强整个 集体，而不仅仅是个体关系的总和。 Passage Two 【结构框图】 第1、2段阐述了洛杉矶无家可归者数量众多这一现象，以及当地居民为此而 本文主要介绍了洛杉 采取的措施。 矶的无家可归者数量 第3段分析了产生无家可归者的主观原因和客观原因。 庞大，并分析了出现 该现象的原因，以及 面临的挑战。 ！第4、5段指出现在面临的挑战是巨大的。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "There are close to 58,000homeless people inLosAngelescounty. That's a shocking and tragic number for a region that's home to some oft her i chest people in the world. At last, theproblembecame so acute-and so visible-thatLos Angelestookextraordinaryaction. ThecitizensofthiscountyvotedinNovember 2016 and again in march 2017toraisetheirowntaxes. Thepurposeofsuchactionistofundanenormous multibillion-dollar,1o-yearprogramofhousingandsocialservicesfor the homeless. As a result, Los Angelesnow has its best chance in decadestocombathomelessness. This is an opportunity thatsurelyallcanagreemustnotbewasted. It isneitherdesirablenormorallyacceptablenor practical forth is county to toleratethesignsofdeprivationmorecommonlyassociatedwiththe slums（贫民 窟) ofRio de Janiero. How did we get here?For as long as there are homeless people, there is a tendency toblamethevictims themselves for their condition—to see their failure to thrive as an issue of character, of moral weakness, of laziness. But contrary to popular belief, the homeless inLosAngeles are not mostly mentally ill or drug addictedorfrightening, although a sizable minority meet some of those descriptions. Today, a greaterand greaterproportionofpeople living on the streets are there because of bad luck or a series ofmistakes, or because the economy forgot them—they lost a job or were evicted(逐出) orfledan abusive marriage just as the housing market was growing increasingly unforgiving. 2023年6月四级真题第3套第5页，共6页 ===== PAGE 6 ===== Thechallenges are enormous, even if everyone is pul ling in the same direction. That reality was driven home this month by anewLos AngelesHomelessServices Authority report showing that the county's homeless population is growing fasterthanthe supply of new housing. In the world's richest nation, homelessnesson this scale should be shameful and shocking. But most Los Angelesresidents are no longer either shockedor shamed. Increasingly, we are uncomfortable, annoyed, disgusted，scared or unaware. Compassion(同情心) is being replacedbyresignation.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "Why did the citizens ofLos Angeles vote to raise their own taxes?",
+              "stemCn": "【定位】由题干中的thecitizensofLos Angeles和",
+              "options": {
+                "A": "To combat the county's homelessness.",
+                "B": "To reform the county's service system.",
+                "C": "To fund the development of local infrastructure.",
+                "D": "To narrow the gap between the rich and the poor."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，此举的目的是"
+              },
+              "answer": "A",
+              "analysis": "vote to raise their own taxes定位到首段最后一句。 为一项耗资数十亿美元、为期10年的项目提供资 金，该项目为无家可归者提供住房和社会服务。由 此可知，洛杉矶市民投票提高税收是为了解决城市 中的无家可归问题，故答案为A）。 【避错】“改革该县的服务系统”、“资助地方基础设 施的发展”和“缩小贫富差距”在文中均未提及，故 排除B）、C）和D）。"
+            },
+            {
+              "num": 52,
+              "stem": "What do people tend to believe about the homeless?",
+              "stemCn": "【定位】由题干中的thehomeless和题文同序原则",
+              "options": {
+                "A": "They seldom meet the descriptionsof homelessness.",
+                "B": "They are the victims of fast economic development.",
+                "C": "They are responsible fort heir own condition.",
+                "D": "They account for the majority of drug addicts."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，人们就倾向于"
+              },
+              "answer": "C",
+              "analysis": "定位到第三段第二句。 第7页，共9页 把他们的处境归咎于受害人自己——把他们的失 败归于性格问题、道德缺失，或是懒惰。由此可知， 人们认为无家可归者需要为自己的处境负责，故答 案为C)。 【避错】第三段第三句指出，洛杉矶的无家可归者 中，有相当一小部分人符合这种关于无家可归者的 负面描述，故排除A）。文中并未提及无家可归者 是经济快速发展的受害者，故排除B）。第三段中 提到，无家可归者大部分没有吸毒成瘾，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "What is one oft he causesformoreandmore people inLos Angeles to become homeless?",
+              "stemCn": "【定位】由题干中的causes和becomehomeless定",
+              "options": {
+                "A": "They find it increasingly difficult to afford a place to live.",
+                "B": "The divorce rate in the county has been on a steady rise.",
+                "C": "They have beencompelled to take low-paying jobs.",
+                "D": "The society fails to forgive them for their mistakes."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，越来越多的人"
+              },
+              "answer": "A",
+              "analysis": "位到第三段末句。 流落街头是因为他们运气不佳或是犯过一系列的 错误，又或者是因为经济遗忘了他们———他们失去 工作，或者被驱逐，又或者从一段不幸的婚姻中逃 离，却又正赶上住房市场越来越无情。最后一句是 用拟人的手法说明，房价很高，无家可归者承担不 起住所的费用，故答案为A）。 【避错】文中并未提及“该县的离婚率稳步提高”、 “他们被迫从事低薪的工作”和“社会不能原谅他们 的过错”，故排除B)、C)和D)。"
+            },
+            {
+              "num": 54,
+              "stem": "What do we learn from the new Los Angeles Homeless Services Authority report?",
+              "stemCn": "【定位】由题干中的thenewLos AngelesHomeless",
+              "options": {
+                "A": "Supplying enough jobopportunitiesfor the homeless remains a challenge.",
+                "B": "Everyone is pul ling in the same direction to solve the homelessness problem.",
+                "C": "The increase in new housing falls short oft he demand of thegrowing homeless population.",
+                "D": "LosAngeles'homeless condition is deteriorating faster than many people predict."
+              },
+              "optionCn": {
+                "C": "【精析】细节辨认题。定位句指出，洛杉矶无家可"
+              },
+              "answer": "C",
+              "analysis": "参考译文 ServicesAuthorityreport定位到第四段第二句。 归者服务局本月发布的一份新报告显示，该县无家 可归者人口的增长速度超过新住房的提供速度，故 答案为C）。 【避错】第四段第一句提到，即使每个人都在朝着 同一个方向努力，挑战仍然巨大。“即使”两个字说 明这是作者的假设，并不是实际情况，故排除B）。 文中并未提及“为无家可归者提供足够的工作机会 是一个挑战”和“洛杉矶无家可归者的现状恶化的 速度比很多人预测的要快”，故排除A）和D）。"
+            },
+            {
+              "num": 55,
+              "stem": "How do most Los Angelesresidents now feel about homelessness?",
+              "stemCn": "【定位】由题干中的mostLosAngelesresidents和",
+              "options": {
+                "A": "They are increasinglyashamedabout its scale.",
+                "B": "They find it no more scaring than it appears.",
+                "C": "They are less and less indifferent to it.",
+                "D": "They no longer find it shocking."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句提到，在世界上最富"
+              },
+              "answer": "D",
+              "analysis": "feelabouthomelessness定位到最后一段第一、 二句。 有的国家中，这种规模的无家可归现象是可耻且令 人震惊的，但大多数洛杉矶的居民们不再感到震惊 或羞耻，故答案为D）。 【避错】定位句提到，大多数洛杉矶的居民们不再 感到震惊或羞耻，故排除A）。最后一段的第三句 指出，居民们越来越不适、恼怒、厌烦、害怕或者毫 无察觉。也就是说，人们越来越害怕和冷漠，故排 除B）和C）。 在洛杉矶县有将近58，000名无家可归者。对于一个居住着一些世界上最富有的人的地区而言，这是 一个令人震惊且可悲的数字。最终，问题变得如此严重且显而易见，以至于洛杉矶采取了非同寻常的行 动。当地居民分别于2016年11月和2017年3月投票决定提高他们自己的税收。（51）此举的目的是为 一项耗资数十亿美元、为期10年的项目提供资金，该项目为无家可归者提供住房和社会服务。 因此，洛杉矶现在有了几十年以来解决无家可归者问题的最好机会。这是一个所有人都认为不能错 失的机会。对于洛杉矶来说，容忍与里约热内卢贫民窟联系在一起的贫困现象既不可取，也不合乎道德， 更不现实。 我们是如何走到这一步的？（52）因为只要有无家可归者存在，人们就倾向于把他们的处境归咎于受 害人自己——把他们的失败归于性格问题、道德缺失，或是懒惰。但与这些普遍观点相反的是，洛杉矶的 无家可归者大多不是精神疾病患者，没有吸毒成瘾或令人感到害怕，尽管也有相当一小部分人符合这些描 述。（53）如今，越来越多的人流落街头是因为他们运气不佳或是犯过一系列的错误，又或者是因为经济遗 忘了他们———他们失去工作，或者被驱逐，又或者从一段不幸的婚姻中逃离，却又正赶上住房市场越来越 无情。 即使每个人都在朝着同一个方向努力，挑战仍然巨大。（54）但是现实让人深有感触，洛杉矶无家可归 者服务局本月发布的一份新报告显示，该县无家可归者人口的增长速度超过新住房的提供速度。 （55）在世界上最富有的国家中，这种规模的无家可归现象是可耻且令人震惊的。但大多数洛杉矶的 居民们不再感到震惊或羞耻。我们越来越不适、恼怒、厌烦、害怕或者毫无察觉。同情心正在被逆来顺受 取代。 第8页，共9页 Part Translation The Chinese government has been vigorously carrying out compulsory education all the time so that every child can have access to education.Since theCompulsory EducationLaw came into effect in1986,the government has worked diligently to achieve the goal of making compulsory education available throughout the country. Today, children in China,starting school at the age of six,receive a total of nine years of compulsory education from primary school to junior high school. Since the fall semester of 2008,students during compulsory education don't have to pay tuition fees. With the implementation ofa series of educational reform measures, the quality of China's compulsory education has also been significantly improved. educationalequity教育公平 tuition学费 curriculumstandard课程标准 financialaids补助 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "中国政府一直大力推行义务教育（compulsoryeducation)，以使每个儿童都享有受教育的机会。 自1986年《义务教育法》生效以来，经过不懈努力，实现了在全国推行义务教育的目标。如今，在中国， 儿童年满六周岁开始上小学，从小学到初中一共接受九年义务教育。从2008年秋季学期开始，义务教 育阶段学生无须缴纳学费。随着一系列教育改革举措的实施，中国义务教育的质量也有显著提高。 2023年6月四级真题第3套第6页，共6页",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

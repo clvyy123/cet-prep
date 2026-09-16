@@ -1,0 +1,542 @@
+{
+  "id": "cet4-2024_12_3",
+  "level": 4,
+  "year": 2024,
+  "month": 12,
+  "setNo": "第3套",
+  "title": "2024年12月四级真题（第3套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_3-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Suppose the university newspaper is inviting submissions from the students for its coming edition on how the students can contribute to a green campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+          "review": "",
+          "sample": "Creating a green campus is not just an environmental initiative but a collective responsibility that every student should embrace. As the future generation, we have a unique opportunity to foster sustainable practices within our university community.2 Students can contribute to a green campus by adopting simple yet impactful habits. We can minimize waste by using reusable items, such as water bottles and shopping bags, and properly disposing ofrecyclables. Additionally, participating in campus clean-up events and tree planting drives can enhance our physical environment.4 Educational efforts are also crucial.5 By spreading environmental awareness through workshops, social media, and peer-to-peer discussions, we can inspire others to adopt eco-friendly behaviors. Moreover, advocating for healthy green diet in cafeterias andencouraging the use of public transportationorcycling can further reduce our carbon footprint.6 In essence, our collective actions can significantly contribute to a greener, healthier campus.7 Let us take proactive steps today for a sustainable tomorrow.8",
+          "sampleNote": "1紧扣主题，指出创建绿色校园不仅 是一项环保举措，也是每个学生都 应承担的责任。 2进一步指出，作为下一代我们有机 会在校园践行环保。 3指出学生践行环保能做的第一个方 面：通过养成简单而有影响力的习 惯来为绿色校园做出贡献。 4具体说明如何养成简单而有影响力 的习惯来践行环保。 5指出学生践行环保的第二个方面： 加强环保教育。 6具体说明如何加强环保教育来激励 他人采取环保行为。 7总结全文，重申我们的集体行动可 以为绿色校园做出贡献。 8发出倡议：为创造一个可持续的明 天而努力。",
+          "sampleCn": "创建绿色校园不仅是一项环保举措，也是每个学生都应该承担的集体责任。作为下一代，我们拥有在大 学校园内促进可持续发展实践的独特机会。 学生可以通过养成简单而有影响力的习惯来为绿色校园做出贡献。我们可以通过使用诸如水瓶、购物袋 之类可重复使用的物品，并妥善处理可回收物来减少废弃物。此外，参加校园清洁活动和植树活动可以改善我 们的自然环境。 教育方面的努力同样至关重要。通过举办研讨会、利用社交媒体以及开展同龄人之间的讨论来传播环保 意识，我们能够激励他人采取环保行为。此外，在自助餐厅倡导健康绿色饮食，以及鼓励使用公共交通或骑自 行车，可以进一步减少我们的碳足迹。 从本质上讲，我们的集体行动可以为建设一个更绿色、更健康的校园做出重大贡献。让我们今天采取积 极措施，创造一个可持续的明天。 老师说 本套讲解视频中，老师教你如何写好环保类话题作文的写作技巧，为你呈现长篇阅读的信息匹配的技巧，给你带来四步 处理长定语的翻译技巧。小伙伴们，快来扫码观看吧！",
+          "vocab": [
+            "environmentalinitiative环保举措",
+            "dispose of处置，处理",
+            "carbon footprint碳足迹",
+            "collective responsibility集体责任",
+            "recyclable可回收物品",
+            "in essence从本质上讲",
+            "sustainable可持续的",
+            "workshop研讨会",
+            "takeproactivesteps采取积极措施",
+            "minimize最小化",
+            "peer-to-peer discussions同伴讨论",
+            "reusable可重复使用的",
+            "advocate for倡导"
+          ],
+          "patterns": [
+            "1.Creating...is not just...but..that every student shouldembrace.",
+            "句型意为“创建…不仅是……而且是每个学生都应承担.…”。句中用了notjust..but.并列结构，用在此",
+            "处可以增加句式的丰富性，表达丰富的含义。that引导定语从句，主从句的使用增强句子的连贯性和逻辑性。",
+            "2.We canminimize waste byusing reusable items,such as...",
+            "句型意为“我们可以通过使用诸如…之类可重复使用的物品来减少废弃物”，是写环保类题材作文的",
+            "常用句式。suchas表示列举，用于引出具体的例子。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_3-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "which showed a ___26___ face and which showed a person we a ring a mask. Surprisingly, participants made the wrong call in one-in-five cases. The 20% error rate ___27___ in the study likely underestimates the extent to which people would struggle to tell an ___28___ face from the real thing outside of the lab. The researchers collected data from participants from both the UK and Japan to ___29___ any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less ___30___. There are now dozens of criminal cases in which offenders have ___31___ themselves off as people of a different age, race or gender, sending police investigations down the wrong path. In one recent case, an international gang used an ___32___ realistic mask to pose as a French minister, ___33___ business executives out of millions of pounds. Dr. Jet Sanders, who worked on the study while a PhD student at the University of York, said: “Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may ___34___ the key characteristics of a person’s appearance to be ___35___ identified.”",
+          "wordBank": {
+            "A": "accurate",
+            "B": "allow",
+            "C": "artificial",
+            "D": "cheating",
+            "E": "deserted",
+            "F": "establish",
+            "G": "extremely",
+            "H": "immediately",
+            "I": "incorrectly",
+            "J": "normal",
+            "K": "observed",
+            "L": "passed",
+            "M": "reminding",
+            "N": "reparable",
+            "O": "resolve"
+          },
+          "analysisOverview": "",
+          "translationCn": "超逼真的面具由硅胶等柔性材料制成，旨在模仿真实的人脸—一细致到每一个细节。 在约克大学和京都大学的一项研究中，研究人员要求参与者观看成对的照片，然后判断哪些是[26正常的 面孔，哪些是戴着面具的人。 令人惊讶的是，参与者在五分之一的情况下做出了错误的判断。 研究中[27]观察到的20%的错误率可能低估了人们在实验室外区分[28]人造面孔和真实面孔的困难程度。 研究人员收集了来自英国和日本的参与者的数据，以[29]确定种族差异。当实验参与者被要求在与自己不 同的种族的人脸照片中做出选择时，反应时间变慢了，选择的[30]准确性也降低了5%。 现在有几十起刑事案件，罪犯[31]冒充不同年龄、种族或性别的人，使警方的调查工作误入歧途。 在最近的一个案例中，一个国际犯罪团伙用[32]极其逼真的面具冒充法国部长，[33]骗走了企业高管数 百万英镑。 在约克大学攻读博士学位时参与了这项研究的杰特·桑德斯博士说：“无法识别合成人脸可能会对安全和 预防犯罪产生重要影响，因为超逼真的面具可能会[34]让人[35]错误地识别一个人外表的关键特征。 ”",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "语法判断空格前面为不定冠词a，后面为名词face，故空格处应填一个形容词或分词，修饰后面的名词。 语义判断此处阐述研究方法，即参与者观看成对的照片，然后判断哪些是a face（……的面孔）， 哪些是person wearing a mask（戴着面具的人），二者是对比关系。normal face意为“正常的面孔”，符合 此处语义，故答案为normal。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "语法判断 inthestudy作The20%errorrate的后置定语，故空格处应填入一个分词。 语义判断前面提到了研究方法和研究结果，可知此处提到的数据不是主观判断，也不是猜测或假设，而是 通过系统的观察和研究得出的。observed符合此处语境，故为答案。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "语法判断 空格前面为不定冠词an，后面为名词face，故空格处应填一个形容词或分词，修饰后面的名词。 语义判断上文提到，研究人员要求参与者判断哪些是正常的面孔，哪些是戴着面具的人。此处承接上文， artificialface意为“人造面孔”，符合语境，即“研究中观察到的20%的错误率可能低估了人们在实验室外 区分人造面孔和真实面孔的困难程度”。故答案为artificial。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "语法判断此处考查不定式，空格前面为to，后面为宾语anydifferences，故空格处应填动词原形。 语义判断此处的不定式表示目的，研究方法是收集来自英国和日本的参与者的数据，目的是to any differences according to race( 种族差异）。代入备选项可知，establish符合此处语境，故为答案。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格位于句末，前面为并列的比较结构response times wereslowerandselections were 5%less，故 空格处应填入形容词或分词。 语义判断上一段提到20%的错误率可能低估了人们区分真伪面孔的困难程度，此处也在说明参与者面对 不同种族面孔时表现出的困难，即response timeswere slower（反应时间变慢）和selections were 5%less （选择少5%………)）。选择有困难时反应时间会变慢，准确率会下降，代人选项可知，accurate符合 此处语境，故为答案。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断 空格前面为助动词have，后面为themselves off as people，该从句的主语为offenders，故空格处应填 入过去分词，与have一起构成现在完成时，充当谓语，且该词能与off构成合理搭配。 语义判断该句句意为“现在有几十起刑事案件，罪犯 不同年龄、种族或性别的人，使警方的调查工 作误入歧途”。警方的调查之所以误入歧途，是因为罪犯隐藏了其真实面目。passoneselfoffas为固定表 达，意为“冒充，假冒”，符合此处语境，故答案为passd。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "语法判断空格前面为不定冠词an，后面为realisticmask，故空格处应填副词，修饰后面的形容词。 语义判断 此处列举一个利用面具实施犯罪的案件。该句句意为“在最近的一个案例中，一个国际犯罪团 伙用 逼真的面具冒充法国部长， 企业高管数百万英镑”。被冒充人的身份（法国部长）以 及涉案金额（数百万英镑）体现了这起案件的特殊性和复杂性，也反映了罪犯所用面具的高度逼真性， extremelyrealistic意为“极其逼真”，符合此处语境，故答案为extremely。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "语法判断分析句子结构可知，句子主语为aninternational gang，谓语为used，宾语为mask，由此可知，空格 处应填入一个非谓语动词，且能与outof构成搭配。 语义判断上文提到犯罪分子冒充不同年龄、种族或性别的人实施犯罪活动，误导警方，结合前面讲述的超 逼真面具的内容可知，此处是说犯罪团伙使用超逼真面具冒充法国部长，导致企业高管损失数百万英榜。 cheat sb.out ofsth.为固定搭配，意为“骗取某人某物”，符合语境，故cheating为答案。cheating在此处为 现在分词，引导结果状语。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "语法判断空格前面为助动词may，后面为名词短语thekey characteristics of，故空格处应填动词原形，进一 步分析，此处考查allowsth.tobedone的结构。 语义判断上文提到犯罪团伙使用超逼真面具冒充法国部长骗取企业高管数百万英榜，本段承接上文，引述 该项研究的研究者的话进一步强调这种超逼真面具可能引发的问题。由此可推断此处是说，无法识别合成 人脸可能会对安全和预防犯罪产生重要影响，因为超逼真的面具可能会让人错误地识别一个人外表的关 键特征。allow the key characteristics ofa person’s appearance tobe identified符合语境，故答案为 allow。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "deserted（n.沙漠，荒漠v抛弃，遗弃）",
+                "H": "immediately（adv.立即，马上）",
+                "M": "reminding（v.提醒；使 想起）",
+                "N": "reparable（adj.可修复的；能补救的）",
+                "O": "resolve（v解决n.决心，决意）"
+              },
+              "answer": "I",
+              "analysis": "语法判断空格前面为be动词，后面为过去分词，故空格处应填副词，修饰后面的分词。 语义判断此处说明无法识别合成人脸会带来负面影响的原因，即超逼真的面具会影响人的判断，即让人错 误地识别一个人外表的关键特征。incorrectly符合此处语境，故为答案。 干扰项注释"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_3-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Automatic driving systems are by no means immune to errors.\nB) Driver less vehicles are likely to be misused by some people.\nC) Self-driving car manufacturers are not aware of the legal matters involved.\nD) There is a long way to go before humans can interact with driver less vehicles.\nA) End users, young and old alike, find the terms complex to interpret.\nB) Most end users sign them without bothering to read the terms.\nC) Many people are often confused by the wording of the terms.\nD) Most end users do not understand the terms after reading them through.\nA) Waste no time keeping the car moving. C) Take no action despite repeated warnings.\nB) Rest a while to avoid fatigue driving. D) Take note of the message though fatigued.\nA) It will probably not guarantee the safety of drivers in case of accidents.\nB) It likely won’t ensure that the automatic driving system functions properly.\nC) It likely won’t fully protect automakers against accusations of deliberate cheating.\nD) It will probably not provide manufacturers adequate protection from legal responsibilities.\nA) Training them to be experts in vehicle automation.\nB) Familiarizing them with the systems through training,\nC) Broadening their knowledge of accident-prevention mechanisms.\nD) Facilitating their access to the information provided by the seller.\nA) It has helped to create the myth of protein deficiency.\nB) It has helped Americans in search of protein-rich diets.\nC) It has raised a lot of health concerns among the public.\nD) It has been funded by food companies and health experts.\nA) Americans can purchase many kinds of protein-rich foods everywhere.\nB) Americans can absorb the number of calories recommended by food experts.\nC) Americans can get sufficient protein just by eating adequate foods daily.\nD) Americans can rely on food supplements to prevent protein deficiency.\nA) How healthy they are and what food they eat.\nB) How old they are and what activities they do.\nC) How much protein they consume and what their body weight is.\nD) How serious their protein deficiency is and what remedies they use.\nA) Sugar-free snacks. C) Both red and white meats.\nB) Protein-rich foods. D) Sugary and fatty foods.\nA) Enjoy natural food. C) Consume enough protein daily.\nB) Eat vegetarian diets. D) Replace meals with protein bars.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Acquisition of new knowledge may not guarantee the progress that you aim to make.",
+              "stemCn": "题干译文 获得新知识可能并不能保证你想要取得的进步。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息newknowledge和guarantee the progress that you aim to make定位到C段。该段首 句提到，我开始意识到，新的知识并不一定会带来新的结果。下文进一步解释，事实上，如果你的目标是 取得进步，而不仅仅是获得额外的知识，那么学习新东西实际上是在浪费时间。由此可知，题干是对上述 信息的概括提炼，其中newknowledge是原词复现，而may not guarantee the progress thatyou aim to make对 应原文中的does not necessarily drive newresults和ifyourgoal is to makeprogress"
+            },
+            {
+              "num": 37,
+              "stem": "Your current situation in life is built on the beliefs and habits you have been practicing daily.",
+              "stemCn": "题干译文你现在的生活状况是建立在你每天都在实践的信念和习惯之上的。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息currentsituation in life和thebeliefs andhabits youhave been practicing daily定位到 J段。该段第三句提到，你现在的生活状态是你每天一直实践的习惯和信念的结果。由此可知，题干是对该 句内容的同义转述。其中Yourcurrent situation inlife对应原文中的The stateofyour liferightnow，而isbuilt on thebeliefs and habits you havebeen practicing daily对应原文中的isaresultofthe habits andbeliefs thatyou have been practicing each day。"
+            },
+            {
+              "num": 38,
+              "stem": "Knowing the best way to learn a foreign language will not enable you to speak it without actual practice.",
+              "stemCn": "题干译文知道学习一门外语的最佳方法并不能使你在没有实际练习的情况下会说这门外语。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案F。由题干关键信息thebest way to learn a foreignlanguage和speakit withoutactual practice定位到F 段。该段最后三句提到，例如，假如说你想学习一门外语。读一本关于如何快速学习一门外语的书会让你 觉得自己在进步（“嘿，我正在弄清楚学习外语的最佳方法！”）。当然，你实际上并没有在练习能让你 达到预期效果的行动（说这门外语）。由此可知，题干是对原文内容的概括总结。题干中的Knowingthe best way对应原文中的figuring out the best way，而tolearn a foreign language属于原词重现，willnotenable you to speak it without actual practice对应原文中的you're not actually practicing the action that would deliver your desiredoutcome (speaking the foreign language)。"
+            },
+            {
+              "num": 39,
+              "stem": "People may find it demanding to create a goal which will take a long time to achieve.",
+              "stemCn": "题干译文人们可能会发现制定一个需要很长时间才能实现的目标是很困难的。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息demanding、create a goal和takea long time to achieve定位到A段。该段第三句 提到，即便如此，试图设定可实现的目标，并为之努力多年，也可能极具挑战性。由此可见，题干是对 该句的同义转述，其中create a goal which will take a long time to achieve对应原文中的setachievable goals that you'll work forover the course ofmany years，而mayfind it demanding对应原文中的canbe extremely challenging。"
+            },
+            {
+              "num": 40,
+              "stem": "Learning and practicing seem to be very much alike, but the two processes can lead to quite different outcomes.",
+              "stemCn": "题干译文学习和实践似乎非常相似，但这两个过程可能导致完全不同的结果。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息Learning and practicing、very much alike和quite different outcomes定位到E段。 该段第一句提到，学习新事物和实践新事物可能看起来非常相似，但这两种方法可能产生截然不同的结 果。由此可知，题干是对原文内容的同义转述。题干中的Learningandpracticing对应原文中的Learning something new and practicing something new，而seem to be very much alike对应原文中的may seem very similar，而but the two processes can lead to quite different outcomes对应原文中的but these two methods can have profoundly differentresults。"
+            },
+            {
+              "num": 41,
+              "stem": "Absorbing new information is helpful in making better decisions prior to action.",
+              "stemCn": "题干译文吸收新信息有助于在行动之前做出更好的决定。",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "答案K。由题干关键信息Absorbing new information和helpful inmakingbetter decisions prior to action 定位到K段。该段第五句提到，更不用说吸收新信息可以帮助你在决定采取行动时做出更明智的决定。 由此可知，题干是对原文内容的同义转述。题干中的Absorbingnewinformation对应原文中的soakingup new information，而is helpful inmaking better decisions prior toaction对应原文中的can help youmakemore informed decisions when you do decide to take action。"
+            },
+            {
+              "num": 42,
+              "stem": "Sometimes we may feel like we are making progress by doing some research or making preparations, but actually we are",
+              "stemCn": "题干译文有时我们可能会觉得通过做一些研究或准备我们就在进步，但实际上我们还停留在起点上。",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息making progress、doing someresearch ormakingpreparations和we are staying atthestartingpoint定位到G段。该段第一句提到，在这类情况下，我们往往声称我们正在准备或研究最 好的方法，但是这些合理化的说法让我们觉得自己在前进，而实际上我们只是在白费力气。由此可知， 题干是对该句内容的同义转述。其中Sometimes对应原文中的Insituations like thisone，而wemayfeellike we are making progress by doing some research ormaking preparations对应原文中的we often claim that we are preparingorresearching thebestmethod,buttheserationalizationsallow us tofeellikewearemoving forward, 而actually we are staying at the starting point对应原文中的we are merelyspinning our wheels。"
+            },
+            {
+              "num": 43,
+              "stem": "We are inclined to think that a lack of knowledge prevents us from advancing to a better future.",
+              "stemCn": "题干译文我们倾向于认为知识的匮乏会阻碍我们走向更美好的未来。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息alackofknowledge和prevents usfromadvancing toabetterfuture定位到B段。 该段第三句提到，我们很容易认为，你现在所处的位置和你未来想要达到的位置之间的差距是由知识的匮 乏所造成的。换句话说，我们倾向于认为知识的匮乏会阻碍我们走向更美好的未来。由此可知，题干是对 原文内容的同义转述。题干中的Weare inclined to thinkthat对应原文中的Itcanbeeasy to assume that，而a lack ofknowledge prevents us from advancing to a better future是对原文thegap between where you are now and where you want to be in the future is causedby a lackofknowledge的概括总结。"
+            },
+            {
+              "num": 44,
+              "stem": "Learning can benefit you by itself but only practice can turn what you learn into meaningful contributions.",
+              "stemCn": "题干译文学习本身可以使你受益，但只有实践才能将你学到的东西转化为有意义的贡献。",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "答案I。由题干关键信息Learning can benefityou byitself、practice和meaningful contributions定位到I段。 该段首句提到，更重要的是，实践是用你的知识做出有意义贡献的唯一途径。接下来举例进行论证，最后 一句总结到，学习本身对你来说可能是有价值的，但是如果你想对别人有价值，那么你必须用某种方式表 达你的知识。由此可知，题干是对原文内容的概括总结。其中Learningcanbenefityoubyitself对应原文中 的Learning by itself can be valuable for you，practice是原词复现；而butonly practice can turn what you learn intomeaningfulcontributions对应原文中的practiceis theonly way tomakeameaningfulcontribution withyour knowledge。"
+            },
+            {
+              "num": 45,
+              "stem": "Practice involves repeating a process intentionally to attain a particular objective.",
+              "stemCn": "题干译文 练习就是有意地重复一个过程以达到一个特定的目标。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "D。由题干关键信息Practice、repeatinga process intentionally和attain a particular objective定位到 答案D段。该段第三句引用托马斯·斯特纳的话提到，他说：“当我们练习某件事时，我们是在有意识地重复 一个过程，目的是达到一个特定的目标。”由此可知，题干是对托马斯·斯特纳原话的同义转述，其中 Practice对应原文中的When we practice something，involves对应原文中的are involved in，repeating aprocess intentionally对应原文中的thedeliberaterepetitionofaprocess，而toattainaparticularobjective对应原文中的 with the intention ofreaching a specific goal。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_3-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error- proof. Recent evidence points to drivers’ limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately. One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don’t read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms. The issue is that, unlike using a smart phone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware. “Warning fatigue” and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won’t fully protect automakers from their legal liability should the system malfunction (发生故障) or an accident occur. Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this con side red, the road forward for self-driving cars is not going to be a smooth ride after all.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What do we learn from research in human-vehicle interaction?",
+              "stemCn": "我们从人车交互的研究中了解到了什么？",
+              "options": {
+                "A": "Automatic driving systems are by no means immune to errors.",
+                "B": "Driver less vehicles are likely to be misused by some people.",
+                "C": "Self-driving car manufacturers are not aware of the legal matters involved.",
+                "D": "There is a long way to go before humans can interact with driver less vehicles. ===== PAGE 4 ====="
+              },
+              "optionCn": {
+                "A": "自动驾驶系统绝非不会出错。",
+                "B": "无人驾驶汽车很可能被一些人误用。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词research in human-vehicle interaction可以将答案定位到第一段。 → 第一段第一句指出，人车交互领域的研究表明，即使是设计用于自动驾驶的系统也远不能避免出错。由此 可知，自动驾驶系统不能保证不会出错，故选项A正确。原文中并没有无人驾驶车辆被误用的表述，故排 除B项。第一段提到了该研究着眼于自动驾驶汽车制造商在法律上应采取何种措施，但并未提及自动驾驶 汽车制造商是否意识到其中涉及的法律问题，选项C与原文不符，故排除。文章的讨论是建立在人车可以 交互的基础上，D项与此不符，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What is the problem with requiring buyers to sign end-user license agreements?",
+              "stemCn": "要求买家签署终端用户许可协议存在什么问题？",
+              "options": {
+                "A": "End users, young and old alike, find the terms complex to interpret.",
+                "B": "Most end users sign them without bothering to read the terms.",
+                "C": "Many people are often confused by the wording of the terms.",
+                "D": "Most end users do not understand the terms after reading them through."
+              },
+              "optionCn": {
+                "A": "终端用户，无论老少，都觉得条款难以解释。",
+                "B": "大多数终端用户都懒得阅读条款就签署了协议。",
+                "C": "许多人常常被条款的措辞所迷惑。",
+                "D": "大多数终端用户在阅读完条款后并不理解。"
+              },
+              "answer": "B",
+              "analysis": "根据题干关键词sign end-user license agreements可以将答案定位到第二段。 定位 第二段最后三句指出，此外，大多数终端用户并不会去阅读终端用户许可协议。2017年的一项研究表明， 91%的人在没有阅读的情况下就同意了这些协议。在年轻人中，97%的人在未审阅条款的情况下就表示同 意。由此可知，大多数终端用户都懒得阅读条款就签署了协议，故选项B正确。其他三项在原文中并未提 及，故均排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What would drivers do when they suffer from “warning fatigue”?",
+              "stemCn": "当驾驶员遭受“警告疲劳”时，他们会怎么做？",
+              "options": {
+                "A": "Waste no time keeping the car moving.",
+                "B": "Rest a while to avoid fatigue driving.",
+                "C": "Take no action despite repeated warnings.",
+                "D": "Take note of the message though fatigued."
+              },
+              "optionCn": {
+                "A": "不浪费时间继续行驶。",
+                "B": "休息一会儿，避免疲劳驾驶。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词“warningfatigue”可以将答案定位到第四段。 第四段第二句提到，例如，驾驶员在连续收到警告后会感到恼火，可能会选择直接忽视该信息，即尽管他 们反复收到警告，但不会采取任何行动，故选项C正确。其他三项在原文中并未提及，故均排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What does the author think of continuing to ask buyers to sign end-user license agreements?",
+              "stemCn": "作者对继续要求购买者签署终端用户许可协议有何看法？",
+              "options": {
+                "A": "It will probably not guarantee the safety of drivers in case of accidents.",
+                "B": "It likely won’t ensure that the automatic driving system functions properly.",
+                "C": "It likely won’t fully protect automakers against accusations of deliberate cheating.",
+                "D": "It will probably not provide manufacturers adequate protection from legal responsibilities."
+              },
+              "optionCn": {
+                "A": "这很可能无法保证发生事故时驾驶员的安全。",
+                "B": "这可能无法保证自动驾驶系统的正常运行。"
+              },
+              "answer": "D",
+              "analysis": "C这可能无法充分保护汽车制造商免受故意欺诈的指控。 根据题干关键词continuing to ask buyers to sign end-user license agreements可以将答案定位到第四段最后一句。 定位题干中的continuing to ask buyers to sign end-user license agreements和原文中的thismodeofobtaining consent is to move forward属于同义替换。 第四段最后一句指出，鉴于这些局限性和顾虑，即使这种获取同意的模式得以推进，也可能无法充分保护汽 车制造商在系统出现故障或发生事故时免于承担法律责任。由此可知，继续要求购买者签署终端用户许可协 议可能无法为制造商提供足够多免除法律责任的保护，故选项D正确。其他三项在原文中并未提及，故均排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What should be done to help drivers fully understand system capabilities and limitations?",
+              "stemCn": "应如何帮助驾驶员充分了解系统的功能和局限性？",
+              "options": {
+                "A": "Training them to be experts in vehicle automation.",
+                "B": "Familiarizing them with the systems through training,",
+                "C": "Broadening their knowledge of accident-prevention mechanisms.",
+                "D": "Facilitating their access to the information provided by the seller."
+              },
+              "optionCn": {
+                "A": "培训他们成为汽车自动化方面的专家。",
+                "B": "通过培训让他们熟悉系统。",
+                "C": "拓宽他们关于事故预防机制的知识。",
+                "D": "为他们获取卖方提供的信息提供便利。"
+              },
+              "answer": "B",
+              "analysis": "根据题干关键词fully understand system capabilities and limitations可以将答案定位到最后一段第一句。 定位 该句指出，自动驾驶车辆的驾驶员培训有助于确保驾驶员充分了解系统的功能和局限性，即通过培训，可 . 以帮助他们更加了解系统，故选项B正确。选项A和选项C在原文中并未提及，故排除。最后一段第三句提 到，最近有证据表明，即使依靠卖方提供的信息也无法回答许多问题，因此为驾驶员获取卖方提供的信息 提供便利可以帮助他们充分了解系统的功能和局限性的说法是不准确的，故D项可排除。 Passage Two ·概览· 本文节选自网站www.ien.com于2021年10月21日发布的一篇题为“DecadesofHypeTurnedProteinInto aSuperfood”的文章。文章指出，数十年来，对蛋白质缺乏的宣传和炒作让蛋白质成为“超级食品”， 倍受人们青睐。但研究表明，大多数美国人的蛋白质摄入量已经是推荐量的两倍，且高蛋白饮食可能产 生健康风险，过度依赖蛋白质产品可能错过食物中的其他营养素。 ·全文翻译· 你是否曾为早餐调配一杯蛋白质饮料，或在下午锻炼后吃一根 蛋白质棒？如果是这样，你很可能是数百万寻求更多富含蛋白质饮 食的人群中的一员。 富含蛋白质的产品随处可见。但是，与每个人都需要更多蛋白 质的宣传相反，大多数美国人摄入的蛋白质是他们所需量的两倍。 [51]我们许多生活在最发达国家的人们都相信了一个由食品公 司和自诩为健康专家的人创造的蛋白质缺乏的错误观念。2020年， 全球蛋白质补充剂产品的零售额达到了惊人的189亿美元。 但我们真的需要更多蛋白质吗？[52]美国的医生从未真正检查 过蛋白质缺乏症患者，因为只要每天摄入足够的热量，我们就很可 能也摄入了足够的蛋白质。 [53]事实上，美国人目前的蛋白质摄入量几乎是美国国家医学 科学院建议的每日蛋白质摄入量的两倍，尽管最理想的蛋白质摄入 量可能因年龄和活动水平而有所不同。 例如，如果你是一名专业运动员，你可能需要摄入更多的蛋白 质。然而，通常情况下，一个体重140磅的人每天的蛋白质摄入量不 应超过120克，特别是因为高蛋白饮食可能会对肾脏和肝脏功能造成 压力，增加患心脏病和癌症的风险。 [54]一个多世纪以来，脂肪和糖一直轮流受到攻击，而蛋白质 却一直是我们的最爱。 从20世纪70年代到90年代，蛋白质产品仍然可见，但在将糖和 饱和脂肪的摄入与心脏病联系起来的研究报告发表后，人们饮食的 焦点就牢牢锁定在低热量、低脂肪、无糖零食和饮料上，蛋白质产 品的关注度有所下降。 不过，后来2003年的研究表明，高蛋白饮食有助于减肥，蛋白 质很快又恢复了其昔日营养素超级明星的地位。 现在，大多数生活在高收入国家的人都摄入了足够的蛋白质。 [55]当我们用蛋白棒或蛋白饮料代替正餐时，我们也有可能错过真 正食物中丰富的抗氧化剂、维生素和许多其他有益物质。 重难点单词及短语 grabv.（尤指匆忙地）取，吃，喝；抓 住；攫取，抢夺 ·protein bar蛋白棒 workoutn.锻炼；训练 ·protein-rich/protein-enriched富含蛋白 质的 ·buy into相信，接受 mythn.错误想法；神话；谎言 •deficiencyn.缺乏，不足 supplementn.补充物，增补物，补给 品；附录；补编 ·astonishingadj.惊人的 adequateadj.足够的；合格的；合乎 需要的 calorien.卡路里（热量单位） ·intaken.摄取量；吸入量；接受量 ·dedicatedadj.专用的；专门的；投入的 ·strainv（使）紧张，（使）承受压 力；绷紧 kidneyn.肾脏 livern.肝脏 take the（a）beating挨打，受打击；被 损坏；受伤；遭受损失 •in turns 轮流 red-hotadj.炙手可热的；热门的；炽 热的 •spotlight n.焦点 beverage n.饮料 ·regain one’sstatus重获地位 miss out on错过 vitaminn.维生素 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2024_12_3-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Do you ever blend up a protein drink for breakfast or grab a protein bar following an afternoon work out? If so, you are likely among the millions of people in search of more protein-rich diets. Protein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need. Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020. But are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein. In fact, Americans currently consume almost twice the National Academy of Medicine’s recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level. For example, if you’re a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer. While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite. In the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated (饱和的 ) fat consumption to heart disease. Later research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-super star status. Now most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants (抗氧化剂), vitamins and many other benefits of real food.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn about publicity over protein in America?",
+              "stemCn": "我们从美国对蛋白质的宣传中了解到什么？",
+              "options": {
+                "A": "It has helped to create the myth of protein deficiency.",
+                "B": "It has helped Americans in search of protein-rich diets.",
+                "C": "It has raised a lot of health concerns among the public.",
+                "D": "It has been funded by food companies and health experts. ===== PAGE 5 ====="
+              },
+              "optionCn": {
+                "A": "它帮助制造了蛋白质缺乏这一错误观念。",
+                "C": "它引起了公众对健康的诸多担忧。",
+                "B": "它帮助美国人寻找富含蛋白质的饮食。",
+                "D": "它得到了食品公司和健康专家的资助。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词publicityover protein inAmerica可定位到原文第二段。 该段提到，与每个人都需要更多蛋白质的宣传相反，大多数美国人摄入的蛋白质是他们所需量的两倍。随 后第三段进一步指出，我们许多生活在最发达国家的人们都相信了一个由食品公司和自诩为健康专家的人 创造的蛋白质缺乏的错误观念，这表明美国对蛋白质的宣传助长了蛋白质缺乏的错误观念，故本题选A。 原文并没有提到对蛋白质的宣传为美国人寻找富含蛋白质的饮食提供了帮助，也没有提到宣传引起了健康 担忧或得到了资助，故B、C、D三项可排除。"
+            },
+            {
+              "num": 52,
+              "stem": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?",
+              "stemCn": "为什么美国医生从未真正检查过蛋白质缺乏症患者？",
+              "options": {
+                "A": "Americans can purchase many kinds of protein-rich foods everywhere.",
+                "B": "Americans can absorb the number of calories recommended by food experts.",
+                "C": "Americans can get sufficient protein just by eating adequate foods daily.",
+                "D": "Americans can rely on food supplements to prevent protein deficiency."
+              },
+              "optionCn": {
+                "A": "美国人可以随处买到多种富含蛋白质的食品。",
+                "B": "美国人能够摄入食品专家建议的热量。",
+                "C": "美国人只需每天吃足够的食物就能获得足够的蛋白质。",
+                "D": "美国人可以依靠食物补充剂来预防蛋白质缺乏症。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干关键词physicians intheU.S.neveractuallyexaminedapatientwithproteindeficiency可以定位到第四 段第二句。 该句指出，美国的医生从未真正检查过蛋白质缺乏症患者，因为只要每天摄入足够的热量，我们就很可能 也摄入了足够的蛋白质。原文明确指出美国人通过正常饮食就能获得足够的蛋白质，而不是通过购买富含 蛋白质的食品、摄入专家建议的热量或依赖食品补充剂来获取充足的蛋白质，故选项C正确，选项A、B、 D均可排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What should people take into consideration in deciding on the most preferable protein intake?",
+              "stemCn": "在决定最理想的蛋白质摄入量时，人们应该考虑什么？",
+              "options": {
+                "A": "How healthy they are and what food they eat.",
+                "B": "How old they are and what activities they do.",
+                "C": "How much protein they consume and what their body weight is.",
+                "D": "How serious their protein deficiency is and what remedies they use."
+              },
+              "optionCn": {
+                "A": "他们的健康状况和吃的食物。",
+                "C": "他们的蛋白质摄入量和体重。",
+                "B": "他们的年龄和从事的活动。",
+                "D": "他们蛋白质缺乏的严重程度以及他们采用的补救措施。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干关键词themost preferable protein intake可以定位到原文第五段。题干中的preferable和该段中的 desirable是同义替换。 该段指出，事实上，美国人目前的蛋白质摄入量几乎是美国国家医学科学院建议的每日蛋白质摄入量的两 倍，尽管最理想的蛋白质摄入量可能因年龄和活动水平而有所不同。这表明年龄和活动水平是决定最理想 蛋白质摄入量的重要因素，故选项B正确。文章没有提到健康状况、吃的食物、蛋白质摄入量、体重或蛋 白质缺乏的严重程度及补救措施是决定蛋白质摄入量的因素，故选项A、C、D可排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What foods have been largely out of favor for more than a century?",
+              "stemCn": "一个多世纪以来，哪些食物基本上不受人们欢迎？",
+              "options": {
+                "A": "Sugar-free snacks.",
+                "B": "Protein-rich foods.",
+                "C": "Both red and white meats.",
+                "D": "Sugary and fatty foods."
+              },
+              "optionCn": {
+                "A": "无糖零食。",
+                "C": "红肉和白肉。",
+                "B": "富含蛋白质的食物。",
+                "D": "含糖和高脂肪的食物。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干关键词a century可以定位到原文第七段。题干中的been largely outoffavor表示“基本不再受欢迎 → 或重视”，和原文中的have taken thebeating是同义替换；题干中的morethan是原文中over的同义替换。 → 该段指出，一个多世纪以来，脂肪和糖一直轮流受到攻击，而蛋白质却一直是我们的最爱。由此可知，含 糖和高脂肪的食物是不受人们欢迎的，选项D正确。据此选项A、B、C均可排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author imply people in developed countries should do to keep healthy?",
+              "stemCn": "作者暗示发达国家的人们应该如何保持健康？",
+              "options": {
+                "A": "Enjoy natural food.",
+                "B": "Eat vegetarian diets.",
+                "C": "Consume enough protein daily.",
+                "D": "Replace meals with protein bars."
+              },
+              "optionCn": {
+                "A": "享用天然食物。",
+                "C": "每天摄入足够的蛋白质。",
+                "B": "吃素食。",
+                "D": "用蛋白质棒代替正餐。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词people in developed countries可以定位到原文最后一段第一句。题干中的developed countries 是原文中high-income nations的同义替换。 最后一段第一句指出，现在，大多数生活在高收入国家的人都摄入了足够的蛋白质，并没有提到每天摄入 足够的蛋白质是保持健康的方法，故排除选项C。随后第二句指出，当我们用蛋白质棒或蛋白饮料代替正 餐时，我们也有可能错过真正食物中丰富的抗氧化剂、维生素和许多其他有益物质。这暗示了作者认为人 们应该更多地享用天然食品，而不是过度依赖蛋白质补充品，故本题应选A，选项D可排除。原文并未提 到吃素食，故选项B可排除。 PartIV > Translation ·难词译注· 数字展示中心DigitalExhibitionCenter 了解familiarize 文化遗产cultural heritage 开放启用open 艺术经典artistic masterpieces 妥善保护proper conservation 保护利用工程conservationand utilizationproject减轻影响minimizetheimpact 长久利用sustainableutilization 朗·参考译文· The DigitalExhibitionCenter of the Dunhuang Mogao Grottoes,which opened in 2014,serves as a crucial componentofthe MogaoGrottoesconservationandutilizationproject.By utilizing digitaltechnologyandmultimedia displays,theexhibition centerenablesvisitors tofamiliarize themselves with the historyandcultureoftheMogao Grottoesandappreciate its artisticmasterpieces priortoentering theactual grottoesforsightseeing.This willreduce the number of grottoes open to visitors,shorten their stay within the grottoes,andminimize the impact of visiting,thereby ensuring the proper conservationand sustainable utilizationofthis world cultural heritage. M ·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2024_12_3-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "敦煌莫高窟 (Mogao Grottoes) 数字展示中心于 2014 年开放启用 ,是莫高窟保护利用工程的重要组成部分。展示中心采 用数字技术和多媒体展示手段 ,使游客进 入洞窟参观之前就能了解莫高窟的历史文化 ,鉴赏 莫高窟 的艺术经典。这将 减少开放洞窟的数量 ,缩短游客在洞窟内的逗留时间 ,减轻参观对 莫高窟 造成的影响 ,以使这一世界文化遗产得到妥善 保护、长久利用。 ===== PAGE 6 =====",
+          "terms": [
+            "数字展示中心DigitalExhibitionCenter 了解familiarize 文化遗产cultural heritage",
+            "开放启用open 艺术经典artistic masterpieces 妥善保护proper conservation",
+            "保护利用工程conservationand utilizationproject减轻影响minimizetheimpact 长久利用sustainableutilization",
+            "朗·参考译文·",
+            "The DigitalExhibitionCenter of the Dunhuang Mogao Grottoes,which opened in 2014,serves as a crucial",
+            "componentofthe MogaoGrottoesconservationandutilizationproject.By utilizing digitaltechnologyandmultimedia",
+            "displays,theexhibition centerenablesvisitors tofamiliarize themselves with the historyandcultureoftheMogao",
+            "Grottoesandappreciate its artisticmasterpieces priortoentering theactual grottoesforsightseeing.This willreduce the",
+            "number of grottoes open to visitors,shorten their stay within the grottoes,andminimize the impact of visiting,thereby",
+            "ensuring the proper conservationand sustainable utilizationofthis world cultural heritage.",
+            "M ·译点精析·",
+            "1.第一句：本句由两个小句构成，主干是“敦煌莫高窟数字展示中心是莫高窟保护利用工程的重要组成部",
+            "分”，翻译为The Digital ExhibitionCenterofthe Dunhuang MogaoGrottoes serves asa crucial componentofthe",
+            "MogaoGrottoesconservationandutilizationproject；“于2014年开放启用”属于次要信息，起补充说明的作",
+            "用，可翻译为非限制性定语从句，即whichopenedin2014。",
+            "2.第二句：本句主干为“展示中心使游客进入洞窟参观之前就能了解莫高窟的历史文化，鉴赏莫高窟的艺术",
+            "经典”，使用了“使……能够做……”这个结构，即enable..to do...，故主干可翻译为the exhibitioncenter",
+            "enables visitors to familiarizethemselves with the history and cultureof theMogao Grottoes andappreciate its",
+            "artisticmasterpiecesprior to entering theactual grottoesforsightseeing；而“采用数字技术和多媒体展示手段”",
+            "表示方式，可翻译为介词短语，即Byutilizing digitaltechnologyandmultimedia displays。",
+            "3.第三句：本句主干是“这将减少开放洞窟的数量，缩短游客在洞窟内的逗留时间，减轻参观对莫高窟造成",
+            "的影响”，谓语部分是由三个并列的动宾结构组成，应由and连接，故主干翻译为Thiswillreducethenumber",
+            "ofgrottoesopento visitors,shortentheir stay withinthegrottoes,andminimizethe impactofvisiting;“以使这一",
+            "世界文化遗产得到妥善保护、长久利用”是上述三个动宾结构表达的动作所要达成的结果，应使用现在分",
+            "词短语来表达，故翻译为thereby ensuring theproperconservationand sustainableutilizationofthis worldcultural",
+            "heritage。"
+          ],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

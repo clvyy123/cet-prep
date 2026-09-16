@@ -1,0 +1,367 @@
+{
+  "id": "cet6-2021_12_1",
+  "level": 6,
+  "year": 2021,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2021年12月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:For this part,youareallowed 30minutes to writeanessayrelated to the shortpassage given below.In youressay,you are to comment on the phenomenon described in the passage and suggestmeasures to address theissue.You should write at least150 wordsbut nomore than 200 words. Young people spendalotoftimeontheInternet.However,theyaresometimesunabletorecognize falseinformationontheInternet,judgethereliability ofonlineinformationsources,ortellrealnews stories from fake ones. PartII",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2021_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Last week, Bur berry’sannualreportrevealedthat£28.6millionworthofstockwasburntlastyear.\nD) A source, who chose to remain anonymous, shared her experience working in a Bur berry store in\nE) In an online forum post, which asked if it's true that Louis Vuitton burned its bags, Ahmed Bouchfaa,\nF) Richemont, who owns several luxury brands, hit the headlines in May for taking back £437 million\nG) Over-production is perhaps the biggest concern for Bur berry. While there has been much outrage at\nH) In September 2016, Bur berry switched to a \"see now, buy now\" cat walk show format. The move was\nJ) One such partnership is with Elvis & Kresse, an accessories brand working with reclaimed materials.\nK) While these are honorable schemes, it makes it harder for Bur berry to defend these latest figures.\nL) Bin a believes that brands need to read dress their exclusivity tactic. \"Exclusivity is starting to be",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Bur berry's executives are trying hard to attribute their practice of destroying old products to",
+              "stemCn": "【定位】由题干中的Burberry'sexecutives和",
+              "options": {},
+              "optionCn": {
+                "G": "【精析】细节归纳题。"
+              },
+              "answer": "G",
+              "analysis": "miscalculatedproduction定位到文章G段第 二句。 这家英国时装公司（即巴宝莉）的高管们正在努力 为他们对产量的错误计算进行辩护，随后一句提 到了他们的浪费行为被归咎于通过销毁老产品来 为新产品让路。由此可知，题干是对该部分信息 的归纳。题干中的attribute theirpracticeof destroying oldproducts to是原文中has beenput down to burning oldcosmetic stock的同义转述， 故答案为G）。"
+            },
+            {
+              "num": 37,
+              "stem": "Selling products at a discount will do greater harm to luxury brands than destroying them.",
+              "stemCn": "【定位】由题干中的discount定位到B）段第二句。",
+              "options": {},
+              "optionCn": {
+                "B": "【精析】细节归纳题。"
+              },
+              "answer": "B",
+              "analysis": "店以更便宜的价格大量出售商品不利于原价销 售，而之前一句说，销毁未售出的库存，甚至销毁 成卷未使用的衣料，这种做法对于奢侈品品牌来 说是司空见惯的。可见两者比较而言，对于奢侈 品品牌来说，打折出售是更加不情愿的事情，可见 题干是对该处信息的归纳。题干中的selling products at a discount对应原文中的becoming too widely available at a cheaper price through discount stores，题干中的destroying them对应原 文中的the practice of destroying unsoldstock，故 答案为B）。"
+            },
+            {
+              "num": 38,
+              "stem": "Imitated Bur berry products discouraged luxury consumers from buying its genuine products.",
+              "stemCn": "【定位】由题干中的imitatedBurberryproducts",
+              "options": {},
+              "optionCn": {
+                "K": "段第二、三句。"
+              },
+              "answer": "K",
+              "analysis": "巴宝莉正处于危机时刻，因为他们的签名支票模 式被廉价的仿制品牌到处模仿，而随后一句进一 步说，这让奢侈品消费者望而却步，题干是对这两 处信息的概括。题干中的imitatedBurberry products对应原文中的imitatedbycheap， imitation brands，题干中的 discouragedluxury consumers from buying its genuineproducts对应 原文中的deterredluxury consumers，故答案为K)。"
+            },
+            {
+              "num": 39,
+              "stem": "Staff members of a luxury brand may buy its old stock at cheaper prices, but they are not allowed to",
+              "stemCn": "【定位】由题干中的staffmembers和oldstock定",
+              "options": {},
+              "optionCn": {
+                "E": "段第一句。"
+              },
+              "answer": "E",
+              "analysis": "年为员工出售两次旧货。而之后的第六句提到了 有关员工销售的严格规定：“你可以为某人买礼 物，但他们会跟踪每一件物品，如果你的礼物最终 出现在网上，他们知道应该去询问谁。”由此可知， 员工购买的奢侈品旧货是不允许转卖的，题干中 的they are notallowed to resellthem是对定位 段第六句的归纳概括，故答案为E）。"
+            },
+            {
+              "num": 40,
+              "stem": "In future traditional luxury brands will have to adapt their business strategies to the changing",
+              "stemCn": "【定位】由题干中的luxurybrands、adapt和",
+              "options": {},
+              "optionCn": {
+                "L": "段。"
+              },
+              "answer": "L",
+              "analysis": "重新考虑其专有权策略，其后的第四句举例说明 了奢侈品涵盖的新内容，最后一句总结称，这是传 统奢侈品在中长期的未来不得不与之抗衡的挑 战，可知奢侈品的概念在发生着变化，使得传统奢 侈品品牌不得不调整其战略，适应这种新概念，题 干是对全段信息的归纳概括。题干中的infuture traditionalluxury brands willhave to adapt their businessstrategies是对定位段第一句中的brands need to readdress their exclusivity tactic和最后 一句中的contendwith inthemid-tolong-term future的概括，题干中的thechanging concepts ofluxury对应原文中的things like health， enlightenment, and social and environmental responsibility are the new luxuries，故答案为L)。"
+            },
+            {
+              "num": 41,
+              "stem": "One luxury brand employee quit her job because she simply couldn't bear to see the destruction of",
+              "stemCn": "【定位】由题干中的oneluxury brandemployee",
+              "options": {},
+              "optionCn": {
+                "D": "段。"
+              },
+              "answer": "D",
+              "analysis": "透露姓名的消息人士分享了她2016年10月在纽 约一家巴宝莉商店工作的经历，随后三句说到这 名员工的工作就是将未售出的商品装箱以待销 毁，这让她感到受不了，在那里再也待不下去了， 该段末二句则提到她在两周内离了职。题干中的 quit her job是原文中I couldn't stay there any longer和leftherrole的同义转述，题干中的she simply couldn't bear to see the destruction of unsold products是对原文中的sent to be burned、itwas killing me inside和theirbusiness practices threw meofftheroof三处信息的概括性转述，故答案 为D）。"
+            },
+            {
+              "num": 42,
+              "stem": "Destroying old stock is a practice not just of luxury brands but of less prestigious fashion brands.",
+              "stemCn": "【定位】由题干中的destroying old stock和a",
+              "options": {},
+              "optionCn": {
+                "F": "段。 H",
+                "H": "F"
+              },
+              "answer": "F",
+              "analysis": "practice not just ofluxury brands定位到文章 司历峰集团销毁老产品的做法，第二句提到，并不 仅仅是奢侈品品牌会如此做，随后提及H&M这 个普通的零售服装品牌也被曝出销毁存货的消 息，可知题干是对F）段前半部分信息的概括性转 述。题干中的but ofless prestigious fashion brands对应原文中的H&Mforburning12tonnes ofunsoldclothing和the high streetretailer，故 答案为F)。"
+            },
+            {
+              "num": 43,
+              "stem": "Bur berry is working with a partner to make full use of leather materials to reduce waste.",
+              "stemCn": "【定位】由题干中的is workingwith apartner定",
+              "options": {},
+              "optionCn": {
+                "J": "段第一句。"
+              },
+              "answer": "J",
+              "analysis": "合作伙伴之一是一个使用再生材料的配件品牌。 其后的第三句详细说明了合作的内容是该品牌利 用巴宝莉皮具生产的下脚料，而该段最后一句提 到这种合作关系是为了处理生产阶段的废料，可 知巴宝莉与合作伙伴合作是想要充分利用原料以 参考译文 减少浪费。题干中的makefulluse ofleather materials对应原文中的starting withoff-cuts，题 干中的reduce waste是对原文中addresses waste 的同义转述，故答案为J）。"
+            },
+            {
+              "num": 44,
+              "stem": "Bur berry 's plan to destroy its unsold products worth millions of dollars aroused public indignation.",
+              "stemCn": "【定位】由题干中的unsoldproductsworth",
+              "options": {},
+              "optionCn": {
+                "A": "段。"
+              },
+              "answer": "A",
+              "analysis": "莉的年度报告披露去年烧毁了价值2860万英榜 的存货，随后的第二句指出，这一消息令投资者和 消费者大为震怒。题干中的destroy对应原文中 的burnt，题干中的aroused public indignation是 对原文中thenews hasleftinvestors andconsumers outraged的同义转述，故答案为A)。"
+            },
+            {
+              "num": 45,
+              "stem": "Bur berry's change of marketing strategy to make a product available as soon as consumers see it on",
+              "stemCn": "【定位】由题干中的to make a productavailable、",
+              "options": {},
+              "optionCn": {
+                "H": "段第一、"
+              },
+              "answer": "H",
+              "analysis": "二和四句。 【精析】细节归纳题。H段定位句提到，巴宝莉利 用时装周走秀的报道，让消费者立即可以买到库 存，此举是一种转变，随后的第四句中谈到这种新 销售策略的效果，指出几乎没有证据表明该策略 对销售产生了重大影响，可知这种利用走秀让消 费者看到即可买到的销售模式并未收到预期的良 好效果，题干是对H）段主要信息的概括。题干中 的Burberry's change of marketing strategy to make a product available as soon as consumers see it on the fashion show对应原文中的a switch to leverage on the coverage of their fashion week show to make stock available immediately to consumers;题干中的 did not turn out to be as effectiveas expected是对原文中therehasbeen little evidence to suggest that the strategy has had a significant effect on sales的同义转述，故答 案为H)。 对于巴宝莉焚烧2800万英镑存货，时尚界无人会感到意外 者大为震怒，但对时尚界人士来说，这一点也不令人意外。 通过折扣店以更便宜的价格大量出售商品不利于原价销售。将产品送去回收又容易导致它们被盗并 在黑市上出售。品牌战略机构概念局的首席执行官贾斯敏·比娜解释说：“通常，奢侈品品牌均支持 专有权，以保护其商业利益，即知识产权和品牌资产保护。”她表示，她听到过有关烧毁存货的传言，但 直到本周才听到具体案例。 这种普遍做法的另一个原因是对向美国出口商品的品牌有经济激励。美国海关声明，如果未使用的 进口商品在其监管下进行销毁，则对该商品支付的99%的关税、税费或费用可以得到赔付。要计算目 前有多少死库存将被浪费是极其困难的。尽管对这种做法有激励，但在法律上却没有义务进行报告。 “我的工作就是把东西扔进箱子里，这样它们就可以被送去烧掉。我的内心十分痛苦，因为所有的皮 革和毛皮都被浪费了，动物们白白地死去了。我在那里再也待不下去了，他们的商业行为让我火冒三 丈。”今年5月，巴宝莉宣布将在时装秀中撤出毛草，并重新审视它其他的商业用途。“尽管我们询问 了管理层，但他们拒绝向我们详细回答他们为何这样处置这批东西，”这位消息人士继续说。（41-2) 她在两周内离了职。此后，她为另一家知名奢侈品品牌工作。 威登工作的艾哈迈德·布奇法阿回应说，该品牌每年为员工出售两次旧货。多次销售之后仍未售出 的物品将被销毁。“路易威登没有公开销售。他们要么以固定的价格销售产品，要么停止销售。这是 为了确保每个人都是以相同的价格购买产品，”他说。（39-2）他接着透露了针对员工销售的严格规 定:“你可以为某人买礼物，但他们会跟踪每一件物品，如果你的礼物最终出现在网上，他们知道应该 去询问谁。”据报道，一位投资者对巴宝莉公司的数据发表评论时感到很愤怒，因为这些未售出的商 品在被销毁之前甚至没有提供给投资者。 值43700万英镑的手表并将其销毁，以避免降价。并不仅仅是奢侈品品牌会如此做。去年10月，一 档丹麦电视节目曝光了H&M自2013年以来共焚烧了12吨未售出的服装。在一份声明中，这家商业 街零售商为自己辩护说，烧毁的衣服没有通过安全测试：“媒体提到的产品已经在外部实验室进行了 测试。测试结果表明，其中一种产品受到霉菌感染，而另一种产品含铅量过高。根据我们的安全惯 例，这些产品停止使用是正确的。”今年3月，一份报告显示，H&M因价值43亿美元滞销存货而倍感 纠结。该品牌对《纽约时报》表示，它的计划是用降低价格来消除库存，可以说是鼓励消费者购买并能 随后不假思索地扔掉。 涵感到愤怒，但这家英国时装公司的高管们无疑正在努力为他们对产量的错误计算进行辩护。这种浪费被 归咎于通过焚烧旧的化妆品库存来为他们新的美颜系列让路。然而，销毁的库存价值较去年的2690万英 镑略有增长，而相比2016年的1880万英镑，增长更为显著，凸显出这是一个持续存在的问题。 走秀的报道，让消费者立即可以买到库存。这与传统的向行业展示、接受生产订单并在六个月内供货 的方式相反。（45-2）尽管巴宝莉公布了“创纪录”的在线访问量和参与度，但几乎没有证据表明该策 略对销售产生了重大影响，尤其是在当季炒作放缓的时候。今年2月，他们对这一模式进行了调整， 立即放弃了一些时装秀项目，并承诺将在未来几个月内推出其他项目。 步表示:“在需要处理产品的情况下，我们是以负责任的方式进行处理的。我们一直在寻求减少和重 新评估废品的方法。这是我们战略的核心部分，而且我们已经建立了伙伴关系，并承诺支持创新组 织，以帮助实现这一目标。” 韦斯林说：“去年年底，我们与巴宝莉基金会开展了一项规模宏大的五年合作计划。其主要目的是扩 展我们的皮革救援项目，从巴宝莉皮具生产的下脚料开始。我们正在不懈地努力，扩展我们的解决方 案，欢迎任何人到我们的工作室来看看我们在做什么。”（43-2）目前，合作伙伴关系只涉及处理生产阶 段的废料，而不涉及未售出的商品。 危机时刻，因为他们的签名支票模式被廉价的仿制品牌到处模仿。这让奢侈品消费者望而却步，他们 发现自己昂贵的服装与工薪阶层青年文化的联系比知名的传统时装店更为密切。2004年，在巴宝莉 支票曝光率过高的时候，该品牌的销售额跌至7.155亿英镑。在时任创意总监克里斯托弗·贝利的 领导下，他们扭转了品牌的颓势，去年收益值达到了27.3亿英榜。 侈品本身受到的挑战是密切相关的。接触时尚的渠道与管理时尚的品牌越来越不相关。（40-2）健 康、启迪、社会和环境责任等都是新奢侈品。这些都来自内心，而不是外部。（40-3）这是传统奢侈品 在中长期的未来不得不与之抗衡的挑战。”"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "2021-12-CET6(第1套)-6 ===== PAGE 7 ===== Social media is absolutely everywhere. Billions of people use social media on a daily basis to create, share, and exchange ideas, messages, and information. Both individuals and businesses post regularly to engage and interact with people from around the world. It is a powerful communication medium that simultaneously provides immediate, frequent, permanent, and wide-reaching information across the globe. People post their lives on social media for the world to see. Face book, Twitter, Linkedln, and countless other social channels provide a quick and simple way to glimpse into a job candidate's personal life-both the positive and negative sides of it. Social media screening is tempting to use as part of the hi ring process, but should employers make use of it when researching a potential candidate's background? Incorporating the use of social media to screen job candidates is not an uncommon practice. A 2018 survey found that almost 70% of employers use social media to screen candidates before hi ring them. But there are consequences and potential legal risks involved too. When done in appropriately, social media screening can be con side red unethical or even illegal. Social media screening is essentially scrutinizing a job candidate's private life. It can reveal information about protected characteristics like age, race, nationality, disability, gender, religion, etc., and that could bias a hi ring decision. Pictures or comments on a private page that are taken out of context could ruin a perfectly good candidate's chances of getting hi red. This process could potentially give an unfair advantage to one candidate over another. It creates an unequal playing field and potentially provides hi ring managers with information that can impact their hi ring decision in a negative way. It's hard to ignore social media as a screening tool. While there are things that you shouldn't see, there are some things that can be law fully con side red-making it a valuable source of relevant information too. Using social media screening appropriately can help ensure that you don't hire a toxic employee who will cost you money or stain your company's reputation. Consider the lawful side of this process and you may be able to hire the best employee ever. There is a delicate balance. Screening job candidates on social media must be done profession ally and responsibly. Companies should stipulate that they will never ask for passwords, be consistent, document decisions, consider the source used and be aware that other laws may apply. In light of this it is probably best to look later in the process and ask human resources for help in navigating it. Social media is here to stay. But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does the author mainly discuss in the passage?",
+              "stemCn": "【定位】本题需要通过整体阅读来把握文章主旨。",
+              "options": {
+                "A": "The advantage of using social media in screening job candidates.",
+                "B": "The potentially invasive nature of social media in everyday life.",
+                "C": "Whether the benefits of social media outweigh the drawbacks.",
+                "D": "Whether social media should be used to screen job candidates."
+              },
+              "optionCn": {
+                "D": "【精析】主旨大意题。文章第一、二段通过介绍社"
+              },
+              "answer": "D",
+              "analysis": "交媒体的广泛使用引出话题：在招聘过程中，雇主 是否应该利用社交媒体来筛选求职者？后面四段 具体探讨利用社交媒体筛选求职者的利与以及 如何在招聘过程中合法利用这一信息源。整篇文 章均围绕“是否应该利用社交媒体来筛选求职者” 这个话题。故答案为D)。 【避错】文章第五段提到了利用社交媒体对求职者 进行筛选的优点，但这只是作者所探讨话题下的 一方面论证，不具有概括性，故排除A）项；文章第 二段和第四段提到雇主可能会通过社交媒体来查 出求职者的私人信息，说明社交媒体对私人生活 而言具有一定的人侵性，但这只是为了说明利用 社交媒体来筛选求职者的弊端，是细节性信息，不 是文章主旨，故排除B）项；文中探讨了雇主利用 社交媒体来筛选求职者的利与，而非社交媒体 本身的好处和坏处，C）项与原文不符，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What might happen when social media is used to screen job candidates?",
+              "stemCn": "【定位】由题干中的social media is used to screen",
+              "options": {
+                "A": "Moral or legal issues might arise.",
+                "B": "Company reputation might suffer.",
+                "C": "Sensational information might surface.",
+                "D": "Hi ring decisions might be complicated."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章第三段提到，当雇主利"
+              },
+              "answer": "A",
+              "analysis": "job candidates定位到第三段。 用社交媒体来筛选求职者时，如果操作不当，那么 这种方式会被认为是不道德的，甚至是非法的。 故答案为A)。 【避错】第五段提到，适当地使用社交媒体来筛选 求职者也有好处，可以避免雇用一个品行恶劣的 员工，这种员工可能会让你损失金钱或败坏公司 的声誉。这里说的是用社交媒体进行筛选可以避 免公司的声誉受到影响，故排除B）项；文章第四 段提到，雇主可能会通过社交媒体查出求职者的 一些受保护特征，如年龄、种族、国籍、残疾状况、 性别、宗教等，但题干主要针对社交媒体筛选可能 导致的结果，而非具体筛选过程中得到的信息，C) 项与题干不符，故排除；由D）项中的hiring decisions定位到文章第四段最后一句，此处提到 社交媒体上的一些信息可能会对招聘决策产生负 面影响，并未说明招聘决策的复杂性，文中其他部 分也未提及，故排除D）项。"
+            },
+            {
+              "num": 48,
+              "stem": "When could online personal information be detrimental to candidates?",
+              "stemCn": "【定位】由题干中的onlinepersonal information",
+              "options": {
+                "A": "When it is separated from context.",
+                "B": "When it is scrutinised by an employer.",
+                "C": "When it is magnified to a ruinous degree.",
+                "D": "When it is revealed to the human resources."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章第四段第三句指出，个"
+              },
+              "answer": "A",
+              "analysis": "定位到第四段第三句。 人网页上的图片或评论如果被断章取义，可能会 毁掉一个完美求职者被录用的机会，说明当求职 者的个人信息脱离其背景被解读时，他们可能会 错失被录用的机会，故答案为A）。 【避错】第四段指出，雇主在通过社交媒体审查求 职者信息时可能存在偏颇，有些求职者因此无缘 被录用，有些则获得了不公平的优势，说明雇主审 查网上个人信息并不会对全部求职者都产生不利 影响，故排除B)项；文中只提到雇主会在社交媒体 上对求职者信息进行审查，而非夸大这些信息，C） 项不符合文意，故排除；文章最后一段提到公司可 以让人力资源部门帮助在网上搜索求职者的信息， 但未提到此举对求职者有何影响，故排除D）项。"
+            },
+            {
+              "num": 49,
+              "stem": "How can employers use social media information to their advantage while avoiding unnecessary 2021-12-CET6(第1套)-7 ===== PAGE 8 ===== risks?",
+              "stemCn": "【定位】由题干中的use social media information",
+              "options": {
+                "A": "By tipping the delicate balance.",
+                "B": "By using it in a legitimate way.",
+                "C": "By keeping personal information on record.",
+                "D": "By separating relevant from irrelevant data."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第五段提到，适当地使用社"
+              },
+              "answer": "B",
+              "analysis": "to theiradvantage定位到第五段。 交媒体来筛选求职者可以避免招到品行恶劣的员 工，如果在这一过程中遵守法律规定，雇主可能会 招聘到有史以来最好的员工。说明雇主应该以合 法的方式利用社交媒体来筛选求职者，以避免上 文中提到的潜在风险，故答案为B）。 【避错】文章第五段最后两句提到，雇主应该合法 利用社交媒体来筛选求职者，保持好微妙的平衡， 文章第六段第一、二句提到，为了保证社交媒体筛 选过程中的专业性和责任感，公司应该把招聘决 策的过程记录下来，而非记录个人信息，C）项不符 合文意，故排除；文章并未提到要分离相关和不相 关的数据，故排除D）项。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author suggest doing before screening job candidates on social media?",
+              "stemCn": "【定位】由题干中的suggest和beforescreening",
+              "options": {
+                "A": "Hi ring professionals to navigate the whole process.",
+                "B": "Anticipating potential risks involved in the process.",
+                "C": "See king advice from management and legal experts.",
+                "D": "Stipulating a set of rules for as king specific questions."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。最后一段最后一句指出，为"
+              },
+              "answer": "C",
+              "analysis": "job candidates定位到最后一段。 了遵守各项法律，在使用社交媒体筛选求职者之 前，应该事先咨询管理层和法律团队，这是至关重 要的，故答案为C)。 【避错】文章最后一段提到，可以在招聘后期让人 参考译文 力资源部门帮忙在网上搜索求职者的相关信息， 而非雇用专业人员来进行引导，navigate一词在 站）”，引申为“搜索”，故排除A)项；文章第三段提 到，利用社交媒体筛选可能存在潜在的法律风险， 但全文未提及雇主在使用此方法前应预测可能涉 及的潜在风险，B）项不符合文意，故排除；文章最 后一段提到，为了保证社交媒体筛选过程中的专 业性和责任感，公司应明确规定具体的做法，但并 未规定一套提问具体问题的规则，故排除D）项。 社交媒体绝对无处不在。数十亿人每天都在使用社交媒体来创造、分享和交流想法、消息以及信息。 个人和企业都定期发布信息，与来自世界各地的人们交流互动。它是一个强大的沟通媒介，同时在全球范 围内提供即时、频繁、永久和影响广泛的信息。 人们在社交媒体上发布自己的生活，让全世界都能看到。脸书、推特、领英和其他无数社交渠道提供 了一种快速而简单的方式来窥探求职者的私人生活—包括其积极和消极的一面。（46）作为招聘过程 的一部分，社交媒体筛选很有吸引力，但在调查潜在候选人的背景时，雇主是否应该利用它呢？ 结合使用社交媒体来筛选求职者并不是一种罕见的做法。2018年的一项调查发现，近70%的雇主在 雇用求职者之前会使用社交媒体进行筛选。但这也存在后果和潜在的法律风险。（47）如果操作不当，通 过社交媒体筛选求职者被认为是不道德的，甚至是非法的。 社交媒体筛选本质上是在审查求职者的私人生活。它可以查出（求职者的）受保护的特征，比如年龄、 种族、国籍、残疾状况、性别、宗教等，这可能会使招聘出现决策偏见。（48）个人网页上的图片或评论如果 被断章取义，可能会毁掉一个完美候选人被录用的机会。这个过程有可能使一个候选人相对另一个来说 有优势，这是不公平的。它创造了一个不平等的竞争环境，并有可能给招聘经理提供一些可能对其招聘决 策产生负面影响的信息。 我们很难忽视社交媒体作为一种筛选工具的作用。虽然有些内容你不应该去看，但也有一些内容可 以在合法情况下去考量，使社交媒体成为相关信息的宝贵来源。（49）适当地使用社交媒体筛选有助于确 保你不会雇用一个品行恶劣的员工，这种员工可能让你损失金钱或败坏公司的声誉。在这一过程中遵守 法律规定，你可能会招聘到有史以来最好的员工。这其中存在一个微妙的平衡。 在社交媒体中对求职者进行筛选必须保证专业性和责任感。公司应该明确规定会做到以下几点：永 远不要求（求职者）提供密码，前后保持一致，记录（招聘）决策，考虑所用信息来源，清楚可能适用的法律。 有鉴于此，或许最好的方式是在招聘后期进行考察，并要求人力资源部门帮忙在网上搜索相关信息。社交 媒体将继续存在。（50）但为了遵守各项法律，在使用社交媒体筛选求职者之前，应该事先咨询管理层和 法律团队，这是至关重要的。 Passage Two 【文章来源】本文选自2018年1月30日刊登在U.S.News&WorldReport（《美国新闻与世界报道》）上一篇标题为 “StoptheFoodLabelFear-Mongering（《停止用食品标签贩卖恐慌》）的文章。 【结构框图】 第1段指出，为了满足消费者想了解更详细产品信息的需求，食品制造商 以改变食品标签作为新的营销策略。 文章主要介绍了食品制造 第2一5段结合实例指出这种新的营销策略实质上是通过“无’式声明” 商通过使用“无’式声 的食品标签误导消费者，从而增加竞争优势，而从长远来看，这种做法 明”的食品标签误导消费 4 者、制造恐慌情绪的做法 端甚多。 及其弊端。 第6段作者给食品制造商提出建议：必须谨慎使用“无”式声明标签。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "In recent years, the food industry has increased its use of labels. Whether the labels say 'non-GMO (非转基因的)’or no sugar,'or zero carbohydrates'，consumers are increasingly demanding more information about what's in their food. One report found that 39 percent of consumers would switch from the brands they currently buy to others that provide clearer, more accurate product information. Food manufacturers are responding to the report with new labels to meet that demand, and they're doing so with an eye towards giving their products an advantage over the competition, and bolstering profits. This strategy makes intuitive sense. If consumers say they want transparency, tell them exactly what is in your product. That is simply supplying a certain demand. But the marketing strategy in response to this consumer demand has gone beyond articulating what is in a product, to labeling what is NOT in the food. These labels are known as \"absence claims\" labels, and they represent an emerging labeling trend that is detrimental both to the consumers who purchase the products and the industry that supplies them. For example, Hunt's put a \"non-GM\" label on its canned crushed tomatoes a few years ago-despite the fact that at the time there was no such thing as a GMO tomato on the market. Some dairy companies are using the \"non-GM\" label on their milk, despite the fact that all milk is naturally GMO-free, another label that creates unnecessary fear around food. While creating labels that play on consumer fears and misconceptions about their food may give a company a temporary marketing advantage over competing products on the grocery aisle, in the long term this strategy will have just the opposite effect: byinjecting fear into the discourse about our food, we run the risk of eroding consumer trust in not just a single product, but the entire food business. Eventually, it becomes a question in consumers, minds: Were these foods ever safe? By purchasing and consuming these types of products, have I already done some kind of harm to my family or the planet? For food manufacturers, it will mean damaged consumer trust and lower sales for everyone. And this isn't just supposition. Are cent study found that absence claims labels can create a stigma around foods even when there is no scientific evidence that they cause harm. It's clear that food manufacturers must tread care fully when it comes to using absence claims. In addition to the likely negative long-term impact on sales, this verbal trick sends a message that innovations in farming and food processing are unwelcome, eventually leading to less efficiency, fewer choices for consumers, and ultimately, more costly food products. If we allow this kind of labeling to continue, we will all lose.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What trend has been observed in a report? 2021-12-CET6(第1套)-8 ===== PAGE 9 =====",
+              "stemCn": "【定位】由题干中的areport定位到第一段第二、",
+              "options": {
+                "A": "Foodmanufacturers, rising awareness of product safety.",
+                "B": "Food manufacturers, changing strategies to bolster profits.",
+                "C": "Consumers, growing demand for eye-catching food labels.",
+                "D": "Consumers, increasing desire for clear product information."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。第一段第二句提到，消费者对"
+              },
+              "answer": "D",
+              "analysis": "三句。 于了解更多与食品成分相关的信息有了越来越多 的需求；第三句指出报告的内容，即39%的消费者 会从他们目前购买的品牌转向其他那些提供更清 晰、更准确产品信息的品牌。故答案为D）。 【避错】文中只提到食品制造商为了满足消费者需 求而使用新的食品标签，并未提及他们的产品安全 意识，故排除A）项；文章第一段最后一句提到，面 对消费者想了解更多产品信息的趋势，食品制造商 改用新的标签，试图增加利润，这是他们对此趋势 的应对措施，而非为增加利润而改变策略，B）项与 题干不符，故排除；文中只提到消费者会去购买那 些标签上产品信息更清晰、准确的食品，而非标签 更加醒目的食品，C）项不符合文意，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What does the author say is manufacturers new marketing strategy?",
+              "stemCn": "【定位】由题干中的newmarketing strategy定位到",
+              "options": {
+                "A": "Stressing the absence of certainelements in their products.",
+                "B": "Articulating the unique nutritional value of their products.",
+                "C": "Supplying detailed information of their products.",
+                "D": "Designing transparent labels for their products."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章第二段第四句提到，食品"
+              },
+              "answer": "A",
+              "analysis": "第二段。 制造商的这种营销策略已不只局限于说明产品中 有什么，还标明了食品中“没有”什么。最后一句提 到，这些标签被称为“无'式声明”标签，它们代表 了一种新兴的标签趋势，故答案为A)。 【避错】文章中只提到食品制造商改变食品标签，未 提及任何关于产品营养价值的信息，故排除B）项； 故排除；文章第二段第二、三句提到，如果消费者想 要信息透明，那么食品制造商就在标签上提供更详 细的产品信息来满足这一需求，而并非设计透明的 标签，此处transparent具有干扰性，D）项不符合文 意，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What point does the author make about non-GMO labels?",
+              "stemCn": "【定位】由题干中的non-GMOlabels定位到第",
+              "options": {
+                "A": "They are increasingly attracting customers'attention.",
+                "B": "They create lots of trouble forGMOfood producers.",
+                "C": "They should be used more for vegetables and milk.",
+                "D": "They cause anxiety about food among consumers."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。第三段最后一句提到，这种"
+              },
+              "answer": "D",
+              "analysis": "三段。 “非转基因”标签可能会造成消费者对食品不必要 的恐慌心理；第五段也同样提到，此类标签的使用 参考译文 可能会使消费者对曾经购买的食品的安全性产生 怀疑，从而感到焦虑，故答案为D)。 【避错】文章首段提到消费者希望了解更详细的产 品信息，因此食品制造商通过改变标签来满足这一 需求，但并未提及在标签上提供的“非转基因”标识 是否越来越吸引消费者的注意，故排除A）项；文中 只提到此类标签的使用对消费者和食品行业来说 都是不利的，并未提到给转基因食品制造商带来的 影响，故排除B）项；第三段只提到一些乳制品公司 在其牛奶产品上贴上“非转基因”标签，并未提及这 些标签应该被更多地用于蔬菜和牛奶，故排除C）。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author say absence claims labels will do to food manufacturers?",
+              "stemCn": "【定位】由题干中的absenceclaimslabels和food",
+              "options": {
+                "A": "Cause changes in their marketing strategies.",
+                "B": "Help remove stigma around their products.",
+                "C": "Erode consumer trust and reduce sales.",
+                "D": "Decrease support from food scientists."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第五段第三句指出，对于食品"
+              },
+              "answer": "C",
+              "analysis": "manufacturers定位到第五段第三句。 制造商来说，使用“无”式声明标签意味着消费者信 赖度的削弱以及销售额的下滑。C）项直接对应原 文内容，故为正确答案。 【避错】文中首段提到食品制造商改变营销策略是 为了满足消费者了解更多产品信息的需求，而非使 用“无”式声明标签造成的影响，且此类标签的使用 恰恰是其营销策略的内容，A）项与题干不符，故排 除；第五段最后一句指出，“无”式声明标签的使用 会导致转基因食品污名化，B）项不符合文章意思， 故排除；第五段最后一句指出，没有科学证据表明 转基因食品是有害的，并非说“无”式声明标签会减 少来自食品科学家的支持，故排除D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author suggest food manufacturers do?",
+              "stemCn": "【定位】由题干中的suggest定位到文章最后一段第",
+              "options": {
+                "A": "Take measures to lower the cost of food products.",
+                "B": "Exercise caution about the use of absence claims.",
+                "C": "Welcome new innovations in food processing.",
+                "D": "Promote efficiency and increase food variety."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。最后一段第一句提到，食品制 造商必须谨慎使用“无”式声明标签，"
+              },
+              "answer": "B",
+              "analysis": "一句。 容一致，故为正确答案。 【避错】文章最后一段提到，使用“无”式声明标签可 能会传递出“农业和食品加工方面的创新不受欢 迎”的错误信息，最终将导致生产效率降低、消费者 选择减少以及食品价格上升问题，A）、C)、D）三项 都和这些后果相关，而非作者的建议，故排除。 近年来，食品行业增加了标签的使用。（51）无论标签上写的是“非转基因”还是“无糖”，又或者是“零碳 水化合物”，消费者对于了解更多与食品成分相关的信息有了越来越多的需求。一份报告指出，39%的消费 者会从他们目前购买的品牌转向其他那些提供更清晰、更准确产品信息的品牌。作为回应，食品制造商正 在改用新的标签以满足这一要求，试图让自己的产品在竞争中获得优势，同时增加利润。 这一策略在直觉上讲是有道理的。如果消费者表示他们想要信息透明，那就告诉他们你的产品里到底 有什么。这只是在满足某种需求。（52）但是，作为对此种消费者需求的回应，这种营销策略已不只局限于 说明产品中有什么，还标明了食品中“没有”什么。这些标签被称为“无'式声明”标签，它们代表了一种新兴 的标签趋势，这对购买产品的消费者和供给产品的行业来说都是有害的。 例如，汉斯公司几年前在其罐装番茄酱上贴上了“非转基因”的标签——尽管当时市场上并没有转基因 番茄这种东西。（53-1）一些乳制品公司在其牛奶产品上贴上“非转基因”标签，尽管事实上所有牛奶都是天 然无转基因的，而“无转基因”又是另一个制造不必要恐慌的食品标签。 虽然利用消费者对食品（某些成分）的恐慌和误解来创制标签可能会给公司带来暂时的营销优势，使其 在杂货店过道里摆放的竞争产品中脱颖而出，但从长远来看，这种策略恰恰会产生相反的作用：给食品相关 的话题加入恐慌元素，我们有可能削弱消费者对单一产品、甚至整个食品行业的信任。 （53-2）最终，消费者心中可能会有一个疑问：这些食品曾经是安全的吗？通过购买和消费这些类型的 产品，我是否已经对家人或地球造成了某种伤害？（54）对于食品制造商来说，这将意味着消费者信赖度的 削弱以及销售额的下滑。而这并不只是推测。最近的一项研究发现，虽然没有科学证据表明转基因食品是 有害的，“无”式声明标签也会使其污名化。 （55）显而易见，食品制造商必须谨慎使用“无”式声明标签。除了可能对销售产生长期的负面影响外， 这种文字上的把戏还传递了一个信息，即农业和食品加工方面的创新是不受欢迎的，最终将导致生产效率 降低、消费者选择减少以及最终的食品价格上升问题。如果允许继续使用这种标签，我们都将有所损失。 PartN Translation The site of the First NationalCongress of the Communist Party of China(CPC) is located at No. 76 Xingye Road, Shanghai， which is a typical Shanghai style residence built in the autumn of 1920. On July 23, 1921, the First NationalCongress of theCPC washeld here where thefirst creed andresolution of the CPC were adopted,the central leadership was elected,andthebirth of the CPC was announced. In September 1952, the site of the Congress was renovated and a memorial hall was established and open to the public. In addition to introducing the representatives who attended the first National Congress, the memorial hall also introduces the historical development process of the CPC. It has become a patriotism educational base wherepeople can understand the CPC's history and memorize the revolutionary martyrs. significance意义;重要性 declare宣告，宣称 liberate解放，解救 symbolize象征，意味着 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "中国共产党第一次全国代表大会会址位于上海兴业路76号，是一栋典型的上海式住宅，建于 1920年秋。1921年7月23日，中国共产党第一次全国代表大会在此召开，大会通过了中国共产党 的第一个纲领和第一个决议，选举产生了中央领导机构，宣告了中国共产党的诞生。1952年9月， 中共一大会址修复，建立纪念馆并对外开放。纪念馆除了介绍参加一大的代表之外，还介绍党的历 史发展进程，现已成为了解党史，缅怀革命先烈的爱国主义教育基地。 2021-12-CET6(第1套)-9 ===== PAGE 10 ===== Suggested Version",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

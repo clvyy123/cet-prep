@@ -1,0 +1,1084 @@
+{
+  "id": "cet4-2025_06_2",
+  "level": 4,
+  "year": 2025,
+  "month": 6,
+  "setNo": "第2套",
+  "title": "2025年6月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2025_06_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Suppose your university is conductingasurvey to collect students’ opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+          "review": "作文要求考生假设自己所在的大学正在进行一项调查，收集学生对于正确使用人工智能技术辅助学习的 看法，考生应就此话题写一篇短文发表自己的看法。对于人工智能辅助学习，一方面我们要擅于利用人工智能 技术带来的便利，帮助自己提高学习效率，另一方面，我们应避免过度依赖人工智能，导致自已思维能力下 降，考生应着眼于这两个方面展开论述。",
+          "sample": "AI technology has become a valuable tool in education, offering students personalized learning experiences and efficient academic support.1 However, its use must be care fully managed to ensure it enhances, rather than hinders, genuine learning.2 Firstly, AI can assist in simplifying complex conceptsthrough intelligent tutoring systems, providing instant feedback and tailored studyplans.3 For example, language-learning apps use AI to adapt exercises to individual progress.4 Secondly, AI-powered tools for writing help improve writing skills without replacing students' original thinking.5 Nevertheless, over-reliance on AI may weaken critical thinking and creativity.6 Therefore, students should use AI as a supplement, not a substitute, for independent learning. In conclusion, AI technology, when used appropriately, can greatly benefit students by offering support and enhancing efficiency.7 Universities should guide students in balancingAI assistance with active engagement in learning to maximize its advantages while maintaining academic integrity.8",
+          "sampleNote": "1总述人工智能技术的重要作用。 2笔锋一转，必须谨慎管理人工智能技 术的使用，让其发挥作用而不是成为 阻碍。 3阐述人工智能技术的第一个作用：帮助 简化复杂概念。 4以语言学习应用程序为例加以说明。 5阐述人工智能技术的第二个作用：帮助 提高写作技能。 6进而指出过度依赖人工智能技术可能会 削弱批判性思维和创造力。 7得出结论：正确使用人工智能技术会让 学生极大受益。 8提出建议，大学应该引导学生平衡人工 智能辅助与主动学习的关系。",
+          "sampleCn": "人工智能技术已成为教育领域的重要工具，它能为学生提供个性化学习体验和高效的学术支持。然而， 其使用必须得到谨慎管理，以确保其促进而非阻碍真正的学习。 首先，人工智能可以通过智能辅导系统帮助简化复杂概念，提供即时反馈和量身定制的学习计划。例 如，语言学习类应用利用人工智能技术调整练习内容以适应个人进度。其次，人工智能驱动的写作辅助工具能 在不取代学生原创思考的前提下提升其写作能力。尽管如此，过度依赖人工智能可能会削弱批判性思维和创造 力。因此，学生应将人工智能作为自主学习的补充而非替代。 总之，如果使用得当，人工智能技术可以通过提供支持和提高效率，使学生受益匪浅。高校应引导学生 在利用人工智能辅助与主动学习之间取得平衡，在保持学术诚信的同时，充分发挥其优势。 老师说 想知道四级第二套试题如何考查写作、听力、阅读和段落翻译吗？请跟随老师一起领略四级真题的真谛吧！扫描上方 二维码便可一探究竞！",
+          "vocab": [
+            "personalized个性化的",
+            "tailored量身定制的",
+            "supplement补充",
+            "genuine真正的",
+            "nevertheless然而",
+            "substitute替代",
+            "simplify简化",
+            "over-reliance过度依赖",
+            "maximize充分利用",
+            "instant feedback即时反馈",
+            "criticalthinking批判性思维",
+            "integrity诚信"
+          ],
+          "patterns": [
+            "1.In conclusion,whenusedappropriatelycangreatly benefit..byofferingsupportandenhancing efficiency.",
+            "句型意为“总之，合理运用·能通过提供支持和提高效率使受益匪浅”，是下结论的典型句式.，其",
+            "中使用了whenusedappropriately这种“连词+分词”的结构（实际上是一种省略，因为一些连词引导状语从",
+            "句时，如果从句和主句的主语一致，则可省略从句中的主语和be动词）。",
+            "2.Universitiesshouldguidestudentsinbalancing..with..tomaximizeitsadvantages while.",
+            "句型意为“高校应引导学生平衡与…的关系.，在·的同时充分发挥其优势”，是提出建议的一种",
+            "句式，句中使用了balanceAwithB这种结构，意为“平衡A与B之间的关系”。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet4-2025_06_2-L1",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report One",
+          "intro": "Questions 1 and 2 are based on the news report you have just heard.",
+          "material": "[1] A florida teenager and an Atlanta woman wontheoverallmensandwomen’sdivisionsSaturdayattheannual 7Mile Bridge Run. VaclavBursa,15,of big Pine key, Floridafinishedfirstoverall. He completedthe race in 41 minutes andl second and claimedthe top spot in the men's division. Bursa won third place in the 2022race. He is a student at Marathon High school. Joanna Stephens,28,ofAtlantacompleted the course in 41minutes and 12seconds. Shewon the women's division title and placed second overall. The race drew competitors from 4lUS states. There were also runners fromothercountriesincludingCanadatheUKandSwitzerland. The run closedthe span between the Middle andLowerKeys to traffic for 3hours Saturday.[2] The april contest is one oft he most popular running events in thesoutheasternUnitedStates. The race field filled withinminutes after online registrationopened in january.",
+          "questions": [
+            {
+              "num": 1,
+              "stem": "What does the news report say aboutVaclav Bursa andJoanna Stephens?",
+              "stemCn": "",
+              "options": {
+                "A": "They are young teenagers from Atlanta.",
+                "B": "They won this year’s 7 Mile Bridge Run.",
+                "C": "They completed the race in less than 40 minutes.",
+                "D": "They are both students at Marathon High School."
+              },
+              "optionCn": {
+                "A": "他们是来自亚特兰大的低龄青少年。",
+                "C": "他们用时不到40分钟完成了比赛。",
+                "B": "他们赢得了今年的七英里大桥赛跑。",
+                "D": "他们都是马拉松高中的学生。"
+              },
+              "answer": "B",
+              "analysis": "关于瓦茨拉夫·布尔萨和乔安娜·斯蒂芬斯，新闻报道说了什么？ 新闻开头提到，周六，在一年一度的七英里大桥赛跑中，一名佛罗里达州青少年和一名亚特兰大女子分别 赢得了男子组和女子组的冠军，故选项B为正确答案，同时可排除选项A。根据新闻中的细节描述可知， 男子组冠军瓦茨拉夫·布尔萨的比赛成绩为41分1秒，女子组冠军乔安娜·斯蒂芬斯的比赛成绩为41分12 秒，两人用时均超过40分钟，故排除选项C。新闻中只提到瓦茨拉夫·布尔萨是马拉松高中的学生，而28 岁的乔安娜·斯蒂芬斯显然不可能是马拉松高中的在读生，故排除选项D。"
+            },
+            {
+              "num": 2,
+              "stem": "WhatdowelearnabouttheAprilcontest?",
+              "stemCn": "关于四月的这场比赛，我们可以得知什么？",
+              "options": {
+                "A": "It drew competitors from more than 40 countries.",
+                "B": "It is watched live online by fans all over the world.",
+                "C": "It closed the city of Big Pine Key to traffic for three hours.",
+                "D": "It is one of the most popular running events in the southeastern U.S."
+              },
+              "optionCn": {
+                "A": "它吸引了来自40多个国家的参赛者。",
+                "C": "它导致大松礁岛的交通封闭了三个小时。",
+                "B": "它可以通过网络让全世界的粉丝实时观看。",
+                "D": "它是美国东南部最受欢迎的跑步赛事之一。"
+              },
+              "answer": "D",
+              "analysis": "中提到，此次比赛吸引了美国41个州的参赛者，而非41个国家，故排除选项A。比赛时，中礁岛与下礁岛 之间的交通封闭，而非大松礁岛的交通封闭，故排除选项C。选项B在新闻中并未提及，故可排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L3",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Two",
+          "intro": "Questions 3 and 4 are based on the news report you have just heard.",
+          "material": "British astronaut Tim Peake is stepping down permanentlyfrom his role as a European astronaut. He’s goingto take up a full-time position as ambassador for science and space instead—work he's been doing since 2019.[3l The former British Army Air corps helicopter pilot was selected as a European Space agency astronaut in 2009.He few to the space station for a 6-month tour in 2015.The tour saw him control a robot on earthremotelyfrom orbit. Heal so helped dock two spacecraf. Tim said,\"Being an astronaut has been the most extraordinary experience.I've had the privilege of working with an exceptional team of individuals during the past 13years with the agency.[4Ithas been incredibly exciting and rewarding. By assuming the role of an ambassador for human flights to space, I'll continue to support the European and the UK space agencies.\"",
+          "questions": [
+            {
+              "num": 3,
+              "stem": "What do we learn from the news report about TimPeake?",
+              "stemCn": "关于蒂姆·皮克，我们可以得知什么？",
+              "options": {
+                "A": "He was once a full-time ambassador.",
+                "B": "He was soon to retire from the army.",
+                "C": "He became an astronaut in 2015.",
+                "D": "He used to be a helicopter pilot."
+              },
+              "optionCn": {
+                "A": "他曾经是一名全职大使。",
+                "B": "他很快将从军队退役。",
+                "C": "他在2015年成为一名宇航员。",
+                "D": "他曾经是一名直升机飞行员。"
+              },
+              "answer": "D",
+              "analysis": "2009年被选为欧洲宇航局的宇航员。由此可知，选项D为正确答案，同时排除选项C。其余两项新闻中均 未提及，可排除。"
+            },
+            {
+              "num": 4,
+              "stem": "What does Tim Peake say about his work with the European Space Ageney?",
+              "stemCn": "",
+              "options": {
+                "A": "It has been unbelievably exciting and rewarding.",
+                "B": "It has been extraordinarily tough and demanding.",
+                "C": "It has contributed a great deal to human flights to space.",
+                "D": "It has given him exceptional privilege as an ambassador."
+              },
+              "optionCn": {
+                "A": "它是极其令人振奋且有意义的。",
+                "B": "它极其艰难且要求极高。",
+                "C": "它对人类的太空飞行做出了巨大贡献。",
+                "D": "它赋予了他作为大使的罕见特权。"
+              },
+              "answer": "A",
+              "analysis": "关于在欧洲宇航局的工作，蒂姆·皮克说了什么？ 新闻后半部分蒂姆评价自己在欧洲宇航局13年的工作时说，这是一段极其令人振奋且有意义的经历。由此 可知，选项A为正确答案。其余三项新闻中均未提及，可排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L5",
+          "group": "Section A",
+          "groupCn": "短新闻",
+          "label": "News Report Three",
+          "intro": "Questions 5 to 7 are based on the news report you have just heard.",
+          "material": "[5] AnAsda store inWales is now home to five cats after theywandered in andmade themselves comfortable. The supermarket is known for its loyal customers, but now has a different kind of visitor that ha sap pea red overt he last year. Regular shoppers at the supermarket are familiar with the sight of several cats settling down in the shop aisles. The unusual situation star ted about 12months ago, when one cat routinely star ted visiting the store.[6] Local newspapers reported that puzzled customers posted on Face book groups to try to find out if the cat was lost. But its owner assured the concerned customers it was very muchloved and fed at home. It just enjoyed visiting the shop. Staff did their best to discourage the pet from hanging around. But instead of leaving and never coming back, it invited its friendsround.[5] There are now at least five different cats who come almost on a daily basis. They visit the store so much that[7staff have been forcedto put up signs, as king theircustomers not to feed them.",
+          "questions": [
+            {
+              "num": 5,
+              "stem": "What do we learn about the five cats seen in the Asda store?",
+              "stemCn": "",
+              "options": {
+                "A": "They are known for their loyalty to their owners.",
+                "B": "They are brought in by the store’s customers.",
+                "C": "They are regular visitors to the store.",
+                "D": "They are pets kept by the store staff."
+              },
+              "optionCn": {
+                "A": "它们以对主人的忠诚而闻名。",
+                "C": "它们是商店的常客。",
+                "B": "它们是由商店的顾客带进来的。",
+                "D": "它们是商店员工养的宠物。"
+              },
+              "answer": "C",
+              "analysis": "关于在阿斯达超市看到的那五只猫，我们可以得知什么？ 章 新闻开头就提到，威尔士的一家阿斯达超市如今成了五只猫的家。新闻末尾部分也提到，现在至少有五只 不同的猫几乎每天都来超市，非常频繁地光顾超市。由此可知，选项C为正确答案。其余三个选项新闻中 均未提及，可排除。"
+            },
+            {
+              "num": 6,
+              "stem": "What did some customers think when they saw the first cat routinely appear in the store?",
+              "stemCn": "",
+              "options": {
+                "A": "It might be a nuisance to the loyal shoppers.",
+                "B": "It might have been abandoned by its owner.",
+                "C": "It might be 12 months old.",
+                "D": "It might have got lost."
+              },
+              "optionCn": {
+                "A": "它可能对忠实的购物者造成麻烦。",
+                "C": "它可能有12个月大。",
+                "B": "它可能被主人遗弃了。",
+                "D": "它可能迷路了。"
+              },
+              "answer": "D",
+              "analysis": "当看见第一只猫定期出现在超市里时，一些顾客是怎么想的？ 楚这只猫是否迷路了。由此可知，选项D为正确答案。其余三个选项新闻中均未提及，可排除。"
+            },
+            {
+              "num": 7,
+              "stem": "What are customers askednotto do？",
+              "stemCn": "顾客们被要求不要做什么？",
+              "options": {
+                "A": "Feed the cats.",
+                "B": "Remove any store signs.",
+                "C": "Sit in the shop aisles.",
+                "D": "Bring in pets with them. Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "喂猫。",
+                "C": "坐在商店的过道里。",
+                "B": "移除任何商店标识。",
+                "D": "带宠物进来。"
+              },
+              "answer": "A",
+              "analysis": "不要投喂它们。故选项A为正确答案。其余三个选项新闻中均未提及，可排除。 SectionB"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L8",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation One",
+          "intro": "Questions 8 to 11 are based on the conversation you have just heard.",
+          "material": "W:[8] I've been thinking aboutmoving off campus next semester. M:Hmm..I don'tknow if that’sa good idea as your mother and i would worry about you living all by yourself in an apartment so far from home.[9] And then there’s the expense, too. Im not sure we can afford it. W:Well, I wouldn'tbe alone, actually. Three of my friends from the dormitory would share the place with me. And with four of us, it wouldn't cost any more than living in the dorm. M:Are you sure about that?[9] Rents in big cities are high, and then there’sthe cost of electricity and gas. Have you factored those in? W:We've budgetedfor those, and forInternetandtransportation. And if we move far enough from the city center the rent is low enough for us to afford all of it. M:What’s about the commute to and from campus?It sounds like you'llbe wasting several hours every day on the road instead of studying. W:[10] It’s about an hour to campus, but there's no reason i cant study on the bus. After all, I did that during high school and my commute was even longer then. M:That’s true. ButIm not sure why you want to leave campus and go through all that trouble when the cost is the same. W:For a lot ofreasons. We'd have a kitchen, so we could cook ourselves. And we'd each have our own bedroom, where we could study instead of going to the library. We just have more space and privacy. M:[] Imnotconvinced that the benefitsaregreater than the disadvantages, but i'lldiscuss this with your mother.",
+          "questions": [
+            {
+              "num": 8,
+              "stem": "What has the woman been thinkingofdoingnextsemester?",
+              "stemCn": "女士一直在考虑下学期做什么？",
+              "options": {
+                "A": "Sharing her room with friends.",
+                "B": "Cutting down her living expenses.",
+                "C": "Living off campus.",
+                "D": "Moving to the city center."
+              },
+              "optionCn": {
+                "A": "和朋友合住她的房间。",
+                "C": "住在校外。",
+                "B": "削减她的生活开支。",
+                "D": "搬到市中心。"
+              },
+              "answer": "C",
+              "analysis": "表示搬出校园后她将和宿舍的三个朋友合租公寓，每人均有自己的卧室，而非与朋友合住同一间房，故排 除A项；对话中女士提到，四个人分摊的话，住在校外的费用不会比住宿舍高，这说明削减生活开支并不 是女士的目的，故排除B项；对话中女士提到，如果搬到离市中心足够远的地方住，费用将足够便宜，D 项与此完全相反，显然不在女士考虑之中，故也排除。"
+            },
+            {
+              "num": 9,
+              "stem": "What does them an suggest the woman take into consideration?",
+              "stemCn": "男士建议女士考虑什么？",
+              "options": {
+                "A": "The facilities available.",
+                "B": "Various costs involved.",
+                "C": "Changes in living conditions.",
+                "D": "The distance to her home."
+              },
+              "optionCn": {
+                "A": "可用的设施。",
+                "C": "生活条件的变化。",
+                "B": "涉及的各种费用。",
+                "D": "到她家的距离。"
+              },
+              "answer": "B",
+              "analysis": "起，后面又明确提到大城市的房租很高，还有电费和煤气费，问女士是否把这些因素都考虑在内，他使用 了factor..in这一固定短语，意为“把….考虑在内”，这与问题中出现的固定短语take..into consideration （把.考虑在内）属于同义转述关系，故答案为B项。A项在对话中没有提到，故排除；虽然女士提到 了搬出去住后生活条件的一些变化，但这并非男士建议女士考虑的内容，故排除C项；男士担心的是女士 上学的通勤距离，而非女士到家的距离，故排除D项。"
+            },
+            {
+              "num": 10,
+              "stem": "What does the woman say she did during high school?",
+              "stemCn": "女士说她高中时做过什么？",
+              "options": {
+                "A": "Went through much trouble.",
+                "B": "Commuted to save money.",
+                "C": "Studied on the bus.",
+                "D": "Lived on campus. ===== PAGE 2 ====="
+              },
+              "optionCn": {
+                "A": "经历了很多麻烦。",
+                "C": "在公交车上学习。",
+                "B": "通勤以节省费用。",
+                "D": "住在校内。"
+              },
+              "answer": "C",
+              "analysis": "需要一个小时，但她完全可以在公交车上学习，毕竞高中时她就这样做过，所以答案为C项。其他选项女 士在描述自己的高中生活时均未提及，故排除。"
+            },
+            {
+              "num": 11,
+              "stem": "What does the man say hell do at the end oft he conversation?",
+              "stemCn": "在对话结尾，男士说他将做什么？",
+              "options": {
+                "A": "Discuss the matter with the woman’s mother.",
+                "B": "Make a decision within a few days.",
+                "C": "Try his best to persuade his wife.",
+                "D": "Weigh the benefits against the disadvantages."
+              },
+              "optionCn": {
+                "A": "与女士的妈妈讨论此事。 C尽力说服他的妻子。",
+                "B": "在几天内做出决定。",
+                "D": "权衡利弊。"
+              },
+              "answer": "A",
+              "analysis": "在对话结尾，男士提到自己不觉得（女士住在校外）利大于，但他会和女士的妈妈商量一下这件事，所 以答案为A项，由此也可以排除D项。B、C两项对话中都没有提到，故排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L12",
+          "group": "Section B",
+          "groupCn": "长对话",
+          "label": "Conversation Two",
+          "intro": "Questions 12 to 15 are based on the conversation you have just heard.",
+          "material": "W:Good morning.[12] Im looking for a present for my nephew, Lawrence. M:Hi. Do you have anything in mind? W:I'm not sure. No.Do you know what boys aged around ten typically like? M:[13] For that age group, ourbiggest seller this year has been this action figure. It’s called Bobo Man, and it's incredibly popular. W:Does it do anything? M:Not by itself. It has no batteries, if that's what you mean. There'sa BoboMan cartoon popular amongst young children, you see. And this toy is the lead character from the show. W:Oh, I understand now.I've never heard of it, but id ok now littleLawrenceloves cartoons. Do you have any other popular toys? Perhaps something educational. M:Yes, of course. Right over here, we have dozens of puzzles for children of all ages. They are fun, great for exercising the mind and can be played either alone or in groups. W:I like this sort of idea.[14Lawrence has a sister whoisslightlyolder, so maybe a game that they can play together would be good. M:What do you thinkofBattleships，then?[15] It’sa total classic. It has been around since the 1930s. W:Oh, yeah.[15] We had one of those when growing up. 24四级2025.6第二套 M:[15] Of course you did. Everyone did. Andkids enjoy it just as much today as you and i did when we were young. Some games just never get old. W:I suppose you are right. I have fond memories playing Battleships when it was raining outside and we had to stay indoors. That’s decided then. How much? M:19pounds and 90pence, please. W:There you are. Have a nice day. M:Thank you. You too.",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "What is the woman doing?",
+              "stemCn": "女士在做什么？",
+              "options": {
+                "A": "Inter vie wing the man.",
+                "B": "Looking for Lawrence.",
+                "C": "Choosing a present for her nephew.",
+                "D": "Helping the man with his shopping."
+              },
+              "optionCn": {
+                "A": "采访男士。",
+                "B": "寻找劳伦斯。",
+                "C": "为侄子挑选礼物。",
+                "D": "帮助男士购物。"
+              },
+              "answer": "C",
+              "analysis": "C项。其他三项均与对话内容不符，可直接排除。 4"
+            },
+            {
+              "num": 13,
+              "stem": "How does them an describeBobo Man，the action figure?",
+              "stemCn": "男士如何描述动作玩偶波波侠？",
+              "options": {
+                "A": "Quite educational.",
+                "B": "Incredibly popular",
+                "C": "Driven by batteries.",
+                "D": "Obviously childish."
+              },
+              "optionCn": {
+                "A": "很有教育意义。",
+                "B": "特别受欢迎。"
+              },
+              "answer": "B",
+              "analysis": "C由电池驱动。 迎，所以答案是B项。A项“很有教育意义”是女士对她要挑选的玩具的要求，故排除；对话中男士提到 波波侠没有电池，C项与此相悖，故排除；D项在对话中没有相关内容，故也排除。"
+            },
+            {
+              "num": 14,
+              "stem": "Whatkindofgamedoesthewomanthinkwouldbe goodforLawrence?",
+              "stemCn": "女士认为什么样的游戏适合劳伦斯？",
+              "options": {
+                "A": "One he loves for helping exercise his mind.",
+                "B": "One he can play together with his sister",
+                "C": "One he finds interesting and challenging.",
+                "D": "One he can play either alone or in a group."
+              },
+              "optionCn": {
+                "A": "一种他喜爱的且有助于锻炼思维的游戏。",
+                "B": "一种他可以和姐姐一起玩的游戏。",
+                "C": "一种他觉得有趣且具有挑战性的游戏。",
+                "D": "一种他可以独自玩或与他人一起玩的游戏。"
+              },
+              "answer": "B",
+              "analysis": "此答案是B项。A项中“有助于锻炼思维的游戏”和D项中“可以独自玩或与他人一起玩的游戏”都是男士 对拼图游戏的描述，并不是女士的需求，故均排除；C项在对话中没有相关内容，故也排除。"
+            },
+            {
+              "num": 15,
+              "stem": "What do we learn from the conversation about the game Battleships?",
+              "stemCn": "",
+              "options": {
+                "A": "It has been enjoyed by kids for decades.",
+                "B": "It always reminds people of times of war",
+                "C": "It has been played both indoors and outdoors.",
+                "D": "It distinguishes itself as one of the oldest games. Section C Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+              },
+              "optionCn": {
+                "A": "它几十年来一直受孩子们的喜爱。",
+                "B": "它总是让人想起战争时期。",
+                "C": "它在室内和室外都可以玩。",
+                "D": "它作为最古老的游戏之一脱颖而出。"
+              },
+              "answer": "A",
+              "analysis": "关于海战棋游戏，我们从对话中了解到什么？ 小时候就有一款，男士接着说每个人都有过这款游戏，而且现在的孩子和他们小时候一样喜欢它。由此可 知，海战棋游戏几十年来一直受孩子们的喜爱，答案是A项。B项在对话中没有相关信息，故排除；对话 中虽提到，女士说自己有过在外面下雨不得不待在室内时玩海战棋的美好回忆，但并未提及海战棋游戏在 室内和室外都可以玩，故排除C项；虽然对话中提到海战棋游戏从上世纪30年代就有了，但是并没有明确 说明它是最古老的游戏之一，故排除D项。 Section"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage One",
+          "intro": "Questions 16 to 18 are based on the passage you have just heard.",
+          "material": "We assume thatifweofferourcustomers more choices, then they'llbe more likely to buyourproducts.[16] But here’stheparadoxofchoice: if a person is presentedwithtoomanychoices, theyareactuallylesslikelyto buy.[17] In 2012,psychologistspublishedastudyaboutjams. Onaregulardayatalocalfoodmarketpeoplewouldfindadilay table with 24differentkinds ofjams. Then on another day, at that same food market people were given only 6 different types of jam choices. Guess which display table led to more sales? The study found that while the bigger display table createdmore interest, people were almost 10 times less likely to purchase a jar of jam than in the case of the smaller display. Customer satisfaction takes a hit as well. In the study. the bigger display of jams leads to lower customer satisfaction than the smaller display. In an extensive study published in 2015,researchers analyzed a total of 99 choice studies and specifically looked at those cases in which reducing choices helped to boost sales.[18] They found four rules that motivate consumers to buy: when people want to make a quick and easy choice, when the product is complex, when it’s difficult to compare alternative sand when consumers don't have clear preferences. So as you can see, when it comes to choices, less is more.",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What do we learn from the passage about the paradox of choice?",
+              "stemCn": "",
+              "options": {
+                "A": "A display of a variety of products increases consumers’ interest.",
+                "B": "Too many choices decrease one’s desire to buy.",
+                "C": "Fewer choices lead to lower customer satisfaction.",
+                "D": "Customers given more choices are more likely to get confused."
+              },
+              "optionCn": {
+                "A": "展示各种各样的产品会增加消费者的兴趣。C选择更少会导致顾客满意度降低。",
+                "B": "选择太多会降低人们的购买欲望。",
+                "D": "被给予更多选择的顾客更有可能感到困惑。"
+              },
+              "answer": "B",
+              "analysis": "关于“选择悖论”，我们从文章中了解到什么？ 文章开头部分明确提到，人们原本认为给顾客提供更多选择，他们就会更愿意购买产品，但“选择悖论 表明，当人们面对过多的选择时，他们购买的可能性反而更低。选项B与文章表述一致，故为正确答案。 虽然文章中提到大展示台吸引了更多关注，但这并非“选择悖论”涉及的方面，故排除A选项。文章表 明更少的果酱种类展示带来的顾客满意度更高，C选项与原文相悖，故排除。文章中未提及顾客是否会困 惑，属于无中生有，故D选项可排除。"
+            },
+            {
+              "num": 17,
+              "stem": "What did the psychologists want to find out in their 2012studyabout jams?",
+              "stemCn": "",
+              "options": {
+                "A": "What kind of display results in more sales.",
+                "B": "What kind of display creates more interest.",
+                "C": "What kind of display attracts a greater crowd of customers.",
+                "D": "What kind of display leads to greater customer satisfaction."
+              },
+              "optionCn": {
+                "A": "什么样的展示会带来更多的销售额。",
+                "C": "什么样的展示会吸引更大的顾客群体。",
+                "B": "什么样的展示会引起更多兴趣。",
+                "D": "什么样的展示会带来更高的顾客满意度。"
+              },
+              "answer": "A",
+              "analysis": "在2012年关于果酱的研究中，心理学家想要探究什么？ 文章中提到，心理学家在2012年关于果酱的研究中设置了展品种类数量不同的展示台（24种果酱和6种果 酱），目的就是探究哪种展示方式能带来更多销量，A选项符合研究目的，故为正确答案。该研究主要探 究的是销量，其余三项并不是此次研究的目的，均排除。"
+            },
+            {
+              "num": 18,
+              "stem": "What is the findingofanextensivestudypublished in 2015？2015",
+              "stemCn": "年发表的大规模研究有什么发现？",
+              "options": {
+                "A": "There are situations where customers buy nothing.",
+                "B": "There are tricks to increase customer satisfaction.",
+                "C": "There are ways to predict customer preferences:",
+                "D": "There are rules that motivate customers to buy"
+              },
+              "optionCn": {
+                "A": "存在顾客什么都不买的情况。",
+                "C": "存在预测顾客偏好的方法。",
+                "B": "存在提高顾客满意度的技巧。",
+                "D": "存在激励顾客购买的规则。"
+              },
+              "answer": "D",
+              "analysis": "文章最后提到，2015年发表的大规模研究发现了四条促使消费者购买的规则，D选项与原文表述相符，故 为正确答案。文中未提及顾客什么都不买的情况，A选项无中生有，故排除。该研究发现的是促使消费者 购买的规则，并非提高顾客满意度的技巧和预测顾客偏好，B和C选项可排除。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Two",
+          "intro": "Questions 19 to 21 are based on the passage you have just heard.",
+          "material": "The New Year has come and goneand many may have already forgotten what they had resolved to do on January 1st. But if that resolution was to volunteer more, now is the best time to start. Volunteering can drop after the holiday season, andbyFebruarysomeorganizationslackthevolunteerstheyhadinsurplusjustamonhago.19Accordingto one survey, only 26%ofAmericansvolunteereddespite reportsthatmany Americans viewvolunteering as worthwhile. Why such a disconnect? [2o] Most people cite time and conflicting work schedules as major barriers, but employeesandemployerswouldactuallybenefitifcompaniesmadeemployeevolunteeringpartofthejob. Researchers have found donating our time and talent to others can lower blood pressure, boost happiness and improve mental and physical health. Studies have also linked employee volunteer programs with more productive employees. With so much 26四级2025.6第二 emphasis on employee wellness these days, company volunteer programs could be the perfect 2025resolution. But for volunteering to benefit employees and the workplace, the entire organization needs to be involved. By all owing employees to donate their time during workhours, the workplace becomes an outletforpersonalfulfillment without affecting personal time.[2lIn one survey,89%ofemployees perceived companies that sponsored volunteer activiies as creating a better working environment, and 75% said volunteering was critical to their well-being.",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "WhatdomanyAmericansthinkofvolunteering?",
+              "stemCn": "许多美国人如何看待志愿服务？",
+              "options": {
+                "A": "Stressful.",
+                "B": "Burdensome.",
+                "C": "Worthwhile.",
+                "D": "Energy-boosting."
+              },
+              "optionCn": {
+                "A": "压力很大。",
+                "C": "是值得的。",
+                "B": "负担沉重。",
+                "D": "让人充满活力。"
+              },
+              "answer": "C",
+              "analysis": "文章中提到，一项调查显示，许多美国人认为志愿服务是值得的，选项C是原文原词复现，故为答案。 文章中没有任何信息表明美国人觉得志愿服务会带来压力，以及将志愿服务视为负担，故可排除A、B两 项。虽然文中提到志愿服务对健康有益，但未提及它让人充满活力，故排除选项D。"
+            },
+            {
+              "num": 20,
+              "stem": "How could companiesensure both employees and employers benefit from volunteering?",
+              "stemCn": "",
+              "options": {
+                "A": "By linking it with employees’ salary.",
+                "B": "By taking it as the New Year resolution.",
+                "C": "By improving work schedules.",
+                "D": "By making it part of the job."
+              },
+              "optionCn": {
+                "A": "通过将其与员工工资挂钩。",
+                "C": "通过改进工作安排。",
+                "B": "通过将其作为新年决心。",
+                "D": "通过使其成为工作的一部分。"
+              },
+              "answer": "D",
+              "analysis": "公司怎样才能确保员工和雇主都从志愿服务中受益？ 文章中间部分提到，如果公司将员工志愿服务作为工作的一部分，员工和雇主都将从中受益，D选项符合 文意，故为正确答案。文章未提及将志愿服务和工资关联的内容，故排除A选项。新年决心只是文章开头 引人话题的内容，并非公司让双方受益的方式，故排除B选项。文章强调的是公司把志愿服务作为员工工 作的一部分，而非改进工作安排，C选项与原文不符，故排除"
+            },
+            {
+              "num": 21,
+              "stem": "What did 75% of employees say about volunteering in a survey?",
+              "stemCn": "",
+              "options": {
+                "A": "It was very important to their well-being.",
+                "B": "It had taken little of their spare time.",
+                "C": "It was an outlet for their personal fulfillment.",
+                "D": "It helped improve their working environment."
+              },
+              "optionCn": {
+                "A": "这对他们的健康快乐非常重要。",
+                "C": "这是他们实现个人价值的一个渠道。",
+                "B": "这没占用他们多少业余时间。",
+                "D": "这有助于改善他们的工作环境。"
+              },
+              "answer": "A",
+              "analysis": "在一项调查中，75%的员工对志愿服务有何评价？ 文章最后提到，在一项调查中，89%的员工认为赞助志愿活动的公司能营造更好的工作环境，75%的员工 表示志愿服务对他们的健康快乐至关重要。A选项中的veryimportant是原文中的critical的同义转述，故为 正确答案。文中未提及志愿服务没占用员工多少业余时间的内容，属于无中生有，故排除B选项。文中虽 提到职场可成为实现个人价值的渠道，但并未指出这是这项调查中75%的员工对志愿服务的看法，故可排 除C选项。原文表明89%的员工认为赞助志愿活动的公司能营造更好的工作环境，并非75%员工对志愿服 务的评价，故排除D选项。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Passage Three",
+          "intro": "Questions 22 to 25 are based on the passage you have just heard.",
+          "material": "[22] ThevastmajorityoftheUKs 200.000tonnesofretailsectors annual foodwastecomes fromsupermarkets. But it’sa problem that impacts independent luxury food supplierstoo. The scale is small. It’s estimated at less than one percentoftheUKsfood waste total. Butt he qualityfromthesesuppliersishigh. Everythingfromspecialistcheesesto sought-after coffee beans gets thrown away every day in the current food system. This is where French entrepreneurSophie An drécomes in.[23In 2016 she moved to London and beg an by setting up a business delivering luxury hand-made food across the city.\"Food delivery seems to be a big thing here,”She says.\"So is tar ted delivering products by bicycle. Talking with local producersI learned that a small part oft he production is sometimes was ted due to problems with size or shape, but the quality of theproducts remains unchanged.[24Unlike many food waste projects that have sprung up in recent years, the idea is not simply to red is tribute waste food, but to provide a high-quality product. Andre’scompanyElysia offers breakfasts and snacks specifically aimed at business meetings and events. Once sourced, Elysia uses waste products to create simple, natural straightforward\"meals and snacks.[25 Perhaps unlike other waste food, the supply is regular. Suppliers will always have a certain amount of surplus. So the menus remain regular too. Andre believes this benefits both her business and her customers.",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "WhatdowelearnabouttheUK’sretailsectorfoodwaste？",
+              "stemCn": "关于英国零售业的食物浪费，我们了解到什么？",
+              "options": {
+                "A": "It amounts to 2,000 tons daily.",
+                "B": "It mostly comes from supermarkets.",
+                "C": "It is estimated at 11% of the UK’s total food supply.",
+                "D": "It has a lot to do with independent luxury food suppliers."
+              },
+              "optionCn": {
+                "A": "它每天达到2000吨。",
+                "B": "它主要来自超市。",
+                "C": "据估计，它占英国食品总供应量的11%。",
+                "D": "它与独立的高端食品供应商有很大关系。"
+              },
+              "answer": "B",
+              "analysis": "文章开头提到，英国零售业每年产生的20万吨食物浪费中，绝大部分来自超市。B选项符合原文，故为正 确答案。根据文章内容，每年产生20万吨食物浪费，通过换算可知每天浪费的数量为数百吨，而非2000 吨，故排除A选项。文中提到独立高端食品供应商的浪费量不足英国食物浪费总量的1%，并未提及11%这 一数据，故排除C、D两个选项。"
+            },
+            {
+              "num": 23,
+              "stem": "What doesSophieAndresbusiness do in london？",
+              "stemCn": "索菲·安德烈在伦敦的生意是做什么的？",
+              "options": {
+                "A": "It rents bicycles to deliver food.",
+                "B": "It sells sought-after coffee beans.",
+                "C": "It delivers luxury hand-made food.",
+                "D": "It recycles waste food from the city."
+              },
+              "optionCn": {
+                "A": "它出租自行车来配送食物。",
+                "B": "它销售备受追捧的咖啡豆。",
+                "C": "它配送高端手工制作食品。",
+                "D": "它回收来自城市的废弃食品。"
+              },
+              "answer": "C",
+              "analysis": "司，可知索菲·安德烈在伦敦创办的公司是配送高端手工制作食品的，C选项与原文一致，故为正确答 案。文中提到索菲·安德烈最初是用自行车配送食品，而非出租自行车用于配送，A选项曲解文意。文中 提到每天包括备受追捧的咖啡豆在内的食品被丢弃，并未提及索非·安德烈是否销售咖啡豆，故排除B选 项。公司虽利用废弃食品制作产品，但核心是配送高端手工制作食品，回收城市废弃食品并非其主要业 务，故D选项错误。"
+            },
+            {
+              "num": 24,
+              "stem": "In what way does Sophie Andre’s business differ from many food waste projects?",
+              "stemCn": "",
+              "options": {
+                "A": "It pays special attention to the size and shape of its products.",
+                "B": "It tries to escape the constraints of the current food system.",
+                "C": "It cooperates closely with local producers.",
+                "D": "It aims to provide high-quality products."
+              },
+              "optionCn": {
+                "A": "它特别关注其产品的尺寸和形状。",
+                "B": "它试图摆脱当前食品体系的限制。",
+                "C": "它与当地生产商密切合作。",
+                "D": "它旨在提供高质量的产品。"
+              },
+              "answer": "D",
+              "analysis": "索菲·安德烈的生意与许多食物浪费处理项目有何不同？ 文章中提到，与近年来涌现出的许多食物浪费处理项目不同，安德烈的想法不只是重新分配废弃食品，而 是要提供高品质的产品。也就是说，安德烈的生意与其他食物浪费处理项目的不同之处在于她的生意旨 在提供高品质产品，D选项正确。文中提及伦敦本地食品生产商将部分因尺寸或形状不符合要求的食品废 弃，并未提及安德烈的公司特别关注产品尺寸和形状，故A选项错误。文中未提及安德烈的公司试图摆脱 当前食品体系的限制，故排除B选项。与当地生产商合作是获取废弃食品的方式，而并非是安德烈的公司 与其他食物浪费处理项目的区别所在，C选项错误。"
+            },
+            {
+              "num": 25,
+              "stem": "Whywillsuppliersalways have a certain amount of surplus?",
+              "stemCn": "为什么供应商总会有一定数量的盈余产品？",
+              "options": {
+                "A": "To ensure a regular supply.",
+                "B": "To maintain a unique menu.",
+                "C": "To make up for the waste products.",
+                "D": "To meet customers’ urgent demand. ===== PAGE 3 ====="
+              },
+              "optionCn": {
+                "A": "为了确保稳定的供应。",
+                "B": "为了维持独特的菜单。"
+              },
+              "answer": "A",
+              "analysis": "C为了弥补废弃产品 文章最后提到，或许与其他废弃食品不同，这些食品的供应很稳定，供应商总会有一定数量的盈余食 品，所以菜单也能保持稳定。由此可知，供应商总会有一定数量的盈余产品，使得公司的菜单能够保持 稳定，从而确保产品供应的稳定性，满足业务需求，A选项符合文意，故为答案。文章强调的是菜单保持 “regular（稳定的）”，而非“unique（独特的）”，且保持菜单稳定是确保稳定供应带来的结果，并非 供应商有盈余产品的原因，B选项错误。虽然生产过程中存在因尺寸或形状问题导致的浪费，但原文未提 及供应商储备盈余产品是为了弥补这些浪费，C选项属于过度推断。文中未提及客户存在紧急需求，也未 表明供应商的盈余产品与满足紧急需求相关，D选项属于无中生有。"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "A": "/audio/papers/cet4-2025_06_2-A.mp3",
+        "B": "/audio/papers/cet4-2025_06_2-B.mp3",
+        "C": "/audio/papers/cet4-2025_06_2-C.mp3"
+      }
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2025_06_2-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "Sir Alfred Hitch cock was an English movie director and producer. Famously ___26___ to as “The Master of Suspense”, Hitch cock is one of the most influential filmmakers in the history of ___27___. He was an extraordinary director who entertained his audience with ___28___ and gripping suspense movies. His fascination with crime beg an at an early age when he was ___29___ by his father who made him spend a few minutes inside a prison for his misconduct. Hence, his movies are ___30___ of the guilt and innocence of the wrongdoer and the victim. He had a gift for creating stories that consisted of deceit, robbery, murder, corruption, and other criminal ___31___ with incredible plot twists in the story line. The principal characters in his movies were often ordinary people ___32___ in un wan ted and unavoidable situations. He was ___33___ productive and his amazing body of work is con side red fascinating by the critics. Most of his movies have ___34___ the test of time and are con side red to be masterpieces. He is also remembered by other filmmakers, for he continues to inspire them to be passionate about their work. He is also ___35___ by people around the world for his entertaining and exciting stories.",
+          "wordBank": {
+            "A": "caught",
+            "B": "cinema",
+            "C": "engaging",
+            "D": "graphically",
+            "E": "highly",
+            "F": "incentive",
+            "G": "instincts",
+            "H": "offences",
+            "I": "punished",
+            "J": "referred",
+            "K": "stood",
+            "L": "symbolic",
+            "M": "tuned",
+            "N": "visually",
+            "O": "worshipped"
+          },
+          "analysisOverview": "",
+          "translationCn": "阿尔弗雷德·希区柯克爵士是一位英国电影导演兼制片人。被[26]誉为“悬疑大师”的希区柯克，是 [27]电影史上最具影响力的电影制作人之一。他是一位出色的导演，以[28]引人人胜、扣人心弦的悬疑电影 为观众带来观影享受。 他对犯罪题材的痴迷始于幼年，当时他因行为不端被父亲[29]惩罚，在监狱里关押了几分钟。因此， 他的电影总是充满加害者的罪孽与受害者的无辜这种[30象征意味。他天赋异禀，擅长创作充斥着欺诈、抢 劫、凶杀、腐败及其他刑事[31犯罪的故事，情节中那些惊人的反转令人拍案叫绝。其影片中的主角往往都 是[32]陷入身不由己之境的普通人。 他[33非常高产，其令人惊叹的作品体系被评论家视为瑰宝，极具吸引力。他的多数电影都[34]经受住 了时间的考验，被视为杰作。其他电影制作人也对他缅怀不已，因为他始终激励着后来者以热忱投身创作。他 还因其充满娱乐性与刺激性的故事，被世界各地的人们[35]崇拜。",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "语法判断空格位于句子的状语结构中，逻辑主语与主句主语一致，为被动关系。空格前面为副词 Famously，后面为toas…，空格处应填过去分词。 语义判断由Hitchcockis oneofthemostinfluential filmmakers可知，他享有盛誉，而下一句提到，他以扣人 心弦的悬疑电影为观众带来观影享受，由此可知，此处是说被誉为“悬疑大师”的希区柯克。（be)referred to as为固定搭配，意为“被称为”，(be）famouslyreferred to as意为“被誉为”，符合此处语境，故答 案为referred。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "语法判断空格位于句末，前面为inthehistoryof，故空格处应填名词。 语义判断从前文的movie director（电影导演）、filmmakers（电影制作人），以及后文的suspensemovies （悬疑电影）可推断，上下文与电影领域有关，此处应填cinema。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "语法判断空格前面为entertained his audience with，后面为andgrippingsuspensemovies，and连接并列成分， gripping为形容词，故空格处应填形容词，与gripping共同修饰suspensemovies。 语义判断空格所填词与gripping（扣人心弦的）共同描述电影的特点，逻辑上需保持情感色彩一致，形成语 义递进。engaging意为“引人入胜的”，符合语境，故为答案。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "语法判断空格前面为hewas，后面为动作执行者byhis father，空格处需填入动词的过去分词形式，构成完 整的被动语态。 语义判断句中提到他行为不端，父亲让他在监狱里待了几分钟，由此可知，父亲为了“惩罚”他才让他在 监狱里待了几分钟，punished符合语境，故为答案。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "L",
+              "analysis": "语法判断空格前面为系动词are，后面为介词短语ofthe guilt.，空格处应填形容词。 语义判断前一句提到导演童年时被惩罚的经历，hence（因此）引出结果，即童年经历影响了电影的主题， besymbolicof为固定搭配，意为“象征……”，用symbolic更能体现电影对现实的映射。故为答案。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "语法判断空格前面为形容词criminal（当然criminal也可以是名词，意为“罪犯”，但它是可数名词，且 在此处有other修饰，如果它是名词，应使用其复数形式，故排除其名词词性），后面为介词短语with incredibleplot...，故空格处应填名词。 语义判断andother表明空格所填名词应与前面列举的犯罪行为并列，criminal offences表示“刑事犯罪”， 能概括前面的具体罪行（deceit、robbery、murder、corruption），符合语境，故为答案。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "语法判断空格前面为ordinary people，后面为inunwantedand..，空格处应填过去分词，作后置定语，修饰 people。 语义判断ordinarypeople（普通人）与unwantedandunavoidable situations（身不由己之境）二者为人“陷 人”身不由己之境的关系。(be)caughtin意为“陷入”，符合语境，故答案为caught。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "语法判断空格所在句子主系表结构完整，前面为系动词was，后面为形容词productive，故空格处应填副 词，修饰后面的形容词。 语义判断由空格后的productive（高产的）以及hisamazingbodyofwork（其令人惊叹的作品体系）可知， 此处是说希区柯克十分高产，代人副词选项可知，highly“非常，极”符合此处语境，故为答案。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "语法判断空格所在句为现在完成时，前面为助动词have，后面为名词短语thetestoftimeand.，故空格处应 填过去分词，构成完成时态。 语义判断由下文与“have34the test oftime”构成并列关系的andare considered to be masterpiece（被视 为杰作）可知，此处是作者高度评价希区柯克的电影，杰作自然能“经受住”时间的考验，而standthetest oftime为固定短语，意为“经受时间的考验”，符合此处语境，故答案为stood。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "graphically（adv.以图表形式；生动地）",
+                "F": "incentive（n.激励，刺激）",
+                "G": "instincts（n.本能，直觉；天 性）",
+                "M": "tuned（v调整，调节）",
+                "N": "visually（adv.视觉上；直观地；外表上）"
+              },
+              "answer": "O",
+              "analysis": "语法判断空格前面为Heisalso，后面为动作执行者bypeople，空格处需填入动词的过去分词形式，构成完 整的被动语态。 语义判断前文提到“其他电影制作人也对他缅怀不已，因为他始终激励着后来者以热忧投身创作”，而空 格所在句承接上文，且使用了also一词，可知此处作者仍在正面评价希区柯克，突出其影响力。代入选项 可知，worshipped“崇拜；崇敬”符合此处语境，故为答案。 干扰项注释"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) Freshly juiced fruit has become a basic dietary item — especially for busy, health-conscious consumers who can save time\nB) But is juicing really as healthy as we think? Most foods containing fructose—a naturally occur ring sugar found in all fruits\nC) But this is not the case with fruit juice. Unlike whole fruit, fruit juice has most of the fibre removed. This is why the\nD) Juices containing vegetables can provide more nutrients and less sugar than juices made up of just fruit — but they still\nE) Aside from the link to type 2 diabetes, many studies agree that fruit juice is harmful if it contributes to an excess in calories.\nF) He found negative effects on blood sugar and insulin levels when food provided excess calories from sugars, including\nG) So while we know that fruit juice can cause diabetes if it’s part of a diet that has more calories overall, it's less clear how\nH) As it is easy to consume large amounts of fruit juice quite quickly, extra calories are taken in. And extra calories can\nI) Another reason for fruit juice’s recent popularity is the argument that it can help to remove poisonous or harmful substances\nJ) And juice isn’t a cure-all for getting your nutrients, either. “There are a lot of nutrients contained in the parts of the fruits,\nK) Plus, she adds, it’s not an ideal way to reach the advised ‘five a day’. “People try to get five servings of fruit and vegetables\nA) Add to our advantage in work and life. C) Help us to enjoy a fuller personal life.\nB) Enable us to look a lot more attractive. D) Provide extra energy for what we do.\nA) Clothes usually represent one’s social and economic status.\nB) Clothes largely determine one’s likability by people around.\nC) Different types of clothing markedly reflect different personalities.\nD) Different types of clothing convey different messages symbolically.\nA) By exerting an effect on our power of judgment.\nB) By impacting how we feel about ourselves.\nC) By affecting what we take as the basis for assessment.\nD) By influencing our interpretation of symbolic messages.\nA) They are necessary for formal business dealings.\nB) They may help people concentrate on their business.\nC) They are vital to keeping a dominant position in business transactions.\nD) They may enable people to have the right mentality for doing business.\nA) They still make their presence felt. C) They will not fade away from the public eye.\nB) They have given way to electronic music. D) They are no longer relevant to teenagers’ lives.\nA) It can be difficult for many classical music fans to appreciate.\nB) It can be seen as an indicator of refinement on classical music.\nC) It caters to society’s taste in music in a more subtle way than classical music.\nD) It contains elements similar to those in some masterpieces of classical music.\nA) To illustrate how to tell a story using music.\nB) To present the simplest definition of opera.\nC) To show the relevance of opera and classical music.\nD) To justify the necessity of using orchestras in opera.\nA) There are few types of music for movie producers to choose from.\nB) They are con side red to be the most expressive type of music.\nC) They are well received by movie fans from all over the world.\nD) They are essential for movies to become the world’s greatest hits.\nA) It could not have come into being without classical music and opera as its foundation.\nB) It cannot out compete classical music and opera in its impact on our current society.\nC) It will not enjoy as much popularity as classical music and opera among music fans.\nD) It might not be able to rival classical music and opera in importance for centuries to come.",
+          "analysisOverview": "本文讨论了果汁对健康的影响。鲜榨果汁因其方便和营养价值受到欢迎，但其对健康的影响存在争 议。文章指出，果汁由于去除了大部分纤维，使得果糖更快被吸收，可能导致血糖和胰岛素水平的升 高，增加患2型糖尿病的风险。研究表明，虽然果汁提供了一定的维生素和管养，但其高糖分、低纤维 的特性可能对健康有害，尤其是当过量摄入时。果汁并不能替代完整水果的营养价值，文章提倡人们 适量饮用果汁。 30四级2025.6第二套",
+          "translationCn": "榨汁真的对你有益吗？ A)鲜榨果汁已经成为一种基本的饮食项目——对于那些忙碌且注重健康的消费者来说尤其如此，他们既能节 省制作（甚至咀嚼）食物的时间，还不会错过营养摄入。果汁还与一些助力减肥和保持健康的说法相关 联。[39]当然，所有这一切使其利润十分可观。2016年，全球果蔬汁市场价值为1540亿美元，这一数字预 计还将增长。 汁中的糖——似乎不会产生有害的影响，只要它们没有导致每日热量过剩。这是因为整个水果中的纤维是 完整的，糖分被包含在水果的细胞中。[44]我们的消化系统需要一些时间来分解这些细胞，然后果糖才会 进入血液中。 C）但是如果是果汁的话，情况就不是这样的了。[36与整个水果不同，果汁中的大部分纤维已被去除。这就 是为什么果汁中的果糖属于“游离糖”—这类糖还包括蜂蜜和食品添加糖。世界卫生组织建议，成年人 每天摄人的添加糖不应超过30克，相当于150毫升果汁。问题是，纤维被去除后，果汁中的果糖会被更快 地吸收。血糖突然上升会导致胰岛素的释放，以将其恢复到稳定水平。随着时间的推移，这种机制可能会 损耗，增加患2型糖尿病的风险。2013年，研究人员分析了1986年至2009年间收集的10万人的健康数据， 发现果汁摄入与2型糖尿病风险的增加有关。另一项研究在18年内追踪了超过7万名护士的饮食和糖尿病状 况后，发现果汁与2型糖尿病之间有关联。研究人员解释称，部分原因可能是整个水果中的其他成分缺失 了，比如纤维。 D）相比纯果汁，果蔬汁富含更多的营养，且含糖量更低——但它们仍然缺乏宝贵的纤维。[41高纤维饮食与 降低患心脏病、中风、高血压和糖尿病的风险存在关联，建议成年人每天摄人30克。 E）[38除了与2型糖尿病的关联外，许多研究一致认为，如果果汁导致热量过剩，它就是有害的。在对155项 研究的分析中，多伦多大学营养科学系的副教授约翰·西文皮珀旨在弄清楚含糖软饮料与健康（包括糖尿 病和心脏病风险）之间的关联，是否适用于我们通常将其作为健康饮食的一部分而摄人的那种食物和饮料。 他将有关果糖类糖分摄入影响的研究与不含此类糖分或此类糖分含量较低的对照饮食的研究进行了对比。他 的目标是什么呢？是为了将摄入过多热量所带来的影响与含有不同糖分的食物所带来的影响区分开来。 F）他发现，当食物（包括果汁）中提供的热量过多来自糖分时，会对血糖和胰岛素水平产生负面影响。 [42然面，如果总热量摄人不超标，食用整个水果，甚至是果汁，还是有一些益处的。西文皮珀得出结 论：每天推荐的150毫升果汁（这是平均一份的量）是合理的。该论文得出结论：含有果糖的食物在不导 致热量摄入过度的情况下，对长期血糖控制可能有一些小的益处。但是当它们确实导致热量摄入过多时， 就有升高血糖和胰岛素水平的风险。 G）因此，尽管我们知道，如果果汁是总体热量超标的饮食的一部分，它会导致糖尿病，但对于体重正常的人 来说，果汁对其长期健康的影响还不太明确。但研究显示，在我们喝果汁的时间段内，我们摄入的热量更 有可能会超过每日推荐的摄人量（女性约为2000卡路里，男性约为2500卡路里）[45大量的研究已经 表明，喝果汁不会减少全天其他食物的摄入量。 H）由于很容易快速喝下大量果汁，人们会摄人额外的热量。而额外的热量可能导致体重增加。[40南加州大 学药物科学教授罗杰·克莱门斯表示，一种办法是，我们可以通过确保选择成熟的水果来榨汁，以保留尽 可能多的营养价值，从而改善果汁对健康的影响 I）[37]果汁近来受欢迎的另一个原因是它能帮助清除体内有毒或有害物质的说法。然而，“果汁饮食有助于 清除体内有毒或有害物质的整个概念完全是错误的，”克莱门斯说。“我们每天都会摄人可能有毒的化合 物，而我们的身体在清除体内任何有害物质方面做得非常好。 榨汁时会被过滤掉，”医学教授希瑟·费里斯说。“你最终得到的是含有一些维生素的糖水。 K）而且，她补充说，这不是实现建议的“每日五份”的理想方法。“人们试图每天摄入五份水果和蔬菜，却 没有意识到这不仅仅是为了获取维生素，”她说。“这也是为了减少我们饮食中的碳水化合物、蛋白质 和脂肪的摄人量，并增加纤维的摄人。”所以，尽管喝果汁比完全不吃水果要好，但喝果汁也是需要限 量的。当我们每天摄入超过150毫升的游离糖，或者摄入的热量超过推荐的热量摄入时，它尤其会带来风 险。果汁能为我们提供维生素，但它绝非一种立竿见影的速效方案。",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Fruit juice is different from whole fruit in that it contains much less fibre.",
+              "stemCn": "题干译文果汁与整个水果不同的地方在于，它含有的纤维少得多。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息Fruit juice、different from whole fruit和containsmuch less fibre定位到C段。C段 第二句提到，与整个水果不同，果汁中的大部分纤维已被去除。题干与该句内容同义，其中Fruitjuice属于 原词重现，differentfrom whole fruit对应原文中的Unlike whole fruit，containsmuchless fibre与原文中的has mostofthe fibre removed同义，故答案为C。"
+            },
+            {
+              "num": 37,
+              "stem": "Some people believe a juice diet helps to rid our body of harmful or poisonous substances.",
+              "stemCn": "题干译文有些人认为果汁饮食有助于清除我们体内的有毒或有害物质。",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "答案1。由题干关键信息ajuice diet、ridour bodyofharmful or poisonous substances定位到I段。I段第一 句提到，果汁近来受欢迎的另一个原因是它能帮助清除体内有毒或有害物质的说法。题干与该句同义， 其中Somepeople believe对应原文中的theargument，ajuice diet属于第二句中的原词重现，helps toridour bodyof harmful or poisonous substances对应原文中的help to remove poisonous or harmfulsubstances fromthe body，故答案为I"
+            },
+            {
+              "num": 38,
+              "stem": "A lot of research comes to the same conclusion that fruit juice does harm to the human body when it leads to surplus",
+              "stemCn": "题干译文许多研究得出相同的结论，即果汁在导致热量过剩时确实会对人体有害。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息Alotofresearch、the sameconclusion、does harm to thehuman body和surplus calories定位到E段。E段第一句提到，除了与2型糖尿病的关联外，许多研究一致认为，如果果汁导致热 量过剩，它就是有害的。题干与这句话同义，其中Alotofresearch comes to the same conclusion与原文中的 many studies agree that同义，fruitjuice does harm to the human body对应原文中的fruit juice is harmful，when itleads to surpluscalories对应原文中的ifitcontributes to an excess incalories，故答案为E。"
+            },
+            {
+              "num": 39,
+              "stem": "The claimed health benefits of fruit and vegetable juices have rendered the industry very profitable.",
+              "stemCn": "题干译文人们所声称的果蔬汁的健康益处使得该行业利润丰厚。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案A。由题干关键信息claimed healthbenefits offruit and vegetable juices和the industry veryprofitable 定位到A段。A段最后两句提到，当然，所有这一切使其利润十分可观，2016年，全球果蔬汁市场价值为 1540亿美元，这一数字预计还将增长。而“所有这一切”指的就是前面几句提到的：鲜榨果汁已经成为一 种基本的饮食项目——特别是对于那些忙碌且注重健康的消费者来说；果汁还与一些减肥和保持健康的 说法相关联。故题干是对该段内容的概括总结，其中Theclaimedhealthbenefits是对原文Fruitjuicealsohas been linkedto claims thatitcan helpyou bothlose weight andstayhealthy的概括总结，fruitand vegetablejuices 属于该段最后一句中的原词重现，haverendered the industry veryprofitable对应原文中的hasmade ithighly profitable，故答案为Aa"
+            },
+            {
+              "num": 40,
+              "stem": "To increase the benefits of fruit juice to our health, we’d better choose ripe fruit to make juice.",
+              "stemCn": "题干译文为了增加果汁对我们健康的益处，我们最好选用成熟的水果来榨汁。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息increase the benefits、fruit juice、ourhealth和chooseripefruit to make juice定 位到H段。H段最后一句提到，南加州大学药物科学教授罗杰·克莱门斯表示，一种办法是，我们可以通 过确保选择成熟的水果来榨汁，以保留尽可能多的营养价值，从而改善果汁对健康的影响。题干是对这 句话的概括，其中To increase the benefits offruit juice to our health对应原文中的One way we can improvethe effects offruit juiceonourhealth，wedbetter choose ripe fruittomake juice与原文中的makingsure we select ripe fruit同义，故答案为H。"
+            },
+            {
+              "num": 41,
+              "stem": "Diets containing large amounts of fibre reduce the risk of heart disease, diabetes and other health hazards.",
+              "stemCn": "题干译文含有大量纤维的饮食可以降低患心脏病，糖尿病和其他健康危害的风险。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案D。由题干关键信息Diets containing large amounts of fibre、reduce therisk、heart disease、diabetes 和otherhealthhazards定位到D段。D段第二句提到，高纤维饮食与降低患心脏病、中风、高血压和糖尿病 的风险存在关联。题干与该句属于同义转述，其中Dietscontaining largeamountsoffibre对应原文中的Diets highin fibre，reduce therisk ofheartdisease,diabetes andother health hazards是对原文中的have been linkedto a lowerrisk ofdeveloping heartdisease，stroke，highbloodpressure and diabetes的概括，故答案为D。"
+            },
+            {
+              "num": 42,
+              "stem": "According to a research paper, dr in king fruit juice is beneficial on condition that it is consumed in reasonable amounts.",
+              "stemCn": "题干译文根据一篇研究论文，只要果汁的摄入量合理，则喝果汁就是有益的。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案F。由题干关键信息aresearch paper、drinking fruit juice、beneficial和consumed in reasonable amounts定位到F段。F段第二至四句提到，如果总热量摄入不超标，食用整个水果，甚至是果汁，还是有 一些益处的。西文皮珀得出结论：每天推荐的150毫升果汁是合理的。该论文得出结论：含有果糖的食物 在不导致热量摄入过度的情况下，对长期血糖控制可能有一些小的益处。题干是对这几句内容的概括，其 中According toaresearchpaper对应原文中的Thepaper concluded，fruitjuice属于原词重现，beneficial对应 原文中的havesome small benefits；consumed in reasonable amounts是对原文中when they don't leadtoover- consumption ofcalories的概括总结，故答案为F。"
+            },
+            {
+              "num": 43,
+              "stem": "One expert claims that juicing wastes a lot of nutrients contained in fruits.",
+              "stemCn": "题干译文一位专家称，榨汁浪费了水果中含有的大量营养成分。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息One expert claims、juicing、wastes a lotofnutrients和contained in fruits定位到J 段。J段第二句提到，“水果的某些部分，如苹果皮中，含有很多营养物质，而这些部分在榨汁时会被过 滤掉，”医学教授希瑟·费里斯说。题干与这句话同义，其中Oneexpertclaims对应原文中的saysHeather Ferris，aprofessorofmedicine，juicing与原文中的whenyou juicethem（fruits)同义，wastes对应原文中的are excluded，alotofnutrientscontainedinfruits对应原文中的alotofnutrientscontainedinthepartsofthefruits， 故答案为J。 题干译文水果的细胞需要一些时间才能被消化，果糖也需要一些时间才能被吸收"
+            },
+            {
+              "num": 44,
+              "stem": "It takes some time for fruit’s cells to be digested and for fructose to be absorbed.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息takes some time、fruit’scells、be digested、fructose和beabsorbed定位到B段。 B段最后一句提到，我们的消化系统需要一些时间来分解这些细胞，然后果糖才会进入血液中。“这些细 胞”指的就是前一句中提到的“水果的细胞”，故题干与该句同义，其中Ittakes some time对应原文中的 Ittakes.a while，fruit’s cells属于倒数第二句中的原词重现，to be digested对应原文中的our digestive system.tobreak.down，forfructosetobeabsorbed与原文中的forfructosetoenterthebloodstream义，故 答案为B。 题干译文许多研究已经表明，喝果汁不会减少我们每日对其他食物的摄入量。"
+            },
+            {
+              "num": 45,
+              "stem": "A lot of research has demonstrated that dr in king fruit juice does not reduce our daily consumption of other foods.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息Alotofresearch、drinkingfruit juice和reduce our dailyconsumption ofother foods定位到G段。G段最后一句提到，大量的研究已经表明，喝果汁不会减少全天其他食物的摄入量。 题干与该句属于同义转述，其中Alotofresearch has demonstrated that对应原文中的Numerous studieshave shown that，drinkingfruitjuicedoesnotreduceourdailyconsumptionofotherfoods与原文中的drinkingfrui juice doesn'tmake usconsume any lessofotherfoods throughouttheday同义，故答案为G。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "We all take a little extra effort to look nice for special occasions. But most of us have conflicting feelings about dressing up and feel guilty about taking the time to focus on clothes. Science now suggests the right dress may give ourselves the extra edge in our professional and personal lives. We hear sayings like “dress for the job you want, not the job you have”. Most people don’t really believe in them, but research into the impact of clothes on behavior now suggests that there may actually be a grain of truth in these sayings. Science says that the clothes we wear affect our behavior, our mood and even the way we interact with others because of the symbolic meaning that we assign to different types of clothing. We consider some clothes to be powerful some to be fun, and so on. We even evaluate people whom we have just met based on their clothes. We also evaluate ourselves based on what we are we a ring because of the way they make us feel. This means that the experience of we a ring something affects our attitudes and our choice of behavior. There’s a reason tailored jackets are associated with being “dressed for success”. It seems that we a ring formal office wear puts us in the right frame of mind to conduct business. We a ring power clothing makes us feel more confident and even increases hormones needed for displaying dominance. This in turn helps us become better negotiators and abstract thinkers. While a good suit works wonders for our performance in the board room, we a ring formal wear isn’t a great idea when we want to socialize. Studies have found that people tend to be less open and less able to relax when they wear formal clothes. On the other hand, a casual dress helps us become more friendly and creative. These findings support the idea of we a ring business casuals on a Friday, since colleagues are most likely to take out time to socialize on the last work day of the week. I mean, who wants to hang out with people in their suits?",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What does science suggest the right dress may do?",
+              "stemCn": "科学表明合适的着装可以起到什么作用？",
+              "options": {
+                "A": "Add to our advantage in work and life.",
+                "B": "Enable us to look a lot more attractive.",
+                "C": "Help us to enjoy a fuller personal life.",
+                "D": "Provide extra energy for what we do."
+              },
+              "optionCn": {
+                "A": "增加我们在工作和生活中的优势。"
+              },
+              "answer": "A",
+              "analysis": "tailoredadj.（衣服）定制的， 合身的 be associated with和.联系 在一起；与有关 hormonen.激素，荷尔蒙 dominancen.支配地位，优势 ·negotiatorn.谈判者 abstract adj.抽象的 boardroomn.会议室 socializev.社交 casualadj.休闲的，便装的 n.[pl.]便服，便装 ·hang out闲逛 第一段最后一句指出，现在的科学表明，合适的着装可能会给我们的职业和个人生活提供额外的优势，故 选项A正确。选项中的Addtoouradvantage和原文中的giveourselvestheextra edge属于同义替换，edge作名 词时，除了“边缘”“刀口”的含义，还有“优势”的含义。原文并未提及吸引力与能量，故选项B和选 项D可以排除；原文仅提及着装给个人生活带来额外优势，未具体说明“更充实”，故选项C也排除。"
+            },
+            {
+              "num": 47,
+              "stem": "Why does science say the clothes one wears may affect their interaction with others?",
+              "stemCn": "为什么科学表明一个人的着装可能会影响其与他人的交往？",
+              "options": {
+                "A": "Clothes usually represent one’s social and economic status.",
+                "B": "Clothes largely determine one’s likability by people around.",
+                "C": "Different types of clothing markedly reflect different personalities.",
+                "D": "Different types of clothing convey different messages symbolically."
+              },
+              "optionCn": {
+                "A": "着装通常代表一个人的社会和经济地位。",
+                "B": "着装在很大程度上决定了一个人被周围的人喜爱的程度。",
+                "C": "不同类型的着装明显反映出不同的个性。",
+                "D": "不同类型的着装传达不同的象征性信息。"
+              },
+              "answer": "D",
+              "analysis": "定根据题干关键词science say和affecttheir interactionwith otherss可将答案定位到原文第二段第三句。 位 第二段第三句话指出，科学表明，我们的着装会影响我们的行为、情绪，甚至与他人交往的方式，因为 我们赋予了不同类型的服装象征性的意义，这说明服装的象征意义影响穿衣者与他人的交往，故选项D正 确。选项中的symbolically对应原文中的symbolic。其他三个选项在原文中均未提及，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "How do the clothes we wear sway our evaluation of ourselves?",
+              "stemCn": "我们的着装如何影响我们对自己的评价？",
+              "options": {
+                "A": "By exerting an effect on our power of judgment.",
+                "B": "By impacting how we feel about ourselves.",
+                "C": "By affecting what we take as the basis for assessment.",
+                "D": "By influencing our interpretation of symbolic messages."
+              },
+              "optionCn": {
+                "C": "通过影响我们评估的依据。",
+                "A": "通过影响我们的判断力。",
+                "B": "通过影响我们对自己的感觉。",
+                "D": "通过影响我们对象征性信息的解读。"
+              },
+              "answer": "B",
+              "analysis": "第三段第三句指出，我们也会根据自己的穿着来评价自己，因为它们会影响我们的感觉，故选项B正确。 选项中的impacting how we feel对应原文中的the way they make us feel。其他三个选项在原文中并未提及， 均排除。"
+            },
+            {
+              "num": 49,
+              "stem": "Why does the author say tailored jackets are associated with being “dressed for success”?",
+              "stemCn": "为什么作者说定制夹克与“为成功着装”有关？",
+              "options": {
+                "A": "They are necessary for formal business dealings.",
+                "B": "They may help people concentrate on their business.",
+                "C": "They are vital to keeping a dominant position in business transactions.",
+                "D": "They may enable people to have the right mentality for doing business. ===== PAGE 6 ====="
+              },
+              "optionCn": {
+                "C": "它们对在商业交易中保持优势地位至关重要。",
+                "A": "它们是正式商业交易的必需品。",
+                "D": "它们可以让人们拥有开展业务的正确心态。",
+                "B": "它们可以帮助人们专注于自己的业务。"
+              },
+              "answer": "D",
+              "analysis": "定位根据题干中的tailoredjackets和dressed for success’可将答案定位到第四段第一、二句。 第四段第一句指出，定制夹克与“为成功着装”联系在一起是有原因的。然后在第二句表明原因，穿着 X 正式的职业装似乎能让我们以正确心态开展业务，故选项D正确。选项中的therightmentalityfordoing business和原文中的therightframeofmindtoconductbusiness属于同义替换。原文强调的是正确心态（如自 信），而非专注度，故选项B可排除，选项A和选项C在原文中并未提及，也可排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What are people advised to do when they want to socialize?",
+              "stemCn": "建议人们在想要社交时怎么做？",
+              "options": {
+                "A": "Focus on clothing.",
+                "B": "Wear a good suit.",
+                "C": "Dress casually.",
+                "D": "Look unusual."
+              },
+              "optionCn": {
+                "A": "专注于服装。",
+                "C": "穿着休闲。",
+                "B": "穿一套好西装。",
+                "D": "看起来与众不同。"
+              },
+              "answer": "C",
+              "analysis": "定→根据题干关键词socialize可将答案定位到原文第五段和第六段。 位 第五段第一句指出，但当我们想要社交时，穿正装并不是一个好主意，故选项B可排除；第六段第一句指 出，休闲装能让我们变得更友好、更具创造力，下一句提到了周五穿便装进行社交的内容，由此可知，选 项C符合原文：选项A和选项D在原文中并未提及，均可排除，故选项C正确。 Passage Two ·概览· 本文节选自greatestperformance.org网站上一篇题为“AreOperaAndClassicalMusicStillImportant Today？”的文章。文章指出，尽管古典音乐与歌剧淡出公众视野，但流行音乐对古典音乐的借鉴、摇滚 歌剧的发明及古典音乐在电影中的应用，均证明了其现在仍然充满活力。文章强调古典音乐是现代音乐 的根基，未来仍将保持重要性。 ·全文翻译· 随着流行音乐、爵士乐和电子音乐的兴起，歌剧和古典音乐都开 始淡出公众的视野。有些人开始怀疑，歌剧和古典音乐是否仍与现代 音乐世界息息相关。当然，你通常不会看到今天的青少年很快就去聆 听巴赫的作品，[51但有一些重大的迹象表明，歌剧和古典音乐至今 仍然充满活力。 [52]古典音乐在当今社会中仍具重要性的最主要标志是，目前制 作的许多流行音乐都使用了与古典音乐中一些最佳作品相似的节拍、 和声和旋律。即便如此，不学习音乐理论的人可能很难将此视为一个 标志，因为它很微妙，只是体现了交响乐团对社会音乐品味的影响。 [53关于歌剧和古典音乐重要性的一个更好的例子是摇滚歌剧的 发明。从最简单的定义看，歌剧就是以音乐为形式讲述故事。用音乐 讲故事的艺术丝毫没有衰退。事实上，有时歌剧本身的主要部分会使 用真正的管弦乐队。一些世界上最伟大的热门歌曲就出自摇滚歌剧。 [54]古典音乐爱好者也可以告诉你，几乎没有比古典音乐更具表 现力的音乐类型了。因此，古典音乐作品仍被用作现代电影的背景音 乐也就不足为奇了。交响乐团的作品也是专门为在大型电影中出现而 创作的。这些作品往往深受主流音乐爱好者的欢迎。 [55]古典音乐和歌剧正是现代音乐的基础。考虑到它们对当今社 会产生的巨大影响，毫无疑问，我们可以期待它们在未来几个世纪中 继续保持重要地位。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2025_06_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "With the rise of pop music, jazz, and electronic music, both opera and classical music star ted to fade away from the public eye. Some people are beginning to wonder whether opera and classical music are still relevant to the modern world of music. Granted, you will not typically see today's teenagers lending their ears to Bach anytime soon, but there are some major indicators that both opera and classical music are now still quite alive. The most major indicator of classical music’s importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies (旋律) as those that were used in some of classical music’s best works. Even so, it can be difficult for those who do not study music theory to see this as an indicator, since it is subtle and just shows the impact symphonic (交响乐的 ) orchestras have had on society’s taste in music. A better example for the relevance of opera and classical music can be seen in the invention of the rock opera. Opera, in its simplest definition, is telling a story using music as its form. The art of telling a story using music has not faded in the least bit. In fact, sometimes actual orchestras are used for major parts of the opera itself. Some of the world’s greatest hits have been parts of rock operas. Fans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. Symphonic orchestra compositions have also been created solely for the purpose of being included in major motion pictures. These are often very well received amongst mainstream music fans. Classical music and opera are the very foundation of what our modern music is based upon. Considering the huge impact they have had on our current society, it is without doubt that we can expect them to continue to remain important for centuries to come.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What does the author think of classical music and opera in today’s world?",
+              "stemCn": "作者如何看待当今世界中的古典音乐和歌剧？",
+              "options": {
+                "A": "They still make their presence felt.",
+                "B": "They have given way to electronic music.",
+                "C": "They will not fade away from the public eye.",
+                "D": "They are no longer relevant to teenagers’ lives."
+              },
+              "optionCn": {
+                "C": "它们不会淡出公众视野。",
+                "A": "它们仍然有存在感。",
+                "D": "它们不再与青少年的生活息息相关。",
+                "B": "它们已经让位于电子音乐。"
+              },
+              "answer": "A",
+              "analysis": "重难点单词及短语 jazzn.爵士乐 fade away逐渐消失 grantedadv.（表示肯定属实，然后 再作另一番表述）不错，的确 indicatorn.标志；迹象 aliveadj.有活力的；活着的 harmonyn.和声；和谐 ·subtleadj.不易察觉的，微妙的 orchestran.管弦乐队 ·relevancen.重要性；相关性 invention n.发明 the leastbit丝毫，一点点 ·hitn.风行一时的流行歌曲；很受欢 迎的人（或事物） compositionn.作品；构成 solely adv唯一；仅仅 ·motion picture电影 mainstream adj.主流的n.主流 foundation n.基础 第一段第一句指出，随着流行音乐、爵士乐和电子音乐的兴起，歌剧和古典音乐都开始淡出公众的视野， 选项C与原文表述不符，故排除；本段最后一句指出，你通常不会看到今天的青少年很快就去聆听巴赫的 作品，但有一些重大的迹象表明，歌剧和古典音乐至今仍然充满活力，所以选项A符合原文，且选项中的 maketheirpresence felt对应原文中的alive。选项B与原文表述不符，可排除。原文并没有否定歌剧和古典 音乐与青少年生活的相关性，故选项D也可排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What do we learn about much of the popular music currently produced?",
+              "stemCn": "关于当下制作的许多流行音乐，我们可以了解到什么？",
+              "options": {
+                "A": "It can be difficult for many classical music fans to appreciate.",
+                "B": "It can be seen as an indicator of refinement on classical music.",
+                "C": "It caters to society’s taste in music in a more subtle way than classical music.",
+                "D": "It contains elements similar to those in some masterpieces of classical music."
+              },
+              "optionCn": {
+                "A": "许多古典音乐爱好者可能很难欣赏。",
+                "B": "它可以被看作古典音乐改良的一个标志。",
+                "C": "与古典音乐相比，它以更微妙的方式迎合了社会的音乐品味。",
+                "D": "它包含了与一些古典音乐杰作相似的元素。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干关键词thepopularmusic currently produced可将答案定位到第二段第一句。 第二段第一句指出，古典音乐在当今社会中仍具重要性的最主要标志是，目前制作的许多流行音乐都使用 了与古典音乐中一些最佳作品相似的节拍、和声和旋律，即流行音乐包含了与一些古典音乐杰作相似的元 素，并非说流行音乐是古典音乐改良的标志，故选项D正确，同时排除选项B。选项D中的elements对应原文 中的beats，harmonies，andmelodies，similar属于原词重现，masterpieces和原文中的bestworks属于同义替换。 本段第二句说的是，不学习音乐理论的人可能很难将此视为一个标志，因为它很微妙，只是体现了交响乐团 对社会音乐品味的影响，选项C是利用这一信息设置的干扰项，故排除。选项A在文中未提及，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "Why does the author mention the invention of the rock opera?",
+              "stemCn": "作者为什么提到摇滚歌剧的发明？",
+              "options": {
+                "A": "To illustrate how to tell a story using music.",
+                "B": "To present the simplest definition of opera.",
+                "C": "To show the relevance of opera and classical music.",
+                "D": "To justify the necessity of using orchestras in opera."
+              },
+              "optionCn": {
+                "A": "为了说明如何用音乐讲故事。",
+                "C": "为了说明歌剧与古典音乐的重要性。",
+                "B": "为了展现歌剧最简单的定义。",
+                "D": "为了证明在歌剧中使用管弦乐队的必要性。"
+              },
+              "answer": "C",
+              "analysis": "他三个选项均不是作者提到摇滚歌剧的发明的目的，故排除。"
+            },
+            {
+              "num": 54,
+              "stem": "Why are classical music pieces still used as background music in modern movies?",
+              "stemCn": "为什么古典音乐仍被用作现代电影的背景音乐？",
+              "options": {
+                "A": "There are few types of music for movie producers to choose from.",
+                "B": "They are con side red to be the most expressive type of music.",
+                "C": "They are well received by movie fans from all over the world.",
+                "D": "They are essential for movies to become the world’s greatest hits."
+              },
+              "optionCn": {
+                "A": "电影制作人可选择的音乐类型很少。 C它们深受世界各地电影爱好者的欢迎。",
+                "B": "它们被认为是最具表现力的音乐类型。",
+                "D": "它们是电影成为全球热门影片的关键。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干关键词backgroundmusic inmodernmovies可将答案定位到第四段第一、二句。 第四段前两句指出，古典音乐爱好者也可以告诉你，几乎没有比古典音乐更具表现力的音乐类型了，因 此，古典音乐作品仍被用作现代电影的背景音乐也就不足为奇了，B项符合题意，故为答案，且选项中的 themost expressive type是对原文中的fewtypes..more expressive的同义转述。原文说的是出现在电影中的 音乐作品往往深受主流音乐爱好者的欢迎，不是深受世界电影爱好者的欢迎，故排除C；A、D两项文中未 提及，可排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What do we learn about our modern music?",
+              "stemCn": "关于现代音乐，我们可以了解到什么？",
+              "options": {
+                "A": "It could not have come into being without classical music and opera as its foundation.",
+                "B": "It cannot out compete classical music and opera in its impact on our current society.",
+                "C": "It will not enjoy as much popularity as classical music and opera among music fans.",
+                "D": "It might not be able to rival classical music and opera in importance for centuries to come. ===== PAGE 7 ====="
+              },
+              "optionCn": {
+                "A": "没有古典音乐和歌剧作为基础，它无法形成。",
+                "B": "在对当今社会的影响方面，它无法超越古典音乐和歌剧。",
+                "C": "它在音乐爱好者中的受欢迎程度不如古典音乐和歌剧。",
+                "D": "在未来几个世纪里，它在重要性方面可能无法与古典音乐和歌剧相匹敌。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干关键词ourmodernmusic可将答案定位到最后一段第一句。 最后一段首句指出，古典音乐和歌剧正是现代音乐的基础，故选项A正确。原文强调的是古典音乐和歌剧 会在未来几个世纪中继续保持重要地位，并未将其与现代音乐的重要性作比较，故排除D；B、C两项文中 未提及，可排除。 PartIV Translation ·难词译注· 大力vigorously 丰富的abundant 令人畏惧的intimidating 冰雪资源iceandsnowresources 极具地方特色的highlydistinctive 四面八方的fromall directions 利用leverage；takeadvantageof 民俗文化folkculture 旅游胜地tourist destination ·参考译文· Inrecent years,NortheastChina has been vigorously developing its ice and snow resources.For instance,Harbinhas created thehighlydistinctive\"Ice and SnowWorld\"by leveraging its abundanticeandsnowresourcesallowingvisitorsto appreciate the beautyofice and snow whileexperiencing theregions unique folkculture.What was once an intimidating frozen landscape isnowattractingtouristsfromalldirections,becoming a highlypopulartourist destination.Theiceand snow tourism industry is makingan increasingly significantcontribution to local economic development. ·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2025_06_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "近年来 ，中国东北地区正在大力开发冰雪资源。例如 ，哈尔滨利用丰富的冰雪资源打造了极具地方 特色的 “冰雪大 世界”，让游客在欣赏冰雪之美的同时也能体验当地独特的民俗文化。 如今 ，曾令人畏 惧的冰天雪地正吸引着四面八 方的游客 ，成为深受欢迎的旅游胜地。冰雪旅游业正为当地的经济发展做 出越来越大的贡献。 ===== PAGE 8 =====",
+          "terms": [
+            "大力vigorously 丰富的abundant 令人畏惧的intimidating",
+            "冰雪资源iceandsnowresources 极具地方特色的highlydistinctive 四面八方的fromall directions",
+            "利用leverage；takeadvantageof 民俗文化folkculture 旅游胜地tourist destination"
+          ],
+          "reference": "In recent years, Northeast china has been vigorously developing its ice and snow resources. For instance, Harbinhas created the highly distinctive\"Ice and Snow world\"by leveraging its abundanticeandsnowresourcesallowingvisitorsto appreciate the beauty of ice and snow whileexperiencing theregions unique folk culture. What was once an intimidating frozen landscape isnowattractingtouristsfromalldirections, becoming a highly popular tourist destination. The ice and snow tourism industry is makingan increasingly significantcontribution to local economic development.",
+          "notes": "1.第一句：“近年来”翻译为Inrecent years；“中国东北地区”翻译为NortheastChina；“正在大力开发”翻译 为hasbeen vigorously developing。 2.第二句：本句较长，先进行拆分，主体句是“哈尔滨利用丰富的冰雪资源打造了极具地方特色的冰雪 大世界’”，翻译为Harbin has created the highly distinctive“Ice andSnowWorld”by leveraging its abundant iceandsnowresources；“让游客在欣赏冰雪之美的同时也能体验当地独特的民俗文化”是补充说明性内 容，表示动作，且逻辑主语即整个句子的主语“哈尔滨”，故翻译为现在分词短语，充当伴随状语，即 allowingvisitorstoappreciatethebeautyoficeandsnowwhileexperiencingtheregion’suniquefolkculture，注意 “在…的同时”强调“在………的过程中同时进行另外一项活动”，需使用while连接；句首的“例如”翻 译为Forexample或For instance。 3.第三句：主体句是“曾令人畏惧的冰天雪地正吸引着四面八方的游客”，其中“曾令人畏惧的冰天雪 地”可翻译为Theonce-feared frozenwilderness、The formerly daunting ice-and-snowlandscape或What was once an intimidating frozen landscape，“正吸引着四面八方的游客”翻译为isnow attracting tourists fromall directions；“成为深受欢迎的旅游胜地”表示补充说明，是伴随情况，翻译为现在分词短语becominga highlypopular tourist destination，“旅游胜地”还可翻译为tourist atraction。 4.第四句：“冰雪旅游业”翻译为Theice andsnowtourism industry；谓语“正为当地的经济发展做出越来越大 的贡献”翻译为ismaking an increasingly significantcontributionto local economic development。",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

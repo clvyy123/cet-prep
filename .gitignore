@@ -1,0 +1,26 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+index-CPa84EmD.js
+*.log
+
+# 打包输出
+release/
+release-new/
+packaging/
+# 注意：build/ 不忽略 —— electron-builder 需要其中的 icon.png / icon.ico
+
+# electron-builder 缓存
+.electron-cache/
+.electron-builder-cache/
+
+# 真题源文件与下载数据
+scripts/.download/
+
+# IDE / 系统
+.reasonix/
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,433 @@
+{
+  "id": "cet6-2023_12_1",
+  "level": 6,
+  "year": 2023,
+  "month": 12,
+  "setNo": "第1套",
+  "title": "2023年12月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_12_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:For this part,youareallowed30minutesto writeanessaythatbegins withthesentence\"As isknowntoall,gaining a soundknowledgeof thebasics isofvital importance forstudents to master an academic subject.”You can make comments, cite examples or useyour personal experiences to develop youressay.You should write at least150 wordsbut no more than 200 words (not including the sentence given).",
+          "review": "第一套 题目要求考生写一篇以“人们普遍认为，获得扎实的基础知识对学生掌握一门学科至关重要”开头的作 文，考生可以通过发表评论、举例子或描述个人经历展开作文。根据题目提示，作文可以采取以下布局：开头 段表明个人立场，即完全同意这一观点；中间段列出具体论据；结尾段总结全文。考生写作时可以使用与“说 明重要性”“阐述原因”相关的写作句型。",
+          "sample": "As is known to all, gaining a soundknowledgeofthebasics is of vital importance for students to master an academic subject. I fully agree with the above opinion.I have two arguments to support it.1 First of all, learning thebasics helps studentsbeprepared to master an academic subject. As everyone knows, learning is a step-by-step process. Students should start with the basic knowledge of an academic subject before they are able to reach a higher level. Moreover, the knowledge ofthebasics contains the universal law of a subject, which can be applied to differentbranchesof the academic subject. Thus gaining a sound knowledge of the basics is necessary formastering the knowledge of various branchesof the academic subject.2 In conclusion, gaining a sound knowledge of the basics is extremely important for students to master an academic subject. It can not only help students be prepared for the future study but also help them master the knowledge of different branchesofthe academic subject.3",
+          "sampleNote": "1表明个人立场，即完 全同意“获得扎实的 基础知识对学生掌握 一门学科至关重要” 这一观点。 2分别从“为掌握一门 学科做好准备”和 “基础知识适用于 该学科的不同分科” 论证上述观点，由 连接词Firstofall和 Moreover引出。 3总结全文，重申观点。",
+          "sampleCn": "人们普遍认为，获得扎实的基础知识对学生掌握一门学科至关重要。我完全同意上述观点。我有两个理 由来支持这一观点。 首先，学习基础知识有助于学生为掌握一门学科做好准备。众所周知，学习是一个循序渐进的过程。学生 应该从一门学科的基础知识开始，然后才能达到更高的水平。此外，基础知识包含了一门学科的一般规律，可 以适用于该学科的不同分科。因此，获得扎实的基础知识对于掌握该学科各个分科的知识是必要的。 总之，获得扎实的基础知识对于学生掌握一门学科是极其重要的。它不仅可以帮助学生为以后的学习做 好准备，还可以帮助他们掌握该学科不同分科的知识。",
+          "vocab": [],
+          "patterns": [
+            "·参考范文&点评·",
+            "As is known to all,gaining a soundknowledgeofthebasics is ofvital importance",
+            "for students to master an academic subject.Ifullyagree with the aboveopinion.I have",
+            "two arguments to support it.1",
+            "Firstofall,learning thebasics helps studentsbeprepared to master an academic",
+            "subject.As everyone knows,learning is a step-by-step process.Students shouldstart",
+            "with thebasic knowledge of an academic subject before theyare able to reach a higher",
+            "level.Moreover,theknowledge ofthebasics contains the universal lawofa subject,",
+            "which can be applied to differentbranchesof the academic subject. Thus gaining a sound",
+            "knowledgeof the basics is necessary formastering theknowledge ofvarious branchesof",
+            "the academic subject.2",
+            "In conclusion,gaining a soundknowledge of the basics is extremely important for",
+            "students to master an academic subject.It can not only help students be prepared for",
+            "the future studybutalso help themmaster theknowledgeof different branchesofthe",
+            "academic subject.3",
+            "·范文译文·",
+            "1表明个人立场，即完",
+            "全同意“获得扎实的",
+            "基础知识对学生掌握",
+            "一门学科至关重要”",
+            "这一观点。",
+            "2分别从“为掌握一门",
+            "学科做好准备”和",
+            "“基础知识适用于",
+            "该学科的不同分科”",
+            "论证上述观点，由",
+            "连接词Firstofall和",
+            "Moreover引出。",
+            "3总结全文，重申观点。",
+            "人们普遍认为，获得扎实的基础知识对学生掌握一门学科至关重要。我完全同意上述观点。我有两个理",
+            "由来支持这一观点。",
+            "首先，学习基础知识有助于学生为掌握一门学科做好准备。众所周知，学习是一个循序渐进的过程。学生",
+            "应该从一门学科的基础知识开始，然后才能达到更高的水平。此外，基础知识包含了一门学科的一般规律，可",
+            "以适用于该学科的不同分科。因此，获得扎实的基础知识对于掌握该学科各个分科的知识是必要的。",
+            "总之，获得扎实的基础知识对于学生掌握一门学科是极其重要的。它不仅可以帮助学生为以后的学习做",
+            "好准备，还可以帮助他们掌握该学科不同分科的知识。",
+            "·亮点词汇·",
+            "branch（学科及语言的）分支",
+            "master掌握 contain包含",
+            "various 各种各样的",
+            "step-by-step循序渐进的 universal law一般规律",
+            "reachahigherlevel达到更高的水平 be applied to应用于",
+            "老师说",
+            "本套视频解析中，老师将在写作部分教你如何审题，快速列出思路提纲，还会讲解听音要点，给大家总结阅读和翻译",
+            "的高分技巧，快来扫描视频课二维码观看，一睹为快吧！",
+            "图·写作句型·",
+            "Ifully agree with the aboveopinion.",
+            "句型意为“我完全同意上述观点”，常用于作文首段，表明自己的态度。",
+            "2It can not only..but also...",
+            "句型意为“它不仅可以……，还可以……”，常用来强调某事物的重要作用。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2023_12_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "A) OnthehillsofcentralKenya, almost lime-greenwiththesparkleofteabushesinthesunlight,\nB) Although there are huge uncertainties as to the precise impacts of climate change, enough is known\nC) Africa is particularly vulnerable, in part because it is already struggling to feed itself and it will have\nD) Finding out why is not hard. Most farms are tiny, ploughed by hand and reliant on rain. More than\nE) The low productivity of African farmers is reflected in national economic statistics—despite\nF) One reason is that in the first few decades of independence, many African governments neglected\nG) Better techniques help, too. Small coffee farmers in Kenya are able to increase their incomes by 40%\nH) One way of spreading knowledge is to link farms to big buyers of their harvests. When Diageo, a\nI) An even more important change is the move from traditional farming to building businesses that can\nJ) Illuminum's success shows how technology can help even small farms become more productive.\nK) \"If we really want to lift people out of poverty we have to finance projects that will get them an",
+          "analysisOverview": "本文节选自Discovery探索频道网站上2020年12月2日发表的一篇标题为“SecretTunnelsBeneaththe Desert”的文章。本文主要讲述了莫哈韦沙漠的独特地理风貌和自然环境。在作者看来，它是户外爱好者 和摄影师的理想之地。",
+          "translationCn": "沙漠具有欺骗性。乍一看，它看起来毫无生气、贫瘠且干燥至极。对于大多数去拉斯维加斯碰运气或者 前往大峡谷，在路上哼着歌穿过莫哈韦的路人来说，这只是一片[26平坦之地，远处有一些山脉，更[27容易 作为一部发生在火星上的电影的场景。然而，这片沙漠却[28]充满了生命、神秘和魔力。 莫哈韦沙漠每年的降雨量不足两英寸，和大多数沙漠一样，这里也是一片[29极端之地。温度波动的范围 从严寒到[30]酷热不等，不仅在季节之间，甚至在同一天内也是如此。 莫哈韦国家保护区位于这片25，000平方英里广袤沙漠的中心。在那里管理和工作的人都戴着宽边帽，这 已经成为约塞米蒂这样的地方的[31代名词。该保护区拥有丰富的历史、文化、生物多样性和无尽的机会来 [32]激发你的兴趣，尤其是对于任何热爱户外活动的人来说。对于摄影师来说，要想驾驭这些未铺设的“道 路”网络，不仅需要耐心，还[33]可能需要一些备用轮胎，但回报是丰厚的。 在这里拍摄需要一双[34结实的好鞋和大量的准备工作。要探索这个国家公园系统中的第三大公园，需要 大量的水、备用轮胎和满满一箱汽油。 然而，就像所有的沙漠一样，如果你有耐心，你会得到回报，因为它们往往会慢慢地揭示自己的秘密。 在我上一次旅行中，我惊讶地发现这一地区的很多地方都是由古火山和地质力量塑造而成的，其中大部分至今 仍保留着，这给该地区带来了一种[35独特的感觉，也为拍摄绝佳照片提供了丰富多彩的背景。",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "It is said that agricultural productivity in many African countries has remained low for a century.",
+              "stemCn": "题干译文据说，一个世纪以来，许多非洲国家的农业生产力一直很低。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息hasremainedlow和foracentury定位到E段。该段第一句提到，非洲农民的生产 率低体现在了国家经济统计数据中——尽管吸收了如此多的劳动力，农业只创造了15%的国内生产总值。 随后在该段最后一句引用詹妮弗·布兰克的话，提到“100年来，非洲许多地区的农业生产力没有提 高”。由此可知，题干是对原文的同义转述。题干中的productivityremainedlow对应原文中的farming generates just15%ofGDP和productivityhasn'timproved；题干中的fora century对应原文中的for100 years。"
+            },
+            {
+              "num": 37,
+              "stem": "Building connections between farms and major purchasers of their produce can promote African",
+              "stemCn": "题干译文 把农场和其农产品的主要购买者联系起来可以推动非洲农民使用先进的农业技术。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息Building connections betweenfarms andmajor purchasers和use of advanced farmingtechniques定位到H段。该段第一句指出，传播知识的一种方法是把农场和收购他们收成的大买家 联系起来。随后举例说英国饮料巨头帝亚吉欧在肯尼亚西部建了一个啤酒厂，并将农民组织成小组，改善 供应链，让他们获得种子和肥料，然后同意购买他们产出的粮食。由此可知，题干是对原文的同义转述。 题干中的Buildingconnectionsbetweenfarmsandmajorpurchasersoftheirproduce对应原文中的tolink farmsto big buyers of their harvestso"
+            },
+            {
+              "num": 38,
+              "stem": "Parts of Africa are getting warmer much faster than the average, with southern Africa witnessing",
+              "stemCn": "题干译文非洲部分地区的变暖速度比全球变暖的平均速度快得多，在过去的半个世纪里，非洲南部的变暖",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "速度大约是全球变暖速度的两倍。 答案B。由题干关键信息getting warmermuchfaster than theaverage和roughly twice the global warming rate定位到B段。该段第二句指出，非洲大陆部分地区的变暖速度已经远超全球平均水平：在过去的50年 里，非洲南部的气温上升速度大约是全球的两倍。由此可知，题干是对原文的同义转述。题干中的Parts ofAfrica对应原文中的Partsofthecontinent；题干中的muchfaster thantheaverage对应原文中的muchmore quickly than theaverage；题干中的roughly twice the global warming rateover the lasthalfcentury对应原文中的 abouttwicethe globalrateover thepast50years。"
+            },
+            {
+              "num": 39,
+              "stem": "Improved farming practices have enabled Kenyan farmers to increase farm produce remarkably.",
+              "stemCn": "题干译文种植方法改良使肯尼亚农民的农产品产量显著提高。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案G。由题干关键信息Improvedfarming practices、Kenyanfarmers和increase farm produceremarkably 定位到G段。该段前两句指出，更好的技术也有帮助。肯尼亚的咖啡种植小农只需遵循一些简单的指导原 则来打理他们的树丛，比如修剪咖啡树枝，只保留三根枝条，他们的收入就能增加40%。随后进一步指 出，刚开始很多邻居并没有听从这个建议，但过了一两季，在看到那些遵循建议的人收成大增之后，他们 也开始这样做。由此可知，题干是对原文的同义转述。题干中的Improvedfarmingpractices对应原文中的 Bettertechniques；题干中的increase farm produceremarkably对应原文中的increase their incomes by 40%和get bigger harvests。"
+            },
+            {
+              "num": 40,
+              "stem": "Africa is especially susceptible to the effects of global warming partly because it has difficulty",
+              "stemCn": "题干译文 非洲特别容易受到全球变暖的影响，部分原因是即使没有气候变化，非洲也难以养活其不断增长",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "的人口。 答案C。由题干关键信息especially susceptible、has difficulty feeding和even without climate change定位 到C段。该段第一句指出，非洲尤其容易受到影响，部分原因在于它本身已经很难养活自己，如果要为其 快速增长的人口提供食物，即使没有气候变化，它也必须大幅提高产量和生产力。由此可知，题干是对原 文的同义转述。题干中的especially susceptible对应原文中的particularlyvulnerable；题干中的ithas difficulty feeding its increasingpopulation对应原文中的itis alreadystruggling to feed itself;题干中的evenwithout climatechange为原词再现。"
+            },
+            {
+              "num": 41,
+              "stem": "The use of fertiliser and improved seeds can help Africa's small farmers impressively increase crop",
+              "stemCn": "题干译文化肥和改良种子的使用可以帮助非洲的小农显著提高作物产量。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案F。由题干关键信息use of fertiliserand improved seeds和impressively increase crop yields定位到F 段。该段最后几句指出，当地开始重视农业后，焦点主要集中在让小农使用肥料上，更重要的是，用更好 的种子。效果十分显著。例如，高梁的改良品种可以比普通品种的产量高出40%。由此可知，题干是对原 文的同义转述。题干中的use of fertiliserandimproved seeds对应原文中的tousefertiliserand,more important, better seeds;题干中的impressively increase cropyields对应原文中的produce a crop that is 40% larger thanthe usual variety。"
+            },
+            {
+              "num": 42,
+              "stem": "It has proved even more important to shift from traditional farming to setting up businesses that can",
+              "stemCn": "题干译文事实证明，从传统农业转向创立能够为非洲小农户带来技术和投资的企业更为重要。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案I。由题干关键信息shiftfrom traditionalfarming和setting upbusinesses that canbring technology andinvestmenttosmallfarmers定位到I段。该段第一句指出，一个更重要的转变是从传统农业转向创立 能为小农户带来技术和投资，并从中获利的企业。由此可知，题干是对原文的同义转述。题干中的shift from traditionalfarming to setting up businesses对应原文中的themove from traditionalfarming to building businesses；题干中的bring technology and investment to small farmers为原词重现。"
+            },
+            {
+              "num": 43,
+              "stem": "Everyone in the world will have to bear the consequences of climate change, especially Africans.",
+              "stemCn": "题干译文世界上的每个人，尤其是非洲人，都必须承受气候变化的后果。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案A。由题干关键信息Everyoneinthe world和especiallyAfricans定位到A段。该段第四句和第五句 指出，气候变化是一个会影响地球上每一个人的问题。对非洲人来说，其后果将尤其严重。由此可知， 题干是对原文的同义转述。题干中的Everyone inthe world对应原文中的everyoneontheplanet；题干中的 especiallyAfricans对应原文中的ForAfricans itsconsequences willbeparticularlybitter。"
+            },
+            {
+              "num": 44,
+              "stem": "Improvement in farm output per worker in Africa falls far short of that in Asia.",
+              "stemCn": "题干译文非洲人均农业产量的增幅远远低于亚洲。",
+              "options": {},
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "答案D。由题干关键信息Improvement in farm output per worker和far shortofthatinAsia定位到D段。该 段倒数第二句指出，尽管非洲的人均（农业）产量在过去30年里提高了一半以上，但仍远远落后于亚洲"
+            },
+            {
+              "num": 45,
+              "stem": "In the long term, the potential for small farms in Africa to increase productivity is quite limited,",
+              "stemCn": "题干译文从长远来看，非洲小农场提高生产力的潜力相当有限，特别是因为气候变暖和人口不断增长。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案J。由题干关键信息smallfarms、quite limited和especiallyowing to thewarmingclimateanda growing population定位到J段。该段指出，Illuminum公司的成功表明，技术可以帮助小农场提高生产力。由于非洲 如此大规模的人口以农业为生，因此即使生产力的小幅提升也能提高数百万人的收入。但从更长远来看， 小规模农业只能起到一定作用，尤其是在面对气候变化和人口压力的情况下。由此可知，题干是对原文的 同义转述。题干中的quitelimited对应原文中的can goonlyso far；题干中的owing to the warmingclimateand a growing population对应原文中的in the face ofclimate change and population pressure。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_12_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "One of the great successes of the Republican Party in recent decades is the relent less propagation of a simple formula for economic growth: tax cuts. The formula doesn't work, but that has not affected its popularity. And while the cult of tax cuts has attracted many critics, it lacks for obvious rivals. Democratic politicians have tended to campaign on helping people left behind by economic growth. When Democrats do talk about encouraging economic growth, they often sound like Republicans. This is not just a political problem for Democrats; it is an economic problem for the Un i ted States. The nation needs a better story about the drivers of economic growth. The painful lessons of recent decades point to a promising candidate: higher wages. Raising the wages of American workers ought to be the priority of economic policymakers. We'd all be better off paying less attention to quarterly updates on the growth of the nation's gross domestic product (GDP) and focusing instead on the growth of workers' paychecks. Set aside, for the moment, the familiar argument for higher wages: fairness. The argument here is that higher wages can fuel the engine of economic growth. Perhaps the most famous i lust ration of the benefits is the story of Henry Ford's decision in 1914 to pay $5 a day to workers on his Model T assembly lines. He did it to increase production—he was paying a premium to maintain a reliable workforce. The unexpected benefit was that Ford's factory workers became Ford customers, too. The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more. Mainstream economists insist that it is impossible to order up a sustainable increase in wages because compensation levels reflect the unerring judgment of market forces. The conventional wisdom held that productivity growth was the only route to higher wages. Through that lens, efforts to negotiate higher wages were counter productive. Minimum-wage laws would raise unemployment because there was only so much money in the wage pool, and if some people got more, others would get none. It was in the context of this world view that it became popular to argue that tax cuts would drive prosperity. Rich people would invest, productivity would increase, wages would rise. In the real world, things are more complicated. Wages are influenced by a tug of war between employers and workers, and employers have been winning. One clear piece of evidence is the widening gap between productivity growth and wage growth since roughly 1970. Productivity has more than doubled; wages have lagged far behind. A focus on wage growth would provide an antidote (矫正方法) to the attractive simplicity of the belief in the magical power of tax cuts.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "Why does the formula of tax cuts remain popular though ineffective? 2023-12-CET6(第1套)-7 ===== PAGE 8 =====",
+              "stemCn": "为什么减税方案虽然无效，却仍然受欢迎？",
+              "options": {
+                "A": "Its critics' voice has not been heard throughout the country.",
+                "B": "There seem to be no other options available to replace it.",
+                "C": "The cult of tax cuts has been relentlessly propagated by all policymakers.",
+                "D": "There appears to be a misunderstanding of the formula among the public."
+              },
+              "optionCn": {
+                "A": "其批评者的声音没有传遍全国。",
+                "C": "所有决策者都不停地宣传对减税的推崇。",
+                "B": "似乎没有其他方案可以取代它。",
+                "D": "公众似乎对该方案存在误解。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干信息词formulaoftax cuts remain popular though ineffective可将答案线索定位至第二段。 第二段提及，这个方案虽然不起作用，但这并没有影响它的受欢迎程度。对减税的推崇引来了许多批评人 士，但它缺乏明显的竞争对手。由此可知，原文所说的“竞争对手”就是指其他解决方案，即没有其他可 替代的方案，故答案为B。原文提及很多批评人士批评减税方案，但减税政策仍然受欢迎，这与他们的声 音是否在全国范围内被听到无关，故排除A项；C项是结合第一段设置的干扰项，但不停宣传减税不是减 税方案仍然受欢迎的原因，故排除；D项原文中没有相关信息，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the author think is a more effective measure for driving economic growth in the U.S.?",
+              "stemCn": "作者认为推动美国经济增长更有效的措施是什么？",
+              "options": {
+                "A": "Aiding people left behind by economic growth.",
+                "B": "Prioritizing the growth of the nation's GDP.",
+                "C": "Increasing the compensation for labor.",
+                "D": "Introducing even more extensive tax cuts."
+              },
+              "optionCn": {
+                "A": "帮助因经济增长而被抛在后面的人们。",
+                "C": "提高劳动报酬。",
+                "B": "优先考虑国家GDP的增长。",
+                "D": "实行更大规模的减税。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干信息词amore effectivemeasure for driving economic growth可将答案线索定位至第四段。 第四段第二句提及，关于经济增长动力，美国需要一个更好的故事。随后第三句说明，近几十年的惨痛教 训指向了一个大有可为的候选方案：提高工资。因此C项符合题意，compensationforlabor“劳动报酬”指 的就是原文中所说的wages“工资”，increasing对应原文的higher。A项是民主党宣扬的做法，不是作者提 出的推动经济增长的措施，故排除；作者提及要少关注GDP季度增长，转而关注工资增长，故排除B项； 作者认为减税不起作用，D项与其观点相反，且原文中没有出现“大规模减税”的说法，故也排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What is the logic underlying the author's viewpoint?",
+              "stemCn": "作者观点背后的逻辑是什么？",
+              "options": {
+                "A": "The growth of workers' paychecks ultimately boosts the nation's economy.",
+                "B": "Paying a premium to maintain a reliable workforce attracts more customers.",
+                "C": "Consumption stimulates the desire for higher wages.",
+                "D": "Familiar arguments for higher wages are outdated."
+              },
+              "optionCn": {
+                "A": "工人工资的增长最终会推动国家经济的发展。",
+                "B": "支付附加费来维持可靠的劳动力队伍吸引了更多的客户。",
+                "C": "消费刺激了人们对更高工资的渴望。",
+                "D": "人们熟悉的提高工资的论点已经过时了。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干信息词logic可将答案线索定位至第八段。 第八段中作者指出，同样的逻辑仍然成立，即消费推动美国经济的发展，工资更高的工人消费也会更高。 也就是说，工资的增长会推动国家经济的发展，因此答案为A。第八段中的“逻辑”指的是第七段中亨 利·福特为工人支付高工资，本来是为了提高产量，却意外使工厂的工人也成了福特的客户，但作者举这 个例子是为了说明提高工人收入可以带动消费，侧重点不是吸引客户，故排除B项；C项原文缺少相关信 息，故排除；第六段作者提出，暂且抛开人们熟悉的提高工资的理由：公平，这里要说的理由是，提高工 资可以推动经济增长，由此可知，不是人们熟悉的提高工资的论点已经过时了，而是作者的论点（或者说 作者使用的逻辑）不在于此，故排除D项。"
+            },
+            {
+              "num": 49,
+              "stem": "What is the basis for higher wages according to the conventional wisdom?",
+              "stemCn": "传统观点认为，提高工资的依据是什么？",
+              "options": {
+                "A": "Fairness in distribution.",
+                "B": "Increase in productivity.",
+                "C": "The priority of economic policymakers.",
+                "D": "The unerring judgment of market forces."
+              },
+              "optionCn": {
+                "A": "分配的公平性。",
+                "C": "经济决策者的优先事项。",
+                "B": "生产率的提高。",
+                "D": "对市场力量的准确判断。"
+              },
+              "answer": "B",
+              "analysis": "定位根据题干信息词conventionalwisdom可将答案线索定位至倒数第四段第一句。 倒数第四段第一句指出，传统观点认为，生产率增长是提高工资的唯一途径，因此B项符合题意。根据第 六段可知，A项是人们熟悉的提高工资的依据，故排除；C项原文未提及，故排除；根据第九段可知，薪 酬水平反映了对市场力量的准确判断，但对市场力量的准确判断并非提高工资的依据，故排除D项。"
+            },
+            {
+              "num": 50,
+              "stem": "What do we learn about things in the real world in America for the past 50 years or so?",
+              "stemCn": "我们对过去50年左右的时间里美国的现实世界了解到什么？",
+              "options": {
+                "A": "People have failed to see a corresponding increase in wages and in productivity.",
+                "B": "People have been disheartened by the widening gap between the haves and have-nots.",
+                "C": "People have witnessed a tug of war between Republlicans and Democrats over tax cuts.",
+                "D": "People have seen the link disappearing between productivity and workers' well-being."
+              },
+              "optionCn": {
+                "A": "人们没有看到工资和生产率的相应增长。",
+                "B": "人们对富人和穷人之间日益扩大的差距感到沮丧。",
+                "C": "人们目睹了共和党和民主党在减税问题上的激烈争夺。",
+                "D": "人们看到了生产率与工人福利之间的联系正在消失。"
+              },
+              "answer": "A",
+              "analysis": "定位根据题干信息词real world、thepast 50 years or so可将答案线索定位至倒数第二段。 → 倒数第二段开头总结道，在现实世界中，情况更为复杂，工资受到雇主和工人之间激烈争夺的影响，而获 胜的一直是雇主。随后说明一个具体论据：大约自1970年以来，生产率增幅与工资增幅之间的差距不断扩 大，生产率增长了一倍多，而工资增长却远远落后。由此可知，A项符合题意。其他三项在倒数第二段中 均未体现，故均排除。 Passage Two 00 ·概览· 本文节选自TheBritishPsychologicalSociety（英国心理学会）网站于2022年2月22日发表的一篇标题 为“Themajority ofpsychology journal editors are menand based in theUS”的文章。文章指出，《自然— 神经科学》杂志上的一项新研究发现，顶尖心理学和神经科学期刊的大多数编辑都是男性，这可能会加 剧该领域存在的性别不平等，并影响发表的研究的类型。文章继续指出，编委会的性别不平等问题并不 是缺乏女性学者导致的，而是现实存在一些不利于女性的障碍，积极打破这些障碍有助于实现期刊编辑 的多样性。 ·全文翻译· 期刊编辑决定着发表什么，不发表什么，这影响着其他学者的职业生涯， 也影响着一个领域的发展方向。[51]那么，人们会希望期刊尽其所能建立一个 多元化的编委会，反映各种声音、经历和身份。 不幸的是，《自然一神经科学》杂志上的一项新研究读起来让人沮丧。 [52]该研究团队发现，顶尖心理学和神经科学期刊的大多数编辑都是男性，而 且都在美国：这种情况可能会加剧该领域存在的性别不平等，并影响发表的研 究的类型。 研究发现，在心理学期刊的编辑中，男性占60%。在各个级别的编辑中， 男性编辑都明显多于女性编辑，而且超过四分之三的期刊中，男性编辑占大多 数。[53]至关重要的是，女性编辑的比例明显低于女性心理学研究人员的总体 比例。 神经科学期刊中的差异更为明显：70%的编辑是男性，88%的期刊中男性占 据了大多数编辑职位。在此情况中，女性编辑的比例并不显著低于从事神经科 学工作的女性研究人员的比例——这一发现更广泛地揭示了该领域长期存在的 性别差异问题。 [54]根据他们的研究结果，该团队得出结论：“在心理学和神经科学领域最 知名的学术期刊中，男性的想法、价值观和决策偏好在编辑职位上被过度代 表了。” 在科学界，性别不平等通常被归因于高级学者更有可能是男性这个事实， 因为历史上科学是男性主导的：有人认为，随着时间的推移，越来越多的女性 升至高级职位，这一领域将变得更加平等。然而，这项研究表明，尽管女性初 级心理学从业人员的人数实际上多于男性，但即使是心理学期刊的初级职位也 往往不成比例地由男性占据。 重难点单词及短语 ·diverse adj.多样化的 ·editorialboard编辑委 员会 ·a variety of各种各样的 ·neuroscience n.神经科学 ·dishearteningadj.令人沮 丧的 amplifyvt.扩大，增强 existing adj.现有的，已 存在的 gender inequality性别不 平等 accountfor占（·…·比例） •significantly adv.显著地 seniority n.资历 cruciallyadv.至关重要地 ·starkadj.（指区别）明显的 genderdisparity性别差异 overrepresent vt.使代表人 数超出比例 这意味着缺乏女性学者不是问题所在。[55]相反，女性在科学领域处于不 利地位是有结构性原因的。例如，女性的工资较低，面临更大的育儿需求，这 可能会导致其发表的论文和获得的经费较少——期刊在决定任命谁时会考虑这 些因素。[55]我们不应该简单地将编委会的不平等归咎于传统，而应该积极打 破这些现有的障碍。 期刊编辑缺乏多样性也可能是造成心理学“WEIRD”问题的原因之一。如 果期刊编辑大多是来自美国的男性，那么他们可能会有意无意地更看重与西方 男性群体相关的论文。 【编者注】wEIRD这个缩写代表了“Western,Educated，Industrialized，Rich, andDemocratic”，描述了在心理学研究中常用的样本特征。这些研究样本通常 来自于西方、受过教育的、工业化的、富裕的民主国家，而这种偏差使得人们 可能陷入了一个局限的视角。 ·答案详解·"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_12_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Journal editors decide what gets published and what doesn't, affecting the careers of other academics and influencing the direction that a field takes. You'd hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities. Unfortunately a new study in Nature Neuroscience makes for disheartening reading. The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the Un i ted States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published. Men were found to account for 60% of the editors of psychology journals. There were significantly more male than female editors at each level of seniority, and men made up the majority of editors in over three quarters of the journals. Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers. The differences were even starker in the neuroscience journals: 70% of editors were male, and men held the majority of editorial positions in 88% of journals. In this case, the proportion of female editors was not significantly lower than the proportion of female researchers working in neuroscience—a finding that reveals enduring gender disparities in the field more broadly. Based on their results, the team concludes that \"the ideas, values and decision-making biases of men are overrepresented in the editorial positions of the most recognized academic journals in psychology and neuroscience.\" Gender inequality in science is often attributed to the fact that senior academics are more likely to be male, because historically science was male—dominated: it's argued that as time goes on and more 2023-12-CET6(第1套)-8 ===== PAGE 9 ===== women rise to senior roles, the field will become more equal. Yet this study showed that even the junior roles in psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty. This implies that a lack of female academics is not the problem. Instead, there are structural reasons that women are disadvantaged in science. Women receive lower salaries and face greater child care demands, for instance, which can result in fewer publications and grants—the kinds of things that journals look for when deciding who to appoint. Rather than simply blaming the inequality of editorial boards on tradition, we should be actively brea king down these existing barriers. A lack of diversity among journal editors also likely contributes to psychology's WEIRD problem. If journal editors are largely men from the Un i ted States, then they will probably place higher value on papers that are relevant to Western, male populations, whether consciously or not.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What would we expect an editorial board of an academic journal to exhibit in view of its important responsibilities?",
+              "stemCn": "鉴于学术期刊编委会的重要职责，我们期望它展现出什么？",
+              "options": {
+                "A": "Insight.",
+                "B": "Expertise.",
+                "C": "Integrity.",
+                "D": "Diversity."
+              },
+              "optionCn": {
+                "A": "洞察力。",
+                "C": "诚信。",
+                "B": "专业知识。",
+                "D": "多样性。"
+              },
+              "answer": "D",
+              "analysis": "定位 ·be attributedto被归因 于…… ·disproportionately adv.不 相称地；不成比例地 facultyn.全体从业人员； 全体教师 contribute to导致 ·consciouslyadv.有意识地 根据题干信息词an editorial board ofan academic journal可将答案线索定位于第一段。 第一段有两句话，第一句提到期刊编辑决定发表的内容，这影响一个领域的发展；第二句指出人们的期 望，即希望期刊尽其所能建立一个多元化的编委会，反映各种声音、经历和身份。原文中的diverse和选 项D的Diversity基本属于原词复现，由此可知选项D为正确答案。其他三个选项均在原文中找不到对应信 息，故均排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What do we learn from the findings of a new study in Nature Neuroscience?",
+              "stemCn": "我们从《自然一神经科学》杂志的一项新研究的发现中了解到什么？",
+              "options": {
+                "A": "The majority of top psychology and neuroscience journals reflect a variety of voices, experiences and identities.",
+                "B": "The editorial boards of most psychology and neuroscience journals do influence the direction their field takes.",
+                "C": "The editorial boards of the most important journals in psychology and neuroscience are male-dominated.",
+                "D": "The majority of editors in top psychology and neuroscience journals have relevant backgrounds."
+              },
+              "optionCn": {
+                "A": "大多数顶尖心理学和神经科学期刊反映了各种声音、经历和身份。",
+                "B": "大多数心理学和神经科学期刊的编委会确实会影响其领域的发展方向。",
+                "C": "心理学和神经科学领域最重要的期刊的编委会都以男性为主。",
+                "D": "顶尖心理学和神经科学期刊的大多数编辑都有相关背景。"
+              },
+              "answer": "D",
+              "analysis": "定位 根据题干信息词the findings ofanewstudyin Nature Neuroscience可将答案线索定位于第二段。 第二段第二句提到，该研究团队发现，顶尖心理学和神经科学期刊的大多数编辑都是男性。很显然， 选项C是对该句话的同义转述，其中male-dominated对应原文中的themajorityofeditors aremale，most important对应原文中的top，故选C。选项A与第一段提到的人们对期刊编委会的期望有关，不是研究发 现，故排除；选项B是根据第一段第一句所陈述事实所做的推理，也不是研究发现，故排除；选项D在 原文中没有相关信息，故排除。"
+            },
+            {
+              "num": 53,
+              "stem": "What fact does the author highlight concerning the gender differences in editors of psychology journals?",
+              "stemCn": "关于心理学期刊编辑的性别差异，作者强调了什么事实？",
+              "options": {
+                "A": "There were quite a few female editors who also distinguished themselves as influential psychology researchers.",
+                "B": "The number of female editors was simply disproportionate to that of women engaged in psychology research.",
+                "C": "The proportion of female editors was increasingly lower at senior levels.",
+                "D": "There were few female editors who could move up to senior positions."
+              },
+              "optionCn": {
+                "A": "不少女性编辑作为有影响力的心理学研究者而享有盛誉。",
+                "B": "女性编辑的人数与从事心理学研究的女性的人数完全不成比例。",
+                "C": "高级编辑中女性编辑的比例越来越低。",
+                "D": "能晋升到高级职位的女性编辑很少。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干信息词gender differences in editors ofpsychology journals可将答案线索定位于第三段。 第三段主要阐述了心理学期刊编辑中的性别差异。该段最后一句提到，女性编辑的比例明显低于女性心理 学研究人员的总体比例。选项B是对这句话的同义转述，故为正确答案。选项A文中没有提到，比较容易 排除；选项C和D是利用原文中的seniority（资历）一词设置的干扰项，在原文中没有对应信息支持，故也 排除。"
+            },
+            {
+              "num": 54,
+              "stem": "What can we infer from the conclusion drawn by the team of the new study on the basis of their findings?",
+              "stemCn": "从新研究小组根据他们的发现得出的结论中我们能推断出什么？",
+              "options": {
+                "A": "Women's views are underrepresented in the editorial boards of top psychology and neuroscience journals.",
+                "B": "Male editors of top psychology and neuroscience journals tend to be biased against their female colleagues.",
+                "C": "Male researchers have enough representation in the editorial boards to ensure their publications.",
+                "D": "Female editors have to struggle to get women's research articles published in academic journals."
+              },
+              "optionCn": {
+                "A": "在顶尖心理学和神经科学期刊的编委会中，女性的观点没有得到充分代表。",
+                "B": "顶尖心理学和神经科学期刊的男性编辑往往对他们的女性同事有偏见。",
+                "C": "男性研究人员在编委会中有足够的代表，确保他们的作品得以发表。",
+                "D": "女性编辑必须努力才能争取在学术期刊上发表女性的研究文章。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干信息词the conclusion drawnby the team可将答案线索定位于第五段。 第五段引号中的内容就是研究小组根据新发现得出的结论：在心理学和神经科学领域最知名的学术期刊 中，男性的想法、价值观和决策偏好在编辑职位上被过度代表了。从另一方面来看，在顶尖心理学和 神经科学期刊中，女性编辑占比较小，那么女性的想法、价值观和决策偏好没有在编辑职位上得到充分 代表，选项A符合该句推论，故为正确答案。选项B是对原文信息的错误推论，原文说的是男性编辑的想 法、价值观和决策偏好被过度代表了，而不是对女性同事存在偏见，故排除。选项C和选项D在原文中没 有提到，故均排除。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author suggest we do instead of simply blaming the inequality of editorial boards on tradition?",
+              "stemCn": "与其简单地将编委会的不平等归咎于传统，作者建议我们做什么？",
+              "options": {
+                "A": "Strike a balance between male and female editors.",
+                "B": "Increase women's employment in senior positions.",
+                "C": "Enlarge the body of female academics. 2023-12-CET6(第1套)-9 ===== PAGE 10 =====",
+                "D": "Implement overall structural reforms."
+              },
+              "optionCn": {
+                "A": "在男性编辑和女性编辑之间取得平衡。",
+                "C": "扩大女性学者群体。",
+                "B": "增加女性担任高级职务的人数。",
+                "D": "实施整体结构改革。"
+              },
+              "answer": "D",
+              "analysis": "根据题干信息词blaming the inequalityofeditorial boards on tradition可将答案线索定位于第七段。 位 第七段最后一句提到，我们不应该简单地将编委会的不平等归咎于传统，而应该积极打破这些现有的障 碍。这些障碍是什么，需要考生往前寻找。该段开头提到女性编辑数量少不是因为缺乏女性学者，其实 女性在科学领域处于不利地位有结构性原因的，随后举例说明，比如女性的工资较低，面临更大的育儿需 求，从而导致其发表的论文和获得的经费较少，而论文少、经费低又导致女性学者达不到期刊任命编辑职 位的标准，这些就是女性面临的障碍。因此作者建议我们实施整体结构改革，故选项D正确。其他三个选 项不是作者的建议，故均排除。 PartIV > Translation ·难词译注· 老龄化社会an aging society 多元化diversified 推行promote 养老theelderlycare 政府引导government guidance 相结合combine 受到普遍关注 社会参与social participation 养老设施elderlycarefacillities receive widespread attention 居家自助养老 升级upgrade 模式model home-based self-help elderlycare ·参考译文· InChina,with thearrivalofan aging society,theelderlycare has received widespread attention.Whatpeople talk about the most is whatkindofelderlycare model shouldbeadopted.Mostpeoplebelieve that theelderlycare model needs to be diversified.Through government guidance and social participation,we can establishmore andbetter elderly care service institutions,improve community service centers,encourage home-based self-help elderly care, and promoteamodel combining familyand socialelderlycare.Withthe increasing investmentinelderly care services fromthegovernmentand society,elderlycarefacilitieswillcontinue tobeupgraded,servicequalitywillbegradually improved,and theelderlywill live amoreconvenient,morecomfortable,healthierand happier life. 四·译点精析·"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_12_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "在中国，随着老龄化社会的到来，养老受到普遍关注。人们谈论最多的是应当采取什么样的养 老模式。多数人认为，养老模式需要多元化。可以通过政府引导和社会参与，建立更多更好的养老 服务机构，改进社区服务中心，鼓励居家自助养老，还可以推行家庭养老与社会养老相结合的模式。 随着政府和社会对养老服务事业投入的持续增加，养老设施将不断升级，服务质量逐步改进，老年 人的生活将会更加方便舒适、健康快乐。 2023-12-CET6(第1套)-10 ===== PAGE 11 ===== Suggested Version",
+          "terms": [
+            "老龄化社会an aging society 多元化diversified 推行promote",
+            "养老theelderlycare 政府引导government guidance 相结合combine",
+            "受到普遍关注 社会参与social participation 养老设施elderlycarefacillities",
+            "receive widespread attention 居家自助养老 升级upgrade",
+            "模式model home-based self-help elderlycare"
+          ],
+          "reference": "In china, with the arrival of an aging society, the elderly care has received widespread attention. What people talk about the most is what kind of elderly care model shouldbeadopted. Most people believe that the elderly care model needs to be diversified. Through government guidance and social participation, we can establish more and better elderly care service institutions, improve community service centers, encourage home-based self-help elderly care, and promote a model combining family and social elderly care. With the increasing investment in elderly care services from the government and society, elderlycarefacilitieswillcontinue tobeupgraded, servicequalitywillbegradually improved, and the elderly will live am ore convenient, more comfortable, healthierand happier life.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

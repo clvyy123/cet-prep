@@ -1,0 +1,415 @@
+{
+  "id": "cet6-2023_03_1",
+  "level": 6,
+  "year": 2023,
+  "month": 3,
+  "setNo": "第1套",
+  "title": "2023年3月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_03_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions:Forthispart,youareallowed30minutesto writeanessaythatbegins withthe sentence \"People are now increasingly aware of the danger ofappearance anxiety’orbeing obsessed withone's looks.\"You can make comments,cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. PartII Section A",
+          "review": "",
+          "sample": "People are now increasingly aware of the danger of\"appearance anxiety”or being obsessed with one's looks. In such a\"face-judging”world, or a worldofjudging people by their appearance, many people, especially youngsters, have attached too much importance to their appearance. At the same time, people also come to realize the problems caused by appearance anxiety.1 In my opinion, excessive appearance anxiety is harmful to both our physical and mental health. For one thing, in order to pursue so-called\"beauty, some people are blindly dieting to lose weight, resulting in malnutrition, anorexiaandother diseases; also some people regard cosmetic surgery as the quickest and the most effective way to make them more beautiful. However, in case cosmetic surgery fails, there is a price to pay. In fact, some people have already paid the price with their lives. For another, under the influence oft he concepts such as\"the perfect body”and“the golden ratio of beauty, people tend to have self-doubt, thus putting all their energy into how to become good- looking, instead of focusing on study and work.2 There is a saying that the desire to look attractive is universal. But remember that appearance is not the only standard to measure one's value, and a persons inner beauty outweighs his/her appearance.3",
+          "sampleNote": "1描述社会现象——很 多年轻人过分注重外 表，同时人们也意识 到容貌焦虑带来的 问题。 分别从身体健康、心 理健康这两个角度阐 述过度的容貌焦虑带 来的危害，由连接 词Forone thing、For another引出。 3引用俗语，总结全 文，告诫人们外表不 是衡量个人价值的唯 一标准，内在美比外 表更重要。",
+          "sampleCn": "如今，人们越来越意识到“容貌焦虑”或沉迷于个人外表存在的风险。在这样一个“看脸”的世界（即 以貌取人的世界），很多人，尤其是年轻人，过于注重自己的外表了。与此同时，人们也逐渐意识到容貌焦虑 带来的问题。 在我看来，过度的容貌焦虑对我们的身心健康皆有危害。首先，为了追求所谓的“美”，有些人为了减 轻体重盲目节食，以致于引发了营养不良、厌食症和其他疾病；也有些人把整容手术看作是使他们变得更美的 最快、最有效的途径。然而，万一整容手术失败，就会付出代价。事实上，已经有一些人付出了生命的代价。 再者，在“完美身材”和“美貌的黄金比例”等观念的影响下，人们往往会产生自我怀疑，因而把所有精力都 放在如何变漂亮上，而不是专注于学习与工作。 老师说 本套视频解析中，老师在听力部分讲解听音重点和正确答案信号词，以及如何运用排除法进行综合性解题；翻译部分 教你高效的翻译步骤和策略，快来扫描本页视频课二维码收看吧。 俗话说，爱美之心人皆有之。但要记住，外表并不是衡量一个人价值的唯一标准，一个人的内在美比其 外表更重要。",
+          "vocab": [],
+          "patterns": [
+            "·参考范文&点评·",
+            "Peopleare now increasingly aware of the dangerof\"appearance anxiety”or",
+            "being obsessed withone's looks.In such a\"face-judging”world,or a worldofjudging",
+            "peopleby their appearance,manypeople,especially youngsters,have attached too",
+            "much importance to their appearance.At the sametime,people also come to realizethe",
+            "problems caused by appearance anxiety.1",
+            "In my opinion,excessive appearance anxiety is harmful to both our physical and",
+            "mentalhealth.Forone thing,inorder to pursueso-called\"beauty,some peopleare",
+            "blindly dieting to lose weight,resulting inmalnutrition,anorexiaandother diseases;",
+            "also some people regard cosmetic surgery as the quickest and the most effective wayto",
+            "make them more beautiful.However,in case cosmetic surgery fails,there is a priceto",
+            "pay.In fact,some people havealready paid the price withtheir lives.Foranother,under",
+            "the influenceofthe concepts suchas\"the perfectbody”and“the golden ratio ofbeauty,",
+            "people tend to have self-doubt,thus putting all their energy into how to become good-",
+            "looking,insteadof focusing on study and work.2",
+            "There is a saying that the desire tolookattractive is universal.Butremember that",
+            "appearance is not theonly standard to measureone's value,and a persons inner beauty",
+            "outweighs his/her appearance.3",
+            "·范文译文·",
+            "1描述社会现象——很",
+            "多年轻人过分注重外",
+            "表，同时人们也意识",
+            "到容貌焦虑带来的",
+            "问题。",
+            "分别从身体健康、心",
+            "理健康这两个角度阐",
+            "述过度的容貌焦虑带",
+            "来的危害，由连接",
+            "词Forone thing、For",
+            "another引出。",
+            "3引用俗语，总结全",
+            "文，告诫人们外表不",
+            "是衡量个人价值的唯",
+            "一标准，内在美比外",
+            "表更重要。",
+            "如今，人们越来越意识到“容貌焦虑”或沉迷于个人外表存在的风险。在这样一个“看脸”的世界（即",
+            "以貌取人的世界），很多人，尤其是年轻人，过于注重自己的外表了。与此同时，人们也逐渐意识到容貌焦虑",
+            "带来的问题。",
+            "在我看来，过度的容貌焦虑对我们的身心健康皆有危害。首先，为了追求所谓的“美”，有些人为了减",
+            "轻体重盲目节食，以致于引发了营养不良、厌食症和其他疾病；也有些人把整容手术看作是使他们变得更美的",
+            "最快、最有效的途径。然而，万一整容手术失败，就会付出代价。事实上，已经有一些人付出了生命的代价。",
+            "再者，在“完美身材”和“美貌的黄金比例”等观念的影响下，人们往往会产生自我怀疑，因而把所有精力都",
+            "放在如何变漂亮上，而不是专注于学习与工作。",
+            "老师说",
+            "本套视频解析中，老师在听力部分讲解听音重点和正确答案信号词，以及如何运用排除法进行综合性解题；翻译部分",
+            "教你高效的翻译步骤和策略，快来扫描本页视频课二维码收看吧。",
+            "俗话说，爱美之心人皆有之。但要记住，外表并不是衡量一个人价值的唯一标准，一个人的内在美比其",
+            "外表更重要。",
+            "·亮点词汇·",
+            "youngster年轻人 pursue 追求 anorexia厌食症",
+            "attach importance to重视 diet节食 cosmetic surgery整容手术",
+            "excessive过度的 malnutrition营养不良 outweigh（在重要性或意义上）超过",
+            "·写作句型·",
+            "In myopinion,.…is harmful to bothourphysicalandmental health.",
+            "句型意为“在我看来，……对我们的身心健康皆有危害”，可用于作文中间段，承上启下，展开论述某一",
+            "事物或现象带来的危害。",
+            "2But rememberthat.…is nottheonlystandardto measureone's value,and a person’s.…outweighs his/her...",
+            "句型意为“但要记住，……并不是衡量一个人价值的唯一标准，一个人的……比其……更重要”。通常用",
+            "于文章结尾段，阐述某一事物比另一事物更重要。"
+          ],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2023_03_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "C) AcorintorenstudaFacicoankfriCliororconomicdifrceThe\nD) The region's economy has been fundamentally transformed by the technology industry springing\nE) In spite of all that, the strength of recent job growth, combined with policies that have traditionally\nF) With the average house in the city costing over $1.25 million and average flat prices over $1.11\nG) For generations, the stability and prosperity of the American middle class has been anchored by home\nH) If contributing factors leading to housing becoming less than affordable are not resolved over\nI) San Francisco and the Bay Area have long been commit ted to values which embrace inclusion and\nJ) The housing crisis is caused by two primary factors: the growing desirability of the Bay Area as a\nK) Real estate alone will not solve the problem, of course. Transportation, too, needs to be updated and\nL) Our threatening housing crisis forces the difficult question of what type of society we would like to\nM) It doesn't have to be this way. But solutions need to be implemented now, before angry crowds grow",
+          "analysisOverview": "",
+          "translationCn": "尽管这可能是难以想象的，但人类，每一个人，有一天都可能会从地球上消失。我们已经学会了担心小行 星和超级火山，但根据牛津大学哲学教授尼克·博斯特罗姆的说法，更可能的[26情况是，我们人类将毁灭自己。 牛津大学人类未来研究所所长博斯特罗姆教授在几篇论文中指出，人们对人类[27灭绝的风险认识不足， 更糟糕的是，社会[28严重低估了这种风险。这些生存风险中，有些是众所周知的，尤其是自然风险。但另外 一些则[29]鲜为人知，甚至极不寻常。博斯特罗姆最担心的是人类技术[30]引起的生存风险子集，他预计在下 个世纪，这一子集的数量和影响力都会增加。 尽管博斯特罗姆担心技术进步给人类[31带来的风险，但他并不是科技进步的反对者。事实上，他是超 人类主义的长期[32倡导者——超人类主义指通过技术手段努力改善人类状况，甚至改善人性本身。从长远来 看，他将技术视为一座桥梁，一座我们人类必须小心翼翼跨越的桥梁，从而实现新的、更好的生存模式。在他 的著作中，博斯特罗姆运用了哲学和数学工具，[33特别是概率论，试图确定我们作为一个[34物种如何才能 获得这一安全通行许可。接下来是我与博斯特罗姆的对话，讲述了人类在未来几十年和几个世纪可能会[35遇 到的一些最有趣和最令人担忧的生存风险，以及我们可以做些什么来确保我们比这些风险存在的时间更长。",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "San Francisco city government offered tax benefits to attract tech companies to establish operations",
+              "stemCn": "题干译文旧金山市政府提供税收优惠，以吸引科技公司在欠发达地区开展业务。",
+              "options": {},
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "答案D。由题干关键信息governmentofferedtaxbenefits和attracttechcompanies to establishoperations定 位到D段。该段第二句指出，由市长埃德·李推动的政策为科技公司提供了税收优惠，以便在该市长期被 忽视的中市场街地区创业。由此可见，题干是对原文的同义转述。题干中的offeredtaxbenefits对应原文中 的providedtaxbreaks；题干中的establishoperations对应原文中的setup shop；题干中的less developedarea对 应原文中的long-neglectedMid-Marketarea。"
+            },
+            {
+              "num": 37,
+              "stem": "The fast rise in the prices of land and houses increases the economic inequality among people.",
+              "stemCn": "题干译文土地和房屋价格的快速上涨加剧了人们之间的经济不平等。",
+              "options": {},
+              "optionCn": {},
+              "answer": "G",
+              "analysis": "答案G。由题干关键信息fastrise inthe pricesoflandandhouses和economic inequality定位到G段。该段最 后两句指出，研究一直表明，土地的价值已经超过了整体收入增长…当房价升到超出大多数家庭的承 受能力时，贫富差距就会急剧扩大。由此可见，题干是对原文的同义转述。题干中的Thefastrise对应原文 中的soar（猛增；飞涨）；题干中的economic inequalityamongpeople对应原文中的thegapbetween therich andthe poor；题干中的increases是文中原词。"
+            },
+            {
+              "num": 38,
+              "stem": "San Francisco has been found to have the biggest income gap in California between the rich and the",
+              "stemCn": "题干译文旧金山已被发现是加利福尼亚州贫富收入差距最大的城市。",
+              "options": {},
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "答案C。由题干关键信息have thebiggest income gap inCalifornia定位到C段。该段首句指出，根据近期 的一项研究，旧金山的经济差距在加利福尼亚州排名第一。由此可见，题干是对原文的同义转述。题干中 的havethe biggest incomegap inCalifornia对应原文中的ranksfirst inCaliforniaforeconomic difference。"
+            },
+            {
+              "num": 39,
+              "stem": "The higher rate of employment, combined with limited housing supply, did not make it any easier to",
+              "stemCn": "题干译文较高的就业率，加上有限的住房供应，并没有让买房变得更容易。",
+              "options": {},
+              "optionCn": {},
+              "answer": "E",
+              "analysis": "答案E。由题干关键信息higherrate ofemployment、limitedhousing supply和didnotmake it anyeasier定 位到E段。该段首句指出，尽管如此，最近就业增长的势头，加上长久以来限制城市和整个半岛住房开发 的政策，并没有帮助缓解住宅负担能力危机。由此可见，题干是对原文的同义转述。题干中的higherrateof employment对应原文中的jobgrowth；题干中的didnotmake itanyeasier tobuy a house对应原文中的didnot help ease theaffordability crisis。"
+            },
+            {
+              "num": 40,
+              "stem": "When people compare their own living standard with others', it has a greater impact on their sense of",
+              "stemCn": "题干译文当人们将自己的生活水平与他人进行比较时，这对他们的满足感有更大的影响。",
+              "options": {},
+              "optionCn": {},
+              "answer": "H",
+              "analysis": "答案H。由题干关键信息compare theirown living standard withothers'定位到H段。该段第五句指出，这 意味着，一个人如何将自己的生活保障与邻居的生活保障进行比较，比他们的客观生活水平对他们的幸福影响 更大。由此可见，题干是对原文的同义转述。题干中的has a greater impact on their sense ofcontentment对应 原文中的hasmoreofanimpactontheirhappiness；题干中的livingstandard对应原文中的standardofliving。"
+            },
+            {
+              "num": 41,
+              "stem": "Improved transport net works connecting the city to distant outlying are as will also help solve the",
+              "stemCn": "题干译文改善连接城市和偏远地区的交通网也将有助于解决住房危机。",
+              "options": {},
+              "optionCn": {},
+              "answer": "K",
+              "analysis": "答案K。由题干关键信息Improvedtransportnetworks和connecting the city to distantoutlyingareas定位到 K段。该段前两句指出，当然，仅靠房地产并不能解决问题。交通也需要升级，基础设施也需要扩建，把 偏远地区与硅谷和这座城市连接起来。由此可见，题干是对原文的同义转述。题干中的Improved对应原 文中的updated；题干中的connecting对应原文中的link；题干中的distantoutlyingareas对应原文中的distant regions"
+            },
+            {
+              "num": 42,
+              "stem": "Average incomes in the Bay Area make it virtually impossible for most tenant families to buy a",
+              "stemCn": "题干译文湾区的平均收入使得大多数租户家庭儿乎不可能买房。",
+              "options": {},
+              "optionCn": {},
+              "answer": "F",
+              "analysis": "答案F。由题干关键信息virtuallyimpossible和mosttenantfamilies定位到F段。该段第二句指出，考虑 到目前该市的平均家庭收入约为8万美元，毫不夸张地说，如今绝大多数租房者都无法实现拥有住房的梦 想。由此可见，题干是对原文的同义转述。题干中的virtually impossible对应原文中的beyondthe grasp；题 干中的mosttenantfamilies对应原文中的the vastmajorityoftoday’speople who rent；题干中的buya home对 应原文中的homeownership。"
+            },
+            {
+              "num": 43,
+              "stem": "Innovative solutions to social and economic problems should be introduced before it is too late.",
+              "stemCn": "题干译文社会和经济问题的创新解决办法应及早出台。",
+              "options": {},
+              "optionCn": {},
+              "answer": "M",
+              "analysis": "答案M。由题干关键信息shouldbeintroducedbeforeitistoolate定位到M段。该段第二句指出，但在愤怒的 人群从一件麻烦事发展成需要认真关注的问题之前，需要立即实施解决方案。由此可见，题干是对原文的同义 转述。题干中的before it is toolate对应原文中的before angrycrowds growfrom nuisance to seriousconcern"
+            },
+            {
+              "num": 44,
+              "stem": "Residents of the San Francisco Bay Area strongly resent the tech industry because of the economic",
+              "stemCn": "题干译文旧金山湾区的居民强烈憎恨科技产业，因为它造成了经济不平等。",
+              "options": {},
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "答案B。由题干关键信息Residents和stronglyresent定位到B段。该段首句指出，虽然大多数城市的居民 都对当地的产业表示自豪和支持，但旧金山湾区严重的市场扭曲已经在该地区引发了对科技产业的强烈不 满。由此可见，题干是对原文的同义转述。题干中的stronglyresent对应原文中的boilingresentmento"
+            },
+            {
+              "num": 45,
+              "stem": "One way to deal with the housing crisis is for the government to simplify the approval procedures for",
+              "stemCn": "题干译文解决住房危机的一个方法是政府简化住房项目的审批程序。",
+              "options": {},
+              "optionCn": {},
+              "answer": "J",
+              "analysis": "答案J。由题干关键信息government和simplifyapproval procedures定位到J段。该段最后两句指出，地 方政府也需要援助开发，这意味着提高整个地区的住房密度，并在简化审批流程的同时把房子往高了建。 由此可见，题干是对原文的同义转述。题干中的simplifyapprovalprocedures对应原文中的streamliningthe approval process，其中streamline意为“使（系统、机构等）效率更高”。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_03_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "The suggestion that people should aim for dietary diversity by trying to eat a variety of foods has been a basic public health recommendation for decades in the Un i ted States everywhere. Now, however, experts are warning that aiming for a diverse diet may actually lead to just eating more calories, and, thus, to obesity. One issue is that people may not interpret \"variety\" the way nutritionists intend. This problem is highlighted by new research conducted by the American Heart Association. Researchers reviewed all the evidence published related to dietary diversity and saw a correlation between dietary diversity and a greater intake of both healthy and unhealthy foods. This had implications for obesity, as researchers found a greater prevalence of obesity amongst people with a greater dietary diversity. One author of the new study explained that their findings contradict standard dietary advice, as most dietary guidelines around the world include a statement of eating a variety of foods. But this advice does not seem to be supported by science, possibly because there is little agreement about the meaning of \"dietary diversity,\" which is not clearly and consistently defined. Some experts measure dietary diversity by counting the number of food groups eaten, while others look at the distribution of calories across individual foods, and still others measure how different foods eaten are from each other. Although the findings of this new study contradict standard dietary advice, they do not come as a surprise to all of the researchers involved. Dr. Rao, one of the study authors, noted that after 20 years of experience in the field of obesity, he has observed that people who have a regimen ted lifestyle and diet tend to be thinner and healthier than people with a wide variety of consumption. This anecdotal evidence matches the conclusions of the study, which found no evidence that dietary diversity promotes healthy body weight or optimal eating patterns, and limited evidence shows that eating a variety of foods is actually associated with consuming more calories, poor eating patterns and weight gain. Further, there is some evidence that a greater variety of food options in a single meal may delay people's feeling of fullness and actually increase how much they eat. Based on their findings, the researchers endorse a diet consisting of a limited number of healthy foods such as vegetables, fruits, grains, and poultry. They also recommend that people simultaneously endeavor to restrict consumption of sweets, sugar and red meat. The researchers stress, however, that their dietary recommendations do not imply dietary diversity is never positive, and that, in the past, diversity in diets of whole, unprocessed food may have actually been very beneficial.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What has been a standard piece of dietary advice for decades?",
+              "stemCn": "儿十年来，一条标准的饮食建议是什么？",
+              "options": {
+                "A": "People should diversify what they eat.",
+                "B": "People should have a well-balanced diet.",
+                "C": "People should cultivate a healthy eating habit.",
+                "D": "People should limit calorie intake to avoid obesity."
+              },
+              "optionCn": {
+                "C": "人们应该培养一种健康的饮食习惯。",
+                "A": "人们应该使他们的饮食多样化。",
+                "D": "人们应该限制卡路里的摄入量以避免肥胖。",
+                "B": "人们应该有均衡的饮食。"
+              },
+              "answer": "A",
+              "analysis": "重难点词汇及短语 ·dietary adj.饮食的 ·diversityn.多样性，多 样化 ·obesity n.肥胖 ·interpretvt.把……理解 为；领会 ·nutritionistn.营养学家 ·intendv.打算；意指 ·intaken.（食物、饮料等 的）摄取量，吸入量 ·prevalencen.盛行，普遍 contradict vt.相矛盾， 相反 ·guidelinen.指导方针；指 导原则 ·distributionn.分配；分布 ·regimentedadj.严格控 制的 ·anecdotal adj.传闻的 poultryn.家禽；禽肉 simultaneously adv.同 时地 endeavorvi.努力，尽力 ·wholeadj.（食物）天然 的，未加工的 定位 根据题干信息词dietaryadvicefordecades可将答案线索定位至第一段第一句。 第一段第一句指出，几十年来，在美国和其他地方，人们应该通过设法吃多种食物来力求实现饮食多 样性，这种说法一直是一项基本的公共健康建议。由此可知A项正确，题干中的fordecades原词复现， dietaryadvice是对原文中的publichealthrecommendation的同义转述。B、C两项原文均未提及；原文提 到卡路里是说人们按照建议做到饮食多样化，实际上可能导致只是摄入了更多的卡路里，并因此导致肥 胖，D项与原文不符，而且也不是原文所说的饮食建议，故排除。"
+            },
+            {
+              "num": 47,
+              "stem": "What did the new research by the American Heart Association find?",
+              "stemCn": "美国心脏协会的新研究发现了什么？",
+              "options": {
+                "A": "Unhealthy food makes people gain weight more easily.",
+                "B": "Dietary diversity is positively related to good health.",
+                "C": "People see king dietary diversity tend to eat more. 2023-03-CET6(第1套)-7 ===== PAGE 8 =====",
+                "D": "Big eaters are more likely to become overweight."
+              },
+              "optionCn": {
+                "A": "不健康的食物使人们更容易增加体重。",
+                "C": "追求饮食多样化的人往往吃得更多。",
+                "D": "吃得多的人更有可能超重。",
+                "B": "饮食多样化与健康呈正相关。"
+              },
+              "answer": "C",
+              "analysis": "定位 根据题干信息词researchby theAmericanHeartAssociation可将答案线索定位至第一段第四句。 李… 第一段第四句提及美国心脏协会的新研究，随后在下文具体介绍新发现，即饮食多样化与摄入更多的健康 和不健康食品之间存在关联性，由此可知C项正确。A项看似正确，但原文只提及追求饮食多样化可能会导 致摄入更多健康与不健康食品，并没有指出不健康食品是否更容易使人们增加体重，故排除。原文指出， 研究人员发现在饮食更为多样化的人群中，肥胖更为普遍，B项与原文相反，故排除。原文说的是“饮食 多样化”和“肥胖”二者间的关系，吃得多不等同于饮食多样化，D项混淆了概念，故排除。"
+            },
+            {
+              "num": 48,
+              "stem": "What could help to explain the contradiction between the new findings and the common public health recommendation?",
+              "stemCn": "什么可以帮助解释新的发现和常见的公共健康建议之间的矛盾？",
+              "options": {
+                "A": "There is little consensus on the definition of dietary diversity.",
+                "B": "The methods researchers use to measure nutrition vary greattly.",
+                "C": "Conventional wisdom about diet is seldom supported by science.",
+                "D": "Most dietary guidelines around the world contradict one another."
+              },
+              "optionCn": {
+                "A": "对饮食多样化的定义没有什么共识。",
+                "C": "关于饮食的传统观点很少得到科学的支持。",
+                "B": "研究人员用来衡量营养的方法差别很大。",
+                "D": "世界上大多数的饮食指南都是相互矛盾的。"
+              },
+              "answer": "A",
+              "analysis": "定位 根据题干信息词contradiction、findings和commonpublichealthrecommendation可将答案线索定位至第二段 第一句，common public healthrecommendation是对原文中的standard dietary advice的同义替换。 第二段第一句指出，这项新研究的一位作者解释说，他们的发现与标准的饮食建议相矛盾，因为世界各地 的大多数饮食指南都包括摄入多种食物的说法。随后解释矛盾的原因：但是这种建议似乎没有科学支持， 可能是因为对“饮食多样化”的含义没有什么一致的看法，它没有明确和一致的定义。因此A项正确。原 文指出，专家使用不同的方法衡量饮食多样化，而非B项所说的营养，故排除。C项同义替换原文中的this advicedoesnotseem tobe supportedbyscience，但这只是现象，背后的原因还是对“饮食多样化”的定义 不一致，故排除。D项原文没有提及，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What did Dr. Rao find after 20 years of research on obesity?",
+              "stemCn": "拉奥博士在对肥胖进行了20年的研究后发现了什么？",
+              "options": {
+                "A": "There is no clear definition of optimal eating patterns.",
+                "B": "Diversified food intake may not contribute to health.",
+                "C": "Eating patterns and weight gain go hand in hand.",
+                "D": "Dietary diversity promotes healthy body weight."
+              },
+              "optionCn": {
+                "A": "没有明确的最佳饮食模式的定义。",
+                "C": "饮食模式和体重增加密切相关。",
+                "B": "摄入多样化的食物可能对健康无益。",
+                "D": "饮食多样化促进健康体重。"
+              },
+              "answer": "B",
+              "analysis": "定位 根据题干信息词Dr.Rao和20yearsofresearchonobesity可将答案线索定位至第三段第二句。 第三段第二句提及，在肥胖领域有20年的研究经验后，他（拉奥博士）观察到，生活方式和饮食严格控 制的人往往比吃的种类多的人更瘦、更健康。由此可知B项正确。原文未提及“最佳饮食模式”定义的相 关信息，故A项排除。C项说法过于笼统，文中指出，不良饮食模式和体重增加有关，但这不是拉奥博士 的发现，故排除。D项与原文相反，且“没有证据表明饮食多样化能促进健康体重”也不是拉奥博士的发 现，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the passage say about people who eat a great variety of food?",
+              "stemCn": "关于吃很多种食物的人，文章中说了什么？",
+              "options": {
+                "A": "They are more likely to eat foods beneficial to their health.",
+                "B": "They don't have any problems getting sufficient nutrition.",
+                "C": "They don't feel they have had enough until they overeatt.",
+                "D": "They tend to consume more sweets, sugar and red meat."
+              },
+              "optionCn": {
+                "A": "他们更有可能吃对他们的健康有益的食物。",
+                "C": "他们不觉得自己吃饱了，直到吃得过量。",
+                "B": "他们在获得足够的营养方面没有任何问题。",
+                "D": "他们往往吃更多的甜食、糖和红肉。"
+              },
+              "answer": "C",
+              "analysis": "定位 → 根据题干信息词eata greatvarietyoffood可将答案线索定位至第三段最后一句。 第三段最后一句提及，此外，有一些证据表明，在一餐中有更多的食物选择可能会推迟人们的饱腹感，实际 上会增加他们的食量，C项是对该句的同义转述。C项中的don'tfeeltheyhavehadenough同义替换原文的delay people’s feelingoffullness，overeat同义替换原文中的increasehowmuchtheyeat。A项涉及最后一段内容，但原 文是说在过去，吃多种天然的、未加工的食物实际上可能是非常有益的，不是说饮食多样的人都会更可能 吃对健康有益的食物，故排除。B项文中未提及，故排除。“甜食、糖和红肉”出现在研究人员的建议部 分，是建议限制这些食物的摄入，并未提及饮食多样的人是否往往吃更多这些食物，故排除D项。 Passage Two ·概览· 本文节选自TheNewYorkTimes（《纽约时报》）于2016年7月15日发表的一篇文章。文章指出，刚 出生的小鸭在没有经过任何训练的前提下就能理解“相同”与“不同”的概念，它们通过一种名为“铭 印”的快速学习识别它们的母亲。这种区分抽象概念的能力对更多种动物的生存来说至关重要。我们需 要更加深入地理解其他动物的思维能力。 注的信息，故选项A、C均排除。选项B是根据原文词汇intricacies设置的干扰项，原文是说动物处理和理 解它们世界中的复杂事物远比我们曾经了解的要多，而不是关于动物思维的研究越来越复杂，故也排除。 PartIV Translation ·难词译注· 地理学家geographer 见闻observations 实地调查fieldinvestigations 徒步跋涉on foot; trek 详细in detail 文献literature; document 荒远偏僻的remote 后人posterity;latergenerations 地形terrain ·参考译文· Xu Xiake was a famous geographer in the Ming Dynasty ofChina.He spent more than 3O years traveling across more than halfofChina.He exploredmanyremote areas,mainly onfoot.He wrote down his observations and investigationresults in detail,leaving precious investigationmaterials for posterity.He corrected the mistakes about watersources in theliterature throughfield investigationsonmanyrivers.He also described in detail theeffect ofterrain,climate and other factors on plants,andvividly depicted the places ofinterestandlocal customs.His investigationrecords were compiledintoThe TravelNotesofXuXiakebylatergenerations,whichhad awide influence both at home and abroad. ·译点精析·"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2023_03_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "The ability to make inferences from same and different, once thought to be unique to humans, is vie wed as a cornerstone of abstract intelligent thought. A new study, however, has shown that what psychologists call same-different discrimination is present in creatures generally seen as un intelligent: newborn ducklings (小鸭). The study, published Thursday in Science, challenges our idea of what it means to have a bird brain, said Edward Wasserman, an experimental psychologist at the University ofIowa who wrote an independent review of the study. \"In fact, birds are extremely intelligent and our problem pretty much lies in figuring out how to get them to 'talk' to us, or tell us how smart they really are,\" he said. Ant one Martinho and Alex Kacelnik, co-authors of the new paper, devised a clever experiment to better test bird intelligence. First, they to ok 1-day-old ducklings and exposed them to a pair of moving objects. The two objects were either the same or different in shape or color. Then they exposed each duck ling to two entirely new pairs of moving objects. The researchers found that about 70 percent of the ducklings prefer red to move toward the pair of objects that had the same shape or color relationship as the first objects they saw. A duck ling that was first shown two green spheres, in other words, was more likely to move toward a pair of blue spheres than a mismatched pair of orange and purple spheres. Ducklings go through a rapid learning process called imprinting shortly after birth—it's what allows them to identify and follow their mothers. These findings suggest that ducklings use abstract relationships between sensory inputs like color, shape, sounds and odor to recognize their mothers, said Dr. Kacelnik. By studying imprinting, the authors of this study have shown for the first time that an animal can learn relationships between concepts without training, said Jeffrey Katz, an experimental psychologist at Auburn University who was not involved in the study. 2023-03-CET6(第1套)-8 ===== PAGE 9 ===== Previous studies have suggestedthatother animals, includingpigeons, dolphins, honeybees and some primates(灵长类动物),can discern same from different, but only after extensive training. Adding ducklingsto the list particularly untrainednewborn ducklings—suggests that the ability to compare abstract concepts \"is far more necessary to a wider variety of animals’ survival than we previously thought, DrMartinhosaid. Hebelievestheabilityissocrucialbecauseithelpsanimals consider context when identifying objects in their environment. It's clearfromthisstudyandotherslikeit that“animalsprocessandappreciatefarmoreofthe intricaciesintheirworldthanwe'veeverunderstood”Dr. Wassermansaid.\"We are in a revolutionary phase in terms of our ability to understand the mindsofotheranimals.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "In what way were humans thought to be unique?",
+              "stemCn": "",
+              "options": {
+                "A": "Being capable of same-differentdiscrimination.",
+                "B": "Being able to distinguish abstract from concrete.",
+                "C": "Being a major source of animal intelligence.",
+                "D": "Being the cornerstone of the creative world."
+              },
+              "optionCn": {},
+              "answer": "A",
+              "analysis": "文章第一段开篇即指出“The ability to make inferences from same and different, once thought to be unique to humans...”，意思是根据相同和不同进行推断的能力，曾被认为是人类独有的。这与选项A“能够进行相同-不同区分”一致。"
+            },
+            {
+              "num": 52,
+              "stem": "What do we learn from thestudypublished in science?",
+              "stemCn": "",
+              "options": {
+                "A": "Our understanding of the bird world was biased.",
+                "B": "Ourcommunicationwithbirds was far from adequate.",
+                "C": "Our knowledge about bird psychology needs up dating.",
+                "D": "Our conception of birds'intelligence was wrong."
+              },
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "文章第二段引用实验心理学家Edward Wasserman的话说：“The study, published Thursday in Science, challenges our idea of what it means to have a birdbrain... In fact, birds are extremely intelligent...”，这里的“birdbrain”通常用来形容笨，所以挑战“what it means to have a birdbrain”就是挑战认为鸟笨的观点，也就是认为我们对鸟类智力的看法是错误的，这与选项D一致。"
+            },
+            {
+              "num": 53,
+              "stem": "What did the researchers discover about most ducklings from their experiment?",
+              "stemCn": "",
+              "options": {
+                "A": "They could associate shape with color.",
+                "B": "They could tell whether theobjects were the same.",
+                "C": "They prefer red coloredobjects to colorless ones.",
+                "D": "They reacted quickly to moving objects."
+              },
+              "optionCn": {},
+              "answer": "B",
+              "analysis": "文章第六段描述实验结果：“The researchers found that about 70% of the ducklings preferred to move toward the pair of objects that had the same shape or color relationship as the first objects they saw.”实验设计是让小鸭子看到两组物品，第一组物品内部是“same”或“different”的关系，然后给它们看两组新的物品，一组物品内部是“same”关系，另一组是“different”关系。结果表明大多数小鸭子会选择关系与第一次看到相同的物品组。这证明它们能够识别物品之间的“相同”或“不同”关系，也就是能够区分物品是否相同，与选项B一致。"
+            },
+            {
+              "num": 54,
+              "stem": "What was novel about the experiment in thestudyreported in science?",
+              "stemCn": "",
+              "options": {
+                "A": "The ducklings were compared with other animals.",
+                "B": "It was conducted by experimental psychologists.",
+                "C": "The animals used received no training.",
+                "D": "It used a number ofcolors and shapes."
+              },
+              "optionCn": {},
+              "answer": "C",
+              "analysis": "文章倒数第三段提到“Previous studies have suggested that other animals... can discern same from different, but only after extensive training.”，而紧接着下一段说“Adding ducklings to the list- particularly untrained newborn ducklings- suggests that...”，这突出强调了这项研究的创新之处在于使用了“untrained newborn ducklings”（未经训练的新生小鸭子），这与其他动物需要训练才能表现出相同-不同区分能力不同，与选项C一致。"
+            },
+            {
+              "num": 55,
+              "stem": "What do we learn from dr. Wasserman'scommentonthestudyofanimalmindsattheendofthe passage?",
+              "stemCn": "",
+              "options": {
+                "A": "Researchmethods are being updated.",
+                "B": "It is getting more and more intricate.",
+                "C": "It is attracting more public attention.",
+                "D": "Remarkable progress is being made."
+              },
+              "optionCn": {},
+              "answer": "D",
+              "analysis": "文章最后一段引用Dr. Wasserman的话说：“Ifs clear from this study and others like it that '\"animals process and appreciate far more of the intricacies in their world than we've ever understood... \"We are in a revolutionary phase in terms of our ability to understand the minds of other animals.”这里的“revolutionary phase”意为“革命性阶段”，表明我们在理解动物思维方面的能力正经历巨大飞跃，也就是正在取得显著进展，这与选项D“正在取得显著进展”一致。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2023_03_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "徐霞客是中国明代的著名地理学家，他花费了三十多年的时间游遍了大半个中国。他主要靠徒 步跋涉，寻访了许多荒远偏僻的地区。他把自己的见闻和考察结果详编记录下来，为后人留下了珍 贵的考察资料。他通过对许多河流的实地调查，纠正了文献中关于水源的错误。他还详细地描述了 地形、气候等因素对植物的影响，生动地描绘了各地的名胜古迹和风土人情。他的考察记录由后人 整理成了《徐霞客游记》，在国内外产生了广泛的影响。 2023-03-CET6（第1套）-9 ===== PAGE 10 ===== Suggested Version",
+          "terms": [
+            "地理学家geographer 见闻observations 实地调查fieldinvestigations",
+            "徒步跋涉on foot; trek 详细in detail 文献literature; document",
+            "荒远偏僻的remote 后人posterity;latergenerations 地形terrain"
+          ],
+          "reference": "Xu Xiake was a famous geographer in the Ming Dynasty of china. He spent more than 3O years traveling across more than half of china. He exploredmanyremote are as, mainly on foot. He wrote down his observations and investigationresults in detail, leaving precious investigationmaterials for posterity. He corrected the mistakes about watersources in the literature through field investigationsonmanyrivers. He also described in detail the effect of terrain, climate and other factors on plants, andvividly depicted the places of interest and local customs. His investigationrecords were compiledintoThe TravelNotesofXuXiakebylatergenerations, which had a wide influence both at home and abroad.",
+          "notes": "1.第一句：“明代的”翻译为intheMingDynasty；“著名的”可翻译成famous或well-known。 2.第二句：本句既可以翻译为Sb.spent some time（in)doingsth.的句式，也可以翻译为Ittooksb.some timetodo sth.的句式；“大半个中国”翻译为more thanhalfofChina。 3.第三句：本句主干是“他寻访了许多地区”，即Heexploredmanyareas；“主要靠徒步跋涉”可以翻译成方 式状语，即mainly on foot。 4.第四句：“记录下来”这里应理解为“写下来”，故翻译为wrotedown；根据英文表达习惯，逗号后的分句 翻译成现在分词短语，表示结果，即leaving precious investigationmaterials forposterity。 5.第五句：“通过对许多河流的实地调查”是方式状语，可翻译为throughfield investigations onmanyrivers; “纠正了文献中关于水源的错误”是句子的谓语和宾语部分，翻译为correctedthemistakesaboutwater sources in the literature 6.第六句：“详细地描述了”和“生动地描绘了”为并列的谓语部分，分别翻译为describedindetail和vividly depicted；“地形、气候等因素对植物的影响”翻译为theeffectofterrain,climateandotherfactors onplants; “名胜古迹”翻译为placesofinterest；“风土人情”翻译为local customs。 7.第七句：“他的考察记录由后人整理成了《徐霞客游记》”应翻译成被动语态，“整理”应理解为“汇编， 编纂”，故翻译为compiled；“在国内外产生了广泛的影响”是对《徐霞客游记》一书影响力的说明，应处 理为非限制性定语从句，即whichhadawideinfluencebothathomeandabroad。",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

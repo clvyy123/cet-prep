@@ -1,0 +1,504 @@
+{
+  "id": "cet4-2023_06_2",
+  "level": 4,
+  "year": 2023,
+  "month": 6,
+  "setNo": "第2套",
+  "title": "2023年6月四级真题（第2套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_2-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: Suppose the student union of your university is organizing an online discussion on interpersonalrelationships. You are to write an essay on ways to maintain a warm and friendly relationship with yourclassmatesandon thebenefits ofsuch a relationship.Youwill have30minutes forthetask.Youshouldwriteat least120wordsbutnomorethan180 words.",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_2-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "(40 minutes) blank from a list of choicesgiven in a word bank following the passage. Read the passage through care fully beforemaking yourchoices. Each choice in the bank is identifiedby a letter. Please mark the corresponding letter for each item on Answer sheet 2 with a single line through the centre. You may not use any oft he words in the bank more than once. Morocco is responding to increasing energy demandsby setting up one oft he largest solarplants in the world. The No or solar power station is 26___in the city ofOuarzazate and, once completed, wil generate 580millionwattsofelectricity. TheWorldBankestimatesitwillserve 1.1millionpeople. It's 27__to be completed soon. Morocco's current energy comes 28__from imports. The nation hopes to get 50 percent of its energy from renewable sources by 2030.With demand for energy 29__at an annual rate of 7 percent, the new solar plant could be a_30__part of that goal. \"This makes Morocco abig_31__inthefieldofsolarenergy in the Arab region and the African continent. Itcouldalsobeaforerunnerformanyothercountries in the world that_32__on foreignimportsofenergy,\"saidAliHajji, a solarenergyspecialistandengineeringprofessor. ExpertsbelievethattheMiddleEastand North Africa have huge 33 for solar energy projects. This is partlybecauseofadequatesunlightandpartlybecause technologyhasbecomemore 34__ in the region. \"The last few years have seen a realization of 35__ how competitive solar technologiescan be,\" saidMichael Taylor, a senior analyst at the International renewable Energy Agency. A) affordable B) ancestor C) crucial D) depend E) initial F) insist G) just H) located 2023年6月四级真题第2套",
+          "wordBank": {
+            "A": "affordable",
+            "B": "ancestor",
+            "C": "crucial",
+            "D": "depend",
+            "E": "initial",
+            "F": "insist",
+            "G": "just",
+            "H": "located",
+            "I": "mostly",
+            "J": "operating",
+            "K": "perhaps",
+            "L": "pioneer",
+            "M": "potentia",
+            "N": "rising",
+            "O": "scheduled"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格前是系动词is，空格后是介词in，因"
+              },
+              "answer": "H",
+              "analysis": "此本空应填入一个词，构成短语be in。 【语义判断】空格所在句指出，努奥太阳能发电站 瓦尔扎扎特。由句意可知，本句介绍努奥 太阳能发电站的位置，因此本空应填入含有“位于” 意义的词，由此确定答案为H）located。备选的其 他项均没有此含义，因此排除。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "O": "scheduled。备选的其他选项均没有此含"
+              },
+              "answer": "O",
+              "analysis": "0)【语法判断】空格前是系动词is，空格后是todo不 定式，因此本空应填入满足该结构的词。 【语义判断】空格所在句的意思是： 不久 后就会完工。由句意可知，该太阳能发电站仍未完 工，且像这样巨大的工程项目都有计划表，所以本 空应填入表示“计划，安排”意义的词，由此确定答 义，因此排除。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "mostly。备选的其他副词"
+              },
+              "answer": "I",
+              "analysis": "I【语法判断】空格前有动词comes，后面是介词短 语，因此本空应填入副词。 【语义判断】空格所在句的意思是：摩洛哥目前的 能源 来自进口。结合常识可知，摩洛哥国 土面积较小，资源匮乏，因此其能源主要来自进口， 所以本空应填入含有“主要地，多数地”意义的副 均没有此含义，因此排除。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "N": "【语法判断】空格所在的部分是With引导的复合"
+              },
+              "answer": "N",
+              "analysis": "结构，因此本空应填入动词的-ed形式、-ing形式或 形容词。 【语义判断】空格所在句的意思是：随着能源需求 以每年7%的速度 ，新的太阳能发电站可 能是实现这一目标的 部分。本文第一段 提到，摩洛哥正在通过建设世界上最大的太阳能发 电站之一来应对日益增长的能源需求。由此可知， 摩洛哥能源需求在增长，因此本空应填入含有“增 长”意义的词，由此确定答案为N）rising。其他备 选项均没有此含义，因此排除。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前为不定冠词a，后面是名词"
+              },
+              "answer": "C",
+              "analysis": "part，因此本空应填入形容词。 【语义判断】空格所在句的意思是：随着能源需求以 每年7%的速度增长，新的太阳能发电站可能是实现 这一目标的 部分。文章第一段提到，摩洛哥 正在通过建设世界上最大的太阳能发电站之一来应 对日益增长的能源需求，因此太阳能发电站对实现这 一目标至关重要，所以本空应填入含有“重要的”意义 的形容词，由此确定答案为C)crucial。备选的其他 形容词均没有此含义，因此排除。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格前有不定冠词a和形容词big，后"
+              },
+              "answer": "L",
+              "analysis": "面是介词词组，因此本空应填入名词。 【语义判断】空格所在句的意思是：这使摩洛哥成 为阿拉伯地区和非洲大陆太阳能领域的一个重要 。下一句提到，这也可能是一个先例，该 句中的主语I指的是摩洛哥，由also可知本空所 填的词应与forerunner同义，因此本空应填入含 有“先锋，先驱”意义的名词，由此确定答案为L） pioneer。备选的其他名词均没有此含义，因此 排除。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "D": "【语法判断】空格所在部分是由that引导的定语从"
+              },
+              "answer": "D",
+              "analysis": "句，其先行词是countries，that在定语从句中作主 语，因此本空应填入动词作定语从句的谓语。 【语义判断】空格所在句的意思是：对于世界上许 多 外国进口能源的国家来说，这也可能是 一个先例。第三段第一句提到，摩洛哥目前的能源 主要来自外国进口，因此它是一个依赖外国进口能 源的国家。由此可知，本空应填入含有“依赖”意义 的动词，而且该动词可与on搭配，由此确定答案 为D)depend。备选的其他动词均没有此含义，因 此排除。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "M": "【语法判断】空格前有形容词huge，后面是介词词"
+              },
+              "answer": "M",
+              "analysis": "组，因此本空应填入名词。 【语义判断】空格所在句的意思是：专家认为，中东 和北非在开发太阳能项目方面有巨大的 。 而下一句指出这些地区阳光充足，而这是发展太阳 能项目的利好条件，说明中东和北非适合开发太阳 能项目，因此本空应填入含有“可能性，潜力”意义 的名词，由此确定答案为M）potential。备选的其 他名词均没有此含义，因此排除。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前有系动词become，因此本空应"
+              },
+              "answer": "A",
+              "analysis": "填人形容词。 【语义判断】空格所在句的意思是：部分原因在于充 足的阳光，部分原因在于该地区的技术变得更 。空格处应该是指与adequatesunlight一 第7页，共14页 样的开发太阳能项目的利好条件。将备选的形容词 代人句中，只有affordable符合句意，有利于太阳能 项目的开发，由此确定答案为A）affordable。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前有of，空格及其后的从句作of"
+              },
+              "answer": "G",
+              "analysis": "的宾语，而how引导的从句成分完整，因此本空应 参考译文 填入副词作状语。 【语义判断】空格所在句的意思是，过去几年，人们 意识到了太阳能技术的竞争力。本句意 在强调人们对太阳能技术重视，因此本空应填入表 示强调意义的副词，由此确定答案为G）just。备 选的其他副词均没有此含义，因此排除。 摩洛哥正在通过建设世界上最大的太阳能发电站之一来应对日益增长的能源需求。 努奥太阳能发电站位于瓦尔扎扎特，一旦建成，将发电5.8亿瓦。世界银行估计，它将为110万人提 供服务。预计不久后就会完工。 摩洛哥目前的能源主要来自进口。该国希望到2030年，能有50%的能源来自可再生能源。随着能 源需求以每年7%的速度增长，新的太阳能发电站可能是实现这一目标的关键部分。 “这使摩洛哥成为阿拉伯地区和非洲大陆太阳能领域的一个重要先驱。对于世界上许多依赖外国进 口能源的国家来说，这也可能是一个先例。”太阳能专家、工程学教授阿里·哈吉表示。 专家认为，中东和北非在开发太阳能项目方面有巨大的潜力。部分原因在于充足的阳光，部分原因在 于该地区的技术变得更便宜。 “过去几年，人们确实意识到了太阳能技术的竞争力。”国际可再生能源机构高级分析师迈克尔·泰勒说。"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_2-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "B) They have fewerchances to be hi red by U.S.companies.\nC) They havefoundedmost Fortune 500companies.\nD) More of them are successful business people.\nB) Nineteen percent oft hem borrow money from friends and family.\nC) Their level of debt is lower than that of native-born Americans.\nD) Thirty-four percent of them use credit for their daily purchases.\nB) Findemploymentincompetitive businesses.D) Collaborate with native-born Americans.\nA) Forthepastfourdecades, theleaderofFormulaOnecarracing, oneofthebiggestannualsportingseries\nB) Askilledbackroomoperatorwhospeaks without a filter, Ecclestonesaidoftenthat in his opinion, the\nC) Yet now the dictator is gone. After an American company, Liberty media, acquired the formula One\nD) Among thegoals, Carey said in an interview on Tuesday, is one that just about every globalsportseems\nE) While formula one commandsenormousaudiencesthroughoutmuchofthe world, many American\nF) The series has an annual race in a us tin, Texas. But within\"afewyears, Carey said, heplans to bring\nG) Increased digital access forfans, a more behind-the-scenes experience for broadcast viewers and\nH) Thelargerquestion, though, is a familiar one: Is there room for formula one in the ever-crowded sports\nI) That difference, Carey said, is significant. While some might immediately link Formula One to Nascar in\nJ) Carey's background is in deal making and innovation. At Fox Broadcasting Company, he was a top\nK) Now, after Liberty Media paid $4.4 billion to acquire Formula One, he is charged with making the\nL) That is what hooked Carey, and he said he thought his experience was not unusual. He recalled attending\nM) Then, on race day, he watched as the cars rocketed out of a tunnel and went screaming toward a tight turn\nN) He added: \"The broader sport is a little too inward-looking, and we need to be more open. In some ways,\nA) They are actually on the way to bankruptcy.\nC) They are forced to use e-commerce strategies.\nB) They have been losing customers and profits.\nD) They have difficulty adapting to climate change.\nA) It was put forward by king Kullen. C) It has been under constant debate.\nB) It origin a ted in the UnitedStates. D) It proves revolutionary even today.\nA) They modernized traditional groceries in manyways.\nB) Theyintroducedcutting-edgelayoutoftheirstores.\nC) They improvedthequality oft he food theysold.\nD) They revolutionized the distribution of goods.\nA) Arouse customers' appetite to buy flowers, fruit and vegetables.\nB) Provide customers easy access to items they want to buy.\nC) Induce customers to make more unplanned purchases.\nD) Enable customers to have a more enjoyable shopping experience.\nA) They use tricky strategies to promote their business.\nB) They are going to replace the local groceries entirely.\nC) They apply corporate black magic to the goods on display.\nD) They take advantage of the weaknesses of women shoppers.\nA) Students needed to help with farm work.\nB) Students needed time to learn necessary farming skills.\nC) The agricultural society then attachedless importance to academics.\nD) Americalaggedbehindothercountries inmaking a scientific school calendar.\nA) It will help them get back to where theirlessons star ted.\nB) It will enable them to absorb what they have learned.\nC) It will familiarize them with the school environment.\nD) Itwillstrengthentheirrelationship withteachers.\nA) Itmeets students'need to study on their own.\nB) It enables students to learn about the outside world.\nC) It satisfies students' desire to stay longer at home.\nD) It contributes to students'healthy growth.\nB) It benefits few students playing outside.\nC) Itleads students to neglect their studies.\nD) It makes students addicted to computer games.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Chase Carey believes greater use should be made of digital technology to make Formula One more",
+              "stemCn": "【定位】由题干中的digitaltechnology以及accessible",
+              "options": {},
+              "optionCn": {
+                "G": "段第一句和最后一句。"
+              },
+              "answer": "G",
+              "analysis": "观赛渠道，为广播观众提供了更多的幕后体验，并 在虚拟现实等领域进行创新，目标是让粉丝尽可能 多地与现场体验联系起来。题干中的greateruse 第8页，共14页 对应定位句中的Increased，题干中的accessible对 应定位句中的access，故答案为G）。"
+            },
+            {
+              "num": 37,
+              "stem": "Chase Carey was deeply impressed by the ceremony preceding last year's Monaco race.",
+              "stemCn": "【定位】由题干中的ceremony和Monacorace定",
+              "options": {},
+              "optionCn": {
+                "L": "段第二句。"
+              },
+              "answer": "L",
+              "analysis": "观看了一级方程式摩纳哥站的比赛，比赛前的仪式 就令他大吃一惊。题干中的deeplyimpressed对 应定位句中的overwhelmed，题干中的preceding 对应定位句中的leadingupto，故答案为L）。"
+            },
+            {
+              "num": 38,
+              "stem": "One of Chase Carey's goals is to make Formula One more appealing to Americans.",
+              "stemCn": "【定位】由题干中的goals和moreappealingto",
+              "options": {},
+              "optionCn": {
+                "D": "段第一句。"
+              },
+              "answer": "D",
+              "analysis": "个目标就是：让美国人对这项运动感兴趣。题干中 的moreappealing对应定位句中的increasing interest，题干中的Americans对应定位句中的in theUnitedStates，题干是对定位句的同义转述，故 答案为D）。"
+            },
+            {
+              "num": 39,
+              "stem": "A former motorbike parts dealer led Formula One for the past forty years.",
+              "stemCn": "【定位】由题干中的formermotorbike partsdealer",
+              "options": {},
+              "optionCn": {
+                "A": "段。"
+              },
+              "answer": "A",
+              "analysis": "年中，世界上最大的年度体育系列赛之一，一级方 程式赛车的领导人一直都是伯尼·埃克莱斯顿。 他曾是一名摩托车零件经销商，基本上凭一已之力 将其打造成了一项国际赛事。题干中的Aformer motorbike parts dealer对应定位段中的aformer motorcycle parts dealer，题干中的forty years对 应定位段中的fourdecades，故答案为A）。"
+            },
+            {
+              "num": 40,
+              "stem": "Chase Carey thought the audience of Formula One could be made to share his feeling about the race.",
+              "stemCn": "【定位】由题干中的audience和sharehisfeeling",
+              "options": {},
+              "optionCn": {
+                "M": "段末句。"
+              },
+              "answer": "M",
+              "analysis": "地感到敬畏，”他说，“我认为这种感觉可以传达给 观众。”题干中的audience对应定位句中的 viewer，题干中的sharehisfeeling对应定位句中 的betranslatedto，题干是对定位句的同义转述， 故答案为M)。"
+            },
+            {
+              "num": 41,
+              "stem": "Chase Carey used to serve as a top advisor for a major broadcasting company.",
+              "stemCn": "【定位】由题干中的topadvisor和broadcasting",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句。"
+              },
+              "answer": "J",
+              "analysis": "公司，他多年来一直担任高级顾问。题干中的top advisor在定位句中直接出现，题干中的major broadcasting company对应定位句中的Fox BroadcastingCompany，题干是对定位句的同义转 参考译文 述，故答案为J）。"
+            },
+            {
+              "num": 42,
+              "stem": "Chase Carey intends to make connections easier between the audience and the Formula One racers.",
+              "stemCn": "【定位】由题干中的connections、easier和",
+              "options": {},
+              "optionCn": {
+                "F": "段末句。"
+              },
+              "answer": "F",
+              "analysis": "一是改变粉丝体验这项运动的方式，无论是近距离 观赛还是远程视听体验，这样才更容易建立观众和 赛事参与者之间的联系。题干中的easier在定位 句中直接出现，题干中的theFormulaOneracers 对应定位句中的peoplewithintheseries，题干是 对定位句的同义转述，故答案为F）。"
+            },
+            {
+              "num": 43,
+              "stem": "The new leader of Formula One admit ted he was not super interested in car racing.",
+              "stemCn": "【定位】由题干中的notsuperinterestedincar",
+              "options": {},
+              "optionCn": {
+                "C": "段第二句。"
+              },
+              "answer": "C",
+              "analysis": "最近收购了一级方程式赛事。在这之后，蔡斯·凯 里被任命接替埃克莱斯顿，并试图在企业管理、企 业影响力和企业目标这三个方面进行革新。 蔡斯·凯里自己也承认他不是一个狂热的赛车迷。 题干中的ThenewleaderofFormulaOne对应定 位句中的Chase Carey..was named to replace Ecclestone，题干中的admitted对应定位句中的 admission，题干中的not super interested in car racing对应定位句中的notafierceracingfan，故 答案为C)。"
+            },
+            {
+              "num": 44,
+              "stem": "People's opinions differ as to whether Formula One can be promoted in the U.S.",
+              "stemCn": "【定位】由题干中的opinions和whetherFormula",
+              "options": {},
+              "optionCn": {
+                "H": "段第一、二"
+              },
+              "answer": "",
+              "analysis": "句。 美国体育界，一级方程式还有立足之地吗？对此， 人们各持己见。题干中的opinionsdiffer对应定 位句中的Opinions vary，题干中的bepromotedin theU.S.对应定位句中的roomforFormulaOne in the ever-crowded sports landscape of the UnitedStates，题干是对定位句的同义转述，故答 案为H)。"
+            },
+            {
+              "num": 45,
+              "stem": "Compared with other racing series, Formula One focuses more on speed and involves more danger.",
+              "stemCn": "【定位】由题干中的speed和danger定位到文章",
+              "options": {},
+              "optionCn": {
+                "K": "段倒数第一、二句。"
+              },
+              "answer": "K",
+              "analysis": "乎危险、关乎风险。一级方程式赛事比任何其他系 列赛都更具这些特点。题干中的Comparedwith otherracing series对应定位句中的morethanany otherracing series，题干是对定位句的同义转述， 故答案为K）。 新任的一级方程式领导人希望吸引美国人的注意力 尼·埃克莱斯顿。他曾是一名摩托车零件经销商，基本上凭一己之力将其打造成了一项国际赛事。 第9页，共14页 裁者”时，这项运动才会处于鼎盛时期。 这之后，福克斯广播公司和直播电视集团有限公司的前高管蔡斯·凯里被任命接替埃克莱斯顿，并试图 在企业管理、企业影响力和企业目标这三个方面进行革新。蔡斯·凯里自己也承认他不是一个狂热的 赛车迷。 全球所有体育运动都有这种追求。凯里说：“别人说我们要把这项运动美国化’，我们不会完全那么 做。但实际上，这项运动确实可以使用一些美国化的元素。 而不是纳斯卡车赛。一级方程式车队在世界各地的赛道上驾驶着技术先进得多的赛车——不仅在像 马来西亚、摩纳哥、新加坡和阿拉伯联合酋长国等地举行的大型赛事中进行比赛，也在像英国银石赛 道和意大利蒙扎赛道等有丰富传统的赛道上进行比赛。 事带到一个美国城市，比如纽约、洛杉矶、迈阿密或拉斯维加斯。（42）凯里雄心勃勃的计划分为两部 分：首先，改变一级方程式的商业模式。依他所说，这项运动之前只是埃克莱斯顿领导下的一场“独角 戏”，在商谈合作协议方面，视野非常狭隘；其次，改变粉丝体验这项运动的方式，无论是近距离观赛还 是远程视听体验，这样才更容易建立观众和赛事参与者之间的联系。 新——坐在法拉利里绕赛道飞驰是什么感觉？—这些都有可能实现。凯里说：“这项运动显然被服 务的并不到位，它还没有通过数字媒体做过任何活动。也没有营销，也不讲任何故事。（36-2）我们的 目标是让粉丝尽可能多地与现场体验联系起来，而我们有用来做这件事的工具，却根本没有使用过。 人们各持己见，尤其是因为消费者的观看习惯在不断演变。西彭斯堡大学研究美国运动史的教授约 翰·布卢姆表示，对于任何试图在美国增加影响力的体育运动来说，它要面对的最大的挑战就是以一 种具有持久吸引力的方式来塑造自己。布卢姆说：“运动在某种程度上之所以受欢迎，是因为它们在 建立一种叙事。当我想到美国的赛车运动时，我们都会想到纳斯卡车赛。纳斯卡车赛的叙事，有点像 美国乡村中工薪阶层的白人，大多在南方，这与那群人的氛围建立了一种联系。这就是叙事。当我想 到一级方程式的叙事时，受众群体就很不一样。” 赛联系起来，但凯里表示，一级方程式的品牌调研显示，两者几乎没有交集。相反，一级方程式的粉丝 通常会提到他们喜欢的其他所谓的精英赛事，比如，温布尔登网球锦标赛或莱德杯。凯里说：“除了都 是赛车外，纳斯卡车赛的粉丝群体与一级方程式的粉丝群体非常不同。纳斯卡车赛的粉丝群体非常 有地区性，而一级方程式则是一个全球著名的明星品牌。这些一级方程式赛车是些会让你感到震惊 和敬畏的机器。 间，他曾帮助引领该公司进入体育领域，并创办福克斯新闻频道，这些技能都令他声名鹊起。在加入 直播电视集团有限公司后，他又将这家卫星电视提供商定位为数百万家庭的主流选择。 InVivo媒体集团的高管帕特里克·克雷克斯说：“我认为他们可以在美国建设一级方程式赛事。”克 雷克斯在福克斯广播公司工作了25年，于2016年离职，曾担任福克斯体育的高级经理。“人们不再 改进自己的车了。他们不再想要这种联系了。这关乎技术和突破极限。（45）这关乎速度、关乎危险、 关乎风险。一级方程式赛事比任何其他系列赛都更具这些特点。” 式摩纳哥站的比赛，比赛前的仪式就令他大吃一惊，同样让他感到吃惊的是，开赛前几天，这个比赛已 经让这座城市都跟着沸腾了起来。在他看来，这就像是一场超级碗橄榄球赛。 场景迷住了。（40)“你会不由自主地感到敬畏，”他说，“我认为那种感觉可以传达给观众。” 外的人。那些一直参与这项运动的人，只会坐在那里说：我们不能那样做。我们不能那样做，因为以 前从来没这么做过。' 第10页，共14页"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_2-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Supermarketshavelongbeensufferingas one oft he thin nest-marginedbusinesses in existence and one of the least-looked-forward-to places to work or visit. Form ore than a decade, they have been under attack fro me-commerce giants, blamed form a king Americans fat, and accusedofcontributing to climate change. Supermarkets cantechnicallybedefinedas giantshousing 15,000to 60,000differentproducts. The revolutionary idea of a self-service grocery, where people could hunt and gather foodfromaislesratherthan as king a clerk to fetch itemsfrombehinda counter, firstcameabout in America. There is some debate about which was the very first but overt he years a consensus hasbuiltaroundKing KullenSupermarket, founded in New York in 1930. For some 300years, Americans hadfedthemselvesfromsmall storesandpublicmarkets. Shopping for food involvedmud, noisy chickens, cloudsofflies, nastysmells, bargaining, and getting short-changed. The supermarketimitatedtheFordistfactory, withitsemphasisonefficiencyandstandardization, andreimagined it as a place to buy food. Supermarkets maynotfeelcutting-edge now, butt hey were a revolution in distribution at the time. They were such strange marvelsthat, onherfirstofficialstatevisit to the un i ted State sin 1957,QueenElizabethIIinsistedonanimpromptu（即兴的) tour of a suburban-MarylandGiant Food. The typical supermarketlayouthasbarelychangedoverthe past 90years. Most store so pen with flowers, fruitandvegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basicsallthe way back so youlltravelthroughas much of the store as possible, and be tempted along the way. In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this \"revolutionindistribution\"usescorporateblackmagiconourappetite. ThebookTheHiddenPersuaders, published in 1957,warned that supermarkets were putting women in a \"hypnoidal trance（催眠恍惚状态),\" causing them to wanderaisles bumping intoboxesand\"picking thingsoff shelves at random.\"",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What problem have supermarkets been facing?",
+              "stemCn": "【定位】由题干中的problem和facing定位到第一段。",
+              "options": {
+                "A": "They are actually on the way to bankruptcy.",
+                "B": "They have been losing customers and profits.",
+                "C": "They are forced to use e-commerce strategies.",
+                "D": "They have difficulty adapting to climate change."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位段提到，长期以来，超市"
+              },
+              "answer": "B",
+              "analysis": "一直都是利润最微薄的行业之一，也是人们最不期 待去工作和光顾的地方之一。十多年来，超市一直 受到了来自电子商务巨头的冲击，被指责不但造成 了美国人发胖，还加剧了气候变化。由此可知，超 市的顾客和利润一直在减少，故答案为B）。 【避错】首段第一句指出，超市长期以来一直都是 利润最微薄的行业之一，第二句提到，超市受到来 自电子商务巨头的冲击，但并没有表明超市因此走 向破产，A）项为过度推理，故排除。首段第二句提 到，超市一直受到了来自电子商务巨头的冲击，而 非超市被迫采用电子商务策略，故排除C）。首段 第二句提到，人们指责超市加剧了气候变化，而非 超市很难适应气候变化，故排除D）。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the passage say about the idea of a self-service grocery?",
+              "stemCn": "【定位】由题干中的theideaofaself-service",
+              "options": {
+                "A": "It was put forward by king Kullen.",
+                "B": "It origin a ted in the UnitedStates.",
+                "C": "It has been under constant debate.",
+                "D": "It proves revolutionary even today."
+              },
+              "optionCn": {
+                "B": "【精析】细节辨认题。定位句提到，自助式杂货店 这个想法最早起源于美国，故答案为"
+              },
+              "answer": "B",
+              "analysis": "grocery定位到第二段第二句。 【避错】第二段末句提到，人们达成共识，认为纽约的 金库伦超市是第一家超市，而非自助杂货店的想法由 金库伦超市提出，故排除A）。第二段末句提到，关于 到底哪家超市是第一家一直存在争议，而非自助杂货 店的想法存在争议，故排除C）。第三段第四句指出， 在当时，超市可是销售领域的一场革命，而非在当下 该想法也被证明具有革命性，故排除D）。"
+            },
+            {
+              "num": 48,
+              "stem": "What didsupermarkets do by adopting theFordistfactory approach?",
+              "stemCn": "【定位】由题干中的Fordistfactoryapproach定位",
+              "options": {
+                "A": "They modernized traditional groceries in manyways.",
+                "B": "Theyintroducedcutting-edgelayoutoftheirstores.",
+                "C": "They improvedthequality oft he food theysold. 2023年6月四级真题第2套第6页，共8页 ===== PAGE 7 =====",
+                "D": "They revolutionized the distribution of goods."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，超市模仿了福"
+              },
+              "answer": "D",
+              "analysis": "到第三段第三、四句。 特主义工厂的理念，注重效率和标准化，并将其重 新构想为购买食物的场所。尽管如今超市可能已 不再具备前沿感，但在当时，超市可是销售领域的 一场革命。由此可知，超市通过采用福特工厂的方 法，将其应用到购买食物的场景中，由此改变了食 物的销售方式，故答案为D）。 【避错】定位句只是指出超市模仿了福特工厂的模 式，把它想象成购物的地方，改变了销售方式，而非 超市通过模仿了福特工厂的模式，对传统杂货店进 行了现代化改造，现代化改造是比改变食物的销售 方式更为宽泛的概念，故排除A）。文中并未提到 “它们采用了最先进的店面布局”和“改善了食品质 量”，故排除B）和C）。"
+            },
+            {
+              "num": 49,
+              "stem": "What is the typical supermarket layout intended to do?",
+              "stemCn": "【定位】由题干中的typicalsupermarketlayout",
+              "options": {
+                "A": "Arouse customers' appetite to buy flowers, fruit and vegetables.",
+                "B": "Provide customers easy access to items they want to buy.",
+                "C": "Induce customers to make more unplanned purchases.",
+                "D": "Enable customers to have a more enjoyable shopping experience."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。定位段指出，典型的超市布"
+              },
+              "answer": "C",
+              "analysis": "intendedtodo定位到第四段。 局会在前面设有鲜花、水果和蔬菜，唤起我们的食 欲。将牛奶、鸡蛋等其他日常基本商品都放置在最 内侧，顾客需要穿过尽可能多的区域才能购买到必 须要买的日用品，从而在途中受到诱惑，增加更多 的非计划购买，故答案为C）。 【避错】第四段第二句指出，超市通常将鲜花、水果 和蔬菜放在前部以吸引顾客的注意，但这不是布局 第11页，共14页 的主要目的。这样布局是为了在进入超市时，能给 顾客带来一股新鲜感，而不是唤起顾客只购买鲜 花、水果、蔬菜的欲望，故排除A）。第四段第三句 指出，超市还将牛奶、鸡蛋等其他日常必需品摆放 在最内侧，这样顾客需要穿过整个商店才能买到必 需品，如果超市为客户提供方便，让他们买到想买 的商品，应该把必需品放置在超市的人口处，由此 可知，超市布局不是为了给客户提供方便，让他们 买到想买的商品，故排除B）。第四段第三句提到， 超市的布局是为了增加更多的非计划购买，而不是 为了提供愉快的购物体验，故排除D）。"
+            },
+            {
+              "num": 50,
+              "stem": "What have people long feared about supermarkets?",
+              "stemCn": "【定位】由题干中的long fearedabout supermarkets",
+              "options": {
+                "A": "They use tricky strategies to promote their business.",
+                "B": "They are going to replace the local groceries entirely.",
+                "C": "They apply corporate black magic to the goods on display.",
+                "D": "They take advantage of the weaknesses of women shoppers."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。定位句指出，人们长期以来"
+              },
+              "answer": "A",
+              "analysis": "定位到最后一段第二句。 参考译文 一直担心这种“分销革命”会利用企业的黑魔法来 操纵他们的欲望。下一句以女性逛超市，经常漫无 目的地徘徊，随机购物为例，说明超市用策略增加 人们的消费。由此可见，人们一直担心超市用策略 推销自己的生意，故答案为A）。 【避错】文中并没有明确提到人们担心超市会完全取 代当地杂货店，故排除B）。定位句指出，人们长期以 来一直担心这种“分销革命”会利用企业的黑魔法来 操纵他们的欲望，而非担心企业的黑魔法用在产品的 展示上，故排除C)。文章末段提到了人们对超市的 担忧，并以女性在超市购物为例进行说明，但没有明 确提及超市利用女性顾客的弱点，故排除D）。 （46）长期以来，超市一直是现存利润最微薄的行业之一，也是人们最不期待去工作和光顾的地方之一。十 多年来，超市一直受到了来自电子商务巨头的冲击，被指责不但造成了美国人发胖，还加剧了气候变化。 从技术上讲，超市可以被定义为容纳15，000至60，000种不同商品的巨型商店。（47）自助式杂货店 这一革命性想法最早起源于美国，在这里，人们可以自己从货架上挑选、收集食物，而不必让店员从柜台后 取货。关于到底哪家超市是第一家一直存在争议，但多年来，人们已经达成共识，认为金库伦超市是第一 家超市，该超市于1930年在纽约成立。 在长达300年的时间里，美国人一直在小商店和公共市场购物。人们买菜需要穿过泥泞的道路，听 着鸡群嘹亮的啼鸣，苍蝇嗡嗡作响，忍受着难闻的气味，讨价还价，有时甚至还会遭遇找零不足的情况。 （48）超市模仿了福特主义工厂的理念，注重效率和标准化，并将其重新构想为购买食物的场所。尽管如今 超市可能已不再具备前沿感，但在当时，超市可是销售领域的一场革命。超市可谓是奇特的创举，甚至在 1957年，女王伊丽莎白二世首次对美国进行正式国事访问时，她坚持要即兴参观一家位于马里兰郊区的 巨型食品店。 （49）过去90年来，典型的超市布局几乎没有太大变化。大多数超市都会在门口陈列鲜花、水果和蔬 菜，给人们带来一股清新的气息，唤起我们的食欲。与此同时，超市还将牛奶、鸡蛋等其他日常必需品摆放 在最内侧，这样顾客需要穿过商店中尽可能多的区域，途中很可能会受到各种诱惑。 早期，随着超市的增加，我们对它的怀疑也在增加。（50）我们长期以来一直担心这种“分销革命”会利 用企业的黑魔法来操纵我们的欲望。1957年出版的《隐藏的劝说者》一书警告称，超市让女人陷入了“催 眠恍惚状态”，这使她们在货架间漫无目的地徘徊并“随机从货架上挑选商品”。 Passage Two 【文章来源】本文选自2016年8月13日发表在theedadvocate.org网站上一篇标题为“Top3ReasonsTheU.S. ShouldSwitchtoYear-roundSchooling（《美国应该转向全年制教育的三大理由》）的文章。 【结构框图】 第1段主要介绍了美国传统的学年设置及其原因。 本文主要介绍了美国 第2、3段阐述了全年制学校教育会带来的诸多好处。 全年制学校教育会带 来的好处及传统学年 设置的现状，呼吁进 第4段揭示了美国传统学年设置的真实状况不尽如人意。 行学年设置改革。 第5段总结全文，指出美国学年改革的必要性。 第12页，共14页 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet4-2023_06_2-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. Since then, we've completely changed as a nation. Students no longer spend summers farming, but they aren't in school, either. The average American student receives 13 weeks off from school each calendar year-with about 11 of those during the summer. Few other countries have more than seven weeks off in a school calendar. With the U.S. lagging behind other countries in academics, it's time to consider year-round schooling. One benefit of this change is that students will not fall victim to the \"summer slide,\" or the well-documented phenomenon where students forget some of the knowledge they have acquired when too much time is taken off from school. Decades of research shows that it can take from 8 to 13 weeks at the beginning of every school year for students to get back to where they were before the summer holiday. But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment. These closer bonds and greater attachment pay off. Research shows that students in year-round schools are more self-confident and feel more positive about their schooling experience. But don't kids need time to relax? Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits them. The U.S. has changed from a farming economy to a knowledge- and innovation-based economy, so it makes sense for the school year to change as well.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "Why did America's traditional school year have a three-month summer vacation?",
+              "stemCn": "【定位】由题干中的athree-monthsummer",
+              "options": {
+                "A": "Students needed to help with farm work.",
+                "B": "Students needed time to learn necessary farming skills. 2023年6月四级真题第2套第7页，共8页 ===== PAGE 8 =====",
+                "C": "The agricultural society then attachedless importance to academics.",
+                "D": "Americalaggedbehindothercountries inmaking a scientific school calendar."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，传统的学年，每"
+              },
+              "answer": "A",
+              "analysis": "vacation定位到首段第一句。 年夏天有三个月的假期，最初是在美国还是农业社 会时实施的，夏季的几个月需要从事农场工作，故 答案为A)。 【避错】文中未提及B）“学生们需要时间去学习必 要的农业技能”、C）“当时的农业社会对学术不太 重视”和D）“美国在制订科学的校历方面落后于其 他国家”，故排除。"
+            },
+            {
+              "num": 52,
+              "stem": "What benefit will year-round schooling bring students in addition to improving their learning?",
+              "stemCn": "【定位】由题干中的benefit和year-round",
+              "options": {
+                "A": "It will help them get back to where theirlessons star ted.",
+                "B": "It will enable them to absorb what they have learned.",
+                "C": "It will familiarize them with the school environment.",
+                "D": "Itwillstrengthentheirrelationship withteachers."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。第二段主要论述了全年制学"
+              },
+              "answer": "D",
+              "analysis": "schooling定位到第三段首句。 校教育在学术方面的好处，第三段则补充说明其在 其他方面的益处。第三段第二句中提到，相较于传 统的学校，在全年制学校里，老师和学生会形成一 种更为亲密的关系，故答案为D）。 【避错】“它会帮助他们回到课程开始的地方”属于 学术方面的好处，故排除A）。文中未提及“它会让 他们吸收所学的知识”，故排除B）。第三段提到， 在没有任何长期假期的情况下，学生们不会感到与 学校环境脱节，这并不意味着“它会让他们熟悉学 校环境”，故排除C）。"
+            },
+            {
+              "num": 53,
+              "stem": "What do some childhood development experts believe about the long summer vacation?",
+              "stemCn": "【定位】由题干中的childhooddevelopment",
+              "options": {
+                "A": "Itmeets students'need to study on their own.",
+                "B": "It enables students to learn about the outside world.",
+                "C": "It satisfies students' desire to stay longer at home.",
+                "D": "It contributes to students'healthy growth."
+              },
+              "optionCn": {
+                "D": "【精析】细节辨认题。定位句指出，一些儿童发展"
+              },
+              "answer": "D",
+              "analysis": "experts定位到第四段第二句。 专家认为，放假对孩子的健康发展至关重要，因为 孩子们不适合在教室里花那么多时间，而暑假提供 参考译文 了一个外出的绝佳的机会，故答案为D)。 【避错】文中未提及“它满足了学生独立学习的需 求”，故排除A)。虽然定位句中提到了暑假可以提 供一个外出的绝佳的机会，但最终目的是确保学生 健康成长，而非了解外面的世界，故排除B）。第四 段提及大部分学生会在暑期待在家里，但这是一种 不好的现象，故排除C）。"
+            },
+            {
+              "num": 54,
+              "stem": "What is the argument against the experts' idea of a long summer vacation?",
+              "stemCn": "【定位】由题干中的the argumentagainstthe",
+              "options": {
+                "A": "It doeslittlegoodtomoststudents.",
+                "B": "It benefits few students playing outside.",
+                "C": "Itleads students to neglect their studies.",
+                "D": "It makes students addicted to computer games."
+              },
+              "optionCn": {
+                "A": "【精析】细节辨认题。定位句指出，这种观点的问"
+              },
+              "answer": "A",
+              "analysis": "experts'idea定位到第四段第三、四句。 题在于，大多数孩子都不出去玩，甚至不花时间和 其他孩子在一起。虽然有些孩子参加夏令营，但大 多数孩子待在家里看电视或玩电子游戏，这对他们 几乎没有好处。因此，答案为A)。 【避错】“它有利于极少的在户外玩耍的孩子”是支 持专家观点的论据，与题干不符，故排除B）。“它 导致学生忽略学业”和“它让学生沉迷于电脑游戏” 是对定位段中“大多数孩子待在家里看电视或玩电 子游戏”的过度推断，故排除C）和D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What does the author think oft he traditional school year in the U.S.today?",
+              "stemCn": "【定位】由题干中的thetraditionalschoolyearin",
+              "options": {
+                "A": "Well-grounded.",
+                "B": "Culture-bound.",
+                "C": "Outdated.",
+                "D": "Welcomed."
+              },
+              "optionCn": {
+                "C": "【精析】观点态度题。定位段指出，美国已经从农"
+              },
+              "answer": "C",
+              "analysis": "theU.S.today和题文同序原则定位到最后一段。 业国家转变为以知识和创新为基础的经济体，因此 改变学年也是有意义的。言外之意是传统学年的 设置是过时的，故答案为C）。 【避错】文中未提及A）“有充分依据的”B）“受文 化限制的”和D)“受欢迎的”，故排除。 （51）传统的学年，每年夏天有三个月的假期，最初是在美国还是农业社会时实施的，夏季的几个月需 要从事农场工作。从那时起，作为一个国家，我们完全改变了。学生们不再用暑假种地，但他们也不在学 校。普通的美国学生每年都可以获得13周的假期，其中大约11周是在夏季。很少有其他国家每年会放 超过7周的假期。 由于美国在学术上落后于其他国家，是时候考虑一下全年制学校教育了。这种改变的一个好处是，学 生们不会成为“夏季滑坡”的受害者，这是一种有证据证明的现象，即当学生们离开学校的时间太长时，他 们会忘记一些已经学过的知识。几十年的研究表明，每学年开始时，学生们可能需要8到13周的时间才 能回到暑假前的状态。 但是全年制学校教育并不仅仅关于学术。（52）相较于传统的学校，在全年制学校里，老师和学生会形 成更密切的关系，并且，在没有任何长期假期的情况下，学生们不会感到与学校环境脱节。这种更为亲密 的联系和更强的依恋是有益的。研究表明，全年制学校的学生们更加自信，对他们的校园体验有更积极的 态度。 但是学生们不需要时间去放松吗？（53）一些儿童发展专家认为，放假对孩子的健康发展至关重要，因 为孩子们不适合在教室里花那么多时间，而暑假提供了一个外出的绝佳机会。（54）这种观点的问题在于， 大多数孩子都不出去玩，甚至不花时间和其他孩子在一起。虽然有些孩子参加夏令营，但大多数孩子待在 家里看电视或玩电子游戏，这对他们几乎没有好处。 （55）美国已经从农业国家转变为以知识和创新为基础的经济体，因此改变学年也是有意义的。 第13页，共14页 Part Translation For more than 40 years since the reform and opening up policy was adopted, the Chinese government has attached more and more importance to higher education, which has entered a stage of steady development.The totalnumberofuniversity students has reached nearly 47 million, rankingfirst in the world.With the rapid development of China's economy and the continuous improvement of Chinese people's living standards, an increasing number of people are eager to receive higher education. The number of universities and disciplines inChina have been on the increase, the number of enrollments is rising year by year, and the teaching quality is improving, creating opportunities for more young people to receive higher education. academicachievement学术成就 academicresearch学术研究 bachelor'sdegree学士学位 master'sdegree硕士学位 doctoraldegree/doctorate博士学位 参考译文与难点注释"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet4-2023_06_2-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "改革开放40多年以来，中国政府对高等教育越来越重视，高等教育已经进入稳步发展阶段。 高校学生总数已接近4，700万人，位居世界第一。随着我国经济的快速发展，人民生活水平不断提 高，越来越多的人渴望接受高等教育。我国高校的数量和学科专业持续增加，招生人数逐年上升， 教学质量也在不断改进，为更多年轻人创造了接受高等教育的机会。 2023年6月四级真题第2套第8页，共8页",
+          "terms": [],
+          "reference": "",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

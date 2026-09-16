@@ -1,0 +1,760 @@
+{
+  "id": "cet6-2021_06_1",
+  "level": 6,
+  "year": 2021,
+  "month": 6,
+  "setNo": "第1套",
+  "title": "2021年6月六级真题（第1套）",
+  "minutes": 125,
+  "sections": [
+    {
+      "partNo": "I",
+      "partName": "写作",
+      "partNameEn": "Writing",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_1-writing",
+          "group": "短文写作",
+          "groupCn": "Writing",
+          "label": "Writing",
+          "prompt": "Directions: For this part,you are allowed 3O minutes to write an essay based on the graph below. You should start your essay with a brief description of the graph and comment on China's achievements in urbanization. You should write at least 150 words but no more than 200 words. Degree ofurbanization inChinafrom1980to2019 70% 59.58%60.6% 60% 56.1%57.35% 53.73% 51.27% woendod am no s 49.95% 50% 42.99% 40% 36.22% 29.04% 30% 26.41% 23.71% 19.39% 20%- 10% 1980198519901995200020052010201120122013201420152016201720182019",
+          "review": "",
+          "sample": "",
+          "sampleNote": "",
+          "sampleCn": "",
+          "vocab": [],
+          "patterns": [],
+          "questions": []
+        }
+      ]
+    },
+    {
+      "partNo": "II",
+      "partName": "听力理解",
+      "partNameEn": "Listening Comprehension",
+      "score": 248.5,
+      "minutes": 25,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_1-L12",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report One",
+          "intro": "Questions 12 to 15 are based on the passage you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 12,
+              "stem": "What did Texas businessman Pattillo Higgins C)",
+              "stemCn": "",
+              "options": {
+                "A": "There were oil deposits below a local gassy hill.",
+                "B": "The erupting gas might endanger local children.",
+                "C": "There was oil-leakage-along the Gulf Coast.",
+                "D": "The local gassy hill might start a huge fire."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。由句(12)可知，帕蒂罗·希"
+              },
+              "answer": "A",
+              "analysis": "believe? 金斯是当地一个声名狼藉的商人，他确信这座充 满天然气的小山下面有石油。因此答案为A）。"
+            },
+            {
+              "num": 13,
+              "stem": "What prevented Higgins’ workers from digging a",
+              "stemCn": "",
+              "options": {
+                "A": "The massive gas underground.",
+                "B": "Their lack of the needed skill."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。由句(13)可知，当时的油井"
+              },
+              "answer": "D",
+              "analysis": "proper hole to get the oil? 不是钻取的，基本上是挖出来的。希金斯的工人 们几次想挖一个合适的洞都被山下的沙子挫败 了。因此答案为D）。"
+            },
+            {
+              "num": 14,
+              "stem": "What does the passage say about Captain Lucas'",
+              "stemCn": "",
+              "options": {
+                "A": "It was not as effective as he claimed.",
+                "B": "It rendered many oil workers job less."
+              },
+              "optionCn": {
+                "C": "。"
+              },
+              "answer": "",
+              "analysis": "drilling method? Section C 【精析】事实细节题。由句（14）可知，在经历了几 次挫折后，卢卡斯队长决定使用钻机，他的创新创"
+            },
+            {
+              "num": 15,
+              "stem": "What do we learn about Texas’ oil industry boom?",
+              "stemCn": "",
+              "options": {
+                "A": "It ruined the state's cotton and beef industries.",
+                "B": "It totally destroyed the state's rural landscape. Section C",
+                "C": "Their lack of suitable tools.",
+                "D": "The sand under the hill."
+              },
+              "optionCn": {
+                "D": "【精析】细节归纳题。由句（15）可知，当时的得克"
+              },
+              "answer": "D",
+              "analysis": "萨斯州几乎完全是农村，没有大城市，几乎没有工 业；棉花和牛肉是经济的基础。希金斯的油井改 变了这一点。丰富的石油使一些勘探者成为百万 富翁，但是石油的突然过剩并不完全是得克萨斯 州的福音。20世纪30年代，油价暴跌，以至于在 美国的某些地区，石油比水还便宜。这将成为得 克萨斯州经济繁荣或萧条的常见模式。因此答案 为D)。 Questions 16 to 18 are based on the recording you have just heard. Most people dislike their jobs. It’s an astonishing(but statistical） fact.(16)A primary cause of employee dissatisfaction,according to fresh research,is that many believe they have terrible managers. Few describe their managers as malicious or manipulative,though,while those types certainly exist,they are minority.The majority of managers seemingly just don't know any better.They're often emulating bad managers theyve had in the past.It’s likely theyve never read a management book or attended a management course. They might not have even reflected on what good management looks like and how it would influence their own management style. The researchers interviewed employees about their managers,beginning with a question about the worst manager they had ever had. From this,the researchers came up with four main causes of why some managers are perceived as being simply awful at their jobs. (17-1)The first cause was company culture, which was seen by employees as enabling poor management practices. It was specifically stressful work environments,minimal training and a lack of accountability that were found to be the most blameworthy.Often a manager's superiors can effectively encourage a manager's distasteful behavior when they fail to discipline the person's wrongdoings.(17-2)Such workplaces are sometimes described as toxic. The second cause was attributed to the managers’characteristics. Those deemed to be most destructive were odd people,those without drive,those who allow personalproblems into the workplace and those with an unpleasant temperament or personality in general. The third cause of poor management was associated with a deficiency of qualifications. Not so much the formal variety one obtains from a university but the informal variety that comes from credible work experience and professional accomplishments. The fourth cause concerned managers who've been promoted for reasons other than potential.One reason in particular why these people had been promoted was that they had been around the longest. It wasnt their skillset or other merits that got them the job. It was their tenure. (18) A point worth making is that the study was based only on the perspective of employees. The researchers didn't ask senior leaders what they thought of their frontline managers.It’s quite possible they're content with how the individuals they promoted are now performing,merrily ignorant of the damage they're actually causing,which might explain why,as the researchers conclude,those same middle managers are usually unaware that they are a bad manager."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_1-L16",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Two",
+          "intro": "Questions 16 to 18 are based on the recording you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 16,
+              "stem": "What is a primary cause of employee",
+              "stemCn": "",
+              "options": {
+                "A": "Insufficient motivation.",
+                "B": "Tough regulations."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。由句（16）可知，最新研究显"
+              },
+              "answer": "D",
+              "analysis": "dissatisfaction according to recent research? 示，导致员工不满的一个主要原因是，很多人认为 自己有一个糟糕的经理。因此答案为D）。"
+            },
+            {
+              "num": 17,
+              "stem": "What is one of the causes for poor management",
+              "stemCn": "",
+              "options": {
+                "A": "Ineffective training.",
+                "B": "Toxic company culture.",
+                "C": "Unsuitable jobs.",
+                "D": "Bad managers."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。由句（17-1）和句（17-2）可"
+              },
+              "answer": "B",
+              "analysis": "practices? 知，造成管理不善的第一个原因是公司文化，员工 认为这导致了糟糕的管理做法，这样的工作场所 有时被描述为是有毒的。因此答案为B）。"
+            },
+            {
+              "num": 18,
+              "stem": "What do we learn about the study on job",
+              "stemCn": "",
+              "options": {
+                "A": "It was based only on the perspective of employees.",
+                "B": "It provided meaningful clues to solving the problem.",
+                "C": "It was conducted from front line managerspoint of view.",
+                "D": "It collectedfeedback from both employers and employees."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。句（18)中提到，值得指出的"
+              },
+              "answer": "",
+              "analysis": "dissatisfaction? 一点是，这项研究只是基于员工的视角。研究人 员没有询问高层领导对一线经理的看法。因此答 案为A)。 Questions19to 21 are based on the recording you have just heard. With the use of driverless vehicles seemingly inevitable,mining companies in the vast Australian desert state of Western Australia are definitely taking the lead. Iron ore is a key ingredient in steel making.The mining companies here produce almost 300 million tons of iron ore a year. The 240 giant autonomous trucks in use,in the Western Australian mines,can weigh 400 tones fully loaded,and travel at speeds of up to60 kilometers per hour. They are a technological leap,transporting iron ore along routes which run for hundreds of kilometers from mines to their destinations.Here, when the truck arrives at its destination, staff in the operation center direct it precisely where to unload. Vast quantities of iron ore are then transported by autonomous trains to ocean ports.(19)Advocates argue these automated vehicles will change mining forever.It may only be five years before the use of automation technology leads to a fully robotic mine.A range of factors has pushed Western Australia's desert region to the lead of this automation revolution. These include the huge size of the mines,the scale of equipment, and the repetitive nature of some of the work. Then there's the area's remotenessat 502,000 square kilometers—it can sometimes make recruiting staff a challenge. Another consideration is the risks when humans interact with large machinery. There are also the financial imperatives. The ongoing push by the mining corporations to be more productive and more efficient is another powerful driver in embracing automation technology. The concept of a fully autonomous mine is a bit of a misleading term however． This is because the more technology is put into the field,the more people are needed to deploy,maintain and improve it.（2O)The automation and digitization of the industry is creating a need for different jobs. These include data scientists and engineers in automation and artificial intelligence. The mining companies claim automation and robotics present opportunities to make mining more sustainable and safer.Employees will be offered a career that is even more fulfilling and more rewarding.（21)Workers’unions have accepted the inevitability of the introduction of new technology,but they still have reservations about the rise of automation technology. Their main concern is the potential impact on remote communities. As automation spreads further,the question is how these remote communities will survive when the old jobs are eliminated.And this may wellprove to be the most significant impact of robotic technology in many places around the world."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_1-L19",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "News Report Three",
+          "intro": "Questions 19 to 21 are based on the recording you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 19,
+              "stem": "What does the passage say about the mining",
+              "stemCn": "",
+              "options": {
+                "A": "It is expanding at an accelerating speed.",
+                "B": "It is bringing prosperity to the region.",
+                "C": "It is yielding an unprecedented profit.",
+                "D": "It is seeing an automation revolution."
+              },
+              "optionCn": {
+                "D": "【精析】细节理解题。句（19）中提到，支持者认为，"
+              },
+              "answer": "D",
+              "analysis": "industry in Western Australia? 这些自动化车辆将永远改变采矿业。自动化技术 的应用可能只需要5年的时间就能实现全机器人 采矿。一系列因素已将西澳大利亚沙漠地区推向 自动化革命的前沿。因此答案为D）。"
+            },
+            {
+              "num": 20,
+              "stem": "What is the impact of the digitization of the",
+              "stemCn": "",
+              "options": {
+                "A": "It creates a lot of new jobs.",
+                "B": "It exhausts resources sooner.",
+                "C": "It causes conflicts between employers and employees.",
+                "D": "It callsfor the retraining of unskilled mining workers."
+              },
+              "optionCn": {
+                "A": "【精析】细节理解题。句（20)中提到，该行业（采矿"
+              },
+              "answer": "A",
+              "analysis": "mining industry? 业）的自动化和数字化创造了对不同工作岗位的 需求。也就是说，采矿业数字化创造了很多新的 就业岗位，答案为A）。"
+            },
+            {
+              "num": 21,
+              "stem": "What is the attitude of workers’unions towards",
+              "stemCn": "",
+              "options": {
+                "A": "They will wait to see its effect.",
+                "B": "They welcome it with open arms.",
+                "C": "They accept it with reservations.",
+                "D": "They are strongly opposed to it."
+              },
+              "optionCn": {
+                "C": "【精析】细节理解题。句（21）中提到，工会已经接"
+              },
+              "answer": "C",
+              "analysis": "the introduction of new technology? 受了新技术引入的必然性，但它们对自动化技术 的兴起仍持保留态度，它们主要担心的是对偏远 社区的潜在影响。因此答案为C）。 Questions 22 to 25 are based on the recording you have justheard. (22)According to official statistics,Thailand's annual road-death rate is almost double the global average. Thai people know that their roads are dangerous, but they don't know this could easily be changed. Globally, road accidents kill more people every year than any infectious disease. Researchers at the Institute for Health Metrics and Evaluation in America,put the death toll in 2017 at1.24 million.(23)According to the institute， the overallnumber of deaths has been more or less static since the turn of the century.But that disguises a lotof changes in individual coun tries. In many poor countries, road accidents are killing more people than ever before. Those countries have swelling young populations of fast-growing fleet of cars and motorbikes and a limited supply of surgeons. It is impossible to know for sure,because official statistics are so inadequate. But deaths are thought to have risen by 40% since 1990 in many low income countries. In many rich countries,by contrast,roads are becoming even safer.In Estonia and Ireland,for example,the number of death has fallen by about two thirds since the late 190s.(24)But the most important and intriguing changes are taking place in middle income countries,which contain most of the world's people and have some of the most dangerous roads. According to researchers,in China and South Africa traffic deaths have been falling since 20O,and inIndia since 2012,and the Philippines reached its peak four years ago. The question is whether Thailand can soon follow suit.RobMcKinney,head of the InternationalRoad Assessment Program,says that all countries tend to go through three phases. They begin with poor,slow roads. In the second phase,as they grow wealthier,they pave the roads,allowing traffic to move faster and pushing up the death rate. Lastly,in the third phase, countries act to make their roads safer. The trick,then,is to reach the third stage sooner by focusing earlier and more closely on fatal accidents. How to do that?(25)The solution lies not just in better infrastructure,but in better social incentives. Safe driving habits are practices which people know they should follow but often don't. Dangerous driving is not a fixed cultural trait as some imagine. People respond to incentives such as traffic laws that are actually enforced."
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_1-L22",
+          "group": "Section C",
+          "groupCn": "短文",
+          "label": "Conversation One",
+          "intro": "Questions 22 to 25 are based on the recording you have just heard.",
+          "material": "",
+          "questions": [
+            {
+              "num": 22,
+              "stem": "What does the speaker say about traffic accidents",
+              "stemCn": "",
+              "options": {
+                "A": "They have experienced a gradual decline since the year of 2017.",
+                "B": "Their annual death rate is about twice that of the global average.",
+                "C": "They kill more people than any infectious disease.",
+                "D": "Their cost to the nation's economy is incalculable."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。句（22）中提到，据官方统计，"
+              },
+              "answer": "B",
+              "analysis": "in Thailand? 泰国每年的交通事故死亡率几乎是全球平均水平 的两倍。因此答案为B）。"
+            },
+            {
+              "num": 23,
+              "stem": "What do we learn from an American institute's",
+              "stemCn": "",
+              "options": {
+                "A": "They are not as reliable as claimed.",
+                "B": "They rise and fall from year to year.",
+                "C": "They don't reflect the changes in individual countries.",
+                "D": "They show a difference between rich and poor nations."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。句（23）中提到，据该研究所"
+              },
+              "answer": "C",
+              "analysis": "statistics regarding road deaths? 称，自世纪之交以来，死亡总人数或多或少保持不 变，但这掩盖了各个国家的许多变化。因此答案 为C)。"
+            },
+            {
+              "num": 24,
+              "stem": "What is said about middle income countries?",
+              "stemCn": "",
+              "options": {
+                "A": "Many of them are investing heavily in infrastructure.",
+                "B": "Many of them have seen a decline in road-death rates.",
+                "C": "Many of them are following the example set by Thailand.",
+                "D": "Many of them have increasing numbers of cars on the road."
+              },
+              "optionCn": {
+                "B": "【精析】细节理解题。句（24）中提到，最重要和最"
+              },
+              "answer": "",
+              "analysis": "有趣的变化正在中等收人国家发生，这些国家的 人口占世界人口的大多数，道路也最危险。据研 究人员称，中国和南非的交通事故死亡人数自 2000年以来一直在下降，印度的交通事故死亡人 数自2012年以来也在下降，菲律宾的交通事故死"
+            },
+            {
+              "num": 25,
+              "stem": "",
+              "stemCn": "",
+              "options": {
+                "A": "Foster better driving behavior.",
+                "B": "Abolish all outdated traffic rules.",
+                "C": "Provide better training for drivers.",
+                "D": "Impose heavier penalties on speeding."
+              },
+              "optionCn": {},
+              "answer": "",
+              "analysis": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "III",
+      "partName": "阅读理解",
+      "partNameEn": "Reading Comprehension",
+      "score": 248.5,
+      "minutes": 40,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_1-banked",
+          "group": "Section A",
+          "groupCn": "选词填空",
+          "label": "Banked Cloze",
+          "material": "blank from a list of choices given in a word bank following the passage. Read the passage through care fully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Anew study has drawn a bleak picture of cultural inclusiveness reflected in the children's literature available in Australia. Dr. Helen Ad am from EdithCowanUniversitys School of Education 26 the cultural diversity of children's books. She examined the books 27 in the kindergarten rooms off our day-care centers in Western Australia. Just 18percentof 2,413books in the total collection containedany 28 of non-white people. Minority cultures were often featured in stereotypical or tokenistic ways, for example, by 29 Asian culture with chopsticks and traditional dress. Characters that did represent a minority culture usually had 30 roles in the books. The main characters were mostly Caucasian. This causes concern as it can lead to an impression that whiteness is of greater value. Dr. Ad am said children formed impressions about difference’and identity from a very young age. Evidence has shown they develop own-race 31 from as young as three months of age. The books we 六级2021年6月3 ===== PAGE 4 ===== share with young children can be a valuable opportunity to develop children's understanding of themselves and others. Books can also allow children to see diversity. They discover both similarities and differences between themselves and others. This can help develop understanding, acceptance and 32 of diversity. Census data has shown Australians come from more than 20O countries. They speak over 300 languages at home. Additionally, Australians belong to more than 100 different religious groups. They also work in more than 1,00O different occupations.“Australia is a multicultural society. The current promotion of white middle-class ideas and lifestyles risks 34children from minority groups. 33 This can give white middle-class children a sense of 35 or privilege, Dr. Ad am said.",
+          "wordBank": {
+            "A": "alienating",
+            "F": "investigated",
+            "B": "appreciation",
+            "G": "overwhelming",
+            "C": "bias",
+            "H": "portraying",
+            "D": "fraud",
+            "I": "representation",
+            "E": "housed",
+            "J": "safeguarded"
+          },
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 26,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "F": "【语法判断】空格位于两个名词结构之间，且整句"
+              },
+              "answer": "",
+              "analysis": "话缺少谓语，故空格处应填人动词作谓语，且由上 下文的时态可以判断，应为动词的-ed形式。 【语义判断】空格所在句的前一句提到一项新研究 表明的结果，后一句提到亚当博士具体研究的内 容，因此，空格处需要填人一个与“研究，调查”相 关的动词，由此确定F）investigated为答案。"
+            },
+            {
+              "num": 27,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "E": "【语法判断】空格前面是一个完整的主谓宾句子结"
+              },
+              "answer": "",
+              "analysis": "构she examined the books，空格后面是介词短语 “in the kindergarten rooms...”，因此，空格处可 填人形容词、副词或非谓语动词作修饰语。 【语义判断】由上下文可知，空格所在句是指亚当 博士调查了西澳大利亚州四个日托所的学前班房 间里的书籍，结合选项意思可知，E）housed“收 藏，存放”符合句意。此处housed为动词house的 过去分词，与其后的介词短语一起构成过去分词 短语，作名词books的后置定语。"
+            },
+            {
+              "num": 28,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "I": "【语法判断】空格前面为不定代词any，后面为介"
+              },
+              "answer": "",
+              "analysis": "词of，因此空格处应填人名词，和后面的ofnon- whitepeople一起构成名词短语，作contained的 宾语。 【语义判断】根据空格所在句提到的just18 percent of2，413books和该段倒数第二句“The 15 main characters were mostly Caucasian.推测空 格所在句是指澳大利亚现有的童书对非白人的描 述很少。I）representation“描述，描绘”符合句 意，故为答案。"
+            },
+            {
+              "num": 29,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "H": "【语法判断】空格前面为介词by，后面为名词短语"
+              },
+              "answer": "",
+              "analysis": "Asian culture，故空格处应填入动词的-ing形式。 【语义判断】空格所在句提到，对少数族裔文化的 描写往往带有刻板印象或者只做些表面文章，接 着用forexample引出例子，指出童书中描写亚洲 文化时，只会使用筷子或传统服饰这种带有刻板 印象的方式，由此确定H)portraying“描写，描绘” 为答案。"
+            },
+            {
+              "num": 30,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "K": "【语法判断】空格前为动词had，后面为名词roles，"
+              },
+              "answer": "",
+              "analysis": "故空格处应填人形容词作定语。 【语义判断】根据后一句提到的童书中的主角多为 白人，可推测空格所在句是说代表少数族裔文化 的人物通常为配角。K）secondary“次要的，从属 的”符合句意，故为答案。"
+            },
+            {
+              "num": 31,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "C": "【语法判断】空格前为复合形容词own-race“自己"
+              },
+              "answer": "C",
+              "analysis": "种族的”，后面为介词短语，可推知空格处应填人 名词作develop的宾语。 【语义判断】空格所在句的上一句提到，孩子从很 小开始就会对“差异”和身份形成印象，推测空格 所在句是说孩子从三个月大时就会产生对自己种 族的一种偏祖或偏爱，故答案为C）bias“偏见， 偏祖”。"
+            },
+            {
+              "num": 32,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "B": "【语法判断】空格前面的and为连词，用来连接并"
+              },
+              "answer": "",
+              "analysis": "列成分，故空格处填人的词应和understanding及 acceptance词性相同，词义接近，因此应填入一个 带有褒义色彩的名词。 【语义判断】空格所在句的前两句提到，书籍可以 让孩子们看到多样性，让他们发现自己和他人之 参考译文 间的相似和差异。因此空格所在句应是指这有助 于培养孩子对多样性的理解、接受和欣赏。故答 案为B)appreciation“欣赏”。"
+            },
+            {
+              "num": 33,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "G": "【语法判断】空格前为形容词current，空格后为名"
+              },
+              "answer": "",
+              "analysis": "词promotion，因此空格处应填人形容词和 current一起作定语修饰promotion。 【语义判断】第一段提到，2413本童书中，只有 18%的书包含了对非白人的描述。在书中，代表 少数族裔文化的人物通常扮演次要角色，主角一 般是白人。由此可知，现有的童书对白人的观念 和生活方式进行了过多宣扬，G）overwhelming “巨大的；压倒性的”符合语境，故为答案。"
+            },
+            {
+              "num": 34,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "A": "【语法判断】空格前面的lifestyles和risks中间没"
+              },
+              "answer": "",
+              "analysis": "有任何连接词，可知risks在此处不是名词，而是 谓语动词，因此空格处应为宾语。risk作动词使 用时，后面需跟sth.或doing sth.，表示“冒……的 风险，使……冒风险”，因空格后有名词chldren， 故空格处应填人动词的-ing形式。 【语义判断】本文第一段提到，现有的童书对少数 族裔的描写太少；第二段提到，孩子从很小开始就 会对“差异”和身份形成印象，故推测空格所在句 是在描述对白人观念和生活方式的大肆宣扬所产 生的消极影响，A）alienating“排斥，疏远”符合语 境，故为答案。"
+            },
+            {
+              "num": 35,
+              "stem": "",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {
+                "L": "【语法判断】空格位于介词of之后，表并列的连接"
+              },
+              "answer": "",
+              "analysis": "词or之前，故应填人名词。连接词or连接平行结 构，因此空格处应填人和privilege“特权”意思相 近的词。 【语义判断】结合句意及选项可知，L）superiority “优越感；优越性”符合句意。此处是指对白人观 念和生活方式的大肆宣扬会给白人孩子一种优越 感或特权感。 一项新的研究描绘了澳大利亚现有儿童文学中反映出的关于文化包容性的一幅令人沮丧的景象。来 自埃迪斯科文大学教育学院的海伦·亚当博士调查了童书中的文化多样性。她调查了西澳大利亚州四个 日托所的学前班房间里所收藏的书籍。在总共的2413本藏书中，只有18%的书籍包含了对非白人的描 述。对少数族裔文化的描写往往带有刻板印象或者只做些表面文章，例如用筷子和传统服饰来表现亚洲 文化。在书中，确实代表少数族裔文化的人物通常扮演次要角色。主角一般是白人。这让人担心，因为这 会给人留下一种印象，认为白人更有价值。 亚当博士提到，孩子从很小开始就对“差异”和身份形成了印象。有证据表明，他们从三个月大的时候 就产生了对自己种族的偏祖。我们与幼儿分享的书籍可以成为培养孩子了解自己和理解他人的宝贵机 会。书籍还可以让孩子们看到多样性。他们从而发现自己和他人之间的相似和差异。这有助于培养孩子 对多样性的理解、接受和欣赏。 人口普查数据显示，澳大利亚的人口来自200多个国家，在国内讲300多种语言。此外，澳大利亚人 分属于100多个不同的宗教团体。他们还从事1000多种不同的职业。亚当博士说：“澳大利亚是一个多 元文化社会。但目前对白人中产阶级观念和生活方式的大肆宣扬有可能会使儿童与少数族裔群体疏远。 这会给白人中产阶级儿童一种优越感或者特权感。"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_1-long",
+          "group": "Section B",
+          "groupCn": "长篇阅读",
+          "label": "Long Reading",
+          "material": "C) It causes conflicts between employers and employees.\nD) It callsfor the retraining of unskilled mining workers.\nB) They welcome it with open arms. D) They are strongly opposed to it.\nB) Their annual death rate is about twice that of the global average.\nC) They kill more people than any infectious disease.\nD) Their cost to the nation's economy is incalculable.\nC) They don't reflect the changes in individual countries.\nD) They show a difference between rich and poor nations.\nB) Many of them have seen a decline in road-death rates.\nC) Many of them are following the example set by Thailand.\nD) Many of them have increasing numbers of cars on the road.\nB) Abolish all outdated traffic rules. D) Impose heavier penalties on speeding.\nA) A hundred years before iconic figures like BillGates andSteve Jobs permeate dour lives, an irish-\nD) In 190lhe succeeded in sign a ling across the Atlantic, from the west coast of England to New found land\nE) Mar con i's career was devoted to making wireless communication happen cheaply, efficiently,\nF) Mar con i invented the idea of global communication-or, more straightforwardly, globally networked,\nG) In his lifetime, Mar con i fore saw the development of television and the fax machine, GPS,radar, and\nH) Mar con i's biography is also a story about choices and the motivations behind them. At one level,\nI) Mar con i placed a permanent stamp on the way we live. He was the first person to imagine a practical\nJ) At the same time, Mar con i was uncompromisingly independent intellectually. Shortly after Mar con is\nK) The most controversial aspect of Mar con i's life-and the reason why there has been no satisfying\nA) The type of school students attendmakes a difference to their future.\nB) Genetic differences between students are far greater than supposed.\nC) The advantages of selective schools are too obvious to ignore.\nD) Students' academic performance is determined by their genes.\nA) Its result was questionable. C) Its influence was rather negligible.\nB) Its implication was positive. D) Its conclusions were enlightening.\nA) It is one of scientific certainty. C) It is subject to interpretation of statistics.\nB) It is not one of cause and effect. D) It is not fully examined by gene scientists.\nA) Take all relevant factors into account in interpreting their data.\nB) Conduct their research using more sophisticated technology.\nC) Gather gene data from people of all social classes.\nD) Cooperate with social scientists in their research.\nA) Exaggerating the power of technology in shaping the world.\nB) Losing sight of professional ethics in conducting research.\nC) Misunderstanding the findings of human cognition research.\nD) Promoting discrimination in the name of science.\nA) The UK is set to adjust its policy on tax at ion.\nB) Tourists will have to pay a tax to visit Scotland.\nC) The uk will take new measures to boost tourism.\nD) Edinburgh contributes most to Scotland's tourism.\nA) Its government wants to attract more tourists.\nB) The tax is unlikely to add much to its revenue.\nC) Its ruling party is opposed to taxes and regulation.\nD) It takes time for local governments to reach consensus.\nA) elevate its tourism to international standards\nB) improve the welfare of its maintenance workers\nC) promote its cultural exchange with other nations\nD) ease its financial burden of providing local services\nA) They don't seem to care about the social cost of tourism.\nB) They don't seem to mind paying for additional services.\nC) They deem travel an important part of their life.\nD) They subject the effects of tourism to scrutiny.\nA) Supportive. B) Skeptical. C) Divided. D) Unclear.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 36,
+              "stem": "Mar con i was central to our present-day understanding of communication.",
+              "stemCn": "【定位】由题干中的central和understandingof",
+              "options": {},
+              "optionCn": {
+                "F": "段最后一句。"
+              },
+              "answer": "F",
+              "analysis": "显然是现代通信概念出现过程中的核心人物。题 干是对该句的同义转述。题干中的centralto对 应原文中的the centralfigure in，题干中的our present-day understanding of communication对应 原文中的a modern understanding of communication， 故答案为F)。"
+            },
+            {
+              "num": 37,
+              "stem": "As an adult, Mar con i had an intuition that he had to be loyal to politicians in order to be influential.",
+              "stemCn": "【定位】由题干中的adult和intuition定位到I）段",
+              "options": {},
+              "optionCn": {},
+              "answer": "I",
+              "analysis": "倒数第二句。 I 【精析】同义转述题。D段倒数第二句分号后的部 分提到，到了成年，他凭直觉明白，要想产生影响， 他既要有独立的经济基础，又要与政权结盟。题 干中的as an adult对应原文中的by the timehe reached adulthood，题干中的 Marconi hadan intuition that he had to be loyal to politicians in order to be influential是对原文中“he understood， intuitively, that in order to have an impact he had to...and align himself with political power”的同义 转述，故答案为I。"
+            },
+            {
+              "num": 38,
+              "stem": "Mar con i disapproved of the use of wireless communication for commercial broadcasting.",
+              "stemCn": "【定位】由题干中的commercial broadcasting定位",
+              "options": {},
+              "optionCn": {
+                "D": "段第三句。"
+              },
+              "answer": "D",
+              "analysis": "播出现时，马可尼失去了优势；他认为收音机不可 以或不应该用来做无聊的事。随后一句也提到，他 曾遣责广播已成为一种单向的通信手段，可见他对 于无线通信用于商业广播持反对态度。题干中的 disapproved of the use of wireless communication for commercial broadcasting是对原文中he didn'tsee that radio could or should be used to frivolous ends 和he deplored that broadcasting had become a one- way means of communication这两处信息的概括 性转述，故答案为D）。"
+            },
+            {
+              "num": 39,
+              "stem": "Mar con i’s example demonstrates that theoretical concepts and experiments complement each other in",
+              "stemCn": "【定位】由题干中的complement和progress定位",
+              "options": {},
+              "optionCn": {
+                "J": "段第二句。 J 【精析】同义转述题。"
+              },
+              "answer": "J",
+              "analysis": "马可尼证明了理论和实验在互补中发展进步。题 干中的Marconi's example demonstrates对应原文 中的Marconiproved；题干中的theoretical concepts and experiments complement each other in making progress in science and technology是对 原文中 theory and experimentation were complementary features of progress的同义转述， 故答案为J）。"
+            },
+            {
+              "num": 40,
+              "stem": "Mar con i's real interest lay in the development of worldwide wireless communication.",
+              "stemCn": "【定位】由题干中的realinterest定位到文章C）段",
+              "options": {},
+              "optionCn": {
+                "C": "【精析】细节归纳题。"
+              },
+              "answer": "C",
+              "analysis": "倒数第二句。 正感兴趣的只有一件事：将移动的、个人的、远程 的通信延伸到地球的尽头（甚至更远，如果我们相 信一些报道的话）。由此可知，马可尼真正感兴趣 的是如何发展全球无线通信。题干中的Marconi's real interest对应原文中的Marconi was really interested；题干中的the developmentof worldwide wireless communication是对原文中the extension of mobile, personal, long-distance communication to the ends of the earth (and beyond,if we can believe some reports)的归纳概 括，故答案为C）。"
+            },
+            {
+              "num": 41,
+              "stem": "Mar con i spent his whole life making wireless communication simple to use.",
+              "stemCn": "【定位】由题干中的making wireless communication",
+              "options": {},
+              "optionCn": {
+                "E": "段第一句。"
+              },
+              "answer": "E",
+              "analysis": "职业生涯中致力于使无线通信便宜、高效、顺畅， 给用户直观和简明的优雅感——或者说是做到用 户友好。题干中的Marconi spenthis whole life对 应原文中Marconi's career was devoted to，题干中 的simple to use是对原文中cheaply，efficiently， smoothly,and with an elegance that would appear to be intuitive and uncomplicated to the user— user-friendly的归纳概括，故答案为E）。"
+            },
+            {
+              "num": 42,
+              "stem": "Because of his long-time connection with people in power, Mar con i was unable to cut himself off from",
+              "stemCn": "【定位】由题干中的power和unable定位到文章 45.",
+              "options": {},
+              "optionCn": {
+                "K": "【精析】同义转述题。"
+              },
+              "answer": "K",
+              "analysis": "K段第四句。 权力圈内活动，无法与政权决裂，始终为墨索里尼 忠实服务。题干中的hislong-timeconnection with people in power是对原文中的a lifetimeof moving within the circles of power的转述，题干中 的unable to cut himself off from the fascist regime in Italy是对原文中 unable to break with authority，and served Mussolini faithfully的同义 转述，故答案为K）。"
+            },
+            {
+              "num": 43,
+              "stem": "In his later years, Mar con i exerted a tremendous influence on all aspects of people's life.",
+              "stemCn": "【定位】由题干中的in his lateryears定位到文章",
+              "options": {},
+              "optionCn": {
+                "G": "段第二句至结尾。"
+              },
+              "answer": "G",
+              "analysis": "前两个月，报纸上报道的有关马可尼的惊人消息， 参考译文 随后一句说，到那时，马可尼所说或所做的一切都 是有新闻价值的，之后举了两个生活实例：股票价 格随着他的声明涨涨跌跌，如果马可尼说他认为 可能会下雨，那大家就很可能都跑去买雨伞。由 此可以推知，晚年阶段的马可尼对人们生活的各 方面都影响巨大。题干中的inhislater years对 应原文中的two months before he died，题干中的 Marconi exerted a tremendous influence on all aspects of people'slife是对原文中anything Marconi said or did was newsworthy 及其后两个 生活中实例的归纳概括，故答案为G）。"
+            },
+            {
+              "num": 44,
+              "stem": "What connected the 19th century and our present time was the development of wireless",
+              "stemCn": "【定位】由题干中的the19thcentury和",
+              "options": {},
+              "optionCn": {
+                "B": "段第一句和第三句。"
+              },
+              "answer": "B",
+              "analysis": "development of wireless communication定位到文 今天的全球网络媒体和通信系统起源于19世纪， 随后第二句举出了一些实例，而第三句则指出，是 无线通信的发展成就了从那时到现在的联系。题 干中的what connected the 19th century and our present time是对原文中has its origins in the19th century和what made the link from then to now两 处信息的概括性转述，故答案为B）。 【定位】由题干中的autonomy、suffered和 acceptance定位到文章H）段第二、三句和最后 一句。 种程度上，马可尼可以完全自主，不受所属社会阶 层的限制。从另一种程度来讲，他永远是一个局 外人。最后一句则提到，同时，他也因需要被人接 受而遭受巨大的痛苦。由此可以推知，他感到被 疏离，因不被接受而感到痛苦。题干中的 autonomy对应原文中的fiercely autonomous and independent，题干中的felt alienated是对原文中a perpetual outsider的推断，题干中的suffered from alack of acceptance是对原文中suffered tremendously from a need for acceptance的同义 转述，故答案为H）。 马可尼如何为我们提供无线的世界 利发明家为二十一世纪的通信大爆炸奠定了基础。伽利尔摩·马可尼可以说是现代通信领域第一个真 正的全球性人物。他不仅是第一个进行全球通信的人，也是第一个对通信进行全球化思考的人。马可 尼可能不是他那个时代最伟大的发明家，但他给人类通信方式带来的根本变化比任何人都要大。 电话和收音机显然是互联网、iPod和移动电话的前身。（44-2）是无线通信的发展成就了从那时到现在的 联系。马可尼是第一个开发和完善这一系统的人，他利用了最近发现的构成电磁频谱的“空气波”。 18 项重大创新的中心人物。他还是一位技术娴熟、经验丰富的组织者、创业创新者，在企业战略、媒体关 系、政府游说、国际外交、专利和起诉等方面都很精通。（40）马可尼真正感兴趣的只有一件事：将移动 的、个人的、远程的通信延伸到地球的尽头（甚至更远，如果我们相信一些报道的话）。有些人喜欢把 他称为天才，但如果说马可尼真有什么天赋的话，那就是这个愿景。 的。在1924年，他说服英国政府利用他发明的最新技术，即短波无线电，在全世界建立一系列无线电 台。（38）有人说，当商业广播出现时，马可尼失去了优势；他认为收音机不可以或不应该用来做无聊 的事。他在1937年3月向美国广播的最后一次公开讲话中，遣责广播已成为一种单向的通信手段，并 预见广播将朝着另一个方向发展，成为一种交流手段。这是天才的远见卓识。 是做到用户友好。马可尼与当今的社交媒体、搜索引擎和节目流媒体有着直接的联系，可以用一句无 可否认的挑衅性感叹来概括：20世纪未曾存在过。从某种意义上说，马可尼的视野从他的时代直接跃 升到了我们的时代。 代的主要通信技术是无线莫尔斯电码电报。马可尼是第一个利用无线电波开发无线电报实用方法的 人。他借鉴了多方面的技术细节，但与众不同的是，一方面，他对通信技术的力量很自信，另一方面， 他对巩固自己在这一领域的地位需要采取哪些步骤也胸有成竹。追溯马可尼的生平将我们带人现代 通信的故事。其中还有其他一些重要人物，但马可尼在影响范围、权力和影响力，以及在掌控这一时 代大众想象力方面，都超过了他们。（36）马可尼显然是现代通信概念出现过程中的核心人物。 月，报纸报道说他正在研究一种“死亡射线”，他“用一种复杂的装置在三英尺远的地方杀死了一只老 鼠”。那时，马可尼所说或所做的一切都是有新闻价值的。股票价格随着他的声明涨涨跌跌。如果马 可尼说他认为可能会下雨，那大家就很可能都跑去买雨伞。 不受所属社会阶层的限制。从另一种程度来讲，他永远是一个局外人。无论他走到哪里，他都从不 “属于”这个群体；他总是“另一个”，在英国他被当成外国人，在意大利被认为是英国人，而在美国也是 “非美国人”。（45-2）同时，他也因需要被人接受而遭受巨大的痛苦，这种需要驱使着他的每一段感情， 而有时也玷污了他的每一段感情。 I 马可尼给我们的生活方式留下了永久的记。他是第一个设想无线频谱实际应用的人，并成功地将 它发展成一个全球通信系统——这包含了该词两个层面的意思：全世界的和包罗万象的。他之所以 能够做到这一点，是因为一系列原因——最重要的是，把握住时机和际遇——但他执行自行强加的使 命时所表现出的专注与决心则基本上是性格使然：数以百万计与马可尼同时代的人拥有和他一样的 阶级、性别、种族和殖民特权，但只有极少数人利用了这些特权。马可尼需要实现他在青少年时期心 中所设定的目标；（37）到了成年，他凭直觉明白，要想产生影响，他既要有独立的经济基础，又要与政 权结盟。严守信条、对政治权力不加批判的忠诚为他做出必要选择指明了方向。 理学家恩里科·费米写道，马可尼证明了理论和实验在互补中发展进步。“除非以理论概念为指导， 否则经验很少能得出任何具有重大意义的结果……另一方面，过度依赖理论也会阻止马可尼坚持进 行那些注定会带来无线电通信技术革命的实验。”换言之，马可尼的优势在于不被先入为主的假设所 束缚。 托·墨索里尼不加批判的拥护。起初，这对他来说不是问题。但随着墨索里尼政权倒退的性质逐渐 明朗，他开始遭受良心危机。（42）然而，他一生在权力圈内活动，无法与政权决裂，始终为墨索里尼忠 实服务（作为意大利国家研究委员会和皇家科学院的主席，以及法西斯大议会的成员），直到他终于在 1937年的一天适时地撒手人寰，要不然他还需要在不久之后的一场吞噬了这个世界的冲突中表明立 场，而这个世界，在某种程度上也是由他创造的。 Section C Passage One 【文章来源】本文选自2018年4月1日刊登在TheGuardian（《卫报》）上一篇标题为“TheGuardianViewon IntelligenceGenes：Going Beyond the Evidence（《<卫报>对智力基因的看法：超越现有的证据》）的文章。 【结构框图】 第1段以一个人们熟悉的辩论话题“是天性还是后天培养更多地塑造了 人类”开启全文，并引出最近很火的观点“基因决定智力”。 本文主要介绍了遗传决 定论的主张（即“基因 第2一4段分别具体阐述遗传决定论学说的观点及其存在的问题。 决定智力”）以及作者 对这一观点的看法。 第5段作者提出在科学技术不断进步的过程中，人类应该持有的正确态 度和主张。"
+            },
+            {
+              "num": 45,
+              "stem": "Despite his autonomy, Mar con i felt alien a ted and suffered from a lack of acceptance.",
+              "stemCn": "",
+              "options": {},
+              "optionCn": {},
+              "answer": "",
+              "analysis": ""
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_1-rd1",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage One",
+          "material": "Humans are fascinated by the source of their failings and virtues. This preoccupation inevitably leads to an old debate: whether nature or nurture moulds us more. A revolution in genetics has poised this as a modernpoliticalquestionabout the character of our society: ifpersonalities are hard-wired into our genes, what can governments do to help us? It feels morally questionable, yet claims of genetic selection by intelligence are making headlines. This is down to“he red i tar i an”（遗传论的） science and a recent paper claimed“differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them”.With such an assertion, the work was predictably greeted by a lot of absurd claims about \"genetics deter mining academic success\".What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils’ inborn ability and socio- economic background were taken into account. It is a glimpse of the blindingly obvious-and there's nothing to back strongly either a hereditary or environmental argument. Yet the paper does say children are \"unintentionally genetically selected”by the school system. Central to he red i tar i an science is a tall claim: that identifiable variations in genetic sequences can predict an individual’s aptness to learn, reason and solve problems. This is problematic on many levels.A teacher could not seriously tell a parent their child has a low genetic tendency to study when external factors clearly exist. Unlike-mindedacademics say the inherit ability of human traits is scientifically un sound. At best there is a weak statistical association and not a causal link between DNA and intelligence. Yet sophisticated statistics are used to create an intimidatory atmosphere of scientific certainty. While there's an undoubted genetic basis to individual difference, it is wrong to think that socialy 六级2021年6月6 ===== PAGE 7 ===== defined groups can be genetically accounted for. The fixation on genes as destiny is surely false too. Medical predictability can rarely be based on dna alone; the environment matters too. Something as complex as intellect is likely to be affected by many factors beyond genes. If hereditarians want to advance their cause it will require more balanced interpretation and not just acts of advocacy. Genetic selection is a way of exerting influence over others,“the ultimate collective control of human destinies, as writer H. G. Wells put it. Knowledge becomes power and power requires a sense of responsibility. In understanding cognitive ability, we must not elevate discrimination to a science; all owing people to climb the ladder of life only as far as their cells might suggest. This will need a more sceptical eye on the science. As technology progresses, we all have a duty to make sure that we shape a future that we would want to find ourselves in.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 46,
+              "stem": "What did a recent research paper claim?",
+              "stemCn": "【定位】由题干中的recent research paper定位到 B)",
+              "options": {
+                "A": "The type of school students attendmakes a difference to their future.",
+                "B": "Genetic differences between students are far greater than supposed.",
+                "C": "The advantages of selective schools are too obvious to ignore.",
+                "D": "Students' academic performance is determined by their genes."
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。文章第二段第一句指出，近"
+              },
+              "answer": "D",
+              "analysis": "第二段第一句。 期的一篇论文声称来自精英学校和普通学校的学 生在考试成绩上的差异反映了他们基因的不同。 第二句说这种论断引发了很多荒谬的主张，认为 “基因决定了学业的成功”。由此可知近期这项研 究支持“基因决定智力”的观点。故答案为D)。 【避错】文章只提到精英学校和普通学校学生的考 试成绩有差异，并未指出不同学校对学生的未来 会产生影响，故排除A）；文章主要说明遗传决定 论科学认为基因差异导致智力差异，并未提到学 生基因差异大小的问题，故排除B）；第二段第三 句指出，当把学生的天资以及社会经济背景因素 考虑在内时，精英学校的教育优势在很大程度上 就消失了，这与C）正相反，故排除C。"
+            },
+            {
+              "num": 47,
+              "stem": "What does the author think of the recent research?",
+              "stemCn": "【定位】由题干中的recent research及题文同序原",
+              "options": {
+                "A": "Its result was questionable.",
+                "B": "Its implication was positive.",
+                "C": "Its influence was rather negligible.",
+                "D": "Its conclusions were enlightening."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。文章第二段最后一句话中，"
+              },
+              "answer": "A",
+              "analysis": "则定位到第二段末及第三段前半部分。 作者指出现在还没有强有力的证据可以支持遗传 论或环境决定论。在第三段第二句中，作者介绍了 遗传决定论的主张，之后在第三句中指出这种说法 在很多层面上都存在问题。由此可知，作者对研究 的结果是抱有怀疑态度的。故答案为A）。 【避错】在第二段末尾以及第三段第三句，作者一 直在强调遗传决定论提出的主张是有问题的，所 以B)“它的影响是积极的”和D）“它的结论是有启 发意义的”与作者观点相反，故排除；第一段最后 一句指出，这项研究成了头条新闻，第二段第二句 又提到，该工作引发了很多荒谬的主张，说明它是 有一定影响力的，故排除C)。"
+            },
+            {
+              "num": 48,
+              "stem": "What does the author say about the relationship between DNA and intelligence?",
+              "stemCn": "【定位】由题干中的relationshipbetweenDNA",
+              "options": {
+                "A": "It is one of scientific certainty.",
+                "B": "It is not one of cause and effect.",
+                "C": "It is subject to interpretation of statistics.",
+                "D": "It is not fully examined by gene scientists."
+              },
+              "optionCn": {
+                "B": "。"
+              },
+              "answer": "",
+              "analysis": "and intelligence定位到第三段倒数第二句。 【精析】事实细节题。第三段倒数第二句指出， DNA和智力之间的关系充其量只是一种微弱的 统计数据上的关联，绝不是因果关系。由此可知， 【避错】第三段最后一句话指出，复杂的统计数据 被用来创造一种科学确定性的氛围。这里作者客 观指出目前大环境的一种情况，而并不是认为这 项研究的结果是具有科学确定性的，故排除A）； 第三段倒数第二句指出，两者间的关联最多也就 是有统计数据上的微弱关联，而C）说两者关系取 决于对统计数据的解释，与原文不符，故排除C）； 一些基因科学家的观点就是DNA决定智力，D） 与文章意思不符，故排除。"
+            },
+            {
+              "num": 49,
+              "stem": "What do hereditarians need to do to make their claims convincing?",
+              "stemCn": "【定位】由题干中的hereditarians和claims定位",
+              "options": {
+                "A": "Take all relevant factors into account in interpreting their data.",
+                "B": "Conduct their research using more sophisticated technology.",
+                "C": "Gather gene data from people of all social classes.",
+                "D": "Cooperate with social scientists in their research."
+              },
+              "optionCn": {
+                "A": "【精析】推理判断题。第四段最后一句提到，如果"
+              },
+              "answer": "A",
+              "analysis": "到第四段最后一句。 遗传论者想推进他们的工作，就需要更多客观公 正的解释，而不仅仅是宣扬他们的论点。也就是 说，如果遗传论者想要更多人信服他们的观点，就 应该对他们研究的结果做更加周全与综合的解 释，即将更多相关因素考虑在内，故答案为A）。 【避错】本文并未提及遗传论者在做研究时所用的 技术精密与否，故排除B）；C）是针对第四段中 sociallydefined groups设置的干扰，但原文的意 思是社会群体的界定不能只用基因来解释，外部 环境的影响同样重要，与C）提出的“收集社会各 阶层人群的基因数据”的论点不一致，故排除；D） 项在文章中并未提及，故排除。"
+            },
+            {
+              "num": 50,
+              "stem": "What does the author warn against in the passage?",
+              "stemCn": "【定位】由选项中的technology、cognition及",
+              "options": {
+                "A": "Exaggerating the power of technology in shaping the world.",
+                "B": "Losing sight of professional ethics in conducting research.",
+                "C": "Misunderstanding the findings of human cognition research.",
+                "D": "Promoting discrimination in the name of science."
+              },
+              "optionCn": {
+                "D": "【精析】推理判断题。最后一段第三句指出，在理"
+              },
+              "answer": "D",
+              "analysis": "discrimination等词定位到最后一段。 解认知能力的过程中，我们不能将歧视抬高为科 学：这将导致人类只能在他们基因暗示的范围内 攀登人生的阶梯。结合该段第一句中作者引用作 家威尔斯对遗传选择的看法：是对人类命运集体 控制的终极形式，综合可知，作者认为不能以科学 的名义宣扬歧视，故答案为D）。 【避错】A）是针对最后一段最后一句话中的as technologyprogresses设置的干扰。原文的意思 参考译文 是随着技术的进步，我们有责任守住底线，不去宣 扬歧视，与选项中夸大技术改变世界的力量的意思 完全不一致，故排除A）；原文没有提及职业道德， 故排除B）；原文中提到在理解认知能力的过程中， 我们要警惕将歧视抬高为科学，这与C)“误解对人 类认知研究的发现”意思不一致，故排除C）。 人类着迷于探究自己失败和美德的归因问题。这种关注不可避免地导致了一场熟悉的辩论：是天性 还是后天培养更多地塑造了我们。遗传学革命使这场辩论成为关于我们社会特征的现代政治问题：如果 性格深深地镌刻在我们的基因中，那么政府可以做什么来帮助我们？这在道德层面上是存疑的，但最近却 有通过智力来实现遗传选择的主张成了头条新闻。 (46)这源于“遗传决定论”学说，且近期的一篇论文声称，来自精英学校和普通学校的学生在考试成绩 上的差异反映了他们基因的不同。不出所料，由于这种论断，该论文引发了很多荒谬的主张，认为“基因决 定了学业的成功”。这项研究揭示的结果反而并不太令人吃惊：一旦将学生的天资和社会经济背景两个因 素考虑在内，精英学校的教育优势在很大程度上就消失了。（47-1）这只是对极为显而易见的事实的粗略 总结——结果是没有任何证据可以有力地支持遗传论或环境决定论。 然而，该论文确实说明孩子们被学校系统“无意地进行了基因选择”。（47-2）遗传决定论的核心主张荒 唐离奇，其认为：基因序列的可识别差异可以预测个人的学习、推理和解决问题的能力。这种说法在很多层 面上都存在问题。当外部因素明显存在时，老师不能严肃地告诉家长他们的孩子有较低的学习遗传倾向。 观点不一致的学者认为，人类特征的可遗传性在科学上是不可靠的。（48）DNA和智力之间充其量只是一种 微弱的统计数据上的关联，绝不是因果关系。然而，复杂的统计数据被用来创造一种令人生畏的科学确定 性的氛围。 虽然个体差异有遗传基础，这毋庸置疑，但认为社会群体的界定可以用遗传来解释的观点是错误的。 痴迷于基因决定命运当然也是错误的。医学上的预测不可能仅仅基于DNA；环境也很重要。像智力这样 复杂的东西，很可能受到基因以外的许多其他因素的影响。（49）如果遗传论者想推进他们的工作，就需要 更多客观公正的解释，而不仅仅是宣扬他们的论点。 遗传选择是对他人施加影响的一种方式，正如作家H.G.威尔斯所说，“是对人类命运集体控制的终 极形式”。知识成为力量，而力量的发挥需要有责任感。（50）在理解认知能力的过程中，我们不能将歧视 抬高为科学：这将导致人类只能在他们基因暗示的范围内攀登人生的阶梯。这就需要我们对科学更加抱 有怀疑的眼光。随着技术的进步，我们都有责任确保我们塑造的未来是我们希望自己所生活的未来。 Passage Two 【文章来源】本文选自2019年9月8日刊登在TheGuardian（《卫报》）上一篇题为“TheGuardianViewonTourist Taxes：TravelersShouldPayTheirWay（《（卫报）对旅游税的看法：游客应该为自己的旅行买单》）的文章。 【结构框图】 第1一3段由苏格兰立法征收旅游税引出话题，并举例说明类似税收正在 增多。 文章主要表达了作者对 第4、5段阐述英国在旅游税征收方面落后于其他国家的原因以及征收旅 目前英国征收旅游税现 游税的必要性。 状的看法。 第6段强调这个问题没有万全之策，需要多方配合。 答案详解"
+            }
+          ]
+        },
+        {
+          "id": "cet6-2021_06_1-rd2",
+          "group": "Section C",
+          "groupCn": "仔细阅读",
+          "label": "Passage Two",
+          "material": "Nicola Sturgeon’s speech last Tuesday setting out the Scottish government’s legislative programme for the year ahead confirmed what was already pretty clear. Scotish councils are set to be the first in the uk with the power to levy charges on visitors, with Edinburgh likely to lead the way. Tourist taxes are not new. The Himayalan kingdom of Bhutan has a longstanding policy of charging visitors a daily fee. France's tax on overnight stays was introduced to assist thermal spa（温泉） towns to develop, and around half of French local authorities use it today. But such levies are on the rise. Moves by Barcelona and Venice to deal with the phenomenon of “over-tourism”through the use of charges have recently gained prominence. Japan and greece are among the countries to have recently introduced tourist taxes. That the UK lags behind is due to our weak, by international standards, local government, as well as the opposition to taxes and regulation of our aggressively pro-market ruling party. Some uk cities have lobbied without success for the power to levy a charge on visitors. Such levies are no universal remedy as the amounts raised would be tiny compared with what has been taken away by central government since 2010.Still，it is to be hoped that the scottish government’s bold move will promptothers to act. There is 六级202年6月7 ===== PAGE 8 ===== no reason why visitors to the UK,or domestic tourists on holiday in hotspots such as Corn wall, should be exempt from tax at ion-particularly when vital local services including waste collection, park maintenance and arts and culture spending are under unprecedented strain. On the contrary, compelling tourists to make a financial contribution to the places they visit beyond their personal consumption should be part of a wider cultural shift. Westerners with disposable incomes have often behaved as if they have a right to go wherever they choose with little regard for the consequences. Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also beconfronted. Thisincludes the impact of short-term lets on housing costs and quality of life for residents. Several european capitals, including Paris and Berlin, are leading a campaign for tougher regulation by the European union. It also includes the impact of overcrowding, litter and the kinds of behaviour associated with noisy parties. There is no\"one size fits all” solution to this problem. The existence of new revenue streams for some but not all councils is complicated, and businesses are often opposed, fearing higher costs will make them uncompetitive. But those places that want them must be given the chance to make tourist taxes work.",
+          "analysisOverview": "",
+          "translationCn": "",
+          "questions": [
+            {
+              "num": 51,
+              "stem": "What do we learn from Nicola Sturgeon's speech?",
+              "stemCn": "【定位】由题干中的Nicola Sturgeon’s speech定位",
+              "options": {
+                "A": "The UK is set to adjust its policy on tax at ion.",
+                "B": "Tourists will have to pay a tax to visit Scotland.",
+                "C": "The uk will take new measures to boost tourism.",
+                "D": "Edinburgh contributes most to Scotland's tourism."
+              },
+              "optionCn": {
+                "B": "【精析】事实细节题。第一段第一句提到尼古拉·"
+              },
+              "answer": "B",
+              "analysis": "至第一段第一、二句。 斯特金在上周二的演讲，第二句接着指出，苏格兰 议会将成为英国第一个有权向游客收费的议会。 由此可知，游客到苏格兰旅游将需要缴纳旅游税， 故答案为B）。 【避错】由文章第一段第一句可知，是苏格兰政府 准备立法征收旅游税，且文章第四段第四句提到 “希望苏格兰政府的大胆举措能够促使其他地方 采取行动”，由此可判断并不是整个英国在调整税 收政策，故排除A）；文章仅指出苏格兰的旅游税 立法，并未提到整个英国的新措施，也并未提到促 进旅游业繁荣一事，故排除C）；根据文章第一段 第二句可知，爱丁堡将成为苏格兰实施旅游税政 策的开路先锋，并未指出爱丁堡对苏格兰旅游业 贡献最大，故排除D）。"
+            },
+            {
+              "num": 52,
+              "stem": "How come the UK has been slow in imposing the tourist tax?",
+              "stemCn": "【定位】由题干中的theUKhas been slow in",
+              "options": {
+                "A": "Its government wants to attract more tourists.",
+                "B": "The tax is unlikely to add much to its revenue.",
+                "C": "Its ruling party is opposed to taxes and regulation.",
+                "D": "It takes time for local governments to reach consensus."
+              },
+              "optionCn": {
+                "C": "【精析】事实细节题。第四段第一句指出，英国在"
+              },
+              "answer": "C",
+              "analysis": "imposing the tourist tax定位至第四段第一句。 旅游税征收方面落后于其他国家的原因是地方政 府软弱无能，同时执政党积极支持自由市场，反对 税收和监管，故答案为C）。 【避错】文章中提到，英国在旅游税征收方面落后 于其他国家的原因之一是地方政府软弱无能，并 未提到政府想要吸引更多游客，故排除A）；第四 段第三句指出，这样的征税并不是万能的补救措 施，因为与中央政府自2010年以来收回的资金相 比，这样征收到的资金微不足道，但这是在评价征 税措施，并不是英国旅游税征收进程缓慢的原因， 故排除B）；第四段第二句提到，一些英国城市为 取得向游客收费的权力进行了游说，但并未成功， 这只是对现状的陈述，不能说明地方政府达成共 识需要时间是英国旅游税征收方面落后于其他国 家的原因，故排除D）。"
+            },
+            {
+              "num": 53,
+              "stem": "Both international and domestic visitors in the uk should pay tourist tax so as to",
+              "stemCn": "【定位】由题干中的both international and",
+              "options": {
+                "A": "elevate its tourism to international standards",
+                "B": "improve the welfare of its maintenance workers",
+                "C": "promote its cultural exchange with other nations",
+                "D": "ease its financial burden of providing local services"
+              },
+              "optionCn": {
+                "D": "【精析】事实细节题。第四段第五句指出，前往英"
+              },
+              "answer": "D",
+              "analysis": "domesticvisitors定位至第四段第五句。 4 国的游客或前往康沃尔等热点地区度假的国内游 客没有理由免于征税——尤其是当垃圾回收、公 园维护和艺术文化支出等当地至关重要的服务面 临前所未有的压力时，所以征税的目的是缓解用 于提供当地服务的财政负担，故答案为D）。 参考译文 【避错】文章中提到“国际标准”是在第四段第一 句，是为了阐释英国旅游税征收方面落后于其他 国家的原因，并未提到要提升旅游业的水平，故排 除A）；第四段第五句提到公园维护等地方服务， 但没有提到养护工人的福利，故排除B）；第五段 第一句提到了“文化转型”，但并未提到与其他国 家的文化交流，故排除C）。"
+            },
+            {
+              "num": 54,
+              "stem": "What does the author say about Western tourists?",
+              "stemCn": "【定位】由题干中的Westerntourists定位至第五",
+              "options": {
+                "A": "They don't seem to care about the social cost of tourism.",
+                "B": "They don't seem to mind paying for additional services.",
+                "C": "They deem travel an important part of their life.",
+                "D": "They subject the effects of tourism to scrutiny."
+              },
+              "optionCn": {
+                "A": "【精析】事实细节题。第五段第二句指出，西方人"
+              },
+              "answer": "A",
+              "analysis": "段第二句。 经常表现得好像他们有权去任何他们选择的地 方，而不用考虑后果，结合本段第三句指出的旅游 也会产生社会成本可知，他们不考虑旅游的社会 成本，故答案为A）。 【避错】文章第五段第一句提到，游客在个人消费 之外应该为他们参观的地方做出经济贡献这一观 念应该是使文化转型更具多样性，但并未阐明西 方游客是否愿意为额外的服务买单，故排除B）； 文章并未提及游客们对旅行和生活的关系的看 法，故排除C）；文章第五段第三句指出，正如航空 和其他运输方式对环境造成的危害必须受到更严 格的审查一样，我们也必须面对旅游所造成的社 会成本，由此可知，应该是政府而非西方游客去仔 细审查旅游业的影响，故排除D）。"
+            },
+            {
+              "num": 55,
+              "stem": "What are UK people's opinions about the levy of tourist tax?",
+              "stemCn": "【定位】由题干中的UKpeoples opinions及题文",
+              "options": {
+                "A": "Supportive.",
+                "B": "Skeptical.",
+                "C": "Divided.",
+                "D": "Unclear."
+              },
+              "optionCn": {
+                "C": "【精析】推理判断题。文章最后一段总结分析了英"
+              },
+              "answer": "C",
+              "analysis": "同序原则定位至最后一段。 国人对征收旅游税的看法。该段首先指出这个问 题没有“万全之策”，即对待这个问题不能采取“一 刀切”的做法。接着提到了反对征收旅游税的企业 以及支持征收旅游税的地方。由此可知，英国人对 征收旅游税的看法是有分歧的，故答案为C）。 【避错】文章中提到有些地方是支持征收旅游税 的，比如开头提到的苏格兰政府，而有些企业反对 征收旅游税，所以A）和B）是片面的，故排除；英国 人对旅游税有不同的看法，并不是对旅游税态度 不明，故排除D）。 （51）上周二，尼古拉·斯特金在演讲中阐述了苏格兰政府未来一年的立法计划，证实了已经相当清楚 的事实。苏格兰议会将成为英国第一个有权向游客收费的议会，爱丁堡很可能走在前列。 旅游税并非新鲜事。喜马拉雅王国不丹一直有向游客按日收费的政策。法国为了帮助温泉小镇发展 而引人了过夜税，而且目前法国大约有一半的地方当局仍在使用这项税收政策。 但这样的税收正在增多。巴塞罗那和威尼斯通过收费来解决“过度旅游”现象的举措近来广受关注。 日本和希腊最近也加人了开征旅游税的国家行列。 （52）按国际标准来看，英国之所以在旅游税征收方面落后于其他国家，是因为地方政府软弱无能，同 时执政党积极支持自由市场，反对税收和监管。一些英国城市为取得向游客收费的权力进行了游说，但没 有成功。这样的征税并不是万能的补救措施，因为与中央政府自2010年以来收回的资金相比，这样征收 到的资金微不足道。尽管如此，还是希望苏格兰政府的大胆举措能够促使其他地方采取行动。（53）前往 英国的游客或前往康沃尔等热点地区度假的国内游客没有理由免于征税——尤其是当垃圾回收、公园维 护和艺术文化支出等当地至关重要的服务面临前所未有的压力时。 相反，游客在个人消费之外应该为他们参观的地方做出经济贡献这一观念应该是使文化转型更具多 样性。（54）拥有可支配收人的西方人经常表现得好像他们有权去任何他们选择的地方，而不用考虑后果。 正如航空和其他运输方式对环境造成的危害必须受到更严格的审查一样，我们也必须面对旅游的社会成 本。这包括短期租房对居民住房成本和生活质量的影响。巴黎和柏林等一些欧洲国家的首都正在引领一 场运动，旨在允许欧盟实施更严格的监管。社会成本还包括过度拥挤、乱扔垃圾以及与吵闹派对相关的各 种行为的影响。 （55）这个问题没有“万全之策”。部分议会而不是所有议会有新的收入来源，这种情况是复杂的，且经 常遭到企业的反对，他们担心更高的成本会使自己失去竞争力。但对于那些想要征收旅游税的地方，必须 给他们机会，让旅游税发挥其作用。 Part Translation 参考译文与难点注释 Asthesouthernmostprovince in1.翻译第一句时，可以将两个分句译为and连接的并列句，也可像 China,Hainan is the second largest island next only to Taiwan. With its splendid scenery, pleasant climate, abundant sunshine, diverse species, dense hot springs and clear seawater, most of the beaches on HainanIsland are ideal places for swimming and sunbathing almost all the year round. As a result,it’s honored as China's four-season garden and holiday paradise, attracting a large number of tourists at home and abroad every year. Since the founding of Hainan Province in 1988, Hainan has been booming in tourism,service and high-tech industries, making it the only provincial special economic zone in China. Under the strong support of the central government and people throughout the country, Hainan will become China's largest pilot free trade zone. resource-rich资源丰富的 tropical热带的 naturalharbors天然海湾 offshore waters近海水域 abound in盛产 参考译文那样，将其中一个分句译为主句，将另一个分句译为as 引导的介词短语；还可以将其中一个分句译为“海南”的同位语， 即“Hainan，China’s secondlargest islandafter Taiwan，isthe southernmost province in China.\"。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNo": "IV",
+      "partName": "翻译",
+      "partNameEn": "Translation",
+      "score": 106.5,
+      "minutes": 30,
+      "blocks": [
+        {
+          "id": "cet6-2021_06_1-translation",
+          "group": "短文翻译",
+          "groupCn": "Translation",
+          "label": "Translation",
+          "prompt": "海南是仅次于台湾的中国第二大岛，是位于中国最南端的省份。海南岛风景秀丽，气候宜人，阳光充 足，生物多样，温泉密布，海水清澈，大部分海滩几乎全年都是游泳和日光浴的理想场所，因而被誉为中国 的四季花园和度假胜地，每年都吸引了大批中外游客。 海南1988年建省以来，旅游业、服务业、高新技术产业飞速发展，是中国唯一的省级经济特区。在中央 政府和全国人民的大力支持下，海南将建成中国最大的自由贸易试验区。",
+          "terms": [],
+          "reference": "Asthesouthernmostprovince in 1.翻译第一句时，可以将两个分句译为and连接的并列句，也可像 China, Ha in an is the second largest island next only to Taiwan. With its splendid scenery, pleasant climate, abundant sunshine, diverse species, dense hot springs and clear seawater, most of the beaches on Ha in an island are ideal places for swimming and sunbathing almost all the year round. As a result, it’s honored as China's four-season garden and holiday paradise, attracting a large number of tourists at home and abroad every year. Since the founding of Ha in an Province in 1988, Ha in an has been booming in tourism, service and high-tech industries, making it the only provincial special economic zone in China. Under the strong support of the central government and people throughout the country, Ha in an will become China's largest pilot free trade zone.",
+          "notes": "",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}
