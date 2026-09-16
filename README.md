@@ -92,3 +92,5 @@ node scripts/qa-question-bank.mjs --json .qa/qa-final.json
 - `ELECTRON_RUN_AS_NODE` 环境变量存在时（即使为空）Electron 会退化成纯 Node，`dev:soft` 已处理
 - 打包输出目录（`packaging/win-unpacked`）一旦用过会被残留句柄锁住，无法删除或重命名 → 直接换一个新的输出目录即可；electron-builder 打包需免沙箱运行
 - 验证打包版可运行：先 `unset ELECTRON_RUN_AS_NODE`（宿主注入会让 Electron 退化成纯 Node 直接退出），再 `CET_DISABLE_GPU=1 CET_DEBUG=1 "CET备考助手.exe" --no-sandbox --disable-gpu --disable-gpu-compositing --disable-gpu-sandbox`
+
+- 引用ponytail、awesome-design-md等工具
