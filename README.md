@@ -4,11 +4,6 @@
 
 所有数据本地存储（内置词库随应用打包，用户进度存 localStorage），不依赖账号和联网服务。
 
-| 试卷列表 | 整卷研读 |
-| --- | --- |
-| ![试卷列表](docs/screenshots/papers-list.png) | ![整卷研读](docs/screenshots/paper-reading.png) |
-
-![答案解析](docs/screenshots/paper-analysis.png)
 
 ## 功能
 
