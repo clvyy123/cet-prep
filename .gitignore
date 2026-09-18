@@ -9,7 +9,7 @@ index-CPa84EmD.js
 # 打包输出
 release/
 release-new/
-packaging/
+packaging*/
 # 注意：build/ 不忽略 —— electron-builder 需要其中的 icon.png / icon.ico
 
 # electron-builder 缓存
@@ -24,3 +24,10 @@ scripts/.download/
 .DS_Store
 .idea/
 .vscode/
+
+# 智能体工作区（本地记忆与技能，不入库）
+.workbuddy/
+
+# 临时采样 / 调试产物（点号前缀 = 一次性脚本，非管线正式成员）
+scripts/.*.html
+scripts/.test-*.ts

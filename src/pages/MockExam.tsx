@@ -1,7 +1,7 @@
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { ExamAnswers, ExamMode, ExamResult, ExamType, MockExam as MockExamType, WritingItem, TranslationItem, MistakeKind } from '../types';
-import { buildMockExamFromBank, gradeExam, loadExams, sectionMax } from '../services/exam';
-import { addActivity } from '../services/storage';
+import { buildMockExamFromBank, gradeExam, loadExams, sectionMax, SECTION_CAPS } from '../services/exam';
+import { addActivity, getSettings } from '../services/storage';
 import { speak, stopSpeak } from '../services/tts';
 import { Card, Tag, PageHeader, Modal, ProgressBar, AddMistakeBtn, AnalysisBtn, YearFilter } from '../components/ui';
 import Icon from '../components/Icon';
@@ -802,6 +802,76 @@ function ResultView({ result, onBack, onReview }: { result: ExamResult; onBack: 
           </Card>
         ))}
       </div>
+
+      {/* S3 能力报告：分题型得分率排序 + 预估总分区间 + 目标差距 + 弱项建议 */}
+      {(() => {
+        const targetScore = getSettings().targetScore;
+        const scored = result.sections.filter((s) => s.max > 0);
+        const ranked = [...scored].sort((a, b) => a.correct / a.max - b.correct / b.max);
+        const weakest = ranked[0];
+        const objective = result.sections
+          .filter((s) => s.key === 'listening' || s.key === 'reading')
+          .reduce((n, s) => n + s.score710, 0);
+        const selfScored = result.sections
+          .filter((s) => s.key === 'writing' || s.key === 'translation')
+          .reduce((n, s) => n + s.score710, 0);
+        // 自评部分（写作 + 翻译）存在主观浮动，按自评满分合计的 ±15% 给出区间
+        const delta = Math.round((SECTION_CAPS.writing + SECTION_CAPS.translation) * 0.15);
+        const gap = targetScore - result.totalScore;
+        const advice: Record<string, string> = {
+          listening: '去「试卷」页精听近三年听力真题，对照原文逐句跟读',
+          reading: '去「试卷」页按题型刷 2023–2026 阅读真题，先分题型后整卷',
+          writing: '对照范文逐句复盘自评差距，积累亮点词汇与句型',
+          translation: '对照参考译文复盘「译点精析」，先保结构分再抠难词',
+        };
+        return (
+          <Card className="mb-16">
+            <div className="row" style={{ justifyContent: 'space-between' }}>
+              <h3 style={{ margin: 0 }}>
+                <span className="h-ico"><Icon name="target" size={16} /></span>
+                能力报告
+              </h3>
+              <Tag tone={gap <= 0 ? 'green' : 'orange'}>
+                <Icon name={gap <= 0 ? 'check' : 'target'} size={13} />
+                {gap <= 0 ? `已达目标 ${targetScore} 分` : `距目标 ${targetScore} 分还差 ${gap} 分`}
+              </Tag>
+            </div>
+            <div className="mt-8">
+              {ranked.map((s, i) => (
+                <div className="ab-row" key={s.key}>
+                  <span className="ab-name">{s.name}</span>
+                  <span className="ab-bar">
+                    <ProgressBar
+                      value={s.score710}
+                      max={s.cap}
+                      tone={s.key === 'reading' ? 'blue' : s.key === 'listening' ? 'green' : 'orange'}
+                    />
+                  </span>
+                  <span className="ab-rate num">{Math.round((s.correct / s.max) * 100)}%</span>
+                  {i === 0 && <Tag tone="red">弱项</Tag>}
+                  {i === ranked.length - 1 && ranked.length > 1 && <Tag tone="green">强项</Tag>}
+                </div>
+              ))}
+            </div>
+            <div className="ab-forecast mt-16">
+              <span className="small muted">预估总分区间</span>
+              <span className="ab-range num">{result.totalScore - delta} – {result.totalScore + delta}</span>
+              <span className="small muted">
+                客观题 {objective} 分已锁定 · 写作/翻译自评 {selfScored} 分，按 ±{delta} 分浮动
+              </span>
+            </div>
+            {weakest && (
+              <div className="ab-advice mt-8">
+                <Icon name="bulb" size={14} />
+                <span className="small">
+                  {weakest.name}是当前最大失分项（得分率 {Math.round((weakest.correct / weakest.max) * 100)}%），
+                  建议优先补：{advice[weakest.key] ?? '回看错题本中的对应题型'}
+                </span>
+              </div>
+            )}
+          </Card>
+        );
+      })()}
 
       {recent.length >= 2 && (
         <Card>

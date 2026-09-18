@@ -7,8 +7,9 @@ import { KEYS, load, save } from '../services/storage';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O'];
 
-export default function Papers() {
-  const [openId, setOpenId] = useState<string | null>(null);
+export default function Papers({ initialOpenId }: { initialOpenId?: string | null }) {
+  // initialOpenId：Dashboard 任务卡「去完成」直达某套卷（App.tsx 的 paperFocus）
+  const [openId, setOpenId] = useState<string | null>(initialOpenId ?? null);
   const [revealed, setRevealed] = useState(false);
   const [analysisMode, setAnalysisMode] = useState(false); // 是否从「答案解析」入口进入
   const paper = PAPERS.find((p) => p.id === openId);
@@ -61,6 +62,11 @@ function PaperList({ onOpen }: { onOpen: (id: string) => void }) {
         subtitle="按年份、月份筛选，进入整卷研读：卷面原文、音频原文、官方解析逐题对照"
         extra={<span className="paper-count">已导入 {PAPERS.length} 套</span>}
       />
+      {/* S5 信任标记：把两轮权威源校对这项隐性资产变成用户可感知的信号（低调一行） */}
+      <div className="trust-note">
+        <Icon name="shield" size={14} />
+        答案经 examcrafts + 懒笔记双源交叉校对 · 覆盖 2021.06 – 2026.06 共 {PAPERS.length} 套
+      </div>
       <div className="paper-layout">
         <Card className="paper-filter">
           <div className="pf-title">
@@ -231,7 +237,7 @@ function PaperView({
         </button>
         <div className="pt-title">
           <span className="pt-name">{paper.title}</span>
-          <span className="pt-sub">{paper.level === 4 ? '四级' : '六级'} · {paper.minutes} 分钟 · {allNums.length} 题</span>
+          <span className="pt-sub">{paper.level === 4 ? '四级' : '六级'} · {paper.minutes} 分钟 · {allNums.length} 题 · 答案双源校对</span>
         </div>
         {analysisMode && (
           <button className={`btn btn-sm ${revealed ? 'btn-primary' : ''}`} onClick={onToggleReveal}>

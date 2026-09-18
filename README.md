@@ -1,9 +1,8 @@
 # 词炬 · CET 备考助手
 
-本地英语四六级备考软件：单词记忆、真题练习、听力训练、模拟考试、整卷研读、AI 阅读助手。
+**答案经 examcrafts + 懒笔记双轮权威源交叉校对（1407 条答案 0 冲突）**——这是本产品与同类题库软件最硬的差异。在此之上：单词记忆、真题练习、听力训练、模拟考试、整卷研读（65 套，2021.06 – 2026.06，79 段听力音频齐备）、AI 阅读助手。
 
-所有数据本地存储（内置词库随应用打包，用户进度存 localStorage），不依赖账号和联网服务。
-
+所有数据本地存储（内置词库随应用打包，用户进度存 localStorage），不依赖账号和联网服务，无广告。
 
 ## 功能
 
@@ -53,7 +52,7 @@ npm install
 │  ├─ components/     Icon.tsx 自绘 SVG 图标（全站唯一图标来源）
 │  └─ styles.css      全部样式（分节维护）
 ├─ public/            听力音频等静态资源
-├─ docs/              README 截图
+├─ docs/              项目诊断报告
 ├─ scripts/           数据管线：OCR → 解析 → 生成题库（约 90 个 .mjs）
 ├─ ocr/               真题 PDF 与 OCR 文本（数据源）
 ├─ DESIGN.md          视觉规范（主题系统）
@@ -92,5 +91,4 @@ node scripts/qa-question-bank.mjs --json .qa/qa-final.json
 - `ELECTRON_RUN_AS_NODE` 环境变量存在时（即使为空）Electron 会退化成纯 Node，`dev:soft` 已处理
 - 打包输出目录（`packaging/win-unpacked`）一旦用过会被残留句柄锁住，无法删除或重命名 → 直接换一个新的输出目录即可；electron-builder 打包需免沙箱运行
 - 验证打包版可运行：先 `unset ELECTRON_RUN_AS_NODE`（宿主注入会让 Electron 退化成纯 Node 直接退出），再 `CET_DISABLE_GPU=1 CET_DEBUG=1 "CET备考助手.exe" --no-sandbox --disable-gpu --disable-gpu-compositing --disable-gpu-sandbox`
-
 - 引用ponytail、awesome-design-md等工具

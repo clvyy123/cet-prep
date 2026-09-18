@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { getSettings, saveSettings, exportAll, importAll, clearAllData } from '../services/storage';
 import { testConnection } from '../services/ai';
+import type { Level } from '../types';
 import { applyThemeSmooth, THEMES, type ThemeSwitchOrigin } from '../theme';
 import { Card, PageHeader, Tag } from '../components/ui';
 import Icon from '../components/Icon';
@@ -8,7 +9,10 @@ import Icon from '../components/Icon';
 export default function Settings() {
   const [ai, setAi] = useState(() => getSettings().ai);
   const [dailyGoal, setDailyGoal] = useState(() => getSettings().dailyGoal);
+  const [examLevel, setExamLevel] = useState<Level>(() => getSettings().examLevel);
+  const [targetScore, setTargetScore] = useState(() => getSettings().targetScore);
   const [ttsRate, setTtsRate] = useState(() => getSettings().ttsRate);
+  const [examSyncHours, setExamSyncHours] = useState(() => getSettings().examSyncHours ?? 24);
   const [theme, setTheme] = useState(() => getSettings().theme);
   const [testing, setTesting] = useState(false);
   const [testMsg, setTestMsg] = useState<{ type: 'ok' | 'err'; text: string } | null>(null);
@@ -28,6 +32,9 @@ export default function Settings() {
       ai,
       dailyGoal: Math.max(5, Math.min(200, Number(dailyGoal) || 30)),
       ttsRate,
+      examLevel,
+      examSyncHours: Math.min(168, Math.max(1, Math.round(Number(examSyncHours) || 24))),
+      targetScore: Math.max(200, Math.min(710, Math.round(Number(targetScore) || 425))),
     });
     setSaved(true);
     if (savedTimerRef.current !== null) window.clearTimeout(savedTimerRef.current);
@@ -173,6 +180,56 @@ export default function Settings() {
                 style={{ width: 90 }}
                 value={dailyGoal}
                 onChange={(e) => setDailyGoal(Number(e.target.value))}
+              />
+            </div>
+            <div className="setting-row">
+              <div>
+                <div className="sr-label">考试级别</div>
+                <div className="sr-hint">首页倒计时与能力报告按此级别呈现</div>
+              </div>
+              <div className="row">
+                <button
+                  className={`btn btn-sm${examLevel === 4 ? ' btn-primary' : ''}`}
+                  onClick={() => setExamLevel(4)}
+                >
+                  四级
+                </button>
+                <button
+                  className={`btn btn-sm${examLevel === 6 ? ' btn-primary' : ''}`}
+                  onClick={() => setExamLevel(6)}
+                >
+                  六级
+                </button>
+              </div>
+            </div>
+            <div className="setting-row">
+              <div>
+                <div className="sr-label">目标分数</div>
+                <div className="sr-hint">总分 710 · 425 为常规及格线</div>
+              </div>
+              <input
+                className="input"
+                type="number"
+                min={200}
+                max={710}
+                style={{ width: 90 }}
+                value={targetScore}
+                onChange={(e) => setTargetScore(Number(e.target.value))}
+              />
+            </div>
+            <div className="setting-row">
+              <div>
+                <div className="sr-label">考试时间同步周期</div>
+                <div className="sr-hint">自动从中国教育考试网核对四六级考试时间（小时）</div>
+              </div>
+              <input
+                className="input"
+                type="number"
+                min={1}
+                max={168}
+                style={{ width: 90 }}
+                value={examSyncHours}
+                onChange={(e) => setExamSyncHours(Number(e.target.value))}
               />
             </div>
             <div className="setting-row">

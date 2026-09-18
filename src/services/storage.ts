@@ -1,4 +1,4 @@
-import type { Book, Settings, DailyActivity, Word, WordProgress } from '../types';
+import type { Book, Settings, DailyActivity, Word, WordProgress, Level } from '../types';
 import { WORDS, findWord } from '../data/words';
 import { DEFAULT_THEME } from '../theme';
 
@@ -12,6 +12,18 @@ export const KEYS = {
   forget: 'cet_forget',
   paperAnswers: 'cet_paper_answers',
   seedVersion: 'cet_seed_version',
+  /** S2 今日任务卡：当日计划快照 */
+  taskPlan: 'cet_task_plan',
+  /** S2 任务完成历史（date -> true），本周计划完成度用 */
+  taskHistory: 'cet_task_history',
+  /** 「一键继续上次」记录的最近任务页 */
+  lastVisit: 'cet_last_visit',
+  /** S4 首启引导完成标记 */
+  onboarded: 'cet_onboarded',
+  /** 日历标记（date -> 'study' | 'rest'），Dashboard 日历面板的学习/休息日期 */
+  dayMarks: 'cet_day_marks',
+  /** 考试时间同步插件：爬取到的四六级考试时间（笔试/口试） */
+  examSchedule: 'cet_exam_schedule',
 } as const;
 
 export function load<T>(key: string, fallback: T): T {
@@ -47,6 +59,12 @@ export const DEFAULT_SETTINGS: Settings = {
   ttsRate: 1,
   ttsVoice: '',
   theme: DEFAULT_THEME,
+  examLevel: 4,
+  targetScore: 425,
+  /** 自定义考试日期 YYYY-MM-DD；留空 = 使用 src/data/exam-dates.ts 的官方常量 */
+  examDate: '',
+  /** 考试时间同步插件的爬取周期（小时），默认每天一次 */
+  examSyncHours: 24,
   ai: {
     baseUrl: 'https://api.deepseek.com/v1',
     apiKey: '',

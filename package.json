@@ -1,7 +1,7 @@
 {
   "name": "cet-prep",
   "productName": "CET备考助手",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "本地英语四六级备考软件：单词记忆、真题练习、听力训练、模拟考试、AI 阅读助手",
   "main": "electron/main.cjs",
   "private": true,
@@ -41,6 +41,7 @@
   "build": {
     "appId": "com.cetprep.app",
     "productName": "CET备考助手",
+    "artifactName": "CET.Setup.${version}.exe",
     "files": [
       "dist/**/*",
       "electron/**/*"

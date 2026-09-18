@@ -16,6 +16,8 @@ interface CetAPI {
   >;
   /** 把当前主题的画布色/前景色同步到窗口标题栏覆盖层与窗口背景 */
   setWindowChrome: (bg: string, fg: string) => Promise<void>;
+  /** 考试时间同步：经主进程代抓 *.neea.edu.cn 页面文本（绕过渲染进程 CORS 限制） */
+  fetchText: (url: string) => Promise<{ ok: true; text: string } | { ok: false; error: string }>;
 }
 
 interface Window {

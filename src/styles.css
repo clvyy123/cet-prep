@@ -4020,3 +4020,675 @@ svg {
   flex: 0 0 auto;
   margin-top: 1px;
 }
+
+/* ===================================================================
+35. 增长闭环（诊断报告 S1–S5）：考试倒计时 / 今日任务卡 / 信任标记 /
+    首启引导 / 能力报告 · 分数走势
+    只用既有设计变量（电光蓝唯一强调 + 中性面线 + 语义色），
+    星际黑（data-theme="spacex"）由 35.6 统一适配，不引入新色。
+   =================================================================== */
+
+/* ---- 35.1 S1 考试倒计时条 ---- */
+.cd-banner {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.cd-main {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+
+.cd-ico {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background: var(--primary-tint);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.cd-label {
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+
+.cd-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.cd-num {
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 1.05;
+  color: var(--primary);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.cd-unit {
+  font-size: 13px;
+  color: var(--ink-3);
+}
+
+.cd-date {
+  margin-top: 2px;
+}
+
+.cd-week {
+  flex: 1 1 220px;
+  min-width: 200px;
+  margin-left: auto;
+}
+
+.cd-week-hint {
+  margin-top: 6px;
+}
+
+/* ---- 35.2 S2 今日任务卡 ---- */
+.task-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.task-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 2px;
+  border-top: 1px solid var(--line);
+}
+
+.task-row.is-done .task-title {
+  color: var(--ink-3);
+}
+
+.task-row.is-none {
+  opacity: 0.55;
+}
+
+.task-ico {
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--ink-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.task-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.task-title {
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.task-desc {
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-top: 1px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* 打勾圆钮：div 版随状态只读，button 版可点 */
+.task-check {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1.5px solid var(--line-2);
+  background: var(--surface);
+  color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  padding: 0;
+  cursor: default;
+  transition: background var(--t-fast), border-color var(--t-fast), color var(--t-fast);
+}
+
+button.task-check {
+  cursor: pointer;
+}
+
+button.task-check:hover {
+  border-color: var(--ink-2);
+}
+
+.task-check.is-done {
+  background: var(--green-tint);
+  border-color: var(--green);
+  color: var(--green-ink);
+}
+
+button.task-check.is-done:hover {
+  border-color: var(--green);
+}
+
+/* ---- 35.3 S5 信任标记 ---- */
+.trust-note {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 0 2px 12px;
+  color: var(--ink-3);
+  font-size: 12px;
+}
+
+/* ---- 35.4 S4 首启引导 ---- */
+.ob-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.ob-dots {
+  display: flex;
+  gap: 6px;
+}
+
+.ob-dot {
+  width: 20px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--line);
+  transition: background var(--t);
+}
+
+.ob-dot.is-on {
+  background: var(--primary);
+}
+
+.ob-step-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+}
+
+.ob-lead {
+  margin: 0 0 12px;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.ob-levels {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.ob-level {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 16px;
+  border: 1px solid var(--line-2);
+  border-radius: var(--r);
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+  text-align: left;
+  transition: border-color var(--t), background var(--t);
+}
+
+.ob-level:hover {
+  border-color: var(--ink-3);
+}
+
+.ob-level.is-on {
+  border-color: var(--primary);
+  background: var(--primary-tint);
+}
+
+.ob-level b {
+  font-size: 15px;
+}
+
+.ob-step .input {
+  width: 100%;
+}
+
+.ob-foot {
+  margin-top: 18px;
+}
+
+/* ---- 35.5 S3 能力报告 + 分数走势 ---- */
+.ab-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 0;
+  border-top: 1px solid var(--line);
+}
+
+.ab-name {
+  flex: 0 0 72px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.ab-bar {
+  flex: 1;
+  min-width: 0;
+}
+
+.ab-rate {
+  flex: 0 0 42px;
+  text-align: right;
+  font-size: 12.5px;
+  color: var(--ink-2);
+}
+
+.ab-forecast {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding-top: 4px;
+}
+
+.ab-range {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.ab-advice {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 10px 12px;
+  border-radius: var(--r-sm);
+  background: var(--bg);
+  color: var(--ink-2);
+}
+
+.ab-advice svg {
+  flex: 0 0 auto;
+  margin-top: 2px;
+  color: var(--primary);
+}
+
+.trend-box svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.trend-line {
+  fill: none;
+  stroke: var(--primary);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.trend-dot {
+  fill: var(--primary);
+}
+
+.trend-ref {
+  stroke: var(--line-2);
+  stroke-width: 1;
+  stroke-dasharray: 3 4;
+}
+
+.trend-goal {
+  stroke: var(--primary);
+  stroke-width: 1;
+  stroke-dasharray: 2 4;
+  opacity: 0.55;
+}
+
+.trend-lb {
+  font-size: 10px;
+  fill: var(--ink-3);
+  font-family: var(--font-mono);
+}
+
+.trend-lb-goal {
+  fill: var(--primary);
+}
+
+/* ---- 35.6 星际黑适配（只微调面底，不改体系） ---- */
+:root[data-theme='spacex'] .task-ico {
+  background: var(--bg-2);
+}
+
+:root[data-theme='spacex'] .task-check.is-done {
+  background: var(--green-tint);
+  border-color: var(--green-ink);
+  color: var(--green-ink);
+}
+
+:root[data-theme='spacex'] .ab-advice {
+  background: var(--bg-2);
+}
+
+/* 响应式：窄幅下倒计时纵向堆叠、引导级别单列 */
+@media (max-width: 900px) {
+  .cd-banner {
+    gap: 14px;
+  }
+
+  .cd-week {
+    margin-left: 0;
+    flex-basis: 100%;
+  }
+
+  .cd-num {
+    font-size: 38px;
+  }
+
+  .ob-levels {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ==========================================================================
+   36. 考试日期日历选择器（Dashboard 倒计时卡 · 点击日历图标弹出）
+   ========================================================================== */
+
+/* 倒计时图标从纯展示变为可点按钮 */
+.cd-ico-btn {
+  border: none;
+  cursor: pointer;
+  transition: background var(--t-fast) ease, transform var(--t-fast) ease;
+}
+
+.cd-ico-btn:hover {
+  background: var(--primary-tint-2);
+}
+
+.cd-ico-btn:active {
+  transform: scale(0.94);
+}
+
+/* 卡片内向下展开的日历面板：撑满卡片宽度，不留右侧空白
+   比例口径：全宽 / 头部 8px 下距 / 网格 2px 缝 / 格子 42px 高 / 底栏 10px 上距 */
+.cal-panel {
+  width: 100%;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  transform-origin: top center;
+  animation: cal-expand 0.24s var(--t-fast) backwards;
+}
+
+@keyframes cal-expand {
+  from {
+    opacity: 0;
+    transform: translateY(-8px) scaleY(0.96);
+  }
+}
+
+.cal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.cal-title {
+  font-size: 13.5px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.cal-nav {
+  display: flex;
+  gap: 4px;
+}
+
+.cal-nav-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background var(--t-fast) ease, color var(--t-fast) ease;
+}
+
+.cal-nav-btn:hover:not(:disabled) {
+  background: var(--primary-tint);
+  color: var(--primary);
+}
+
+.cal-nav-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+
+.cal-wd {
+  text-align: center;
+  font-size: 11px;
+  line-height: 1;
+  color: var(--ink-3);
+  padding: 2px 0 5px;
+}
+
+.cal-day {
+  position: relative;
+  height: 42px;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: var(--r-sm);
+  background: none;
+  font-family: inherit;
+  font-size: 13.5px;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+  cursor: pointer;
+  transition: background var(--t-fast) ease, border-color var(--t-fast) ease;
+}
+
+.cal-day:hover:not(:disabled):not(.is-selected) {
+  background: var(--primary-tint);
+}
+
+.cal-day:disabled {
+  color: var(--ink-4);
+  cursor: default;
+}
+
+/* 今天：细描边提示 */
+.cal-day.is-today {
+  border-color: var(--line-2);
+}
+
+/* 官方考次日期：底部圆点标记（随格子收紧上移 1px，避开底边） */
+.cal-day.is-official::after {
+  content: '';
+  position: absolute;
+  bottom: 3px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--primary);
+  opacity: 0.55;
+}
+
+/* 考试日：纯展示不可交互（disabled 天然无 hover；圆点见 .is-official） */
+.cal-day.is-exam {
+  font-weight: 600;
+}
+
+/* 标记 · 学习日期：绿底绿字 + 右上角角标 */
+.cal-day.is-study {
+  background: var(--green-tint);
+  color: var(--green-ink);
+  font-weight: 600;
+}
+
+.cal-day.is-study::after {
+  content: '学';
+  position: absolute;
+  top: 2px;
+  right: 3px;
+  font-size: 9px;
+  line-height: 1;
+  font-weight: 500;
+  opacity: 0.75;
+}
+
+/* 标记 · 休息日期：橙底橙字 + 右上角角标（与学习色可区分） */
+.cal-day.is-rest {
+  background: var(--orange-tint);
+  color: var(--orange);
+  font-weight: 600;
+}
+
+.cal-day.is-rest::after {
+  content: '休';
+  position: absolute;
+  top: 2px;
+  right: 3px;
+  font-size: 9px;
+  line-height: 1;
+  font-weight: 500;
+  opacity: 0.75;
+}
+
+/* 官方公告爬取的四六级考试日（exam-sync 插件）：红底白字强强调，
+   与学习(绿)/休息(橙浅底)标记明确区分；置于其后以覆盖同优先级的标记与禁用灰 */
+.cal-day.is-cet,
+.cal-day:disabled.is-cet {
+  background: var(--red);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+/* 类型角标用 ::before：::after 已被官方日期圆点（.is-official::after）占用。
+   内容由 data-cet 属性驱动（笔 / 口 / 笔·口），按当日爬到的考试类型标注 */
+.cal-day.is-cet::before {
+  content: attr(data-cet);
+  position: absolute;
+  top: 2px;
+  right: 3px;
+  font-size: 9px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  opacity: 0.9;
+  color: #ffffff;
+}
+
+/* 标记模式按钮行（日历上方） */
+.cal-modes {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.cal-mode-btn {
+  padding: 4px 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-pill);
+  background: var(--surface);
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 1;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: background var(--t-fast) ease, color var(--t-fast) ease, border-color var(--t-fast) ease;
+}
+
+.cal-mode-btn:hover {
+  background: var(--primary-tint);
+  color: var(--primary);
+}
+
+/* 激活态：学习=绿 / 休息=橙，与格子标记同色系，按钮本身即图例 */
+.cal-mode-btn.is-on-study {
+  background: var(--green-tint);
+  border-color: var(--green-ink);
+  color: var(--green-ink);
+  font-weight: 600;
+}
+
+.cal-mode-btn.is-on-rest {
+  background: var(--orange-tint);
+  border-color: var(--orange);
+  color: var(--orange);
+  font-weight: 600;
+}
+
+.cal-mode-btn.is-clear {
+  margin-left: auto;
+  color: var(--ink-3);
+}
+
+.cal-mode-btn.is-clear:hover {
+  background: var(--red-tint);
+  color: var(--red);
+}
+
+/* 底栏：允许换行，自定义日期 + 恢复按钮同排时不挤爆、不截断 */
+.cal-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px 8px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.cal-hint {
+  font-size: 12px;
+  color: var(--ink-3);
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex: 1 1 auto;
+}
+
+/* ---- 36.1 星际黑适配：标记色语义变量已随主题重映射，无需额外改字色 ---- */
+:root[data-theme='spacex'] .cal-mode-btn.is-clear:hover {
+  color: var(--red-ink, var(--red));
+}
+
+:root[data-theme='spacex'] .cal-nav-btn {
+  border-radius: var(--r-pill);
+}

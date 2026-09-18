@@ -1,6 +1,7 @@
 const { app, BrowserWindow, Menu, shell, dialog, ipcMain } = require('electron');
 const path = require('path');
 const http = require('http');
+const https = require('https');
 const fs = require('fs');
 
 // 调试开关：CET_DEBUG=1 时开启 CDP 调试端口（仅开发诊断用）
@@ -295,6 +296,73 @@ function createWindow() {
     mainWindow = null;
   });
 }
+
+// ============ 受控网络通道：考试时间同步插件（exam-sync）专用 ============
+// 渲染进程直连 neea.edu.cn 会被 CORS 拦截，统一由主进程代抓。
+// 安全约束：仅允许教育部教育考试院域（*.neea.edu.cn）的 http(s) GET。
+ipcMain.handle('net:get', async (_e, { url }) => {
+  try {
+    const u = new URL(String(url));
+    if (u.protocol !== 'https:' && u.protocol !== 'http:') {
+      return { ok: false, error: `不支持的协议 ${u.protocol}` };
+    }
+    if (!(u.hostname === 'neea.edu.cn' || u.hostname.endsWith('.neea.edu.cn'))) {
+      return { ok: false, error: `非白名单域名 ${u.hostname}` };
+    }
+    const text = await new Promise((resolve, reject) => {
+      const mod = u.protocol === 'https:' ? https : http;
+      const req = mod.get(
+        u,
+        {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (CET-Prep exam-sync)',
+            'Accept-Language': 'zh-CN,zh;q=0.9',
+          },
+          timeout: 20000,
+        },
+        (res) => {
+          // 跟随最多 3 次重定向
+          if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+            res.resume();
+            const next = new URL(res.headers.location, u).toString();
+            return resolve(
+              new Promise((res2, rej2) => {
+                const u2 = new URL(next);
+                const mod2 = u2.protocol === 'https:' ? https : http;
+                mod2
+                  .get(u2, { headers: { 'User-Agent': 'Mozilla/5.0 (CET-Prep exam-sync)' }, timeout: 20000 }, (r2) => {
+                    if (r2.statusCode !== 200) return rej2(new Error(`HTTP ${r2.statusCode}`));
+                    let body = '';
+                    r2.setEncoding('utf8');
+                    r2.on('data', (c) => {
+                      body += c;
+                      if (body.length > 2 * 1024 * 1024) { r2.destroy(); rej2(new Error('响应超过 2MB')); }
+                    });
+                    r2.on('end', () => res2(body));
+                  })
+                  .on('timeout', () => rej2(new Error('请求超时')))
+                  .on('error', rej2);
+              })
+            );
+          }
+          if (res.statusCode !== 200) return reject(new Error(`HTTP ${res.statusCode}`));
+          let body = '';
+          res.setEncoding('utf8');
+          res.on('data', (c) => {
+            body += c;
+            if (body.length > 2 * 1024 * 1024) { res.destroy(); reject(new Error('响应超过 2MB')); }
+          });
+          res.on('end', () => resolve(body));
+        }
+      );
+      req.on('timeout', () => { req.destroy(); reject(new Error('请求超时')); });
+      req.on('error', reject);
+    });
+    return { ok: true, text };
+  } catch (err) {
+    return { ok: false, error: (err && err.message) || String(err) };
+  }
+});
 
 app.whenReady().then(() => {
   createWindow();

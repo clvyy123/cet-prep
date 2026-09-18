@@ -47,6 +47,36 @@ export interface Settings {
   ttsVoice: string;
   theme: string;
   ai: AIConfig;
+  /** 备考级别（S1 倒计时按级别呈现；S4 首启引导选择） */
+  examLevel: Level;
+  /** 目标总分（710 分制），默认 425（常规及格线） */
+  targetScore: number;
+  /** 自定义考试日期 YYYY-MM-DD；留空 = 使用 src/data/exam-dates.ts 的官方常量 */
+  examDate: string;
+  /** 考试时间同步插件的爬取周期（小时），默认 24（每天一次） */
+  examSyncHours?: number;
+}
+
+// ============ 今日任务卡（S2） ============
+/** 任务指向的真题资源（试卷页可直达） */
+export interface TaskResource {
+  paperId: string;
+  paperTitle: string;
+  /** 展示名，如「听力 · Part II Listening Comprehension」 */
+  label: string;
+  done: boolean;
+}
+
+/** 单日任务计划快照（按天生成并落 localStorage，保证当日目标数稳定不漂移） */
+export interface DayPlan {
+  /** YYYY-MM-DD */
+  date: string;
+  /** 单词：SRS 到期数 + 新词配额（动态取代写死的 todayGoal = 30） */
+  word: { due: number; quota: number };
+  listening: TaskResource | null;
+  reading: TaskResource | null;
+  /** 三项全部完成后置位，并记入完成历史（本周计划完成度用） */
+  allDone: boolean;
 }
 
 // ============ 考试 ============

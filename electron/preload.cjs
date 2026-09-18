@@ -17,4 +17,6 @@ contextBridge.exposeInMainWorld('cetAPI', {
   pickDocFile: () => ipcRenderer.invoke('file:import'),
   // 窗口外框随主题变色：传入当前主题的画布色（bg）与前景色（fg）
   setWindowChrome: (bg, fg) => ipcRenderer.invoke('win:chrome', { bg, fg }),
+  // 考试时间同步：经主进程代抓 neea.edu.cn 页面文本（绕过渲染进程 CORS 限制）
+  fetchText: (url) => ipcRenderer.invoke('net:get', { url }),
 });
